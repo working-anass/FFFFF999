@@ -803,3 +803,33 @@ Topic: Music
 Title: PP Arnold on her star-studded life in music: ‘Peter Gabriel and I used to hang upside down in gravity boots’
 URL: https://www.theguardian.com/music/2025/jun/27/pp-arnold-reader-interview-glastonbury
 
+Site: The Guardian
+Topic: World
+Title: Top Chinese general ousted from body that oversees China’s military
+URL: https://www.theguardian.com/world/2025/jun/27/top-chinese-general-miao-hua-ousted-from-body-that-oversees-china-military
+
+Site: The Guardian
+Topic: Us News
+Title: Cuomo to stay in New York mayoral race despite Mamdani besting him in primary – report
+URL: https://www.theguardian.com/us-news/2025/jun/27/cuomo-new-york-mayor-race-mamdani
+
+Site: The Guardian
+Topic: Technology
+Title: Gondolas and guerrillas: divisive Jeff Bezos and Lauren Sánchez wedding in full swing
+URL: https://www.theguardian.com/technology/2025/jun/27/jeff-bezos-lauren-sanchez-wedding-venice
+
+Site: The Guardian
+Topic: Business
+Title: Asos customers banned for being ‘serial returners’ say it is ‘deeply concerning’
+URL: https://www.theguardian.com/business/2025/jun/27/asos-customers-banned-returns-fair-use-policy
+
+Site: The Guardian
+Topic: Us News
+Title: EU retaliation against Trump drug tariffs would be bad idea, says industry
+URL: https://www.theguardian.com/us-news/2025/jun/27/eu-retaliating-trump-drug-tariffs-bad-idea-says-industry
+
+Site: The Guardian
+Topic: Tv And Radio
+Title: Summer sizzlers! It’s the 20 hottest TV shows of the season
+URL: https://www.theguardian.com/tv-and-radio/2025/jun/27/summer-sizzlers-its-the-20-hottest-tv-shows-of-the-season
+
