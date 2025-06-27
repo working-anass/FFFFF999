@@ -983,3 +983,23 @@ Topic: Business
 Title: Lotus poised to end UK sportscar production, putting 1,300 jobs at risk
 URL: https://www.theguardian.com/business/2025/jun/27/lotus-uk-production-jobs-carmaker-geely-norfolk
 
+Site: The Guardian
+Topic: Us News
+Title: University of Virginia president resigns under pressure from White House over DEI programs
+URL: https://www.theguardian.com/us-news/2025/jun/27/university-virginia-president-resigns-dei-trump
+
+Site: The Guardian
+Topic: Football
+Title: England U21s head into Germany final full of belief thanks to bullish Carsley
+URL: https://www.theguardian.com/football/2025/jun/27/england-u21s-head-into-germany-final-full-of-belief-thanks-to-bullish-carsley
+
+Site: The Guardian
+Topic: Technology
+Title: Jeff in Venice: seven takeaways from the Bezos-Sánchez wedding
+URL: https://www.theguardian.com/technology/2025/jun/27/jeff-in-venice-seven-takeaways-from-the-bezos-sanchez-wedding
+
+Site: The Guardian
+Topic: Politics
+Title: Stephen Kinnock stares into the abyss as he carries can for welfare U-turn
+URL: https://www.theguardian.com/politics/2025/jun/27/stephen-kinnock-welfare-u-turn-labour
+
