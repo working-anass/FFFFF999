@@ -538,3 +538,13 @@ Topic: Music
 Title: ‘We just want to stop people being murdered’: Kneecap on Palestine, protest and provocation
 URL: https://www.theguardian.com/music/2025/jun/27/kneecap-on-palestine-protest-and-their-satirical-intent
 
+Site: The Guardian
+Topic: Football
+Title: ITV to have Eni Aluko for Women’s Euro 2025 coverage but no Ian Wright
+URL: https://www.theguardian.com/football/2025/jun/26/eni-aluko-ian-wright-itv-womens-euro-2025
+
+Site: The Guardian
+Topic: Business
+Title: She earned $20 doing laundry for a friend. Now this entrepreneur washes 7,000lb a month
+URL: https://www.theguardian.com/business/2025/may/16/laundry-basket-entrepreneur-small-business
+
