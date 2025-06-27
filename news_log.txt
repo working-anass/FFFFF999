@@ -478,3 +478,18 @@ Topic: Lifeandstyle
 Title: You be the judge: should my partner stop trying to kiss me after kissing the cat?
 URL: https://www.theguardian.com/lifeandstyle/2025/jun/26/you-be-the-judge-should-my-partner-stop-trying-to-kiss-me-after-kissing-the-cat
 
+Site: The Guardian
+Topic: World
+Title: ‘Basically impossible to get them back’: Russia’s mass abduction of Ukrainian children is a war crime, say experts
+URL: https://www.theguardian.com/world/2025/jun/27/russia-ukrainian-children-abduction-war-crime
+
+Site: The Guardian
+Topic: Global Development
+Title: In the shadow of melting glaciers: life in the heartland of the Incas’ former empire – a photo essay
+URL: https://www.theguardian.com/global-development/2025/jun/22/peru-quechua-pacha-mama-andes-way-of-life-in-pictures
+
+Site: The Guardian
+Topic: Business
+Title: Norway’s €19bn software company Visma picks London for IPO
+URL: https://www.theguardian.com/business/2025/jun/26/norways-19bn-software-company-visma-picks-london-for-ipo
+
