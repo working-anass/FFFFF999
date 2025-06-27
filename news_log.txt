@@ -1058,3 +1058,8 @@ Topic: Us News
 Title: Liberal supreme court justices’ dissents reveal concerns that the US faces a crisis
 URL: https://www.theguardian.com/us-news/2025/jun/27/us-supreme-court-dissents
 
+Site: The Guardian
+Topic: World
+Title: Former Venezuelan intelligence chief pleads guilty to US drug charges
+URL: https://www.theguardian.com/world/2025/jun/27/hugo-carvajal-venezuela-pleads-guilty-drug-charges
+
