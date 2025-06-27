@@ -1,0 +1,31 @@
+Site: The Guardian
+Title: Scientists use bacteria to turn plastic waste into paracetamol
+URL: https://www.theguardian.com/science/2025/jun/23/scientists-use-e-coli-bacteria-to-turn-plastic-waste-into-paracetamol-painkiller
+
+Bacteria can be used to turn plastic waste into painkillers, researchers have found, opening up the possibility of a more sustainable process for producing the drugs.
+
+Chemists have discovered E coli can be used to create paracetamol, also known as acetaminophen, from a material produced in the laboratory from plastic bottles.
+
+“People don’t realise that paracetamol comes from oil currently,” said Prof Stephen Wallace, the lead author of the research from the University of Edinburgh . “What this technology shows is that by merging chemistry and biology in this way for the first time, we can make paracetamol more sustainably and clean up plastic waste from the environment at the same time.”
+
+Writing in the journal Nature Chemistry, Wallace and colleagues report how they discovered that a type of chemical reaction called a Lossen rearrangement, a process that has never been seen in nature, was biocompatible. In other words, it could be carried out in the presence of living cells without harming them.
+
+The team made their discovery when they took polyethylene terephthalate (PET) – a type of plastic often found in food packaging and bottles – and, using sustainable chemical methods, converted it into a new material.
+
+When the researchers incubated this material with a harmless strain of E coli they found it was converted into another substance known as Paba in a process that must have involved a Lossen rearrangement.
+
+Crucially, while the Lossen rearrangement typically involves harsh laboratory conditions, it occurred spontaneously in the presence of the E coli, with the researchers discovering it was catalysed by phosphate within the cells themselves.
+
+The team add that Paba is an essential substance that bacteria need for growth, in particular the synthesis of DNA, and is usually made within the cell from other substances. However, the E coli used in the experiments was genetically modified to block these pathways, meaning the bacteria had to use the PET-based material.
+
+The researchers say the results are exciting as they suggest plastic waste can be converted into biological material.
+
+“It is a way to just completely hoover up plastic waste,” said Wallace.
+
+The researchers then genetically modified the E coli further, inserting two genes – one from mushrooms and one from soil bacteria – that enabled the bacteria to convert PABA into paracetamol.
+
+The team say that by using this form of E coli they were able to turn the PET-based starting material into paracetamol in under 24 hours, with low emissions and a yield of up to 92%.
+
+While further work would be needed to produce paracetamol in this way at commercial levels, the results could have a practical application.
+
+“It enables, for the first time, a pathway from plastic waste to paracetamol, which is not possible using biology alone, and it’s not possible using chemistry alone,” Wallace said.

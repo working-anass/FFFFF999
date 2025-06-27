@@ -1,0 +1,47 @@
+Site: The Guardian
+Title: Swarms of tiny nose robots could clear infected sinuses, researchers say
+URL: https://www.theguardian.com/science/2025/jun/25/swarms-of-tiny-nose-robots-could-clear-infected-sinuses-researchers-say
+
+Swarms of tiny robots, each no larger than a speck of dust, could be deployed to cure stubborn infected sinuses before being blown out through the nose into a tissue, researchers have claimed.
+
+The micro-robots are a fraction of the width of a human hair and have been inserted successfully into animal sinuses in pre-clinical trials by researchers at universities in China and Hong Kong .
+
+Swarms are injected into the sinus cavity via a duct threaded through the nostril and guided to their target by electromagnetism, where they can be made to heat up and catalyse chemical reactions to wipe out bacterial infections. There are hopes the precisely targeted technology could eventually reduce reliance on antibiotics and other generalised medicines.
+
+The tiny devices are part of the expanding field of micro- and nano-robots for use in medicine. They have also been developed to deliver drugs and to remove bacteria from medical implants such as stents and hernia meshes.
+
+Experts believe they could be in clinical use for treating infections in bladders, intestines and sinuses in five to 10 years. Scientists in China , Switzerland, the US and the UK are developing more sophisticated versions capable of moving through the bloodstream.
+
+The latest development came from a collaboration of academics at the Chinese University in Hong Kong, and universities in Guangxi, Shenzhen, Jiangsu, Yangzhou and Macau.
+
+Researchers in the emerging field acknowledge risks include some of the tiny micro-robots being left behind after treatment which could cause longer-term side effects.
+
+Another potential problem, cited by technology experts, is public suspicion at the thought of welcoming robots into the human body and conspiracy theories arising around fears the robots could be activated without consent.
+
+The latest breakthrough, based on animal rather than human trials, involves magnetic particles “doped” with copper atoms which clinicians insert with a catheter before guiding to their target under a magnetic field.
+
+The swarms can be heated up by reacting to light from an optical fibre that is also inserted into the body as part of the therapy. This allows the micro-robots to loosen up and penetrate viscous pus that forms a barrier to the infection site. The light source also prompts the micro-robots to disrupt bacterial cell walls and release reactive oxygen species that kill the bacteria.
+
+The study, published in Science Robotics, showed the robots were capable of eradicating bacteria from pig sinuses and could clear infections in live rabbits with “no obvious tissue damage”.
+
+The researchers have produced a model of how the technology could work on a human being, with the robot swarms being deployed in operating theatre conditions, allowing doctors to see their progress by using X-rays. Future applications could include tackling bacterial infections of the respiratory tract, stomach, intestine, bladder and urethra, they suggested.
+
+“Our proposed micro-robotic therapeutic platform offers the advantages of non-invasiveness, minimal resistance, and drug-free intervention,” they said.
+
+Prof Sylvain Martel, director of the Nano Robotics Laboratory at the Polytechnique de Montréal in Canada, who was not involved in the research, said the science seemed effective.
+
+“It’s like a rocket that you can direct with a magnetic field,” he said.
+
+He predicted micro-robots could be available for treatments in three to five years but possibly not for another decade, as regulators still need to approve their use and the manufacturing processes, which differ from those of standard pharmaceuticals.
+
+“The main advantage with micro-robots is the targeting,” Martel said. “Instead of taking medicine that goes into the bloodstream and a small quantity goes to the right location, you can target.”
+
+He said the public would soon set aside any fears over the idea of having robotic devices in their bodies.
+
+“Maybe at the beginning [they will be afraid],” he said. “But they will get used to it pretty quickly.”
+
+Dr Andrea Soltoggio, a reader in artificial intelligence at Loughborough University, said: “The public may be suspicious about non-biological objects like nano-robots being inserted into our bodies. It may even trigger conspiracy theories.
+
+“But it is important to look at what nano-robots are designed for. In this case, we see an example of a targeted intervention to reduce or eradicate an infection with a localised action.
+
+“Nano-robots’ behaviour is often simpler and more targeted than many drugs and they could effectively complement a wide range of therapies.”

@@ -1,0 +1,43 @@
+Site: The Guardian
+Title: Office for National Statistics has ‘deep-seated’ problems and needs an overhaul
+URL: https://www.theguardian.com/uk-news/2025/jun/26/review-calls-for-10m-overhaul-of-the-office-for-national-statistics
+
+The UK’s main statistics body needs a £10m overhaul and its top role split in two after a series of management failings and errors that have plagued the organisation for several years, a scathing report has found.
+
+The Devereux Review on performance and culture of the Office for National Statistics (ONS) found “deep-seated” issues that called for radical measures and warned of the likelihood that past statistics would need to be revised.
+
+Sir Robert Devereux, a retired career civil servant, said the role of national statistician should be split in two, creating a new role of ONS permanent secretary to oversee a wide-ranging reorganisation, alongside the national statistician, who assumes responsibility for the accuracy of published data.
+
+“This new permanent secretary position could be handed to someone with a track record of leading, and turning around, an operational business,” Devereux said.
+
+He added: “I suggest temporary separation since, with more effort to develop evident talent within the government statistical service, I think it might well be possible to recombine the roles in due course, once the organisation’s core business is back on a more stable footing.”
+
+The role of national statistician is vacant after Prof Sir Ian Diamond retired because of ill health during the review.
+
+Among the searing criticisms in the review, Devereux said there was “a weak system of planning and budgeting” and a reluctance, at senior levels, to hear and act on difficult news.
+
+The review said there was a “reluctance on the part of some to take at face value the warnings which have been raised, apparently preferring instead to categorise those making the warnings as lacking in accountability”.
+
+Officials at the Bank of England and the Treasury, MPs and City analysts have criticised the ONS’s operations after its surveys were hit by falling participation rates among businesses and the public during the pandemic, leading to questions about the validity of its data.
+
+The ONS, which is based in Newport , south Wales, has sought to increase the rate of responses to its surveys, but with only limited success.
+
+In particular, its labour market data showing the level of employment in the UK economy have been heavily revised in recent years.
+
+The consumer prices index and the retail prices index were recently found to be incorrect after an error by a government agency that supplied the ONS with data pushed the headline rate up by 0.1 percentage points to 3.5% in April. The ONS refused to amend the figure, arguing that investors who bought inflation-linked financial products would claim compensation.
+
+The acting national statistician, Emma Rourke, said the report marked “a turning point for the ONS as we commit to implement the recommendations and reset towards a culture that embraces feedback and challenge”.
+
+The ONS has also published a £10m plan to improve the accuracy of its economic and population statistics . It said improving the accuracy of ONS statistics will take collective effort.
+
+“In some cases, this may mean revising published figures or historical series. That is not a sign of failure, but of a statistical system willing to evolve, led by evidence, and open about how it improves.
+
+“We will work closely with users to ensure revisions and breaks in series are well managed, with support provided to users.”
+
+Devereux said senior managers had become focused on delivering new IT systems, diverting resources from existing system upgrades.
+
+“There has been a commendable interest in both new approaches to statistics (including the use of administrative data) and ensuring the relevance of ONS activity to wider political debate,” he said. “Unfortunately, this has had the (unintended) effect of de-prioritising the less exciting, but nonetheless crucial, task of delivering core economic statistics of sufficient quality to guide decision making.”
+
+For instance, problems with trade data “reflected known concerns” about flaws in the computer system used to compile the figures, but nothing was done about it until an error occurred. The producer price index, which measures the cost of raw materials and components used in industry, was flawed after staff stuck with old coding methods, reducing their ability to spot errors, said Devereux.
+
+In 2020, the ONS shifted publication of economic statistics from 9.30am to 7am. Concerns that this put added pressure on staff to verify and comment on data outside office hours sparked a review by the statistics regulator. The review found a move back to 9.30am would not be possible, in part because of the weakness of the IT systems.

@@ -1,0 +1,49 @@
+Site: The Guardian
+Title: Meta wins AI copyright lawsuit as US judge rules against authors
+URL: https://www.theguardian.com/technology/2025/jun/26/meta-wins-ai-copyright-lawsuit-as-us-judge-rules-against-authors
+
+Mark Zuckerberg’s Meta has won the backing of a judge in a copyright lawsuit brought by a group of authors, in the second legal victory for the US artificial intelligence industry this week.
+
+The writers, who included Sarah Silverman and Ta-Nehisi Coates, had argued that the Facebook owner had breached copyright law by using their books without permission to train its AI system.
+
+The ruling comes after a decision on Monday that Anthropic, another major player in the AI field, had not infringed authors’ copyright .
+
+The US district judge Vince Chhabria, in San Francisco, said in his decision on the Meta case that the authors had not presented enough evidence that the technology company’s AI would cause “market dilution” by flooding the market with work similar to theirs. As a consequence Meta’s use of their work was judged a “fair use” – a legal doctrine that allows use of copyright protected work without permission – and no copyright liability applied.
+
+However, the ruling offered hope for American creative professionals who argue that training AI models on their work without permission is illegal.
+
+Chhabria said using copyrighted work without permission to train large language models – the core technology behind chatbots like ChatGPT – would be unlawful in “many circumstances”, splitting with another federal judge in San Francisco who found on Monday in a separate lawsuit that Anthropic’s AI training made “fair use” of copyrighted materials.
+
+Chhabria also indicated the creative industries could launch further suits.
+
+“This ruling does not stand for the proposition that Meta’s use of copyrighted materials to train its language models is lawful,” he wrote.
+
+Chhabria dismissed as “nonsense” Meta’s claim that the public interest would be “badly disserved” if AI developers were blocked from using copyright-protected works freely.
+
+In his conclusion, Chhabria expressed sympathy for the argument that LLMs take authors’ work and then turn it against them.
+
+He wrote: “No matter how transformative LLM training may be, it’s hard to imagine that it can be fair use to use copyrighted books to develop a tool to make billions or trillions of dollars while enabling the creation of a potentially endless stream of competing works that could significantly harm the market for those books.”
+
+The doctrine of fair use allows the use of copyrighted works without the copyright owner’s permission in some circumstances and is a key defence for the tech companies.
+
+“This ruling does not stand for the proposition that Meta’s use of copyrighted materials to train its language models is lawful,” Chhabria said. “It stands only for the proposition that these plaintiffs made the wrong arguments and failed to develop a record in support of the right one.”
+
+Anthropic also faces a further trial this year after the judge in its case ruled that its copying and storage of more than 7m pirated books in a central library infringed the authors’ copyrights and was not fair use.
+
+A spokesperson for the Meta case authors’ law firm, Boies Schiller Flexner, said that it disagreed with the judge’s decision to rule for Meta despite the “undisputed record” of the company’s “historically unprecedented pirating of copyrighted works”.
+
+A Meta spokesperson said the company appreciated the decision and called fair use a “vital legal framework” for building “transformative” AI technology.
+
+The authors sued Meta in 2023, arguing the company had misused pirated versions of their books to train its AI system Llama without permission or compensation.
+
+The copyright issue has pitted AI companies against publishers and the creative industries on both sides of the Atlantic because generative AI models – the term for technology that underpins powerful tools such as the ChatGPT chatbot – have to be trained on a vast amount of publicly available data in order to generate their responses. Much of that data has included copyright-protected works.
+
+The lawsuit is one of several copyright cases brought by writers, news outlets and other copyright owners against companies including OpenAI, Microsoft and Anthropic over their AI training.
+
+AI companies argue their systems make fair use of copyrighted material by studying it to learn to create new, transformative content, and that being forced to pay copyright holders for their work could hamstring the growing AI industry.
+
+Copyright owners say AI companies unlawfully copy their work to generate competing content that threatens their livelihoods. Chhabria expressed sympathy for that argument during a hearing in May, which he reiterated on Wednesday.
+
+The judge said generative AI had the potential to flood the market with endless images, songs, articles and books using a tiny fraction of the time and creativity that would otherwise be required to create them.
+
+“So by training generative AI models with copyrighted works, companies are creating something that often will dramatically undermine the market for those works, and thus dramatically undermine the incentive for human beings to create things the old-fashioned way,” Chhabria said.

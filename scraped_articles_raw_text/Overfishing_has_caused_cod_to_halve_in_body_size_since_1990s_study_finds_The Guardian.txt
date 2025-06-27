@@ -1,0 +1,39 @@
+Site: The Guardian
+Title: Overfishing has caused cod to halve in body size since 1990s, study finds
+URL: https://www.theguardian.com/environment/2025/jun/25/cod-shrinking-size-overfishing-study
+
+Overfishing has led to a collapse in the eastern Baltic cod population, but over the past three decades the size of the fish themselves has also been dramatically and mysteriously shrinking.
+
+Now scientists have uncovered genomic evidence that intensive fishing has driven rapid evolutionary changes that have contributed to these fish roughly halving in average body length since the 1990s.
+
+The “shrinking” of cod, from a median mature body length of 40cm in 1996 to 20cm in 2019, has a genetic basis and human activities have left a profound mark on the population’s DNA, the study concluded.
+
+“When the largest individuals are consistently removed from the population over many years, smaller, faster-maturing fish gain an evolutionary advantage,” said Prof Thorsten Reusch, head of the marine ecology research division at Geomar Helmholtz Centre for Ocean Research Kiel and senior author of the research.
+
+“What we are observing is evolution in action, driven by human activity. This is scientifically fascinating, but ecologically deeply concerning.”
+
+The dramatic shrinking of cod has been a source of concern for several decades, but it was not clear to what extent the phenomenon has been driven by environmental factors such as hypoxic conditions caused by algal blooms, pollution and more extreme marine seasonal temperature changes.
+
+“It was very hard to prove that it was an evolution that had happened,” said Dr Kwi Young Han, first author of the study, who completed her PhD at Geomar.
+
+The study used an archive of tiny ear bones, called otoliths, of 152 cod, caught in the Bornholm Basin between 1996 and 2019. Otoliths – a bit like tree rings – record annual growth, making them valuable biological timekeepers.
+
+The scientists combined annual growth data with the cods’ body size metrics and genetics to assess whether there had been a genetic shift in the population over 25 years under fishing pressure.
+
+Between 1996 and 2019, the median length of a mature cod in the dataset fell from 40cm to 20cm. The median weight in 2019 (272 grams) was just a fifth of the median weight of a mature cod caught in 1996 (1,356 grams).
+
+The analysis revealed systematic differences between fast- and slow-growing fish and that the gene variants that make a large body size more likely have become less common over time, indicating an evolutionary pressure.
+
+Trawling is intended to be size selective, with legally binding minimal mesh sizes designed to protect smaller individuals and allow fish to reach maturity and spawn before being caught.
+
+However, this may have had the unintended consequence of producing a strong selective evolutionary pressure in favour of smaller fish, which would be more likely to escape the nets.
+
+“The demographic argument is that each individual should at least reproduce once before being caught,” said Reusch. “While this seems logical in terms of keeping a healthy demography of fish stocks, it has the potential to totally mess up the genetic and size structure.”
+
+The findings, published in the journal Science Advances , could help explain why there has been no rebound in the body size since the collapse of the stock prompted a complete fishing ban of eastern Baltic cod in 2019 , which remains in place.
+
+Prof Stefano Mariani, a marine biologist at Liverpool John Moores University, who was not involved in the research, said the genetic analysis could not explain the full extent of the shrinking that has been observed, with environmental factors probably also playing a significant role.
+
+But he said showing that “the activities of humans can speed up evolution” was a “milestone” result that highlights the importance of monitoring the gene pool of fish populations, as well as simply tracking numbers of fish.
+
+“It would be really good to try to maintain diversity because as soon as you chop away a certain section of diversity, it’s like losing an insurance for the future where that might have an advantage,” he said.

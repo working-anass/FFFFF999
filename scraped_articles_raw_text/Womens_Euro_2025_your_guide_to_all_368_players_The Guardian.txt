@@ -1,0 +1,5 @@
+Site: The Guardian
+Title: Women’s Euro 2025: your guide to all 368 players
+URL: https://www.theguardian.com/football/ng-interactive/2025/jun/26/womens-euros-2025-player-profiles-guide-switzerland
+
+Image: https://interactive.guim.co.uk/atoms/2025/05/womens-euros-player-guide-2025/assets/v/1750940828040/euro25-supporter.png

@@ -1,0 +1,21 @@
+Site: The Guardian
+Title: Group of high-profile authors sue Microsoft over use of their books in AI training
+URL: https://www.theguardian.com/technology/2025/jun/26/microsoft-ai-authors-lawsuit
+
+A group of authors has accused Microsoft of using nearly 200,000 pirated books to create an artificial intelligence model, the latest allegation in the long legal fight over copyrighted works between creative professionals and technology companies.
+
+Kai Bird, Jia Tolentino, Daniel Okrent and several others alleged that Microsoft used pirated digital versions of their books to teach its Megatron AI to respond to human prompts. Their lawsuit, filed in New York federal court on Tuesday, is one of several high-stakes cases brought by authors, news outlets and other copyright holders against tech companies including Meta Platforms, Anthropic and Microsoft-backed OpenAI over alleged misuse of their material in AI training.
+
+The authors requested a court order blocking Microsoft’s infringement and statutory damages of up to $150,000 for each work that Microsoft allegedly misused.
+
+Generative artificial intelligence products like Megatron produce text, music, images and videos in response to users’ prompts. To create these models, software engineers amass enormous databases of media to program the AI to produce similar output.
+
+The writers alleged in the complaint that Microsoft used a collection of nearly 200,000 pirated books to train Megatron, an AI product that gives text responses to user prompts. The complaint said Microsoft used the pirated dataset to create a “computer model that is not only built on the work of thousands of creators and authors, but also built to generate a wide range of expression that mimics the syntax, voice, and themes of the copyrighted works on which it was trained”.
+
+Spokespeople for Microsoft did not immediately respond to a request for comment on the lawsuit. An attorney for the authors declined to comment.
+
+The complaint against Microsoft came a day after a California federal judge ruled that Anthropic made fair use under US copyright law of authors’ material to train its AI systems but may still be liable for pirating their books. It was the first US decision on the legality of using copyrighted materials without permission for generative AI training. The day the complaint against Microsoft was filed, a California judge ruled in favor of Meta in a similar dispute over the use of copyrighted books used to train its AI models, though he attributed his ruling more to the plaintiffs’ poor arguments than the strength of the tech giant’s defense.
+
+The legal fight over copyright and AI began soon after the debut of ChatGPT and encompasses several different types of media. The New York Times has sued OpenAI for copyright infringement on its archive of articles; Dow Jones, parent company of the Wall Street Journal and the New York Post, has filed a similar suit against Perplexity AI. Major record labels have sued companies making AI-powered music generators. Photography company Getty Images has filed suit against Stability AI over the startup’s text-to-image product. Just last week, Disney and NBC Universal sued Midjourney, which offers a popular AI image generator, for alleged misuse of some of the world’s most famous movie and TV characters.
+
+Tech companies have argued that they make fair use of copyrighted material to create new, transformative content, and that being forced to pay copyright holders for their work could hamstring the burgeoning AI industry. Sam Altman , CEO of OpenAI, said that the creation of ChatGPT would have been “impossible” without the use of copyrighted works.

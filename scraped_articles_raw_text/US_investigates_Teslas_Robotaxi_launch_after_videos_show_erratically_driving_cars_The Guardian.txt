@@ -1,0 +1,25 @@
+Site: The Guardian
+Title: US investigates Tesla’s Robotaxi launch after videos show erratically driving cars
+URL: https://www.theguardian.com/technology/2025/jun/24/tesla-robotaxi-investigation-us
+
+The main transportation safety regulator in the US is requesting information from Tesla after videos showed the company’s self-driving Robotaxis exceeding the speed limit or veering into the wrong lane. The company launched the service in Austin , Texas, over the weekend.
+
+Tesla heavily promoted the initial, limited rollout of its Robotaxis, which included pro-Tesla influencers using the paid ride service and showing off footage of their trips. Instead of positive promotion, though, those videos appear to have drawn scrutiny from the National Highway Transit Safety Administration (NHTSA), as the cars struggled to comply with traffic laws.
+
+“NHTSA is aware of the referenced incidents and is in contact with the manufacturer to gather additional information,” the agency said in a statement.
+
+The Robotaxi’s debut over the weekend featured about 10 cars with “safety drivers” in the front passenger seat driving around a circumscribed area of Austin. Although Elon Musk , the Tesla CEO, touted the launch as a huge success and vowed it would make driving safer, several influencers posted videos that appeared to show their Robotaxis glitching or speeding.
+
+One video – posted by a Tesla investor who formerly hosted a podcast about the company – showed the Robotaxi wobbling as it misjudged a left turn, then going into a lane meant for oncoming traffic before driving across a double yellow line back into the correct lane. No cars were in the lane intended for oncoming traffic at the time.
+
+In another video, a pro-Tesla YouTuber praised how the car was going several miles per hour over the speed limit.
+
+Musk has bet a large part of the automaker’s future on its Robotaxi program, for years selling a vision of the future in which millions of his driverless cars roam cities all over the world. Both watchdogs and investors are closely scrutinizing if Tesla can turn the possibility into a reality or whether it joins a long list of Musk’s missed promises .
+
+“I predict that there will be millions of Teslas operating fully autonomously in the second half of next year,” Musk said during an earnings call in April. He made a similar statement in 2019.
+
+The NHTSA does not pre-approve new technologies or driving systems, it said in a statement. Instead, manufacturers certify their vehicles meet agency standards, then investigators look into potential safety defects. The NHTSA assesses reports and relevant information then decides on how to address road safety issues. “NHTSA will continue to enforce the law on all manufacturers of motor vehicles and equipment, in accordance with the Vehicle Safety Act and our data-driven, risk-based investigative process,” the agency stated.
+
+Robotaxis have taken on increased importance for Tesla this year as sales have fallen and year-on-year profits dropped 71% over the first quarter of 2025, amid backlash against Musk’s far-right politics. While revenues have declined, Musk has vowed that Tesla’s Robotaxis will become the future of transportation.
+
+In addition to its preliminary inquiry into the Robotaxis, the NHTSA also has an open investigation into Tesla, begun in 2024, over whether the automaker’s “Full-Self Driving” mode is safe during conditions that reduce roadway visibility. A Tesla allegedly using the autonomous feature struck and killed a 71-year-old woman in 2023 while the sun was setting and casting glare over the road in Arizona.

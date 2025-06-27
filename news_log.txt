@@ -1,0 +1,450 @@
+Site: The Guardian
+Topic: World
+Title: Israel closes the most direct route for aid to Palestinians in Gaza
+URL: https://www.theguardian.com/world/2025/jun/26/israel-closes-the-most-direct-route-for-aid-to-palestinians-in-gaza
+
+Site: The Guardian
+Topic: World
+Title: Kardashians, critics and copycats kick off €40m Bezos wedding bash
+URL: https://www.theguardian.com/world/2025/jun/26/celebrities-protests-jeff-bezos-lookalike-venice-wedding-lauren-sanchez
+
+Site: The Guardian
+Topic: World
+Title: Khamenei says Iran will strike back if US hits again in first remarks since ceasefire
+URL: https://www.theguardian.com/world/2025/jun/26/ayatollah-ali-khamenei-threat-america-israel
+
+Site: The Guardian
+Topic: World
+Title: ‘Twitter killer’ who murdered nine in Japan reportedly executed
+URL: https://www.theguardian.com/world/2025/jun/27/japan-executes-twitter-killer-takahiro-shiraishi
+
+Site: The Guardian
+Topic: World
+Title: Ukraine war briefing: Soldiers captured by Russia in Mariupol among those released in prisoner swap
+URL: https://www.theguardian.com/world/2025/jun/27/ukraine-war-briefing-soldiers-captured-by-russia-in-mariupol-among-those-released-in-prisoner-swap
+
+Site: The Guardian
+Topic: World
+Title: Kim Jong-un hails new North Korean beach resort as one of country’s ‘greatest feats’ this year
+URL: https://www.theguardian.com/world/2025/jun/26/north-korea-beach-resort-wonsan-kalma
+
+Site: The Guardian
+Topic: World
+Title: Breaking good: the yakuza gangster who became a lawyer
+URL: https://www.theguardian.com/world/2025/jun/27/yakuza-gangster-to-lawyer-yoshitomo-morohashi
+
+Site: The Guardian
+Topic: World
+Title: Mexican president demands proof after US accuses banks of laundering drug money
+URL: https://www.theguardian.com/world/2025/jun/26/mexican-president-sheinbaum-banks-sanctions
+
+Site: The Guardian
+Topic: World
+Title: ‘They attack us without provocation’: West Bank town mourns its dead after settler raid
+URL: https://www.theguardian.com/world/2025/jun/26/west-bank-town-kafr-malik-mourns-its-dead-israeli-settler-attack
+
+Site: The Guardian
+Topic: Us News
+Title: US citizen arrested during Ice raid in what family describes as ‘kidnapping’
+URL: https://www.theguardian.com/us-news/2025/jun/26/immigration-ice-raid-andrea-velez
+
+Site: The Guardian
+Topic: Lifeandstyle
+Title: Toxic truth? The cookware craze redefining ‘ceramic’ and ‘nontoxic’
+URL: https://www.theguardian.com/lifeandstyle/2025/jun/09/ceramic-nontoxic-cookware
+
+Site: The Guardian
+Topic: Us News
+Title: RFK Jr’s new vaccine panel votes against preservative in flu shots in shock move
+URL: https://www.theguardian.com/us-news/2025/jun/26/rfk-flu-shot-vaccines-panel
+
+Site: The Guardian
+Topic: Us News
+Title: Briefing on Iran strikes leaves senators divided as Trump threatens new row
+URL: https://www.theguardian.com/us-news/2025/jun/26/trump-iran-strikes-intelligence-congress
+
+Site: The Guardian
+Topic: Us News
+Title: Hegseth defends Iran strike amid doubts over Trump’s ‘obliteration’ claims
+URL: https://www.theguardian.com/us-news/2025/jun/26/hegseth-iran-nuclear-strike-intel
+
+Site: The Guardian
+Topic: Us News
+Title: Fireball in the sky as suspected meteor rattles Georgia and the Carolinas
+URL: https://www.theguardian.com/us-news/2025/jun/26/fireball-meteor-georgia-north-south-carolina
+
+Site: The Guardian
+Topic: Us News
+Title: Purple heart army veteran self-deports after 50 years from ‘country I fought for’
+URL: https://www.theguardian.com/us-news/2025/jun/26/trump-immigration-veteran-self-deports
+
+Site: The Guardian
+Topic: Us News
+Title: Trump is making US intelligence parrot his line on Iran - it echoes Bush’s invasion of Iraq
+URL: https://www.theguardian.com/us-news/2025/jun/26/trump-intelligence-iran-iraq-wmd-analysis
+
+Site: The Guardian
+Topic: Us News
+Title: On r/collapse, people are ‘kept abreast of the latest doom’. Its moderators say it’s not for everyone
+URL: https://www.theguardian.com/us-news/2025/jun/26/rcollapse-reddit-apocalypse-news
+
+Site: The Guardian
+Topic: Us News
+Title: Mamdani faces barrage of Islamophobic attacks after New York primary success
+URL: https://www.theguardian.com/us-news/2025/jun/26/zohran-mamdani-faces-islamophobic-attacks
+
+Site: The Guardian
+Topic: Uk News
+Title: Police identify seven as main suspects in Post Office Horizon scandal inquiry
+URL: https://www.theguardian.com/uk-news/2025/jun/27/police-identify-seven-as-main-suspects-in-post-office-horizon-scandal-inquiry
+
+Site: The Guardian
+Topic: Uk News
+Title: Amy Hunt says murder of her mother and sisters ‘rooted in misogyny’
+URL: https://www.theguardian.com/uk-news/2025/jun/26/amy-hunt-of-mother-and-sisters-was-rooted-in-misogyny
+
+Site: The Guardian
+Topic: Uk News
+Title: Two Met officers dismissed for gross misconduct after strip-search of black schoolgirl
+URL: https://www.theguardian.com/uk-news/2025/jun/26/met-officers-committed-gross-misconduct-in-strip-searching-black-girl-at-school
+
+Site: The Guardian
+Topic: Uk News
+Title: Visa income rules discriminate against working-class people, British father says
+URL: https://www.theguardian.com/uk-news/2025/jun/26/visa-income-rules-discriminate-against-working-class-people-british-father-says
+
+Site: The Guardian
+Topic: Uk News
+Title: ‘Extraordinary’ silver sculpture inspired by love that scandalised Victorian society goes on show
+URL: https://www.theguardian.com/uk-news/2025/jun/26/silver-sculpture-inspired-by-love-stags-bradgate-park-on-show
+
+Site: The Guardian
+Topic: Uk News
+Title: Former soldier found guilty of raping ex-partner before murdering her
+URL: https://www.theguardian.com/uk-news/2025/mar/06/ex-soldier-found-guilty-of-raping-ex-partner-before-murdering-her
+
+Site: The Guardian
+Topic: Uk News
+Title: Nurse loses appeal against 2008 convictions for murder of four patients in Leeds
+URL: https://www.theguardian.com/uk-news/2025/jun/26/nurse-colin-campbell-loses-appeal-against-2008-conviction-for-of-four-patients-in-leeds
+
+Site: The Guardian
+Topic: Uk News
+Title: Office for National Statistics has ‘deep-seated’ problems and needs an overhaul
+URL: https://www.theguardian.com/uk-news/2025/jun/26/review-calls-for-10m-overhaul-of-the-office-for-national-statistics
+
+Site: The Guardian
+Topic: Uk News
+Title: Seven people taken to hospital after college bus crashes into Hampshire river
+URL: https://www.theguardian.com/uk-news/2025/jun/26/bus-carrying-students-crashes-river-itchen-eastleigh-hampshire
+
+Site: The Guardian
+Topic: Uk News
+Title: ‘The site is huge’: division in Cardiff over music festival as green space closed off
+URL: https://www.theguardian.com/uk-news/2025/jun/26/cardiff-blackweir-festival-bute-park-dispute
+
+Site: The Guardian
+Topic: Environment
+Title: Shipping is one of the world’s dirtiest industries – could this invention finally clean up cargo fleets?
+URL: https://www.theguardian.com/environment/2025/jun/26/global-shipping-emissions-invention-clean-up-cargo-fleets-net-zero
+
+Site: The Guardian
+Topic: Environment
+Title: ‘New hope’: ash trees rapidly evolving resistance to dieback, study reveals
+URL: https://www.theguardian.com/environment/2025/jun/26/ash-trees-evolve-resistance-dieback-study
+
+Site: The Guardian
+Topic: Environment
+Title: ‘We are perilously close to the point of no return’: climate scientist on Amazon rainforest’s future
+URL: https://www.theguardian.com/environment/ng-interactive/2025/jun/26/tippping-points-amazon-rainforest-climate-scientist-carlos-nobre
+
+Site: The Guardian
+Topic: Environment
+Title: Overfishing has caused cod to halve in body size since 1990s, study finds
+URL: https://www.theguardian.com/environment/2025/jun/25/cod-shrinking-size-overfishing-study
+
+Site: The Guardian
+Topic: Environment
+Title: Nairobi’s lions are almost encircled by the city. A Maasai community offers a key corridor out
+URL: https://www.theguardian.com/environment/2025/jun/25/lions-kenya-wildlife-conservation-migration-community-land-predators-maasai-farmers-nairobi-national-park
+
+Site: The Guardian
+Topic: Environment
+Title: Australian consumer watchdog takes gas company to court alleging it misled consumers over renewables claim
+URL: https://www.theguardian.com/environment/2025/jun/26/australian-consumer-watchdog-takes-gas-company-to-court-alleging-it-misled-consumers-over-renewables-claim-ntwnfb
+
+Site: The Guardian
+Topic: Environment
+Title: ‘This is a fight for life’: climate expert on tipping points, doomerism and using wealth as a shield
+URL: https://www.theguardian.com/environment/ng-interactive/2025/jun/24/tipping-points-climate-crisis-expert-doomerism-wealth
+
+Site: The Guardian
+Topic: Environment
+Title: Country diary 1905: The hayfield is the scene of one great massacre
+URL: https://www.theguardian.com/environment/2025/jun/23/country-diary-1905-the-hayfield-is-the-scene-of-one-great-massacre
+
+Site: The Guardian
+Topic: Environment
+Title: ‘No end of problems’ for Australia’s south-east coastlines as strong winds and large waves hit again
+URL: https://www.theguardian.com/environment/2025/jun/25/no-end-of-problems-for-australian-south-east-coastlines-as-winds-and-waves-hit-again
+
+Site: The Guardian
+Topic: Environment
+Title: Rise in legal challenges over carbon credit schemes
+URL: https://www.theguardian.com/environment/2025/jun/25/courts-corporate-carbon-offsetting-claims-lse-report
+
+Site: The Guardian
+Topic: Science
+Title: Swarms of tiny nose robots could clear infected sinuses, researchers say
+URL: https://www.theguardian.com/science/2025/jun/25/swarms-of-tiny-nose-robots-could-clear-infected-sinuses-researchers-say
+
+Site: The Guardian
+Topic: Science
+Title: James Webb telescope captures direct images of Saturn-sized exoplanet
+URL: https://www.theguardian.com/science/2025/jun/25/james-webb-space-telescope-first-direct-images-exoplanet
+
+Site: The Guardian
+Topic: Science
+Title: UK scientists to synthesise human genome to learn more about how DNA works
+URL: https://www.theguardian.com/science/2025/jun/26/synhg-uk-synthetic-human-genome-project-dna-genetic-code
+
+Site: The Guardian
+Topic: Science
+Title: Test developed to identify women at increased risk of miscarriage
+URL: https://www.theguardian.com/science/2025/jun/26/uk-test-miscarriage-risk-pregnancy-loss
+
+Site: The Guardian
+Topic: Science
+Title: Scientists use bacteria to turn plastic waste into paracetamol
+URL: https://www.theguardian.com/science/2025/jun/23/scientists-use-e-coli-bacteria-to-turn-plastic-waste-into-paracetamol-painkiller
+
+Site: The Guardian
+Topic: Science
+Title: India, Poland and Hungary make spaceflight comeback with ISS mission
+URL: https://www.theguardian.com/science/2025/jun/25/india-poland-hungary-us-astronauts-iss-axiom-mission-4
+
+Site: The Guardian
+Topic: Science
+Title: Red-letter day as gemologists discover why crimson diamonds are so rare
+URL: https://www.theguardian.com/science/2025/jun/25/red-letter-day-as-gemologists-discover-why-crimson-diamonds-are-so-rare
+
+Site: The Guardian
+Topic: Global Development
+Title: Ancient maize v agribusiness: why Colombia’s ‘seed guardians’ are fighting the use of GM crops
+URL: https://www.theguardian.com/global-development/2025/jun/26/ancient-corn-v-agribusiness-why-colombias-seed-guardians-are-fighting-the-use-of-gm-crops
+
+Site: The Guardian
+Topic: Global Development
+Title: Breakthrough in search for HIV cure leaves researchers ‘overwhelmed’
+URL: https://www.theguardian.com/global-development/2025/jun/05/breakthrough-in-search-for-hiv-cure-leaves-researchers-overwhelmed
+
+Site: The Guardian
+Topic: Global Development
+Title: Traffic, crowds and construction: India’s hill stations swamped by tourists escaping Delhi heat
+URL: https://www.theguardian.com/global-development/2025/jun/24/indias-hill-stations-himalayas-cities-heatwaves-migration-traffic-landour-mussoorie
+
+Site: The Guardian
+Topic: Global Development
+Title: Indian village run by teenage girls offers hope for a life free from abuse
+URL: https://www.theguardian.com/global-development/2017/oct/21/india-villagers-child-abuse-trafficking-alcoholism
+
+Site: The Guardian
+Topic: Global Development
+Title: How did Spain come to be one of the few nations holding firm on aid spending?
+URL: https://www.theguardian.com/global-development/2025/jun/24/spain-aid-global-south-social-solidarity-outlier-new-world-disorder
+
+Site: The Guardian
+Topic: Global Development
+Title: India illegally deporting Muslim citizens at gunpoint to Bangladesh, say rights groups
+URL: https://www.theguardian.com/global-development/2025/jun/19/india-deporting-indians-muslim-citizens-bangladesh-say-rights-groups-border
+
+Site: The Guardian
+Topic: Global Development
+Title: Video appears to show gang-rape of Afghan woman in a Taliban jail
+URL: https://www.theguardian.com/global-development/article/2024/jul/03/video-appears-to-shows-gang-rape-of-woman-in-a-taliban-jail
+
+Site: The Guardian
+Topic: Global Development
+Title: Calvin Klein jeans for free! Branded clothes dumped in the desert snapped up on anti-fast fashion website
+URL: https://www.theguardian.com/global-development/2025/mar/28/atacama-chilean-desert-clothes-dumping-western-fast-fashion-industry
+
+Site: The Guardian
+Topic: Global Development
+Title: 'I don’t know where my family is': Cameroon's refugees flee brutality
+URL: https://www.theguardian.com/global-development/2018/jun/07/cameroon-refugees-flee-ruthless-violence-nigeria
+
+Site: The Guardian
+Topic: Global Development
+Title: Burkina Faso soldiers massacred 223 civilians in one day, finds rights group
+URL: https://www.theguardian.com/global-development/2024/apr/25/220-civilians-burkina-faso-human-rights-watch-killings-two-villages
+
+Site: The Guardian
+Topic: Football
+Title: Erling Haaland hits 300th goal in Manchester City rout of Juventus at Club World Cup
+URL: https://www.theguardian.com/football/2025/jun/26/juventus-manchester-city-club-world-cup-match-report
+
+Site: The Guardian
+Topic: Football
+Title: Harvey Elliott shines for England U21s but fears ‘wasting years’ at Liverpool
+URL: https://www.theguardian.com/football/2025/jun/26/harvey-elliott-england-under-21-leaving-liverpool
+
+Site: The Guardian
+Topic: Football
+Title: ‘A new chapter begins’: Cristiano Ronaldo signs new two-year Al-Nassr deal
+URL: https://www.theguardian.com/football/2025/jun/26/cristiano-ronaldo-signs-new-al-nassr-contract
+
+Site: The Guardian
+Topic: Football
+Title: Matildas’ Montemurro era off to winning start with 3-0 victory over Slovenia
+URL: https://www.theguardian.com/football/2025/jun/26/matildas-montemurro-era-off-to-winning-start-with-3-0-victory-over-slovenia
+
+Site: The Guardian
+Topic: Football
+Title: Brain injuries hearing: ‘no safe number of times’ a footballer can head the ball
+URL: https://www.theguardian.com/football/2025/jun/26/brain-injuries-hearing-no-safe-number-of-times-a-footballer-can-head-the-ball
+
+Site: The Guardian
+Topic: Football
+Title: Milos Kerkez ‘honoured’ to make £40m move to Liverpool from Bournemouth
+URL: https://www.theguardian.com/football/2025/jun/26/liverpool-complete-40m-signing-of-milos-kerkez-from-bournemouth-transfer-window
+
+Site: The Guardian
+Topic: Football
+Title: Women’s Euro 2025: your guide to all 368 players
+URL: https://www.theguardian.com/football/ng-interactive/2025/jun/26/womens-euros-2025-player-profiles-guide-switzerland
+
+Site: The Guardian
+Topic: Football
+Title: Lyon thought they were too big to fail. Now they face a season in Ligue 2
+URL: https://www.theguardian.com/football/2025/jun/26/lyon-fail-season-ligue-2-great-football-club
+
+Site: The Guardian
+Topic: Football
+Title: Men’s transfer window summer 2025: all deals from Europe’s top five leagues
+URL: https://www.theguardian.com/football/ng-interactive/2025/may/28/mens-transfer-window-summer-2025-premier-league-la-liga-bundesliga-serie-a-ligue-1
+
+Site: The Guardian
+Topic: Technology
+Title: Meta wins AI copyright lawsuit as US judge rules against authors
+URL: https://www.theguardian.com/technology/2025/jun/26/meta-wins-ai-copyright-lawsuit-as-us-judge-rules-against-authors
+
+Site: The Guardian
+Topic: Technology
+Title: Jeff Bezos alters Venice wedding plans after threat of inflatable crocodiles
+URL: https://www.theguardian.com/technology/2025/jun/24/jeff-bezos-lauren-sanchez-change-wedding-reception-location-in-venice-after-threatened-protest
+
+Site: The Guardian
+Topic: Technology
+Title: Jeff Bezos and Lauren Sánchez arrive in Venice for divisive wedding
+URL: https://www.theguardian.com/technology/2025/jun/25/jeff-bezos-wedding-venice-guests-arrive-ivanka-trump
+
+Site: The Guardian
+Topic: Technology
+Title: Group of high-profile authors sue Microsoft over use of their books in AI training
+URL: https://www.theguardian.com/technology/2025/jun/26/microsoft-ai-authors-lawsuit
+
+Site: The Guardian
+Topic: Technology
+Title: The ‘fridge cigarette’: how gen Z reframed the smoking break
+URL: https://www.theguardian.com/technology/2025/jun/24/the-fridge-cigarette-how-gen-z-reframed-the-smoking-break
+
+Site: The Guardian
+Topic: Technology
+Title: Second study finds Uber used opaque algorithm to dramatically boost profits
+URL: https://www.theguardian.com/technology/2025/jun/25/second-study-finds-uber-used-opaque-algorithm-to-dramatically-boost-profits
+
+Site: The Guardian
+Topic: Technology
+Title: US investigates Tesla’s Robotaxi launch after videos show erratically driving cars
+URL: https://www.theguardian.com/technology/2025/jun/24/tesla-robotaxi-investigation-us
+
+Site: The Guardian
+Topic: Technology
+Title: Inside the No Space for Bezos movement: ‘One man rents a city for three days? That’s obscene’
+URL: https://www.theguardian.com/technology/2025/jun/24/inside-the-no-space-for-bezos-movement-one-man-rents-a-city-for-three-days-thats-obscene
+
+Site: The Guardian
+Topic: Technology
+Title: Internet users advised to change passwords after 16bn logins exposed
+URL: https://www.theguardian.com/technology/2025/jun/21/internet-users-advised-to-change-passwords-after-16bn-logins-exposed
+
+Site: The Guardian
+Topic: Business
+Title: Dollar falls to three-year low after report Trump may name next Fed chair early
+URL: https://www.theguardian.com/business/2025/jun/26/us-dollar-falls-to-three-year-low-after-report-trump-may-name-next-fed-chair-early
+
+Site: The Guardian
+Topic: Business
+Title: High flyer to pariah: the saga of Epstein-linked banker Jes Staley
+URL: https://www.theguardian.com/business/2025/jun/26/high-flyer-to-pariah-saga-jeffrey-epstein-banker-jes-staley
+
+Site: The Guardian
+Topic: Business
+Title: Ex-world leaders call for ‘powerful shift’ as they warn of extreme inequality
+URL: https://www.theguardian.com/business/2025/jun/26/world-leaders-inequality-poverty
+
+Site: The Guardian
+Topic: Business
+Title: The arithmetic is tricky for a Shell bid for BP today. Next year may be different
+URL: https://www.theguardian.com/business/nils-pratley-on-finance/2025/jun/26/shell-bid-bp-takeover
+
+Site: The Guardian
+Topic: Business
+Title: Shell has ‘no intention’ of making offer to buy BP after £60bn takeover rumours
+URL: https://www.theguardian.com/business/2025/jun/26/shell-bp-takeover-rumours-no-intention
+
+Site: The Guardian
+Topic: Business
+Title: Dating app Bumble to lay off hundreds of staff amid turnaround bid
+URL: https://www.theguardian.com/business/2025/jun/25/bumble-layoffs-revenue
+
+Site: The Guardian
+Topic: Business
+Title: US reaches deal with China to speed up rare earth shipments, White House says, amid efforts to end trade war
+URL: https://www.theguardian.com/business/2025/jun/27/us-china-rare-earth-shipments-deal
+
+Site: The Guardian
+Topic: Business
+Title: Cutting down forests to feed Drax incurs a huge carbon cost
+URL: https://www.theguardian.com/business/2025/jun/26/cutting-down-forests-to-feed-drax-incurs-a-huge-carbon-cost
+
+Site: The Guardian
+Topic: Business
+Title: Eurostar services restored after severe delays due to huge cable theft in France
+URL: https://www.theguardian.com/business/2025/jun/25/eurostar-severe-delays-cable-theft-france
+
+Site: The Guardian
+Topic: Business
+Title: Ex-Barclays boss claims his marriage is at risk after admitting in court to sex with Epstein employee
+URL: https://www.theguardian.com/business/2025/mar/13/ex-barclays-boss-claims-his-marriage-is-at-risk-after-admitting-to-sex-with-epstein-employee-in-court
+
+Site: The Guardian
+Topic: Politics
+Title: The Donald laps it up as Nato leaders compete to shower him with sycophancy
+URL: https://www.theguardian.com/politics/2025/jun/26/donald-trump-nato-sycophancy
+
+Site: The Guardian
+Topic: Lifeandstyle
+Title: The truth about fruit juice and smoothies: should you down them or ditch them?
+URL: https://www.theguardian.com/lifeandstyle/2025/jun/26/the-truth-about-fruit-juice-and-smoothies-should-you-down-them-or-ditch-them
+
+Site: The Guardian
+Topic: Film
+Title: Mel Brooks turns 99: the comedy icon’s best films – ranked!
+URL: https://www.theguardian.com/film/2025/jun/26/mel-brooks-ranked-movies
+
+Site: The Guardian
+Topic: Sport
+Title: Faith not enough as Kipyegon misses four-minute mile barrier by six seconds
+URL: https://www.theguardian.com/sport/2025/jun/26/faith-not-enough-as-kipyegon-misses-four-minute-mile-barrier-by-six-seconds
+
+Site: Al Jazeera
+Topic: Liveblog
+Title: Israeli attacks kill over 70 in Gaza; 549 killed seeking aid in past month
+URL: https://www.aljazeera.com/news/liveblog/2025/6/27/live-israel-kills-over-70-in-gaza-as-549-killed-seeking-aid-in-past-month
+
+Site: Al Jazeera
+Topic: Liveblog
+Title: Updates: Israeli attacks kill 71 people, including aid seekers, across Gaza
+URL: https://www.aljazeera.com/news/liveblog/2025/6/26/live-israel-kills-over-80-in-gaza-3-killed-in-israeli-settler-attack
+
