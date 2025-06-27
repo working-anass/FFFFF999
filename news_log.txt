@@ -1073,3 +1073,13 @@ Topic: Football
 Title: Football fans invading Bondi beach? Hosting the Club World Cup would do wonders for the game in Australia
 URL: https://www.theguardian.com/football/2025/jun/28/football-fans-invading-bondi-beach-hosting-the-club-world-cup-would-do-wonders-for-the-game-in-australia
 
+Site: The Guardian
+Topic: World
+Title: Beautiful, isolated and expensive: US expats on life in New Zealand
+URL: https://www.theguardian.com/world/2025/jun/28/beautiful-isolated-and-expensive-us-expats-on-life-in-new-zealand
+
+Site: The Guardian
+Topic: Us News
+Title: Trump basks in triumph as supreme court kicks away another guard rail
+URL: https://www.theguardian.com/us-news/2025/jun/27/trump-supreme-court-press-conference
+
