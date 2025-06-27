@@ -1013,3 +1013,13 @@ Topic: Wellness
 Title: What is a deep plane facelift? Nipping into the buzzy cosmetic procedure
 URL: https://www.theguardian.com/wellness/2025/jun/27/what-is-a-deep-plane-facelift
 
+Site: The Guardian
+Topic: World
+Title: Archbishop of Wales stands down after Bangor cathedral scandal
+URL: https://www.theguardian.com/world/2025/jun/27/archbishop-of-wales-stands-down-over-bangor-cathedral-scandal
+
+Site: The Guardian
+Topic: Business
+Title: M&S boss slams ‘bureaucratic madness’ of products requiring ‘not for EU’ labels
+URL: https://www.theguardian.com/business/2025/jun/27/ms-boss-slams-bureaucratic-madness-of-products-requiring-not-for-eu-labels
+
