@@ -963,3 +963,13 @@ Topic: Technology
 Title: Google’s emissions up 51% as AI electricity demand derails efforts to go green
 URL: https://www.theguardian.com/technology/2025/jun/27/google-emissions-ai-electricity-demand-derail-efforts-green
 
+Site: The Guardian
+Topic: World
+Title: University of Toronto agrees to host Harvard students facing Trump visa restrictions
+URL: https://www.theguardian.com/world/2025/jun/27/university-toronto-harvard-students-trump
+
+Site: The Guardian
+Topic: Football
+Title: Alexia Putellas: ‘The cruciate, the meniscus: you’ve closed that cycle. Done. I felt free’
+URL: https://www.theguardian.com/football/2025/jun/27/alexia-putellas-spain-womens-euro-2025-football
+
