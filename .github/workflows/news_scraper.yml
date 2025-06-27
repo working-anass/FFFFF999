@@ -64,7 +64,7 @@ jobs:
 
       - name: Upload artifact for GitHub Pages
         # Only run this step if changes were committed
-        if steps.commit_changes.outputs.committed == 'true' || always() # always() ensures it runs for initial setup/testing
+        if steps.commit_changes.outputs.committed == 'true' or always() # always() ensures it runs for initial setup/testing
         uses: actions/upload-pages-artifact@v3
         with:
           path: . # Upload the entire repository root as the artifact
