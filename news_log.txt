@@ -448,3 +448,33 @@ Topic: Liveblog
 Title: Updates: Israeli attacks kill 71 people, including aid seekers, across Gaza
 URL: https://www.aljazeera.com/news/liveblog/2025/6/26/live-israel-kills-over-80-in-gaza-3-killed-in-israeli-settler-attack
 
+Site: The Guardian
+Topic: Uk News
+Title: Ukrainians who fled to UK being refused asylum on grounds it is ‘safe to return’
+URL: https://www.theguardian.com/uk-news/2025/jun/27/ukrainians-who-fled-to-uk-being-refused-asylum-on-grounds-it-is-safe-to-return
+
+Site: The Guardian
+Topic: Uk News
+Title: Northern Ireland nationalists fear focus on reconciliation stalling push for unity referendum
+URL: https://www.theguardian.com/uk-news/2025/jun/26/northern-ireland-nationalists-reconciliation-unity-referendum
+
+Site: The Guardian
+Topic: Global Development
+Title: More than 160 Gazan medics held in Israeli prisons amid reports of torture
+URL: https://www.theguardian.com/global-development/2025/feb/25/more-than-160-gazan-medics-held-in-israeli-prisons-amid-reports-of-torture
+
+Site: The Guardian
+Topic: Football
+Title: Bellingham and Vinícius shine as Real Madrid top group at Club World Cup
+URL: https://www.theguardian.com/football/2025/jun/27/real-madrid-red-bull-salzburg-club-world-cup-group-h-result-match-report
+
+Site: The Guardian
+Topic: Technology
+Title: Denmark to tackle deepfakes by giving people copyright to their own features
+URL: https://www.theguardian.com/technology/2025/jun/27/deepfakes-denmark-copyright-law-artificial-intelligence
+
+Site: The Guardian
+Topic: Lifeandstyle
+Title: You be the judge: should my partner stop trying to kiss me after kissing the cat?
+URL: https://www.theguardian.com/lifeandstyle/2025/jun/26/you-be-the-judge-should-my-partner-stop-trying-to-kiss-me-after-kissing-the-cat
+
