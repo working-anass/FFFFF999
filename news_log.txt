@@ -638,3 +638,8 @@ Topic: Food
 Title: ‘Barberry and saffron’: bakery startup bringing a taste of Iran to Brooklyn
 URL: https://www.theguardian.com/food/2024/oct/15/iranian-bakery-brooklyn-bibi-hbk
 
+Site: The Guardian
+Topic: Business
+Title: This couple has re-created the sights and smells of a Senegalese market in Brooklyn: ‘Experiences keep people coming back’
+URL: https://www.theguardian.com/business/2024/oct/18/rue-dix-brooklyn-cafe-market
+
