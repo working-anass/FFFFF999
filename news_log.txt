@@ -603,3 +603,18 @@ Topic: Business
 Title: Growing signs of slowdown in UK jobs market, says Bank of England governor
 URL: https://www.theguardian.com/business/2025/jun/26/growing-signs-slowdown-uk-jobs-market-bank-of-england-governor
 
+Site: The Guardian
+Topic: World
+Title: Jamaica to ask King Charles to refer issue of reparations for slavery to UK’s privy council
+URL: https://www.theguardian.com/world/2025/jun/26/jamaica-king-charles-slavery-reparations-uk
+
+Site: The Guardian
+Topic: Global Development
+Title: ‘We were sinking. I let her go’: how growing numbers of women are risking all to reach Europe by boat
+URL: https://www.theguardian.com/global-development/2025/jun/13/women-girls-migration-canary-islands-west-africa-boat-capsize-drowning-el-hierro
+
+Site: The Guardian
+Topic: Football
+Title: Women’s Euro 2025 team guides: Denmark
+URL: https://www.theguardian.com/football/2025/jun/27/womens-euro-2025-team-guides-denmark
+
