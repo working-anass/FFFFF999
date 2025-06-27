@@ -888,3 +888,13 @@ Topic: Books
 Title: Richard Flanagan: ‘When I reread Evelyn Waugh’s Scoop it had corked badly’
 URL: https://www.theguardian.com/books/2025/jun/27/richard-flanagan-when-i-reread-evelyn-waughs-scoop-it-had-corked-badly
 
+Site: The Guardian
+Topic: Us News
+Title: US supreme court limits judges’ power on nationwide injunctions in apparent win for Trump
+URL: https://www.theguardian.com/us-news/2025/jun/27/trump-supreme-court-birthright-citizenship-scotus
+
+Site: The Guardian
+Topic: Technology
+Title: Ex-Doge employee ‘Big Balls’ gets new Trump administration position
+URL: https://www.theguardian.com/technology/2025/jun/27/doge-big-balls-trump-administration
+
