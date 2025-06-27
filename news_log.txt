@@ -558,3 +558,18 @@ Topic: Us News
 Title: New York: Adams launches re-election bid after Mamdani’s surprise primary showing
 URL: https://www.theguardian.com/us-news/2025/jun/26/eric-adams-campaign-nyc-mayor-election
 
+Site: The Guardian
+Topic: Science
+Title: Giant asteroid could crash into moon in 2032, firing debris towards Earth
+URL: https://www.theguardian.com/science/2025/jun/23/giant-asteroid-could-crash-moon-2032-firing-debris-earth
+
+Site: The Guardian
+Topic: Global Development
+Title: Attack dogs: how Europe supplies Israel with brutal canine weapons
+URL: https://www.theguardian.com/global-development/2025/jun/12/weapons-war-israel-europe-dogs-joint-investigation
+
+Site: The Guardian
+Topic: Football
+Title: Football transfer rumours: Arsenal and Spurs to battle for Eberechi Eze?
+URL: https://www.theguardian.com/football/2025/jun/27/football-transfer-rumours-arsenal-tottenham-eberechi-eze
+
