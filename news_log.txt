@@ -908,3 +908,8 @@ Topic: Us News
 Title: US supreme court rules schools must let kids opt out of LGBTQ+ book readings
 URL: https://www.theguardian.com/us-news/2025/jun/27/supreme-court-lgbt-book-ban-case-ruling
 
+Site: The Guardian
+Topic: Business
+Title: Barclays and Jes Staley face fresh lawsuit in US over Epstein link
+URL: https://www.theguardian.com/business/2025/jun/27/barclays-chair-dragged-legal-claim-jes-staley-jeffrey-epstein-misled-investors
+
