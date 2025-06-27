@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Live News Dashboard</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        body {
+            font-family: 'Inter', sans-serif;
+            background-color: #e2e8f0;
+            line-height: 1.6;
+            color: #334155;
+        }
+        ::-webkit-scrollbar {
+            width: 8px;
+        }
+        ::-webkit-scrollbar-track {
+            background: #cbd5e1;
+            border-radius: 10px;
+        }
+        ::-webkit-scrollbar-thumb {
+            background: #94a3b8;
+            border-radius: 10px;
+        }
+        ::-webkit-scrollbar-thumb:hover {
+            background: #64748b;
+        }
+        .tab-button.active {
+            border-color: #3b82f6;
+            color: #1d4ed8;
+            font-weight: 600;
+        }
+        .article-card {
+            transition: transform 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
+        }
+        .article-card:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
+        }
+    </style>
+    <script>
+        setTimeout(function(){
+            location.reload();
+        }, 30000);
+    </script>
+</head>
+<body class="p-4 sm:p-6 md:p-10">
+    <div class="max-w-5xl mx-auto bg-white shadow-xl rounded-xl p-6 md:p-8 border border-gray-200">
+        <h1 class="text-3xl md:text-4xl font-extrabold text-gray-900 mb-4 text-center tracking-tight">
+            🌐 Real-time Global News by Topic
+        </h1>
+        <p class="text-gray-600 text-center mb-8 max-w-2xl mx-auto">
+            Your personalized feed for the latest headlines, categorized by specific topics from The Guardian, Hespress, and Al Jazeera.
+        </p>
+
+        <div id="topics-tab-buttons" class="flex justify-center border-b-2 border-gray-200 mb-8 px-4 flex-wrap gap-2">
+            <button class="tab-button py-3 px-6 text-sm font-medium transition-all duration-300 border-b-2 border-transparent text-gray-600 hover:text-gray-900 hover:border-blue-500 focus:outline-none flex-grow sm:flex-none text-center" data-tab-target="#all-news-container">All News</button>
+            </div>
+
+        <div id="topics-news-content">
+            <div id="all-news-container" class="tab-content space-y-6">
+                <div class="bg-blue-50 border border-blue-200 text-blue-800 px-4 py-3 rounded-md text-center shadow-md">
+                    <p>No news articles found yet. Please run the Python script to start populating this dashboard.</p>
+                </div>
+            </div>
+            </div>
+    </div>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            const setupTabs = () => {
+                const tabs = document.querySelectorAll('.tab-button');
+                const tabContents = document.querySelectorAll('.tab-content');
+
+                if (tabs.length === 0) {
+                    setTimeout(setupTabs, 1000); // Retry if tabs aren't loaded yet by Python
+                    return;
+                }
+
+                const activateTab = (tabToActivate) => {
+                    tabs.forEach(tab => {
+                        tab.classList.remove('active', 'border-blue-600', 'text-blue-600');
+                        tab.classList.add('border-transparent', 'text-gray-600');
+                    });
+                    tabContents.forEach(tabContent => {
+                        tabContent.classList.add('hidden');
+                    });
+
+                    tabToActivate.classList.add('active', 'border-blue-600', 'text-blue-600');
+                    tabToActivate.classList.remove('border-transparent', 'text-gray-600');
+                    document.querySelector(tabToActivate.dataset.tabTarget).classList.remove('hidden');
+                };
+
+                tabs.forEach(tab => {
+                    // Remove existing click listeners to avoid duplicates if setupTabs is called multiple times
+                    if (tab.clickListener) { // Check if listener exists before removing
+                        tab.removeEventListener('click', tab.clickListener); 
+                    }
+                    tab.clickListener = () => activateTab(tab); // Store new listener
+                    tab.addEventListener('click', tab.clickListener); 
+                });
+
+                // Activate the first tab (e.g., 'All News') by default
+                const defaultTabButton = tabs[0];
+                if (defaultTabButton) {
+                    activateTab(defaultTabButton);
+                }
+            };
+
+            setupTabs(); // Call immediately
+            setTimeout(setupTabs, 500); // Call again after 0.5 sec to catch dynamically loaded content
+            setTimeout(setupTabs, 2000); // More aggressive retry for initial load of dynamic content
+        });
+    </script>
+</body>
+</html>
