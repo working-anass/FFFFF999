@@ -1043,3 +1043,8 @@ Topic: Us News
 Title: Colorado funeral home owner sentenced to 20 years for fraud
 URL: https://www.theguardian.com/us-news/2025/jun/27/colorado-funeral-home-owner-sentencing
 
+Site: The Guardian
+Topic: World
+Title: Trump eyes mineral wealth as Rwanda and DRC sign controversial peace deal in US
+URL: https://www.theguardian.com/world/2025/jun/27/rwanda-drc-peace-deal-us-trump-m23
+
