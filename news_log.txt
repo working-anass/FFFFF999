@@ -578,3 +578,18 @@ Topic: World
 Title: Alarm raised over slow pace of payouts to UK veterans fired over sexuality
 URL: https://www.theguardian.com/world/2025/jun/27/alarm-raised-over-slow-pace-of-payouts-to-uk-veterans-fired-over-sexuality
 
+Site: The Guardian
+Topic: Tv And Radio
+Title: Smoke review – no TV show has ever been worth sticking with more
+URL: https://www.theguardian.com/tv-and-radio/2025/jun/27/smoke-review-dennis-lehane-taron-egerton-apple-tv
+
+Site: The Guardian
+Topic: Global Development
+Title: ‘We don’t want to stay here’: UN accused of abandoning refugees in Niger
+URL: https://www.theguardian.com/global-development/2025/jun/27/un-accused-of-abandoning-refugees-niger
+
+Site: The Guardian
+Topic: Business
+Title: Period drama: Here We Flo pulls ‘plastic-free’ pledge amid row over green claims
+URL: https://www.theguardian.com/business/2025/jun/27/here-we-flo-plastic-free-period-care-mooncup
+
