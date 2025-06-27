@@ -683,3 +683,13 @@ Topic: Business
 Title: Nike says Trump tariff war could cost it $1bn
 URL: https://www.theguardian.com/business/2025/jun/27/nike-says-trump-tariff-war-could-cost-it-1bn
 
+Site: The Guardian
+Topic: Uk News
+Title: Met Office should name storms after fossil fuel companies, say campaigners
+URL: https://www.theguardian.com/uk-news/2025/jun/26/met-office-should-name-storms-after-fossil-fuel-companies-say-campaigners
+
+Site: The Guardian
+Topic: Environment
+Title: Wreckers, money woes and mutirão: 10 things we learned about Cop30 from Bonn climate talks
+URL: https://www.theguardian.com/environment/2025/jun/27/cop30-10-things-we-learned-from-bonn-climate-talks
+
