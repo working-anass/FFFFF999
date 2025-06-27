@@ -1003,3 +1003,13 @@ Topic: Politics
 Title: Stephen Kinnock stares into the abyss as he carries can for welfare U-turn
 URL: https://www.theguardian.com/politics/2025/jun/27/stephen-kinnock-welfare-u-turn-labour
 
+Site: The Guardian
+Topic: Us News
+Title: Hegseth announces new name of US navy ship that honored gay rights icon Harvey Milk
+URL: https://www.theguardian.com/us-news/2025/jun/27/hegseth-navy-ship-harvey-milk-oscar-peterson
+
+Site: The Guardian
+Topic: Wellness
+Title: What is a deep plane facelift? Nipping into the buzzy cosmetic procedure
+URL: https://www.theguardian.com/wellness/2025/jun/27/what-is-a-deep-plane-facelift
+
