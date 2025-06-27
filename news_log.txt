@@ -723,3 +723,18 @@ Topic: Business
 Title: She started running to avoid dying young – but no workout gear fit. Now her clothing brand helps others
 URL: https://www.theguardian.com/business/2025/apr/15/concious-gear-charlotte-young-bowens-plus-size-inclusive-outdoor-vest
 
+Site: The Guardian
+Topic: Environment
+Title: ‘It looks more likely with each day we burn fossil fuels’: polar scientist on Antarctic tipping points
+URL: https://www.theguardian.com/environment/ng-interactive/2025/jun/27/tipping-points-antarctica-arctic-sea-ice-polar-scientist
+
+Site: The Guardian
+Topic: Football
+Title: Arsenal hopeful of deal to sign Valencia defender Cristhian Mosquera
+URL: https://www.theguardian.com/football/2025/jun/27/arsenal-cristhian-mosquera-valencia-defender-weah-mbangula-nottingham-forest-juventus
+
+Site: The Guardian
+Topic: Football
+Title: Bernardo Silva describes Manchester City captaincy as one of his ‘biggest honours’
+URL: https://www.theguardian.com/football/2025/jun/27/bernardo-silva-manchester-city-captaincy-biggest-honours
+
