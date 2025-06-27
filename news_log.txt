@@ -668,3 +668,18 @@ Topic: Business
 Title: Her grandpa brewed beer in his cellar in Iran. Last month she canned 30,000 brews that taste like home
 URL: https://www.theguardian.com/business/2025/mar/12/back-home-beer-new-face-of-small-busines
 
+Site: The Guardian
+Topic: Science
+Title: All babies in England to get DNA test to assess risk of diseases within 10 years
+URL: https://www.theguardian.com/science/2025/jun/20/all-babies-in-england-to-get-dna-test-to-assess-risk-of-diseases-within-10-years
+
+Site: The Guardian
+Topic: Football
+Title: Ruud van Nistelrooy leaves relegated Leicester after 27 games as manager
+URL: https://www.theguardian.com/football/2025/jun/27/ruud-van-nistelrooy-leaves-leicester-manager
+
+Site: The Guardian
+Topic: Business
+Title: Nike says Trump tariff war could cost it $1bn
+URL: https://www.theguardian.com/business/2025/jun/27/nike-says-trump-tariff-war-could-cost-it-1bn
+
