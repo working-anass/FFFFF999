@@ -858,3 +858,33 @@ Topic: Football
 Title: Women’s Euro 2025 team guides: Germany
 URL: https://www.theguardian.com/football/2025/jun/27/womens-euro-2025-team-guides-germany
 
+Site: The Guardian
+Topic: Us News
+Title: First Thing: Briefing on Iran strikes divides senators as Trump pours fuel on tensions
+URL: https://www.theguardian.com/us-news/2025/jun/27/first-thing-briefing-on-iran-strikes-divides-senators-trump-tensions
+
+Site: The Guardian
+Topic: Us News
+Title: How refugees have helped save these midwestern cities: ‘That’s really something we celebrate’
+URL: https://www.theguardian.com/us-news/2025/jun/27/refugees-midwest-cities-immigration
+
+Site: The Guardian
+Topic: Uk News
+Title: Greenham Common women urge new generation to ‘rise up’ against nuclear threat
+URL: https://www.theguardian.com/uk-news/2025/jun/27/greenham-common-women-urge-new-generation-rise-up-nuclear-threat
+
+Site: The Guardian
+Topic: Technology
+Title: Inside a plan to use AI to amplify doubts about the dangers of pollutants
+URL: https://www.theguardian.com/technology/ng-interactive/2025/jun/27/tony-cox-epidemiology-risk-assessment-chatgpt-ai
+
+Site: The Guardian
+Topic: Business
+Title: Rising poverty in conflict zones ‘causes a billion people to go hungry’
+URL: https://www.theguardian.com/business/2025/jun/27/rising-poverty-in-conflict-zones-causes-a-billion-people-to-go-hungry
+
+Site: The Guardian
+Topic: Books
+Title: Richard Flanagan: ‘When I reread Evelyn Waugh’s Scoop it had corked badly’
+URL: https://www.theguardian.com/books/2025/jun/27/richard-flanagan-when-i-reread-evelyn-waughs-scoop-it-had-corked-badly
+
