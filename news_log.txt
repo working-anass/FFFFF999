@@ -973,3 +973,13 @@ Topic: Football
 Title: Alexia Putellas: ‘The cruciate, the meniscus: you’ve closed that cycle. Done. I felt free’
 URL: https://www.theguardian.com/football/2025/jun/27/alexia-putellas-spain-womens-euro-2025-football
 
+Site: The Guardian
+Topic: Environment
+Title: Britain must acclimatise to heatwaves – and fast
+URL: https://www.theguardian.com/environment/2025/jun/27/britain-must-acclimatise-to-heatwaves-and-fast
+
+Site: The Guardian
+Topic: Business
+Title: Lotus poised to end UK sportscar production, putting 1,300 jobs at risk
+URL: https://www.theguardian.com/business/2025/jun/27/lotus-uk-production-jobs-carmaker-geely-norfolk
+
