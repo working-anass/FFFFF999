@@ -548,3 +548,13 @@ Topic: Business
 Title: She earned $20 doing laundry for a friend. Now this entrepreneur washes 7,000lb a month
 URL: https://www.theguardian.com/business/2025/may/16/laundry-basket-entrepreneur-small-business
 
+Site: The Guardian
+Topic: World
+Title: EU ready for trade deal with US but prepared to fail, says von der Leyen
+URL: https://www.theguardian.com/world/2025/jun/26/eu-leaders-to-direct-european-commission-on-response-to-us-tariffs
+
+Site: The Guardian
+Topic: Us News
+Title: New York: Adams launches re-election bid after Mamdani’s surprise primary showing
+URL: https://www.theguardian.com/us-news/2025/jun/26/eric-adams-campaign-nyc-mayor-election
+
