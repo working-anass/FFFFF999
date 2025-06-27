@@ -1048,3 +1048,8 @@ Topic: World
 Title: Trump eyes mineral wealth as Rwanda and DRC sign controversial peace deal in US
 URL: https://www.theguardian.com/world/2025/jun/27/rwanda-drc-peace-deal-us-trump-m23
 
+Site: The Guardian
+Topic: World
+Title: Revealed: Qatar's World Cup 'slaves'
+URL: https://www.theguardian.com/world/2013/sep/25/revealed-qatars-world-cup-slaves
+
