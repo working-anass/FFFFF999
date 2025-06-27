@@ -698,3 +698,28 @@ Topic: Uk News
 Title: Man who stabbed wife to death in Bradford street found guilty of murder
 URL: https://www.theguardian.com/uk-news/2025/jun/27/man-who-stabbed-wife-to-death-in-bradford-street-found-guilty-murder
 
+Site: The Guardian
+Topic: World
+Title: 18 killed in Israeli strike targeting Gaza police distributing flour, officials say
+URL: https://www.theguardian.com/world/2025/jun/27/israeli-strike-palestinian-police-distributing-aid-gaza
+
+Site: The Guardian
+Topic: Us News
+Title: Florida plan for ‘Alligator Alcatraz’ migrant jail sparks chorus of outrage
+URL: https://www.theguardian.com/us-news/2025/jun/27/florida-alligator-alcatraz-migrant-jail-outrage
+
+Site: The Guardian
+Topic: Uk News
+Title: Four people arrested after Palestine Action incident at RAF Brize Norton
+URL: https://www.theguardian.com/uk-news/2025/jun/27/four-people-arrested-raf-brize-norton-palestine-action
+
+Site: The Guardian
+Topic: Environment
+Title: Weather tracker: France hit by severe thunderstorms
+URL: https://www.theguardian.com/environment/2025/jun/27/weather-tracker-france-hit-by-severe-thunderstorms
+
+Site: The Guardian
+Topic: Business
+Title: She started running to avoid dying young – but no workout gear fit. Now her clothing brand helps others
+URL: https://www.theguardian.com/business/2025/apr/15/concious-gear-charlotte-young-bowens-plus-size-inclusive-outdoor-vest
+
