@@ -918,3 +918,8 @@ Topic: Us News
 Title: ‘Orchestrated grovel’: critics react to Europe’s attempts to tame Donald Trump
 URL: https://www.theguardian.com/us-news/2025/jun/27/critics-react-europe-donald-trump-nato-mark-rutte
 
+Site: The Guardian
+Topic: World
+Title: Suspend UK from oil oversight body over protests crackdown, say campaign groups
+URL: https://www.theguardian.com/world/2025/jun/27/suspend-uk-from-oil-oversight-body-over-protests-crackdown-say-campaign-groups
+
