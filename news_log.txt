@@ -833,3 +833,8 @@ Topic: Tv And Radio
 Title: Summer sizzlers! It’s the 20 hottest TV shows of the season
 URL: https://www.theguardian.com/tv-and-radio/2025/jun/27/summer-sizzlers-its-the-20-hottest-tv-shows-of-the-season
 
+Site: The Guardian
+Topic: Environment
+Title: The ‘silent killer’: what you need to know about heatwaves
+URL: https://www.theguardian.com/environment/2025/jun/27/the-silent-killer-what-you-need-to-know-about-heatwaves
+
