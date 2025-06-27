@@ -1,0 +1,74 @@
+# .github/workflows/news_scraper.yml
+
+name: Daily News Scraper and Dashboard Update
+
+on:
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+  # Schedule to run every 6 hours
+  schedule:
+    - cron: '0 */6 * * *' # At minute 0 past every 6th hour.
+
+jobs:
+  build-and-deploy-news-dashboard:
+    runs-on: ubuntu-latest
+
+    # Ensure only one workflow instance runs at a time for this job
+    concurrency:
+      group: news_scraper_dashboard_update
+      cancel-in-progress: true
+
+    # Permissions needed for GitHub Pages deployment and committing changes
+    permissions:
+      contents: write # To commit changes back to the repository
+      pages: write # To deploy to GitHub Pages
+      id-token: write # Required for OpenID Connect (OIDC) with GitHub Pages
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.9' # Or '3.10', '3.11' based on preference
+
+      - name: Install Python dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests beautifulsoup4
+
+      - name: Run news.py script
+        run: python news.py
+
+      - name: Configure Git
+        run: |
+          git config user.name "GitHub Actions Bot"
+          git config user.email "actions@github.com"
+
+      - name: Check for changes and commit
+        id: commit_changes
+        run: |
+          git add news_log.txt news_dashboard.html scraped_articles_raw_text/ article_pages/
+          # Check if there are any pending changes to commit
+          if git diff --cached --exit-code; then
+            echo "No changes to commit. Skipping commit step."
+            echo "committed=false" >> $GITHUB_OUTPUT
+          else
+            git commit -m "Automated: Update news dashboard and scraped articles"
+            git push
+            echo "Committed and pushed changes."
+            echo "committed=true" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Upload artifact for GitHub Pages
+        # Only run this step if changes were committed
+        if steps.commit_changes.outputs.committed == 'true' || always() # always() ensures it runs for initial setup/testing
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: . # Upload the entire repository root as the artifact
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
