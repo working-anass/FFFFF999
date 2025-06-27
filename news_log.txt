@@ -573,3 +573,8 @@ Topic: Football
 Title: Football transfer rumours: Arsenal and Spurs to battle for Eberechi Eze?
 URL: https://www.theguardian.com/football/2025/jun/27/football-transfer-rumours-arsenal-tottenham-eberechi-eze
 
+Site: The Guardian
+Topic: World
+Title: Alarm raised over slow pace of payouts to UK veterans fired over sexuality
+URL: https://www.theguardian.com/world/2025/jun/27/alarm-raised-over-slow-pace-of-payouts-to-uk-veterans-fired-over-sexuality
+
