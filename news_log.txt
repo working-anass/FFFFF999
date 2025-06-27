@@ -1053,3 +1053,8 @@ Topic: World
 Title: Revealed: Qatar's World Cup 'slaves'
 URL: https://www.theguardian.com/world/2013/sep/25/revealed-qatars-world-cup-slaves
 
+Site: The Guardian
+Topic: Us News
+Title: Liberal supreme court justices’ dissents reveal concerns that the US faces a crisis
+URL: https://www.theguardian.com/us-news/2025/jun/27/us-supreme-court-dissents
+
