@@ -898,3 +898,13 @@ Topic: Technology
 Title: Ex-Doge employee ‘Big Balls’ gets new Trump administration position
 URL: https://www.theguardian.com/technology/2025/jun/27/doge-big-balls-trump-administration
 
+Site: The Guardian
+Topic: Us News
+Title: US supreme court rules key provision of Obamacare constitutional
+URL: https://www.theguardian.com/us-news/2025/jun/27/supreme-court-obamacare-aca-decision-case
+
+Site: The Guardian
+Topic: Us News
+Title: US supreme court rules schools must let kids opt out of LGBTQ+ book readings
+URL: https://www.theguardian.com/us-news/2025/jun/27/supreme-court-lgbt-book-ban-case-ruling
+
