@@ -1023,3 +1023,18 @@ Topic: Business
 Title: M&S boss slams ‘bureaucratic madness’ of products requiring ‘not for EU’ labels
 URL: https://www.theguardian.com/business/2025/jun/27/ms-boss-slams-bureaucratic-madness-of-products-requiring-not-for-eu-labels
 
+Site: The Guardian
+Topic: World
+Title: US says Haitians can be deported – days after ruling Haiti unsafe for Americans
+URL: https://www.theguardian.com/world/2025/jun/27/haiti-temporary-protected-status-us-immigration
+
+Site: The Guardian
+Topic: Us News
+Title: Trump says he is ending Canada trade talks amid tech tax dispute
+URL: https://www.theguardian.com/us-news/2025/jun/27/trump-canada-tariffs-trade-tax
+
+Site: The Guardian
+Topic: Football
+Title: An oral history of England’s Euro 2022 triumph: ‘It was an out-of-body experience’
+URL: https://www.theguardian.com/football/ng-interactive/2025/jun/27/an-oral-history-of-england-euro-2022-triumph
+
