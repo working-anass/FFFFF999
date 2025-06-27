@@ -1,0 +1,51 @@
+Site: The Guardian
+Title: Trump’s tax bill seeks to prevent AI regulations. Experts fear a heavy toll on the planet
+URL: https://www.theguardian.com/technology/2025/jun/27/trump-tax-bill-ai-climate-emissions
+
+U S Republicans are pushing to pass a major spending bill that includes provisions to prevent states from enacting regulations on artificial intelligence. Such untamed growth in AI will take a heavy toll upon the world’s dangerously overheating climate, experts have warned.
+
+About 1bn tons of planet-heating carbon dioxide are set to be emitted in the US just from AI over the next decade if no restraints are placed on the industry’s enormous electricity consumption, according to estimates by researchers at Harvard University and provided to the Guardian.
+
+This 10-year timeframe, a period of time in which Republicans want a “pause” of state-level regulations upon AI, will see so much electricity use in data centers for AI purposes that the US will add more greenhouse gases to the atmosphere than Japan does annually , or three times the yearly total from the UK.
+
+The exact amount of emissions will depend on power plant efficiency and how much clean energy will be used in the coming years, but the blocking of regulations will also be a factor, said Gianluca Guidi, visiting scholar at the Harvard TH Chan School of Public Health.
+
+“ By limiting oversight, it could slow the transition away from fossil fuels and reduce incentives for more energy-efficient AI energy reliance,” Guidi said.
+
+“ We talk a lot about what AI can do for us, but not nearly enough about what it’s doing to the planet. If we’re serious about using AI to improve human wellbeing, we can’t ignore the growing toll it’s taking on climate stability and public health.”
+
+Donald Trump has vowed that the US will become “the world capital of artificial intelligence and crypto” and has set about sweeping aside guardrails around AI development and demolishing rules limiting greenhouse gas pollution .
+
+The “big beautiful” reconciliation bill passed by Republicans in the House of Representatives would bar states from adding their own regulations upon AI and the GOP-controlled Senate is poised to pass its own version doing likewise.
+
+Unrestricted AI use is set to deal a sizable blow to efforts to tackle the climate crisis, though, by causing surging electricity use from a US grid still heavily reliant upon fossil fuels such as gas and coal. AI is particularly energy-hungry – one ChatGPT query needs about 10 times as much electricity as a Google search query.
+
+Carbon emissions from data centers in the US have tripled since 2018, with an upcoming Harvard research paper finding that the largest “hyperscale” centers now account for 2% of all US electricity use.
+
+“AI is going to change our world,” Manu Asthana, chief executive of the PJM Interconnection, the US largest grid, has predicted . Asthana estimated that almost all future increase in electricity demand will come from data centers, adding the equivalent of 20m new homes to the grid in the next five years.
+
+The explosive growth of AI has, meanwhile, worsened the recent erosion in climate commitments made by big tech companies. Last year, Google admitted that its greenhouse gas emissions have grown by 48% since 2019 due to its own foray into AI, meaning that “reducing emissions may be challenging” as AI further takes hold.
+
+Proponents of AI, and some researchers , have argued that advances in AI will aid the climate fight by increasing efficiencies in grid management and other improvements. Others are more skeptical. “That is just a greenwashing maneuver, quite transparently,” said Alex Hanna, director of research at the Distributed AI Research Institute. “There have been some absolutely nonsense things said about this. Big tech is mortgaging the present for a future that will never come.”
+
+While no state has yet placed specific green rules upon AI, they may look to do so given cuts to federal environmental regulations, with state lawmakers urging Congress to rethink the ban. “If we were expecting any rule-making at the federal level around data centers it’s surely off the table now,” said Hanna. “It’s all been quite alarming to see.”
+
+Republican lawmakers are undeterred, however. The proposed moratorium cleared a major hurdle over the weekend when the Senate parliamentarian decided that the proposed ban on state and local regulation of AI can remain in Trump’s tax and spending mega-bill. The Texas senator Ted Cruz, the Republican who chairs the Senate committee on commerce, science and transportation, changed the language to comply with the Byrd Rule, which prohibits “extraneous matters” from being included in such spending bills.
+
+The provision now refers to a “temporary pause” on regulation instead of a moratorium. It also includes a $500m addition to a grant program to expand access to broadband internet across the country, preventing states from receiving those funds if they attempt to regulate AI.
+
+The proposed AI regulation pause has provoked widespread concern from Democrats. The Massachusetts senator Ed Markey, a climate hawk, says he has prepared an amendment to strip the “dangerous” provision from the bill.
+
+“The rapid development of artificial intelligence is already impacting our environment, raising energy prices for consumers, straining our grid’s ability to keep the lights on, draining local water supplies, spewing toxic pollution in communities, and increasing climate emissions,” Markey told the Guardian.
+
+“However, instead of allowing states to protect the public and our planet, Republicans want to ban them from regulating AI for 10 years. It is shortsighted and irresponsible.”
+
+The Massachusetts congressman Jake Auchincloss has also called the proposal “a terrible idea and an unpopular idea”.
+
+“I think we have to realize that AI is going to suffuse in rapid order many dimensions of healthcare, media, entertainment, education, and to just proscribe any regulation of AI in any use case for the next decade is unbelievably reckless,” he said.
+
+Some Republicans have also come out against the provision, including the Tennessee senator Marsha Blackburn and the Missouri senator Josh Hawley. An amendment to remove the pause from the bill would require the support of at least four Republican senators to pass.
+
+Hawley is said to be willing to introduce an amendment to remove the provision later this week if it is not eliminated beforehand.
+
+Earlier this month, the Georgia congresswoman Marjorie Taylor Greene admitted she had missed the provision in the House version of the bill, and that she would not have backed the legislation if she had seen it. The far-right House Freedom caucus, of which Greene is a member, has also come out against the AI regulation pause.

@@ -748,3 +748,13 @@ Topic: Us News
 Title: Iranian woman, who has lived in US for 47 years, taken by Ice while gardening
 URL: https://www.theguardian.com/us-news/2025/jun/27/ice-detains-woman-iran-new-orleans
 
+Site: The Guardian
+Topic: Technology
+Title: Trump’s tax bill seeks to prevent AI regulations. Experts fear a heavy toll on the planet
+URL: https://www.theguardian.com/technology/2025/jun/27/trump-tax-bill-ai-climate-emissions
+
+Site: The Guardian
+Topic: Business
+Title: Sky sells German pay-TV business to RTL for €150m
+URL: https://www.theguardian.com/business/2025/jun/27/sky-sells-german-pay-tv-business-to-rtl
+
