@@ -8,7 +8,8 @@ on:
 
   # Schedule to run every 15 minutes for closer to real-time updates
   schedule:
-    - cron: '0 */6 * * *
+    - cron: '*/15 * * * *' # At every 15th minute.
+
 jobs:
   run-and-commit-news-updates:
     runs-on: ubuntu-latest
