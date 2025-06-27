@@ -493,3 +493,8 @@ Topic: Business
 Title: Norway’s €19bn software company Visma picks London for IPO
 URL: https://www.theguardian.com/business/2025/jun/26/norways-19bn-software-company-visma-picks-london-for-ipo
 
+Site: The Guardian
+Topic: Football
+Title: ‘A bit like a new era’: Lauren James on England’s Euro 2025 ambitions
+URL: https://www.theguardian.com/football/2025/jun/26/lauren-james-interview-england-euro-2025-chelsea
+
