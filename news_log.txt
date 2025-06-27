@@ -923,3 +923,13 @@ Topic: World
 Title: Suspend UK from oil oversight body over protests crackdown, say campaign groups
 URL: https://www.theguardian.com/world/2025/jun/27/suspend-uk-from-oil-oversight-body-over-protests-crackdown-say-campaign-groups
 
+Site: The Guardian
+Topic: Us News
+Title: Gavin Newsom sues Fox News for defamation and demands $787m
+URL: https://www.theguardian.com/us-news/2025/jun/27/gavin-newsom-fox-lawsuit-trump
+
+Site: The Guardian
+Topic: Football
+Title: Brentford confirm Keith Andrews to succeed Thomas Frank as head coach
+URL: https://www.theguardian.com/football/2025/jun/27/brentford-confirm-keith-andrews-head-coach-appointed
+
