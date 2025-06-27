@@ -693,3 +693,8 @@ Topic: Environment
 Title: Wreckers, money woes and mutirão: 10 things we learned about Cop30 from Bonn climate talks
 URL: https://www.theguardian.com/environment/2025/jun/27/cop30-10-things-we-learned-from-bonn-climate-talks
 
+Site: The Guardian
+Topic: Uk News
+Title: Man who stabbed wife to death in Bradford street found guilty of murder
+URL: https://www.theguardian.com/uk-news/2025/jun/27/man-who-stabbed-wife-to-death-in-bradford-street-found-guilty-murder
+
