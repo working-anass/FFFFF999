@@ -838,3 +838,23 @@ Topic: Environment
 Title: The ‘silent killer’: what you need to know about heatwaves
 URL: https://www.theguardian.com/environment/2025/jun/27/the-silent-killer-what-you-need-to-know-about-heatwaves
 
+Site: The Guardian
+Topic: World
+Title: Ottawa ‘urgently seeking more information’ about death of Canadian citizen in Ice custody
+URL: https://www.theguardian.com/world/2025/jun/27/canada-citizen-death-ice-custody
+
+Site: The Guardian
+Topic: Uk News
+Title: Man jailed for 40 years for sword murder of London boy Daniel Anjorin
+URL: https://www.theguardian.com/uk-news/2025/jun/27/man-jailed-for-40-years-for-sword-murder-london-boy-daniel-anjorin
+
+Site: The Guardian
+Topic: Global Development
+Title: ‘I begged them, my daughter was dying’: how Taliban male escort rules are killing mothers and babies
+URL: https://www.theguardian.com/global-development/2025/apr/03/i-begged-them-my-daughter-was-dying-how-taliban-male-escort-rules-are-killing-mothers-and-babies
+
+Site: The Guardian
+Topic: Football
+Title: Women’s Euro 2025 team guides: Germany
+URL: https://www.theguardian.com/football/2025/jun/27/womens-euro-2025-team-guides-germany
+
