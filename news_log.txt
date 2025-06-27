@@ -498,3 +498,43 @@ Topic: Football
 Title: ‘A bit like a new era’: Lauren James on England’s Euro 2025 ambitions
 URL: https://www.theguardian.com/football/2025/jun/26/lauren-james-interview-england-euro-2025-chelsea
 
+Site: The Guardian
+Topic: Uk News
+Title: Black children arrested in London ‘15% more likely to be criminalised’ than white children
+URL: https://www.theguardian.com/uk-news/2025/jun/27/black-children-arrested-london-more-likely-criminalised-than-white-children
+
+Site: The Guardian
+Topic: Uk News
+Title: Local bus services in England still declining despite investment – report
+URL: https://www.theguardian.com/uk-news/2025/jun/27/local-bus-services-england-national-audit-office-report
+
+Site: The Guardian
+Topic: Environment
+Title: How farm fires intensify Delhi’s post-monsoon smog problem
+URL: https://www.theguardian.com/environment/2025/jun/27/pollutionwatch-fires-delhi-post-monsoon-smog-air
+
+Site: The Guardian
+Topic: Environment
+Title: EU rollback on environmental policy is gaining momentum, warn campaigners
+URL: https://www.theguardian.com/environment/2025/jun/26/eu-rollback-on-environmental-policy-deregulation-european-green-deal
+
+Site: The Guardian
+Topic: Science
+Title: Can you solve it? Is “yes” the answer to this question?
+URL: https://www.theguardian.com/science/2025/jun/23/can-you-solve-it-is-yes-the-answer-to-this-question
+
+Site: The Guardian
+Topic: Global Development
+Title: Gender equality stalling or going backwards for 1bn women and girls
+URL: https://www.theguardian.com/global-development/article/2024/sep/04/gender-equality-stalling-or-going-backwards-for-1bn-women-and-girls
+
+Site: The Guardian
+Topic: Global Development
+Title: Revealed: 6,500 migrant workers have died in Qatar since World Cup awarded
+URL: https://www.theguardian.com/global-development/2021/feb/23/revealed-migrant-worker-deaths-qatar-fifa-world-cup-2022
+
+Site: The Guardian
+Topic: Music
+Title: ‘We just want to stop people being murdered’: Kneecap on Palestine, protest and provocation
+URL: https://www.theguardian.com/music/2025/jun/27/kneecap-on-palestine-protest-and-their-satirical-intent
+
