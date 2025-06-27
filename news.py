@@ -96,11 +96,12 @@ ARTICLE_PAGES_DIR = "article_pages"
 ARTICLE_IMAGES_DIR = os.path.join(ARTICLE_PAGES_DIR, "images") # Subdirectory for downloaded images
 HTML_DASHBOARD_FILE = "news_dashboard.html"
 
-CHECK_INTERVAL_SECONDS = 300 # IMPORTANT: Set to 5 minutes to be polite to servers
-ARTICLE_SCRAPE_DELAY_SECONDS = 5 # Delay between scraping individual articles
+# CHECK_INTERVAL_SECONDS is now handled by GitHub Actions schedule, no longer needed for internal loop
+# ARTICLE_SCRAPE_DELAY_SECONDS remains for polite scraping of individual articles
+ARTICLE_SCRAPE_DELAY_SECONDS = 5
 
 HEADERS = {
-    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
+    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0); Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
 }
 
 # --- Global variables ---
@@ -331,13 +332,6 @@ def process_article_content(site_name, title, url, raw_text_dir, content_body_se
                         break
                 if content_start_index != -1:
                     full_content_raw = "".join(content_lines[content_start_index:])
-                    # For HTML, assume content in raw file is already escaped text
-                    # and wrap in paragraphs. If it contained HTML, it would be treated as literal text.
-                    # This is a simplification; for existing files with complex HTML, re-parsing might be needed.
-                    # Re-parsing is safer here to handle images, etc.
-                    # This path will not reconstruct HTML with local image paths etc.
-                    # So, if file exists, we still need to potentially re-process or store HTML alongside raw.
-                    # For simplicity, for existing raw text files, we'll just extract snippet.
                     
                     snippet_lines = [p.strip() for p in full_content_raw.split('\n\n') if p.strip()][:3]
                     snippet = " ".join(snippet_lines).strip()
@@ -346,13 +340,6 @@ def process_article_content(site_name, title, url, raw_text_dir, content_body_se
                     elif not snippet and raw_content_lines:
                         snippet = raw_content_lines[0].strip()
                     
-                    # For a robust solution, if raw text exists, we'd need to either:
-                    # 1. Store the full_content_html_formatted alongside raw_text
-                    # 2. Re-parse the original HTML page to reconstruct formatted HTML (less efficient)
-                    # For now, we'll just return raw and an empty formatted HTML, forcing full re-scrape if needed.
-                    # Or, better, if raw exists, just proceed to scrape to get full_content_html_formatted
-                    # A better approach for the dashboard would be to always re-generate the article's HTML page,
-                    # but only re-scrape if raw_text doesn't exist.
                     pass # Let the code below handle scraping for full content and HTML generation
 
         print(f"Fetching full content for: {title} from {site_name} ({url})")
@@ -1013,18 +1000,16 @@ if __name__ == "__main__":
     # Load previously seen articles to avoid re-processing
     load_seen_articles(MAIN_NEWS_LOG)
 
-    print(f"Starting news monitor for multiple websites. Checking all configured sections every {CHECK_INTERVAL_SECONDS} second(s).")
+    print(f"Starting news monitor for multiple websites. This will run once per GitHub Actions trigger.")
     print(f"Raw article texts will be saved in '{ARTICLES_RAW_TEXT_DIR}' directory.")
     print(f"Individual article HTML pages (with images) will be saved in '{ARTICLE_PAGES_DIR}' directory.")
     print(f"The main HTML dashboard will be updated in '{HTML_DASHBOARD_FILE}'.")
-    print("Press Ctrl+C to stop.")
 
     try:
-        while True:
-            monitor_news_websites()
-            print(f"\nFinished checking all websites. Waiting {CHECK_INTERVAL_SECONDS} seconds before next cycle.")
-            time.sleep(CHECK_INTERVAL_SECONDS)
+        monitor_news_websites() # Run the monitoring function once
+        print("\nFinished checking all websites for this run. Exiting script.")
     except KeyboardInterrupt:
-        print("\nNews monitoring stopped by user.")
+        print("\nNews monitoring stopped by user.") # This block is now less likely to be hit in GH Actions
     finally:
-        print("Exiting.")
+        print("Script execution completed.")
+
