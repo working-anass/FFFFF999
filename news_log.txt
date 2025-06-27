@@ -758,3 +758,13 @@ Topic: Business
 Title: Sky sells German pay-TV business to RTL for €150m
 URL: https://www.theguardian.com/business/2025/jun/27/sky-sells-german-pay-tv-business-to-rtl
 
+Site: The Guardian
+Topic: Uk News
+Title: UK launched huge operation to find suspected Russian double agent in MI6
+URL: https://www.theguardian.com/uk-news/2025/jun/27/uk-spy-operation-wedlock-suspected-russian-double-agent-mi6
+
+Site: The Guardian
+Topic: Science
+Title: UK online pharmacies face stricter rules for sales of weight-loss jabs
+URL: https://www.theguardian.com/science/2025/feb/04/uk-online-pharmacies-rules-wegovy-mounjaro-ozempic
+
