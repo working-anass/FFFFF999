@@ -1038,3 +1038,8 @@ Topic: Football
 Title: An oral history of England’s Euro 2022 triumph: ‘It was an out-of-body experience’
 URL: https://www.theguardian.com/football/ng-interactive/2025/jun/27/an-oral-history-of-england-euro-2022-triumph
 
+Site: The Guardian
+Topic: Us News
+Title: Colorado funeral home owner sentenced to 20 years for fraud
+URL: https://www.theguardian.com/us-news/2025/jun/27/colorado-funeral-home-owner-sentencing
+
