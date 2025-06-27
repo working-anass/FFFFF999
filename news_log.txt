@@ -933,3 +933,33 @@ Topic: Football
 Title: Brentford confirm Keith Andrews to succeed Thomas Frank as head coach
 URL: https://www.theguardian.com/football/2025/jun/27/brentford-confirm-keith-andrews-head-coach-appointed
 
+Site: The Guardian
+Topic: World
+Title: IDF opens inquiry into possible war crimes after deaths near Gaza aid sites
+URL: https://www.theguardian.com/world/2025/jun/27/idf-opens-inquiry-into-possible-war-crimes-after-deaths-near-gaza-aid-sites
+
+Site: The Guardian
+Topic: Environment
+Title: Albanese will need to resolve the standoff with Turkey if Australia is to host Cop31
+URL: https://www.theguardian.com/environment/2025/jun/28/albanese-will-need-to-resolve-the-standoff-with-turkey-if-australia-is-to-host-cop31
+
+Site: The Guardian
+Topic: Science
+Title: Public trust in science has been eroded, from Covid-19 to climate
+URL: https://www.theguardian.com/science/2025/jun/27/public-trust-in-science-has-been-eroded-from-covid-19-to-climate
+
+Site: The Guardian
+Topic: Global Development
+Title: What it’s really like … to know I’m going to miss my Harvard graduation because of Trump’s travel ban
+URL: https://www.theguardian.com/global-development/2025/jun/20/missing-harvard-graduation-trump-travel-ban
+
+Site: The Guardian
+Topic: Football
+Title: The weird, wonderful and woeful from a stormy Club World Cup
+URL: https://www.theguardian.com/football/2025/jun/27/football-daily-newsletter-club-world-cup-highlights-group-stage
+
+Site: The Guardian
+Topic: Technology
+Title: Google’s emissions up 51% as AI electricity demand derails efforts to go green
+URL: https://www.theguardian.com/technology/2025/jun/27/google-emissions-ai-electricity-demand-derail-efforts-green
+
