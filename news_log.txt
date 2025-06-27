@@ -618,3 +618,23 @@ Topic: Football
 Title: Women’s Euro 2025 team guides: Denmark
 URL: https://www.theguardian.com/football/2025/jun/27/womens-euro-2025-team-guides-denmark
 
+Site: The Guardian
+Topic: Uk News
+Title: ‘There’s probably worse places’: Bognor Regis back at bottom of UK seaside rankings
+URL: https://www.theguardian.com/uk-news/2025/jun/27/bognor-regis-back-at-bottom-of-uk-seaside-rankings-which
+
+Site: The Guardian
+Topic: Football
+Title: European Under-21s: 10 standout players at the tournament in Slovakia
+URL: https://www.theguardian.com/football/who-scored-blog/2025/jun/27/under-21s-euros-standout-players-england-germany-harvey-elliott-nick-woltemade
+
+Site: The Guardian
+Topic: Football
+Title: Africa aims to lift standards and retain talent after Club World Cup wipeout
+URL: https://www.theguardian.com/football/2025/jun/27/africa-club-world-cup-fifpro-union-chief
+
+Site: The Guardian
+Topic: Food
+Title: ‘Barberry and saffron’: bakery startup bringing a taste of Iran to Brooklyn
+URL: https://www.theguardian.com/food/2024/oct/15/iranian-bakery-brooklyn-bibi-hbk
+
