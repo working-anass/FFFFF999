@@ -648,3 +648,18 @@ Topic: Environment
 Title: UK schools and offices not equipped for impact of global heating, report warns
 URL: https://www.theguardian.com/environment/2025/jun/26/uk-care-homes-schools-and-offices-not-equipped-to-deal-with-global-heating
 
+Site: The Guardian
+Topic: Environment
+Title: Grizzly with checkered past swims miles to Canadian island – and prompts a row
+URL: https://www.theguardian.com/environment/2025/jun/27/canada-british-columbia-texada-island-grizzly
+
+Site: The Guardian
+Topic: Science
+Title: Did you solve it? Is “yes” the answer to this question?
+URL: https://www.theguardian.com/science/2025/jun/23/did-you-solve-it-is-yes-the-answer-to-this-question
+
+Site: The Guardian
+Topic: Global Development
+Title: Too scared to go to hospital: the pregnant women in Dominican Republic dying because of deportation fears
+URL: https://www.theguardian.com/global-development/2025/jun/27/pregnant-women-dominican-republic-deportations-haiti-migrant-crackdown-new-mothers
+
