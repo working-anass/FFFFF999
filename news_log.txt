@@ -593,3 +593,13 @@ Topic: Business
 Title: Period drama: Here We Flo pulls ‘plastic-free’ pledge amid row over green claims
 URL: https://www.theguardian.com/business/2025/jun/27/here-we-flo-plastic-free-period-care-mooncup
 
+Site: The Guardian
+Topic: Uk News
+Title: London’s often unruly and overpriced pedicabs to be regulated
+URL: https://www.theguardian.com/uk-news/2025/jun/26/london-pedicabs-to-be-regulated-amid-public-concern-over-safety-noise-and-cost
+
+Site: The Guardian
+Topic: Business
+Title: Growing signs of slowdown in UK jobs market, says Bank of England governor
+URL: https://www.theguardian.com/business/2025/jun/26/growing-signs-slowdown-uk-jobs-market-bank-of-england-governor
+
