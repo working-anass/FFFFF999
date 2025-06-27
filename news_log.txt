@@ -768,3 +768,38 @@ Topic: Science
 Title: UK online pharmacies face stricter rules for sales of weight-loss jabs
 URL: https://www.theguardian.com/science/2025/feb/04/uk-online-pharmacies-rules-wegovy-mounjaro-ozempic
 
+Site: The Guardian
+Topic: Wellness
+Title: Don’t rinse raw chicken: nine food safety tips from microbiologists
+URL: https://www.theguardian.com/wellness/2025/jun/05/how-to-avoid-food-poisoning-microbiologists-tips
+
+Site: The Guardian
+Topic: Uk News
+Title: Digested week: It’s summer, and I am a burnt smorgasbord for every bug
+URL: https://www.theguardian.com/uk-news/2025/jun/27/digested-week-its-summer-and-i-am-a-burnt-smorgasbord-for-every-bug
+
+Site: The Guardian
+Topic: Global Development
+Title: Dominican Republic deports pregnant women in ‘inhumane’ migrant crackdown
+URL: https://www.theguardian.com/global-development/2025/apr/29/pregnant-women-deported-dominican-republic-migration-crackdown-haiti
+
+Site: The Guardian
+Topic: Football
+Title: Fernández finally flourishing with Chelsea as Benfica reunion awaits
+URL: https://www.theguardian.com/football/2025/jun/27/fernandez-finally-flourishing-with-chelsea-as-benfica-reunion-awaits
+
+Site: The Guardian
+Topic: Football
+Title: Brazilian teams have excelled at the Club World Cup. How far can they go?
+URL: https://www.theguardian.com/football/2025/jun/27/brazilian-teams-club-world-cup-flamengo-botafogo-palmeiras-fluminense
+
+Site: The Guardian
+Topic: Business
+Title: Grilled cheese shop offers Minnesotans a second chance after prison
+URL: https://www.theguardian.com/business/2025/jun/14/all-square-minneapolis-formerly-incarcerated-staff
+
+Site: The Guardian
+Topic: Music
+Title: PP Arnold on her star-studded life in music: ‘Peter Gabriel and I used to hang upside down in gravity boots’
+URL: https://www.theguardian.com/music/2025/jun/27/pp-arnold-reader-interview-glastonbury
+
