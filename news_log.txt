@@ -1103,3 +1103,23 @@ Topic: Football
 Title: Spain’s Aitana Bonmatí admitted to hospital with viral meningitis
 URL: https://www.theguardian.com/football/2025/jun/27/spains-aitana-bonmati-admitted-to-hospital-with-viral-meningitis
 
+Site: The Guardian
+Topic: World
+Title: From outlaw bushrangers who fell in love to a famous horseman born a woman, Australia’s history is full of queer stories
+URL: https://www.theguardian.com/world/2025/jun/28/australian-history-is-full-of-queer-stories
+
+Site: The Guardian
+Topic: Music
+Title: Sean ‘Diddy’ Combs and son Justin accused of rape in new US lawsuit
+URL: https://www.theguardian.com/music/2025/jun/27/sean-diddy-combs-son-justin-lawsuit
+
+Site: The Guardian
+Topic: Global Development
+Title: ‘Mother of all battles’: terror for Mexicans as war rages inside Sinaloa cartel
+URL: https://www.theguardian.com/global-development/2024/dec/12/mexico-sinaloa-cartel-war
+
+Site: The Guardian
+Topic: Us News
+Title: US attacks on Iran redraw calculus of use of force for allies and rivals around globe
+URL: https://www.theguardian.com/us-news/2025/jun/27/trump-iran-attacks-global-impact
+
