@@ -1183,3 +1183,13 @@ Topic: Liveblog
 Title: Outrage over report Israeli soldiers ‘ordered’ to shoot aid seekers in Gaza
 URL: https://www.aljazeera.com/news/liveblog/2025/6/28/live-outrage-over-report-israeli-troops-ordered-to-shoot-gaza-aid-seekers
 
+Site: The Guardian
+Topic: Us News
+Title: US charges 11 people in Russia-based scheme to bilk Medicare of $10bn
+URL: https://www.theguardian.com/us-news/2025/jun/28/us-charges-11-people-in-russia-based-scheme-to-bilk-medicare-of-10bn
+
+Site: The Guardian
+Topic: Lifeandstyle
+Title: Blind date: ‘He told me off for looking at my phone’
+URL: https://www.theguardian.com/lifeandstyle/2025/jun/28/blind-date-tope-eden
+
