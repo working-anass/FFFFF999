@@ -1258,3 +1258,8 @@ Topic: Global Development
 Title: South Africa is at the heart of the HIV pandemic. What happens now the money has been cut?
 URL: https://www.theguardian.com/global-development/2025/jun/17/hiv-aids-south-africa-despair-trump-us-cuts-pepfar-clinics-sex-workers-trans-drug-users
 
+Site: The Guardian
+Topic: Artanddesign
+Title: Welcome to the Ministry of Happiness! Glastonbury kicks off for 2025 – photo essay
+URL: https://www.theguardian.com/artanddesign/2025/jun/28/glastonbury-photo-essay
+
