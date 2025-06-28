@@ -1423,3 +1423,8 @@ Topic: Music
 Title: Kneecap lead anti-Keir Starmer chant during politically charged Glastonbury set
 URL: https://www.theguardian.com/music/2025/jun/28/kneecap-lead-anti-keir-starmer-chant-during-politically-charged-glastonbury-set
 
+Site: The Guardian
+Topic: World
+Title: Tens of thousands defy Hungary’s ban on Pride in protest against Orbán
+URL: https://www.theguardian.com/world/2025/jun/28/tens-of-thousands-defy-hungarys-ban-on-pride-in-protest-against-orban
+
