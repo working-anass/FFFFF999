@@ -1153,3 +1153,8 @@ Topic: Uk News
 Title: Only admirals get to use the green pen
 URL: https://www.theguardian.com/uk-news/2025/jun/26/only-admirals-get-to-use-the-green-pen
 
+Site: The Guardian
+Topic: Football
+Title: Enzo Maresca intent on resisting interest in Chelsea defender Josh Acheampong
+URL: https://www.theguardian.com/football/2025/jun/28/chelsea-enzo-maresca-josh-acheampong-club-world-cup
+
