@@ -1143,3 +1143,13 @@ Topic: Football
 Title: Four things we learned from the USMNT’s Gold Cup group stage
 URL: https://www.theguardian.com/football/2025/jun/27/usmnt-gold-cup-group-stage-lessons-pochettino
 
+Site: The Guardian
+Topic: Us News
+Title: Federal agents blast way into California home of woman and small children
+URL: https://www.theguardian.com/us-news/2025/jun/27/california-home-raid-huntington-park
+
+Site: The Guardian
+Topic: Uk News
+Title: Only admirals get to use the green pen
+URL: https://www.theguardian.com/uk-news/2025/jun/26/only-admirals-get-to-use-the-green-pen
+
