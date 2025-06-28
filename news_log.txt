@@ -1273,3 +1273,13 @@ Topic: Uk News
 Title: Calling someone a ‘Karen’ is ‘borderline racist, sexist and ageist’, tribunal says
 URL: https://www.theguardian.com/uk-news/2025/jun/28/calling-someone-a-karen-is-borderline-racist-sexist-and-ageist-tribunal-says
 
+Site: The Guardian
+Topic: Society
+Title: ‘Unless you see it, you can’t believe how bad it is’: the peer demanding a minister for porn
+URL: https://www.theguardian.com/society/2025/jun/28/conservative-peer-demanding-minister-for-porn-gabby-bertin
+
+Site: The Guardian
+Topic: Us News
+Title: Home discomforts send Trump rushing to project image of global patriarch
+URL: https://www.theguardian.com/us-news/2025/jun/28/trump-domestic-foreign-policy
+
