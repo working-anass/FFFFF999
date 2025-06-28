@@ -1173,3 +1173,13 @@ Topic: Global Development
 Title: The global south needs more than tinkering at a conference: debt forgiveness is the only fair way
 URL: https://www.theguardian.com/global-development/2025/jun/28/the-global-south-needs-more-than-tinkering-at-a-conference-debt-forgiveness-is-the-only-fair-way
 
+Site: The Guardian
+Topic: World
+Title: Budapest Pride expected to be a rallying cry against Orbán’s rollback of rights
+URL: https://www.theguardian.com/world/2025/jun/28/budapest-pride-rallying-cry-orban-rollback-of-rights
+
+Site: Al Jazeera
+Topic: Liveblog
+Title: Outrage over report Israeli soldiers ‘ordered’ to shoot aid seekers in Gaza
+URL: https://www.aljazeera.com/news/liveblog/2025/6/28/live-outrage-over-report-israeli-troops-ordered-to-shoot-gaza-aid-seekers
+
