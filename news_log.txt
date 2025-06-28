@@ -1253,3 +1253,8 @@ Topic: World
 Title: Denmark and Sweden’s Øresund bridge turns 25: have the benefits run in both directions?
 URL: https://www.theguardian.com/world/2025/jun/28/denmark-and-swedens-resund-bridge-turns-25-have-the-benefits-run-in-both-directions
 
+Site: The Guardian
+Topic: Global Development
+Title: South Africa is at the heart of the HIV pandemic. What happens now the money has been cut?
+URL: https://www.theguardian.com/global-development/2025/jun/17/hiv-aids-south-africa-despair-trump-us-cuts-pepfar-clinics-sex-workers-trans-drug-users
+
