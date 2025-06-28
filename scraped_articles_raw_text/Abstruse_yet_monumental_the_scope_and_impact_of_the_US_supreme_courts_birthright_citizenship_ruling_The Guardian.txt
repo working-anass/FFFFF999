@@ -1,0 +1,55 @@
+Site: The Guardian
+Title: Abstruse yet monumental: the scope and impact of the US supreme court’s birthright citizenship ruling
+URL: https://www.theguardian.com/us-news/2025/jun/28/supreme-court-birthright-citizenship
+
+T he US supreme court opinion on Friday in a case challenging Donald Trump ’s attempt to unilaterally end the country’s longstanding tradition of birthright citizenship doesn’t actually rule on the constitutionality of the president’s order.
+
+That question – of whether the president can do away with a right guaranteed by the the fourteenth amendment to the US constitution – is still being debated in the lower courts. Instead, the supreme court focused on the question of whether individual district court judges could block federal policies nationwide.
+
+The decision is both abstruse and monumental, experts say. It doesn’t immediately change anything about how citizenship is granted in the US, and it profoundly shifts the ways in which the federal courts work.
+
+To help understand the implications of the ruling, the Guardian spoke with Efrén Olivares, vice-president of litigation and legal strategy at the National Immigration Law Center, a non-profit advocacy group.
+
+The interview has been edited for length and clarity.
+
+First, what exactly does the supreme court’s ruling mean, today, for immigrants across the US who are expecting parents?
+
+The immediate impact is null. The supreme court explicitly said for the next 30 days, the executive order ending birthright citizenship will not go into effect. The right to citizenship by birth in the United States continues. Anyone born today, tomorrow, next week, two weeks from now in the US will be a citizen.
+
+We can anticipate that before those 30 days run out, there will be another ruling from one of the trial courts or district courts that will shed more light on this issue long-term.
+
+Does this mean that states and immigrant rights’ groups that have sued over Trump’s executive order denying birthright citizenship to the children of undocumented immigrants and foreign visitors will have to change how they are challenging the policy?
+
+There were three lawsuits filed on behalf of individuals and organizations against this executive order. All three were seeking to enjoin – which means stop – the enforcement of this executive order. Because it’s an executive order of national scope, the rulings of the lower courts in these cases were national in scope, right?
+
+Then, the supreme court chimed in and said that is inappropriate for a court to block a policy nationwide, and that a court’s ruling should only apply to the plaintiffs or parties right in front of them.
+
+So now, those challenging the order may move to seek a class certification, essentially to pursue a class-action lawsuit.
+
+Already, the immigration aid groups Casa and the Asylum Seeker Advocacy Project have filed an amended complaint seeking class-action relief in their challenge to Trump’s birthright citizenship order.
+
+Class-action litigation has existed for years, and what that means is that now the party in front of the court is asking the court to rule not just on its own behalf, but also on behalf of everyone else similarly situated.
+
+The class-action suits are most commonly used in cases where people are seeking monetary relief – for example, in instances where there are defects in car manufacturing. In that type of case, anyone who bought this type of car between X and Y dates would be entitled to compensation.
+
+The supreme court ruling could now make class-action litigation much more common.
+
+How might the supreme court’s ruling here impact other immigration cases? Because up to this point, federal judges’ authority to freeze policies across the US – with so-called “nationwide injunctions ” – has served as a powerful check on executive power. It has been used to block policies instituted by both Democratic and Republican administrations.
+
+What is ironic is that the supreme court has been perfectly fine with nationwide injunctions in the past. For example, justices enjoined the Biden administration’s cancellation of student loans. And they had no problem with a nationwide injunction in that case.
+
+This latest ruling on injunctions will affect any case that challenges a policy with national implications. We are particularly tracking the deployment of federal or military troops to do immigration enforcement, and continuation of unlawful, discriminatory enforcement of immigration laws on the basis of race.
+
+But this ruling will impact lots of cases. It can be immigration policy, it can be an environmental policy, it can be a voting rights policy – all of those things are regulated at the federal level.
+
+So now, if federal policy is challenged, unless it is challenged in a nationwide class-action lawsuit, a lower court’s ruling would only apply in the state or states where that policy is challenged?
+
+Yes, we may have a patchwork of rulings that vary depending on what state you live in.
+
+One of the challenges to the birthright citizenship order, for example, was brought by individuals and organizations in Maryland, DC and Massachusetts. If that case is successful, but you live in Nebraska or Wisconsin or Texas, you may not have the same rights to citizenship as if you are in Maryland, DC or Massachusetts. That is totally inconsistent with our system of law for 250 years.
+
+In the supreme court’s majority opinion, justice Amy Coney Barrett even alluded to the infeasibility of citizenship rules being different in different states. She summarizes the plaintiffs’ argument that “‘patchwork injunction’ would prove unworkable, because it would require [the states] to track and verify the immigration status of the parents of every child, along with the birth state of every child for whom they provide certain federally funded benefits ”. And she ultimately writes that ​​courts can issue injunctions to ensure that a victorious plaintiff receives “complete relief ”. What exactly does that mean?
+
+I think they’re trying to leave the door open for nationwide injunctions to be OK in certain contexts, and it’s unclear what those contexts will be.
+
+If you have a national, nationwide class action, a nationwide injunction is the only way to give relief to everyone in the class. Still, in practice, I am worried that the language of the ruling lends itself to inconsistent applications based on the court’s or the judge’s political ideologies.

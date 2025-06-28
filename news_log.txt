@@ -1338,3 +1338,13 @@ Topic: Sport
 Title: Lions cut loose with eight-try win over Western Force for solid start in Australia
 URL: https://www.theguardian.com/sport/2025/jun/28/western-force-british-and-irish-lions-match-report
 
+Site: The Guardian
+Topic: World
+Title: China ‘planned car collision’ during Taiwan vice-president’s visit to Prague
+URL: https://www.theguardian.com/world/2025/jun/28/taiwan-vice-president-undeterred-after-czech-reports-of-alleged-chinese-car-collision-plot
+
+Site: The Guardian
+Topic: Us News
+Title: Abstruse yet monumental: the scope and impact of the US supreme court’s birthright citizenship ruling
+URL: https://www.theguardian.com/us-news/2025/jun/28/supreme-court-birthright-citizenship
+
