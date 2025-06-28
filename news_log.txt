@@ -1213,3 +1213,13 @@ Topic: Music
 Title: Kneecap to perform in what could be one of Glastonbury’s most controversial sets
 URL: https://www.theguardian.com/music/2025/jun/28/kneecap-glastonbury-controversial-sets
 
+Site: The Guardian
+Topic: Environment
+Title: ‘A cascade can be more positive’: social tipping points expert on fixing climate crisis
+URL: https://www.theguardian.com/environment/ng-interactive/2025/jun/28/tipping-points-social-expert-on-fixing-climate-crisis
+
+Site: The Guardian
+Topic: Lifeandstyle
+Title: Tim Dowling: how can my wife live without her glasses – and even her phone?
+URL: https://www.theguardian.com/lifeandstyle/2025/jun/28/tim-dowling-how-can-my-wife-live-without-her-glasses-and-even-her-phone
+
