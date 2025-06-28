@@ -1323,3 +1323,18 @@ Topic: Technology
 Title: Online hacks to offline heists: crypto leaders on edge amid increasing attacks
 URL: https://www.theguardian.com/technology/2025/jun/28/cryptocurrency-hacks-kidnappings-crime
 
+Site: The Guardian
+Topic: Us News
+Title: Sudden loss of key US satellite data could send hurricane forecasting back ‘decades’
+URL: https://www.theguardian.com/us-news/2025/jun/28/noaa-cuts-hurricane-forecasting-climate
+
+Site: The Guardian
+Topic: Business
+Title: ‘He left us with nothing’: the British investors swindled by a German property firm
+URL: https://www.theguardian.com/business/2025/jun/28/he-left-us-with-nothing-the-british-investors-swindled-by-a-german-property-firm
+
+Site: The Guardian
+Topic: Sport
+Title: Lions cut loose with eight-try win over Western Force for solid start in Australia
+URL: https://www.theguardian.com/sport/2025/jun/28/western-force-british-and-irish-lions-match-report
+
