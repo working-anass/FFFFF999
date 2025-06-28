@@ -1263,3 +1263,8 @@ Topic: Artanddesign
 Title: Welcome to the Ministry of Happiness! Glastonbury kicks off for 2025 – photo essay
 URL: https://www.theguardian.com/artanddesign/2025/jun/28/glastonbury-photo-essay
 
+Site: The Guardian
+Topic: Football
+Title: Sunderland agree club-record £30m deal for Strasbourg midfielder Habib Diarra
+URL: https://www.theguardian.com/football/2025/jun/28/sunderland-agree-club-record-30m-deal-for-strasbourg-midfielder-habib-diarra
+
