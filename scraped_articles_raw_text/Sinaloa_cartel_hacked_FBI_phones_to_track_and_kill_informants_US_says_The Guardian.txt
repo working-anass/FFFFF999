@@ -1,0 +1,23 @@
+Site: The Guardian
+Title: Sinaloa cartel hacked FBI phones to track and kill informants, US says
+URL: https://www.theguardian.com/world/2025/jun/27/sinaloa-cartel-fbi-hackers
+
+A hacker working for the Sinaloa drug cartel was able to obtain an FBI official’s phone records and use Mexico City’s surveillance cameras to help track and kill the agency’s informants in 2018, according to a new US justice department report.
+
+The incident was disclosed in a justice department inspector general’s audit of the FBI’s efforts to mitigate the effects of “ubiquitous technical surveillance”, a term used to describe the global proliferation of cameras and the thriving trade in vast stores of communications, travel, and location data.
+
+The report said that the hacker worked for the Sinaloa drug cartel, run by Joaquín “El Chapo” Guzmán , who was extradited to the United States in 2017.
+
+The report said the hacker identified an FBI assistant legal attaché at the US embassy in Mexico City and was able to use the attaché’s phone number “to obtain calls made and received, as well as geolocation data”. The report said the hacker also “used Mexico City’s camera system to follow the [FBI official] through the city and identify people the [official] met with”.
+
+The report said “the cartel used that information to intimidate and, in some instances, kill potential sources or cooperating witnesses”.
+
+The report did not identify the alleged hacker, attaché or victims.
+
+The US embassy in Mexico referred questions to the state and justice departments, who did not immediately return messages seeking comment. The FBI and a lawyer for Guzmán did not immediately return messages seeking comment.
+
+The collection of granular location data from people’s phones by a wide variety of commercial and official actors, combined with ever-growing coverage of surveillance cameras, has posed a thorny problem for intelligence and law enforcement officials, many of whom rely on confidential informants.
+
+The report said that recent technological advances “have made it easier than ever for less-sophisticated nations and criminal enterprises to identify and exploit vulnerabilities” in the global surveillance economy.
+
+It said the FBI had a strategic plan in the works for mitigating those vulnerabilities and made several recommendations, including more training for bureau personnel.

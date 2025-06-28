@@ -1083,3 +1083,23 @@ Topic: Us News
 Title: Trump basks in triumph as supreme court kicks away another guard rail
 URL: https://www.theguardian.com/us-news/2025/jun/27/trump-supreme-court-press-conference
 
+Site: The Guardian
+Topic: World
+Title: Sinaloa cartel hacked FBI phones to track and kill informants, US says
+URL: https://www.theguardian.com/world/2025/jun/27/sinaloa-cartel-fbi-hackers
+
+Site: The Guardian
+Topic: Us News
+Title: Killed ex-Minnesota lawmaker Melissa Hortman lies in state alongside husband and dog
+URL: https://www.theguardian.com/us-news/2025/jun/27/melissa-hortman-lies-in-state-minnesota
+
+Site: The Guardian
+Topic: Science
+Title: World’s oldest fingerprint may be a clue that Neanderthals created art
+URL: https://www.theguardian.com/science/2025/may/26/like-a-face-discovery-reinforces-idea-neanderthals-created-art-say-experts
+
+Site: The Guardian
+Topic: Football
+Title: Spain’s Aitana Bonmatí admitted to hospital with viral meningitis
+URL: https://www.theguardian.com/football/2025/jun/27/spains-aitana-bonmati-admitted-to-hospital-with-viral-meningitis
+
