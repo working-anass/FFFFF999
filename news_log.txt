@@ -1123,3 +1123,23 @@ Topic: Us News
 Title: US attacks on Iran redraw calculus of use of force for allies and rivals around globe
 URL: https://www.theguardian.com/us-news/2025/jun/27/trump-iran-attacks-global-impact
 
+Site: The Guardian
+Topic: World
+Title: Ukraine war briefing: Kyiv hits warplanes in Russia as missile attack kills five in Ukraine
+URL: https://www.theguardian.com/world/2025/jun/28/ukraine-war-briefing-kyiv-hits-warplanes-in-russia-as-missile-attack-kills-five-in-ukraine
+
+Site: The Guardian
+Topic: Us News
+Title: US Senate votes down resolution to restrict Trump from escalating Iran war
+URL: https://www.theguardian.com/us-news/2025/jun/27/us-senate-iran-resolution-trump
+
+Site: The Guardian
+Topic: Us News
+Title: Trump news at a glance: president boasts of ‘monumental’ win after supreme court curtails power of federal judges
+URL: https://www.theguardian.com/us-news/2025/jun/28/president-trump-administration-updates-today
+
+Site: The Guardian
+Topic: Football
+Title: Four things we learned from the USMNT’s Gold Cup group stage
+URL: https://www.theguardian.com/football/2025/jun/27/usmnt-gold-cup-group-stage-lessons-pochettino
+
