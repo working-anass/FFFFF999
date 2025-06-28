@@ -1223,3 +1223,13 @@ Topic: Lifeandstyle
 Title: Tim Dowling: how can my wife live without her glasses – and even her phone?
 URL: https://www.theguardian.com/lifeandstyle/2025/jun/28/tim-dowling-how-can-my-wife-live-without-her-glasses-and-even-her-phone
 
+Site: The Guardian
+Topic: Football
+Title: Sheffield Wednesday reach point of no return under Chansiri’s ownership
+URL: https://www.theguardian.com/football/2025/jun/28/sheffield-wednesday-financial-crisis-football-championship-dejphon-chansiri
+
+Site: The Guardian
+Topic: Football
+Title: Duxbury to Doyle: what happened next for England’s Euro Under-21 champions
+URL: https://www.theguardian.com/football/2025/jun/28/duxbury-to-doyle-what-happened-next-for-englands-euro-under-21-champions
+
