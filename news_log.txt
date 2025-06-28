@@ -1353,3 +1353,8 @@ Topic: Football
 Title: Women’s Euro 2025 team guides: Sweden
 URL: https://www.theguardian.com/football/2025/jun/28/womens-euro-2025-team-guides-sweden
 
+Site: The Guardian
+Topic: Us News
+Title: ‘You open the fridge – nothing’: renewed threat of US hunger as Trump seeks to cut food aid
+URL: https://www.theguardian.com/us-news/2025/jun/28/trump-snap-food-benefits-cuts
+
