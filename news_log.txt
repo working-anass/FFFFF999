@@ -1233,3 +1233,23 @@ Topic: Football
 Title: Duxbury to Doyle: what happened next for England’s Euro Under-21 champions
 URL: https://www.theguardian.com/football/2025/jun/28/duxbury-to-doyle-what-happened-next-for-englands-euro-under-21-champions
 
+Site: The Guardian
+Topic: World
+Title: ‘Everything is opportunistic’: how will Iran war affect Netanyahu’s polling?
+URL: https://www.theguardian.com/world/2025/jun/28/benjamin-netanyahu-israel-polling-iran-war
+
+Site: The Guardian
+Topic: Lifeandstyle
+Title: ‘A marker of luxury and arrogance’: why gravity-defying boobs are back – and what they say about the state of the world
+URL: https://www.theguardian.com/lifeandstyle/2025/jun/28/a-marker-of-luxury-and-arrogance-why-gravity-defying-boobs-are-back-and-what-they-say-about-the-state-of-the-world
+
+Site: The Guardian
+Topic: Football
+Title: Euro 2025 is sure to showcase just how far women’s football has come
+URL: https://www.theguardian.com/football/2025/jun/28/euro-2025-is-sure-to-showcase-just-how-far-womens-football-has-come
+
+Site: The Guardian
+Topic: World
+Title: Denmark and Sweden’s Øresund bridge turns 25: have the benefits run in both directions?
+URL: https://www.theguardian.com/world/2025/jun/28/denmark-and-swedens-resund-bridge-turns-25-have-the-benefits-run-in-both-directions
+
