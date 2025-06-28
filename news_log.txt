@@ -1303,3 +1303,23 @@ Topic: Lifeandstyle
 Title: Arlene Phillips: ‘My biggest disappointment? Being let go from Strictly’
 URL: https://www.theguardian.com/lifeandstyle/2025/jun/28/arlene-phillips-choreographer-biggest-disappointment-let-go-from-strictly-interview
 
+Site: The Guardian
+Topic: Us News
+Title: Wall Street shivers over ‘hot commie summer’ after Mamdani’s success
+URL: https://www.theguardian.com/us-news/2025/jun/28/hot-commie-summer-zohran-mamdani
+
+Site: The Guardian
+Topic: Uk News
+Title: Scotland’s first minister holds ‘warm’ meeting with Eric Trump in Edinburgh
+URL: https://www.theguardian.com/uk-news/2025/mar/13/scotlands-first-minister-holds-warm-meeting-with-eric-trump-in-edinburgh
+
+Site: The Guardian
+Topic: Environment
+Title: Europe on alert as first major heatwave of 2025 pushes temperatures to 42C
+URL: https://www.theguardian.com/environment/2025/jun/28/europe-on-alert-as-first-major-heatwave-of-2025-pushes-temperatures-to-42c
+
+Site: The Guardian
+Topic: Technology
+Title: Online hacks to offline heists: crypto leaders on edge amid increasing attacks
+URL: https://www.theguardian.com/technology/2025/jun/28/cryptocurrency-hacks-kidnappings-crime
+
