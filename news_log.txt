@@ -1478,3 +1478,23 @@ Topic: Football
 Title: Rowe edges England to Under-21 Euros glory in extra-time thriller against Germany
 URL: https://www.theguardian.com/football/2025/jun/28/england-germany-under-21-european-championship-final-football
 
+Site: The Guardian
+Topic: Lifeandstyle
+Title: The moment I knew: I declined his proposal, then something clicked
+URL: https://www.theguardian.com/lifeandstyle/2025/jun/29/the-moment-i-knew-i-declined-his-proposal-then-something-clicked
+
+Site: The Guardian
+Topic: Us News
+Title: Joe Biden and Kamala Harris attend funeral of slain Minnesota lawmaker
+URL: https://www.theguardian.com/us-news/2025/jun/28/joe-biden-and-kamala-harris-melissa-hortman-funeral-minnesota
+
+Site: The Guardian
+Topic: Technology
+Title: Final party set to end Bezos-Sánchez wedding extravaganza in Venice
+URL: https://www.theguardian.com/technology/2025/jun/28/final-party-set-to-end-bezos-sanchez-wedding-extravaganza-in-venice
+
+Site: The Guardian
+Topic: Business
+Title: Business secretary to meet Lotus chiefs amid doubts over future of operations
+URL: https://www.theguardian.com/business/2025/jun/28/business-secretary-to-meet-with-lotus-after-reports-it-plans-to-scrap-uk-operations
+
