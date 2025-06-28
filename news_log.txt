@@ -1393,3 +1393,8 @@ Topic: World
 Title: First interior images of Mike Lynch’s recovered Bayesian superyacht revealed
 URL: https://www.theguardian.com/world/2025/jun/28/first-interior-images-mike-lynch-recovered-bayesian-superyacht-revealed
 
+Site: The Guardian
+Topic: Football
+Title: Despite unfulfilled bombast, this Club World Cup has been saved by the soccer
+URL: https://www.theguardian.com/football/2025/jun/27/despite-unfulfilled-bombast-this-club-world-cup-has-been-saved-by-the-soccer
+
