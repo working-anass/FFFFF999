@@ -1268,3 +1268,8 @@ Topic: Football
 Title: Sunderland agree club-record £30m deal for Strasbourg midfielder Habib Diarra
 URL: https://www.theguardian.com/football/2025/jun/28/sunderland-agree-club-record-30m-deal-for-strasbourg-midfielder-habib-diarra
 
+Site: The Guardian
+Topic: Uk News
+Title: Calling someone a ‘Karen’ is ‘borderline racist, sexist and ageist’, tribunal says
+URL: https://www.theguardian.com/uk-news/2025/jun/28/calling-someone-a-karen-is-borderline-racist-sexist-and-ageist-tribunal-says
+
