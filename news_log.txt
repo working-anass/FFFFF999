@@ -1428,3 +1428,13 @@ Topic: World
 Title: Tens of thousands defy Hungary’s ban on Pride in protest against Orbán
 URL: https://www.theguardian.com/world/2025/jun/28/tens-of-thousands-defy-hungarys-ban-on-pride-in-protest-against-orban
 
+Site: The Guardian
+Topic: Music
+Title: Marilyn Manson Brighton concert cancelled after pressure from campaigners
+URL: https://www.theguardian.com/music/2025/jun/28/marilyn-manson-brighton-concert-cancelled-after-pressure-from-campaigners
+
+Site: The Guardian
+Topic: Uk News
+Title: Five children taken to hospital after tree falls in Essex park
+URL: https://www.theguardian.com/uk-news/2025/jun/28/five-children-taken-to-hospital-after-tree-falls-in-essex-park
+
