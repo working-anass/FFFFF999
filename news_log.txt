@@ -1348,3 +1348,8 @@ Topic: Us News
 Title: Abstruse yet monumental: the scope and impact of the US supreme court’s birthright citizenship ruling
 URL: https://www.theguardian.com/us-news/2025/jun/28/supreme-court-birthright-citizenship
 
+Site: The Guardian
+Topic: Football
+Title: Women’s Euro 2025 team guides: Sweden
+URL: https://www.theguardian.com/football/2025/jun/28/womens-euro-2025-team-guides-sweden
+
