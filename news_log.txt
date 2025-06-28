@@ -1498,3 +1498,8 @@ Topic: Business
 Title: Business secretary to meet Lotus chiefs amid doubts over future of operations
 URL: https://www.theguardian.com/business/2025/jun/28/business-secretary-to-meet-with-lotus-after-reports-it-plans-to-scrap-uk-operations
 
+Site: The Guardian
+Topic: Us News
+Title: Senate Republicans scrambling to pass tax-and-spend bill by Trump deadline
+URL: https://www.theguardian.com/us-news/2025/jun/28/republicans-tax-and-spending-bill
+
