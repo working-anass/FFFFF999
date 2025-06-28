@@ -1298,3 +1298,8 @@ Topic: Us News
 Title: Eric Trump suggests he could run for president when his father’s term ends
 URL: https://www.theguardian.com/us-news/2025/jun/28/eric-trump-suggests-he-could-run-for-president-when-donald-term-ends
 
+Site: The Guardian
+Topic: Lifeandstyle
+Title: Arlene Phillips: ‘My biggest disappointment? Being let go from Strictly’
+URL: https://www.theguardian.com/lifeandstyle/2025/jun/28/arlene-phillips-choreographer-biggest-disappointment-let-go-from-strictly-interview
+
