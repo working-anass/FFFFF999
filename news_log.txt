@@ -1168,3 +1168,8 @@ Topic: Music
 Title: Alanis Morissette at Glastonbury review – spectacular sundown set by a unique feminist artist
 URL: https://www.theguardian.com/music/2025/jun/27/alanis-morissette-at-glastonbury-pyramid-stage
 
+Site: The Guardian
+Topic: Global Development
+Title: The global south needs more than tinkering at a conference: debt forgiveness is the only fair way
+URL: https://www.theguardian.com/global-development/2025/jun/28/the-global-south-needs-more-than-tinkering-at-a-conference-debt-forgiveness-is-the-only-fair-way
+
