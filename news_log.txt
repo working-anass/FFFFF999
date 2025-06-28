@@ -1193,3 +1193,13 @@ Topic: Lifeandstyle
 Title: Blind date: ‘He told me off for looking at my phone’
 URL: https://www.theguardian.com/lifeandstyle/2025/jun/28/blind-date-tope-eden
 
+Site: The Guardian
+Topic: Business
+Title: Smithfield and Billingsgate market redevelopment plans begin – but traders’ future in doubt
+URL: https://www.theguardian.com/business/2025/jun/28/smithfield-billingsgate-market-redevelopment-plans-traders-city-of-london-corporation
+
+Site: The Guardian
+Topic: Politics
+Title: ‘It’s a complete assault on free speech’: how Palestine Action was targeted for proscription as terrorists
+URL: https://www.theguardian.com/politics/ng-interactive/2025/jun/28/palestine-action-proscription-free-speech
+
