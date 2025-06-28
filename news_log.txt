@@ -1378,3 +1378,13 @@ Topic: Us News
 Title: Two men found guilty in deaths of 53 migrants in Texas will spend rest of their lives in prison
 URL: https://www.theguardian.com/us-news/2025/jun/28/migrant-deaths-texas-sentencing
 
+Site: The Guardian
+Topic: Us News
+Title: ‘It’s very concerning’: conservatives react to Zohran Mamdani’s New York primary showing
+URL: https://www.theguardian.com/us-news/2025/jun/28/road-to-majority-conference-mamdani
+
+Site: The Guardian
+Topic: Environment
+Title: Week of sweltering US heat – is this the new normal in a warming world?
+URL: https://www.theguardian.com/environment/2025/jun/28/us-heatwave-climate-crisis
+
