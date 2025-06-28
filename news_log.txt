@@ -1283,3 +1283,13 @@ Topic: Us News
 Title: Home discomforts send Trump rushing to project image of global patriarch
 URL: https://www.theguardian.com/us-news/2025/jun/28/trump-domestic-foreign-policy
 
+Site: The Guardian
+Topic: Uk News
+Title: ‘Are we safe, if nuclear weapons are here?’: trepidation in Norfolk village over new jets
+URL: https://www.theguardian.com/uk-news/2025/jun/28/are-we-safe-nuclear-weapons-trepidation-norfolk-village-jets-marham
+
+Site: The Guardian
+Topic: Science
+Title: ‘It’s something that happens’: are we doing enough to save Earth from a devastating asteroid strike?
+URL: https://www.theguardian.com/science/2025/jun/28/its-something-that-happens-are-we-doing-enough-to-save-earth-from-a-devastating-asteroid-strike
+
