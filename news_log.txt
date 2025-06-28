@@ -1463,3 +1463,8 @@ Topic: Sport
 Title: ‘I get what I deserve’: Sabalenka says TikTok dance helped clear the air with Coco Gauff
 URL: https://www.theguardian.com/sport/2025/jun/28/its-cool-with-coco-says-aryna-sabalenka-after-peace-talks-with-paris-rival-gauff
 
+Site: The Guardian
+Topic: Us News
+Title: Woman likely bitten by shark at New York’s popular Jones Beach
+URL: https://www.theguardian.com/us-news/2025/jun/28/woman-shark-bite-jones-beach-long-island-new-york
+
