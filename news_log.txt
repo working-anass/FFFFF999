@@ -1438,3 +1438,8 @@ Topic: Uk News
 Title: Five children taken to hospital after tree falls in Essex park
 URL: https://www.theguardian.com/uk-news/2025/jun/28/five-children-taken-to-hospital-after-tree-falls-in-essex-park
 
+Site: The Guardian
+Topic: Us News
+Title: Ice arrests of US military veterans and their relatives are on the rise: ‘a country that I fought for’
+URL: https://www.theguardian.com/us-news/2025/jun/28/us-military-veterans-detained-trump
+
