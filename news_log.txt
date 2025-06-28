@@ -1368,3 +1368,8 @@ Topic: Business
 Title: Beetroot ketchup to avocado oil mayo: how sauces have gone gourmet
 URL: https://www.theguardian.com/business/2025/jun/28/beetroot-ketchup-avocado-oil-mayo-sauces-gourmet-flavour
 
+Site: The Guardian
+Topic: Football
+Title: Lauren James set for Euros return after layoff a ‘blessing in disguise’ for England
+URL: https://www.theguardian.com/football/euro2005/2025/jun/28/lauren-james-set-for-euros-return-after-injury-layoff-a-blessing-in-disguise-for-england
+
