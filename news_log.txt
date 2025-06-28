@@ -1358,3 +1358,8 @@ Topic: Us News
 Title: ‘You open the fridge – nothing’: renewed threat of US hunger as Trump seeks to cut food aid
 URL: https://www.theguardian.com/us-news/2025/jun/28/trump-snap-food-benefits-cuts
 
+Site: The Guardian
+Topic: World
+Title: Bangkok protesters demand prime minister’s resignation over leaked phone call
+URL: https://www.theguardian.com/world/2025/jun/28/bangkok-protesters-demand-prime-minister-paetongtarn-shinawatra-resignation-over-leaked-phone-call
+
