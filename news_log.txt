@@ -1398,3 +1398,13 @@ Topic: Football
 Title: Despite unfulfilled bombast, this Club World Cup has been saved by the soccer
 URL: https://www.theguardian.com/football/2025/jun/27/despite-unfulfilled-bombast-this-club-world-cup-has-been-saved-by-the-soccer
 
+Site: The Guardian
+Topic: Football
+Title: Winners of Club World Cup will be ‘worst of all time’, says Jürgen Klopp
+URL: https://www.theguardian.com/football/2025/jun/28/pointless-club-world-cup-is-footballs-worst-idea-ever-says-jurgen-klopp
+
+Site: The Guardian
+Topic: Business
+Title: Thames Water court case shows there are alternatives to massive infrastructure
+URL: https://www.theguardian.com/business/2025/jun/28/thames-water-court-case-shows-there-are-alternatives-to-massive-infrastructure
+
