@@ -1203,3 +1203,13 @@ Topic: Politics
 Title: ‘It’s a complete assault on free speech’: how Palestine Action was targeted for proscription as terrorists
 URL: https://www.theguardian.com/politics/ng-interactive/2025/jun/28/palestine-action-proscription-free-speech
 
+Site: The Guardian
+Topic: World
+Title: ‘We are privileged’: liberal Afrikaners reject Trump’s ‘white genocide’ claims
+URL: https://www.theguardian.com/world/2025/jun/28/south-africa-liberal-afrikaners-reject-trump-white-genocide-claims
+
+Site: The Guardian
+Topic: Music
+Title: Kneecap to perform in what could be one of Glastonbury’s most controversial sets
+URL: https://www.theguardian.com/music/2025/jun/28/kneecap-glastonbury-controversial-sets
+
