@@ -1468,3 +1468,13 @@ Topic: Us News
 Title: Woman likely bitten by shark at New York’s popular Jones Beach
 URL: https://www.theguardian.com/us-news/2025/jun/28/woman-shark-bite-jones-beach-long-island-new-york
 
+Site: The Guardian
+Topic: Us News
+Title: US sees spate of arrests of civilians impersonating Ice officers
+URL: https://www.theguardian.com/us-news/2025/jun/28/civilians-impersonating-ice-officers
+
+Site: The Guardian
+Topic: Football
+Title: Rowe edges England to Under-21 Euros glory in extra-time thriller against Germany
+URL: https://www.theguardian.com/football/2025/jun/28/england-germany-under-21-european-championship-final-football
+
