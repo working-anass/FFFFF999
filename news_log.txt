@@ -1158,3 +1158,8 @@ Topic: Football
 Title: Enzo Maresca intent on resisting interest in Chelsea defender Josh Acheampong
 URL: https://www.theguardian.com/football/2025/jun/28/chelsea-enzo-maresca-josh-acheampong-club-world-cup
 
+Site: The Guardian
+Topic: Environment
+Title: Countries should keep their statehood if land disappears under sea, experts say
+URL: https://www.theguardian.com/environment/2025/jun/28/countries-should-keep-their-statehood-if-land-disappears-under-sea-ilc-report
+
