@@ -1293,3 +1293,8 @@ Topic: Science
 Title: ‘It’s something that happens’: are we doing enough to save Earth from a devastating asteroid strike?
 URL: https://www.theguardian.com/science/2025/jun/28/its-something-that-happens-are-we-doing-enough-to-save-earth-from-a-devastating-asteroid-strike
 
+Site: The Guardian
+Topic: Us News
+Title: Eric Trump suggests he could run for president when his father’s term ends
+URL: https://www.theguardian.com/us-news/2025/jun/28/eric-trump-suggests-he-could-run-for-president-when-donald-term-ends
+
