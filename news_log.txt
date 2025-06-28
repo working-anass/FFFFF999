@@ -1373,3 +1373,8 @@ Topic: Football
 Title: Lauren James set for Euros return after layoff a ‘blessing in disguise’ for England
 URL: https://www.theguardian.com/football/euro2005/2025/jun/28/lauren-james-set-for-euros-return-after-injury-layoff-a-blessing-in-disguise-for-england
 
+Site: The Guardian
+Topic: Us News
+Title: Two men found guilty in deaths of 53 migrants in Texas will spend rest of their lives in prison
+URL: https://www.theguardian.com/us-news/2025/jun/28/migrant-deaths-texas-sentencing
+
