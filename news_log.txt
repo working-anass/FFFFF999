@@ -1443,3 +1443,8 @@ Topic: Us News
 Title: Ice arrests of US military veterans and their relatives are on the rise: ‘a country that I fought for’
 URL: https://www.theguardian.com/us-news/2025/jun/28/us-military-veterans-detained-trump
 
+Site: The Guardian
+Topic: Science
+Title: How sorry are you? Why learning to apologise well could save your relationships
+URL: https://www.theguardian.com/science/2025/jun/29/learning-how-to-apologise-well-best-way-to-say-sorry
+
