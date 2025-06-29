@@ -1788,3 +1788,13 @@ Topic: Fashion
 Title: ‘Never out of fashion’: basket bags are accessory of the summer (again)
 URL: https://www.theguardian.com/fashion/2025/jun/21/fashion-wicker-raffia-straw-basket-bags-accessory-of-the-summer
 
+Site: The Guardian
+Topic: Us News
+Title: This national monument is ‘part of the true history of the USA’. Will it survive Trump 2.0?
+URL: https://www.theguardian.com/us-news/2025/jun/29/trump-sattitla-highlands-protection-threatened
+
+Site: The Guardian
+Topic: Uk News
+Title: Correspondents reveal their true colours
+URL: https://www.theguardian.com/uk-news/2025/jun/29/correspondents-reveal-their-true-colours
+
