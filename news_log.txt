@@ -1758,3 +1758,8 @@ Topic: Uk News
 Title: UK weather: heatwave could result in hottest ever start to Wimbledon
 URL: https://www.theguardian.com/uk-news/2025/jun/29/uk-weather-heatwave-could-result-hottest-start-to-wimbledon
 
+Site: The Guardian
+Topic: Us News
+Title: Trump hits out at Republican senator for refusing to back ‘big, beautiful bill’
+URL: https://www.theguardian.com/us-news/2025/jun/29/trump-big-beautiful-bill
+
