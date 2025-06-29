@@ -1703,3 +1703,8 @@ Topic: Global Development
 Title: A map, a myth and a pre-Incan lagoon: the man who brought water back to a drought-ridden town
 URL: https://www.theguardian.com/global-development/2025/jun/13/ecuador-indigenous-map-pre-inca-myths-ancient-lagoon-water-drought-
 
+Site: The Guardian
+Topic: Us News
+Title: ‘Explosive increase’ of ticks that cause meat allergy in US due to climate crisis
+URL: https://www.theguardian.com/us-news/2025/jun/29/lone-star-ticks-increase-climate-crisis
+
