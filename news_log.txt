@@ -1618,3 +1618,8 @@ Topic: Lifeandstyle
 Title: Free coffee, cut-price theatre tickets and birthday upgrades: 42 genius ways to beat the system
 URL: https://www.theguardian.com/lifeandstyle/2025/jun/29/tips-save-money-free-coffee-theatre-ticket-discount-birthday-upgrades
 
+Site: The Guardian
+Topic: Music
+Title: Pulp’s secret Glastonbury set review – still the magnificently misshapen oddballs of British pop
+URL: https://www.theguardian.com/music/2025/jun/29/pulps-secret-glastonbury-set-review
+
