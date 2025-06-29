@@ -1648,3 +1648,13 @@ Topic: World
 Title: ‘If things were bad before, they will be worse’: can families recover from the stress and strain of war?
 URL: https://www.theguardian.com/world/2025/jun/29/if-things-were-bad-before-they-will-be-worse-can-families-recover-from-the-stress-and-strain-of-war
 
+Site: The Guardian
+Topic: Uk News
+Title: Man who arranged Katie Piper acid attack could get parole in July
+URL: https://www.theguardian.com/uk-news/article/2024/jun/30/man-who-arranged-katie-piper-acid-attack-could-get-parole-in-july
+
+Site: The Guardian
+Topic: Technology
+Title: ‘Lidar is lame’: why Elon Musk’s vision for a self-driving Tesla taxi faltered
+URL: https://www.theguardian.com/technology/2025/jun/29/elon-musk-tesla-robotaxi
+
