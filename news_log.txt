@@ -1608,3 +1608,13 @@ Topic: Liveblog
 Title: Israel kills 60 in Gaza, says senior Hamas official among the dead
 URL: https://www.aljazeera.com/news/liveblog/2025/6/29/live-israel-kills-60-in-gaza-claims-senior-hamas-official-among-dead
 
+Site: The Guardian
+Topic: Global Development
+Title: The people left behind by Philippines' brutal war on drugs - photo essay
+URL: https://www.theguardian.com/global-development/2018/aug/14/death-drugs-duterte-philippines-poor-bear-brunt-of-narco-crackdown
+
+Site: The Guardian
+Topic: Lifeandstyle
+Title: Free coffee, cut-price theatre tickets and birthday upgrades: 42 genius ways to beat the system
+URL: https://www.theguardian.com/lifeandstyle/2025/jun/29/tips-save-money-free-coffee-theatre-ticket-discount-birthday-upgrades
+
