@@ -1888,3 +1888,13 @@ Topic: World
 Title: Iran’s nuclear enrichment ‘will never stop’, nation’s UN ambassador says
 URL: https://www.theguardian.com/world/2025/jun/29/iran-nuclear-enrichment-un-ambassador
 
+Site: The Guardian
+Topic: Us News
+Title: Trump sent ‘explicit’ threat to cut funds from University of Virginia, senator says
+URL: https://www.theguardian.com/us-news/2025/jun/29/trump-threats-university-of-virginia-mark-warner
+
+Site: The Guardian
+Topic: Football
+Title: Germany’s Klara Bühl: ‘You can see the sparkle in everyone’s eyes. We are ready’
+URL: https://www.theguardian.com/football/2025/jun/29/germany-klara-buhl-womens-euro-2025-interview
+
