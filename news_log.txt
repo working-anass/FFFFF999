@@ -1623,3 +1623,8 @@ Topic: Music
 Title: Pulp’s secret Glastonbury set review – still the magnificently misshapen oddballs of British pop
 URL: https://www.theguardian.com/music/2025/jun/29/pulps-secret-glastonbury-set-review
 
+Site: The Guardian
+Topic: Global Development
+Title: One man, thousands of trees and heaps of determination: how regreening Guatemala transformed a village
+URL: https://www.theguardian.com/global-development/2025/jun/19/green-planet-reforestation-chico-mendes-environmentalism-regeneration-guatemala
+
