@@ -1763,3 +1763,8 @@ Topic: Us News
 Title: Trump hits out at Republican senator for refusing to back ‘big, beautiful bill’
 URL: https://www.theguardian.com/us-news/2025/jun/29/trump-big-beautiful-bill
 
+Site: The Guardian
+Topic: Sport
+Title: Australian rugby’s incendiary attitude towards nationality needs extinguishing
+URL: https://www.theguardian.com/sport/2025/jun/29/australia-incendiary-attitude-nationality-british-irish-lions-rugby-union
+
