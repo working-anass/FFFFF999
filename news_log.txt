@@ -1768,3 +1768,13 @@ Topic: Sport
 Title: Australian rugby’s incendiary attitude towards nationality needs extinguishing
 URL: https://www.theguardian.com/sport/2025/jun/29/australia-incendiary-attitude-nationality-british-irish-lions-rugby-union
 
+Site: The Guardian
+Topic: World
+Title: ‘Post-apocalyptic’: medical staff struggle as gangs fight over aid supplies in Gaza
+URL: https://www.theguardian.com/world/2025/jun/29/medical-staff-struggle-gangs-fight-aid-supplies-gaza
+
+Site: The Guardian
+Topic: Music
+Title: Adrian Chiles’s first time at Glastonbury: ‘The peace-and-love control knobs get turned up to 11’
+URL: https://www.theguardian.com/music/2025/jun/29/adrian-chiles-first-time-glastonbury
+
