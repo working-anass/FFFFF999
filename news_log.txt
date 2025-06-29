@@ -1678,3 +1678,8 @@ Topic: Lifeandstyle
 Title: This is how we do it: ‘Even after 11 years we have sex every day, and three times isn’t unusual’
 URL: https://www.theguardian.com/lifeandstyle/2025/jun/29/this-is-how-we-do-it-even-after-11-years-we-have-sex-every-day-and-three-times-isnt-unusual
 
+Site: The Guardian
+Topic: Business
+Title: Lotus in urgent talks with business secretary but has ‘no plans’ to shut Norfolk factory
+URL: https://www.theguardian.com/business/2025/jun/29/lotus-in-urgent-talks-with-business-secretary-but-has-no-plans-to-shut-norfolk-factory
+
