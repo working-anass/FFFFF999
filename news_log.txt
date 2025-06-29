@@ -1748,3 +1748,13 @@ Topic: Music
 Title: Beyoncé faces backlash after wearing shirt with anti-Indigenous language
 URL: https://www.theguardian.com/music/2025/jun/29/beyonce-shirt-anti-indigenous-language
 
+Site: The Guardian
+Topic: Uk News
+Title: Man arrested after pregnant woman found dead in County Down
+URL: https://www.theguardian.com/uk-news/2025/jun/29/man-arrested-pregnant-woman-dead-donaghadee-county-down
+
+Site: The Guardian
+Topic: Uk News
+Title: UK weather: heatwave could result in hottest ever start to Wimbledon
+URL: https://www.theguardian.com/uk-news/2025/jun/29/uk-weather-heatwave-could-result-hottest-start-to-wimbledon
+
