@@ -1593,3 +1593,13 @@ Topic: Music
 Title: Neil Young at Glastonbury review – ragged glory from a noisemaker who never treads the easy path
 URL: https://www.theguardian.com/music/2025/jun/29/neil-young-at-glastonbury-review-ragged-glory-from-a-noisemaker-who-never-treads-the-easy-path
 
+Site: The Guardian
+Topic: Science
+Title: First images of distant galaxies captured by ‘ultimate’ telescope
+URL: https://www.theguardian.com/science/2025/jun/23/first-images-of-distant-galleries-captured-by-ultimate-telescope
+
+Site: The Guardian
+Topic: Business
+Title: ‘It breaks my heart’: how a refinery closure is hitting jobs and politics
+URL: https://www.theguardian.com/business/2025/jun/29/grangemouth-refinery-closure-jobs-politics-reform-uk
+
