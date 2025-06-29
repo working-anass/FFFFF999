@@ -1733,3 +1733,8 @@ Topic: Science
 Title: Extract: A man walks off his Parkinsonian symptoms
 URL: https://www.theguardian.com/science/2015/feb/08/man-walks-off-parkinsons-symptoms-norman-doidge-extract-brain-heals-body
 
+Site: The Guardian
+Topic: Us News
+Title: A generation of ‘virgins’ is leading America’s next sexual revolution
+URL: https://www.theguardian.com/us-news/ng-interactive/2025/jun/29/gen-z-sexual-revolution
+
