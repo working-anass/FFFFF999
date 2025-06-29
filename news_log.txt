@@ -1738,3 +1738,8 @@ Topic: Us News
 Title: A generation of ‘virgins’ is leading America’s next sexual revolution
 URL: https://www.theguardian.com/us-news/ng-interactive/2025/jun/29/gen-z-sexual-revolution
 
+Site: The Guardian
+Topic: Technology
+Title: Fake, AI-generated videos about the Diddy trial are raking in millions of views on YouTube
+URL: https://www.theguardian.com/technology/2025/jun/29/fake-diddy-ai-videos-youtube
+
