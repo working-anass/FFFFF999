@@ -1638,3 +1638,8 @@ Topic: Music
 Title: Sing along with the common people: Saturday at Glastonbury with Pulp, Raye and pop punters – photo essay
 URL: https://www.theguardian.com/music/2025/jun/29/saturday-at-glastonbury-with-raye-pulp-and-pop-punters-photo-essay
 
+Site: The Guardian
+Topic: Football
+Title: Nasser al-Khelaifi plays game of risk with plans to move PSG from the Parc
+URL: https://www.theguardian.com/football/2025/jun/29/nasser-al-khelaifi-plays-game-of-risk-with-plans-to-move-psg-from-the-parc
+
