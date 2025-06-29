@@ -1683,3 +1683,8 @@ Topic: Business
 Title: Lotus in urgent talks with business secretary but has ‘no plans’ to shut Norfolk factory
 URL: https://www.theguardian.com/business/2025/jun/29/lotus-in-urgent-talks-with-business-secretary-but-has-no-plans-to-shut-norfolk-factory
 
+Site: The Guardian
+Topic: Business
+Title: Rachel Reeves must rethink how tax and spend decisions are made after welfare U-turn
+URL: https://www.theguardian.com/business/2025/jun/29/rachel-reeves-must-rethink-how-tax-and-spend-decisions-are-made-after-welfare-u-turn
+
