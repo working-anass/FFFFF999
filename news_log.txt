@@ -1873,3 +1873,13 @@ Topic: World
 Title: Thousands in Norway told they had won life-changing sums in lottery error
 URL: https://www.theguardian.com/world/2025/jun/29/thousands-in-norway-told-they-had-won-life-changing-sums-in-lottery-error
 
+Site: The Guardian
+Topic: Football
+Title: Chelsea agree seven-year deal to sign João Pedro from Brighton
+URL: https://www.theguardian.com/football/2025/jun/29/chelsea-agree-seven-year-deal-to-sign-joao-pedro-from-brighton
+
+Site: The Guardian
+Topic: Football
+Title: Toone scores twice in England’s easy test against Jamaica ahead of Euros
+URL: https://www.theguardian.com/football/2025/jun/29/england-women-jamaica-friendly-international-match-report
+
