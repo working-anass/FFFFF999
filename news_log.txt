@@ -1588,3 +1588,8 @@ Topic: Music
 Title: Charli xcx at Glastonbury review – a thrilling hostile takeover by a pop star at the peak of her powers
 URL: https://www.theguardian.com/music/2025/jun/29/charli-xcx-at-glastonbury-review
 
+Site: The Guardian
+Topic: Music
+Title: Neil Young at Glastonbury review – ragged glory from a noisemaker who never treads the easy path
+URL: https://www.theguardian.com/music/2025/jun/29/neil-young-at-glastonbury-review-ragged-glory-from-a-noisemaker-who-never-treads-the-easy-path
+
