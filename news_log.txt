@@ -1658,3 +1658,8 @@ Topic: Technology
 Title: ‘Lidar is lame’: why Elon Musk’s vision for a self-driving Tesla taxi faltered
 URL: https://www.theguardian.com/technology/2025/jun/29/elon-musk-tesla-robotaxi
 
+Site: The Guardian
+Topic: Football
+Title: Sunderland in talks to sign Atlético Madrid defender Reinildo Mandava for free
+URL: https://www.theguardian.com/football/2025/jun/29/sunderland-in-talks-to-sign-atletico-madrid-defender-reinildo-mandava-for-free
+
