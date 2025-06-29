@@ -1828,3 +1828,13 @@ Topic: Football
 Title: Chelsea’s progress lost in the storm as chaos steals the limelight
 URL: https://www.theguardian.com/football/2025/jun/29/chelseas-progress-lost-in-the-storm-as-chaos-steals-the-limelight
 
+Site: The Guardian
+Topic: World
+Title: Tens of thousands flee Gaza City after Israel warns of major offensive
+URL: https://www.theguardian.com/world/2025/jun/29/tens-of-thousands-flee-gaza-city-after-israel-warns-of-major-offensive
+
+Site: The Guardian
+Topic: Us News
+Title: Trump threatens to cut off New York City funds if Mamdani ‘doesn’t behave’
+URL: https://www.theguardian.com/us-news/2025/jun/29/trump-zohran-mamdani-nyc-funds
+
