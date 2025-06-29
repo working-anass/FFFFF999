@@ -1633,3 +1633,8 @@ Topic: Football
 Title: ‘I’ve had some honest conversations with myself’: Gary O’Neil keen to step back on to management train
 URL: https://www.theguardian.com/football/2025/jun/29/ive-had-some-honest-conversations-with-myself-gary-oneil-keen-to-step-back-on-to-management-train
 
+Site: The Guardian
+Topic: Music
+Title: Sing along with the common people: Saturday at Glastonbury with Pulp, Raye and pop punters – photo essay
+URL: https://www.theguardian.com/music/2025/jun/29/saturday-at-glastonbury-with-raye-pulp-and-pop-punters-photo-essay
+
