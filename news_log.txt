@@ -1513,3 +1513,38 @@ Topic: Science
 Title: Notes from a nursing home: ‘We don’t speak of sadness here’
 URL: https://www.theguardian.com/science/2025/jun/29/notes-from-a-nursing-home-we-dont-speak-of-sadness-here
 
+Site: The Guardian
+Topic: World
+Title: Iran will likely be able to produce enriched uranium ‘in a matter of months’, IAEA chief says
+URL: https://www.theguardian.com/world/2025/jun/29/iran-will-likely-be-able-to-produce-enriched-uranium-in-a-matter-of-months-iaea-chief-says
+
+Site: The Guardian
+Topic: Environment
+Title: Fruit stickers are annoying and bad for the environment. So why did an Australian ban come unstuck?
+URL: https://www.theguardian.com/environment/2025/jun/29/fruit-stickers-are-annoying-and-bad-for-the-environment-so-why-did-an-australian-ban-come-unstuck
+
+Site: The Guardian
+Topic: Football
+Title: Nkunku extra-time goal sees Chelsea through to Club Word Cup last eight after four-hour match
+URL: https://www.theguardian.com/football/2025/jun/29/nkunku-extra-time-goal-sees-chelsea-through-to-club-word-cup-last-eight-after-four-hour-match
+
+Site: The Guardian
+Topic: Football
+Title: ‘It’s a great target’: Lee Carsley eyes Euros hat-trick after Young Lions’ latest triumph
+URL: https://www.theguardian.com/football/2025/jun/29/lee-carsley-england-under-21s-euros-hat-trick
+
+Site: The Guardian
+Topic: Football
+Title: Women’s Euro 2025 team guides: England
+URL: https://www.theguardian.com/football/2025/jun/29/womens-euro-2025-team-guides-england
+
+Site: The Guardian
+Topic: Technology
+Title: Elon Musk calls Trump’s big bill ‘utterly insane and destructive’ as Senate debates
+URL: https://www.theguardian.com/technology/2025/jun/29/elon-musk-calls-trumps-big-bill-utterly-insane-and-destructive-as-senate-debates
+
+Site: The Guardian
+Topic: Business
+Title: Jeff Bezos: where the $106bn man belongs on the all-time rich list
+URL: https://www.theguardian.com/business/2018/jan/10/is-amazon-founder-jeff-bezos-the-richest-person-ever
+
