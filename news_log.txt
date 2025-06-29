@@ -1853,3 +1853,13 @@ Topic: Global Development
 Title: The Indian village where child sexual exploitation is the norm
 URL: https://www.theguardian.com/global-development/2019/jan/14/indian-village-where-child-sexual-exploitation-is-the-norm-sagar-gram-jan-sahas
 
+Site: The Guardian
+Topic: Music
+Title: Glastonbury organisers ‘appalled’ by Bob Vylan’s anti-IDF remarks during performance
+URL: https://www.theguardian.com/music/2025/jun/29/glastonbury-bob-vylan-remarks-kneecap-police
+
+Site: The Guardian
+Topic: Music
+Title: Rod Stewart at Glastonbury review – lapping up the legends slot love like a lusty, leggy Muppet
+URL: https://www.theguardian.com/music/2025/jun/29/rod-stewart-at-glastonbury-review-pyramid-stage-legends
+
