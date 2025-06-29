@@ -1503,3 +1503,13 @@ Topic: Us News
 Title: Senate Republicans scrambling to pass tax-and-spend bill by Trump deadline
 URL: https://www.theguardian.com/us-news/2025/jun/28/republicans-tax-and-spending-bill
 
+Site: The Guardian
+Topic: News
+Title: Harvard hired a researcher to uncover its ties to slavery. He says the results cost him his job: ‘We found too many slaves’
+URL: https://www.theguardian.com/news/2025/jun/21/harvard-slavery-decendants-of-the-enslaved
+
+Site: The Guardian
+Topic: Science
+Title: Notes from a nursing home: ‘We don’t speak of sadness here’
+URL: https://www.theguardian.com/science/2025/jun/29/notes-from-a-nursing-home-we-dont-speak-of-sadness-here
+
