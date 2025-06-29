@@ -1798,3 +1798,13 @@ Topic: Uk News
 Title: Correspondents reveal their true colours
 URL: https://www.theguardian.com/uk-news/2025/jun/29/correspondents-reveal-their-true-colours
 
+Site: The Guardian
+Topic: Artanddesign
+Title: Make beads, not war: a bedazzled fighter jet lands in Seattle
+URL: https://www.theguardian.com/artanddesign/2025/jun/29/mig-21-project-seattle-art-exhibit
+
+Site: The Guardian
+Topic: Science
+Title: Campaigners sound alarm as European nations move to exit landmine ban
+URL: https://www.theguardian.com/science/2025/apr/27/campaigners-sound-alarm-as-european-nations-move-to-exit-landmine-ban
+
