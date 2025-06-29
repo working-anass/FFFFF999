@@ -1563,3 +1563,8 @@ Topic: Football
 Title: ‘It’s not football’: Maresca furious after Chelsea’s two-hour weather delay
 URL: https://www.theguardian.com/football/2025/jun/29/its-not-football-maresca-furious-after-chelseas-two-hour-weather-delay
 
+Site: The Guardian
+Topic: Us News
+Title: Trump news at a glance: president’s ‘big, beautiful bill’ clears first Senate hurdle
+URL: https://www.theguardian.com/us-news/2025/jun/29/trump-news-at-a-glance-fate-of-presidents-big-beautiful-bill-in-doubt-amid-senate-vote
+
