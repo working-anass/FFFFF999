@@ -1568,3 +1568,23 @@ Topic: Us News
 Title: Trump news at a glance: president’s ‘big, beautiful bill’ clears first Senate hurdle
 URL: https://www.theguardian.com/us-news/2025/jun/29/trump-news-at-a-glance-fate-of-presidents-big-beautiful-bill-in-doubt-amid-senate-vote
 
+Site: The Guardian
+Topic: World
+Title: France implements smoking ban at beaches and parks in step towards ‘tobacco-free generation’
+URL: https://www.theguardian.com/world/2025/jun/29/france-implements-smoking-ban-at-beaches-and-parks-in-step-towards-tobacco-free-generation
+
+Site: The Guardian
+Topic: World
+Title: ‘We won’t let them get away with this’: activists to sue Tanzania’s government over ‘sexual torture’
+URL: https://www.theguardian.com/world/2025/jun/29/activists-boniface-mwangi-agather-atuhaire-tanzania
+
+Site: The Guardian
+Topic: Environment
+Title: ‘Climate is our biggest war’, warns CEO of Cop30 ahead of UN summit in Brazil
+URL: https://www.theguardian.com/environment/2025/jun/29/climate-is-our-biggest-war-warns-ceo-of-cop30-ahead-of-un-summit-in-brazil
+
+Site: The Guardian
+Topic: Music
+Title: Charli xcx at Glastonbury review – a thrilling hostile takeover by a pop star at the peak of her powers
+URL: https://www.theguardian.com/music/2025/jun/29/charli-xcx-at-glastonbury-review
+
