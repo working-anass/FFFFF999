@@ -1708,3 +1708,23 @@ Topic: Us News
 Title: ‘Explosive increase’ of ticks that cause meat allergy in US due to climate crisis
 URL: https://www.theguardian.com/us-news/2025/jun/29/lone-star-ticks-increase-climate-crisis
 
+Site: The Guardian
+Topic: World
+Title: ‘Swashbuckling and cheeky’: island festival celebrates Ireland’s ‘pirate queen’
+URL: https://www.theguardian.com/world/2025/jun/29/grace-o-malley-pirate-queen-ireland-festival-achill-island
+
+Site: The Guardian
+Topic: Football
+Title: Qatar weighing up bid for 2029 Club World Cup that could be played in winter
+URL: https://www.theguardian.com/football/2025/jun/29/qatar-weighing-up-bid-fifa-2029-club-world-cup-that-could-be-played-in-winter
+
+Site: The Guardian
+Topic: Lifeandstyle
+Title: ‘The nurse told me I couldn’t keep my baby’: how a controversial Danish ‘parenting test’ separated a Greenlandic woman from her children
+URL: https://www.theguardian.com/lifeandstyle/2025/jun/29/controversial-danish-parenting-test-separated-greenlandic-mother-children
+
+Site: The Guardian
+Topic: Lifeandstyle
+Title: Dining across the divide: ‘I said, I’m slightly to the right of Genghis Khan. She said she was to the left of Karl Marx’
+URL: https://www.theguardian.com/lifeandstyle/2025/jun/29/dining-across-the-divide-barry-emily
+
