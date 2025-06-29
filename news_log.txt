@@ -1863,3 +1863,8 @@ Topic: Music
 Title: Rod Stewart at Glastonbury review – lapping up the legends slot love like a lusty, leggy Muppet
 URL: https://www.theguardian.com/music/2025/jun/29/rod-stewart-at-glastonbury-review-pyramid-stage-legends
 
+Site: The Guardian
+Topic: Football
+Title: PSG sweep Inter Miami and Messi aside to reach Club World Cup quarter-final
+URL: https://www.theguardian.com/football/2025/jun/29/paris-saint-germain-inter-miami-club-world-cup-match-report
+
