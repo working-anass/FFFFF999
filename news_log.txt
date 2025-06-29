@@ -1868,3 +1868,8 @@ Topic: Football
 Title: PSG sweep Inter Miami and Messi aside to reach Club World Cup quarter-final
 URL: https://www.theguardian.com/football/2025/jun/29/paris-saint-germain-inter-miami-club-world-cup-match-report
 
+Site: The Guardian
+Topic: World
+Title: Thousands in Norway told they had won life-changing sums in lottery error
+URL: https://www.theguardian.com/world/2025/jun/29/thousands-in-norway-told-they-had-won-life-changing-sums-in-lottery-error
+
