@@ -1883,3 +1883,8 @@ Topic: Football
 Title: Toone scores twice in England’s easy test against Jamaica ahead of Euros
 URL: https://www.theguardian.com/football/2025/jun/29/england-women-jamaica-friendly-international-match-report
 
+Site: The Guardian
+Topic: World
+Title: Iran’s nuclear enrichment ‘will never stop’, nation’s UN ambassador says
+URL: https://www.theguardian.com/world/2025/jun/29/iran-nuclear-enrichment-un-ambassador
+
