@@ -1843,3 +1843,8 @@ Topic: Music
 Title: The big Glastonbury 2025 review: Skepta comes to the rescue, Kneecap bring the controversy and Pulp play one for the ages
 URL: https://www.theguardian.com/music/2025/jun/29/the-big-glastonbury-2025-review-skepta-comes-to-the-rescue-kneecap-bring-the-controversy-and-pulp-play-one-for-the-ages
 
+Site: The Guardian
+Topic: Music
+Title: BuzzBallz, brat tenacity and hangover face: 25 things I learned about the world at Glastonbury 2025
+URL: https://www.theguardian.com/music/2025/jun/29/buzzballz-brat-tenacity-and-hangover-face-25-things-i-learned-about-the-world-at-glastonbury-2025
+
