@@ -1898,3 +1898,18 @@ Topic: Football
 Title: Germany’s Klara Bühl: ‘You can see the sparkle in everyone’s eyes. We are ready’
 URL: https://www.theguardian.com/football/2025/jun/29/germany-klara-buhl-womens-euro-2025-interview
 
+Site: The Guardian
+Topic: Uk News
+Title: Former Manchester United footballer Paul Ince charged with drink-driving
+URL: https://www.theguardian.com/uk-news/2025/jun/29/former-manchester-united-footballer-paul-ince-charged-with-drink-driving
+
+Site: The Guardian
+Topic: Global Development
+Title: From Igbo to Angika: how to save the world’s 3,000 endangered languages
+URL: https://www.theguardian.com/global-development/2025/jan/07/cultural-identity-saving-worlds-endangered-languages-activists-online-tools-rohingya-igbo-angika
+
+Site: The Guardian
+Topic: Business
+Title: Bougainville fought a war to shut down Panguna mine. Now it wants to reopen it
+URL: https://www.theguardian.com/business/2025/jun/29/bougainville-panguna-mine
+
