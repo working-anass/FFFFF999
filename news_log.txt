@@ -1728,3 +1728,8 @@ Topic: Lifeandstyle
 Title: Dining across the divide: ‘I said, I’m slightly to the right of Genghis Khan. She said she was to the left of Karl Marx’
 URL: https://www.theguardian.com/lifeandstyle/2025/jun/29/dining-across-the-divide-barry-emily
 
+Site: The Guardian
+Topic: Science
+Title: Extract: A man walks off his Parkinsonian symptoms
+URL: https://www.theguardian.com/science/2015/feb/08/man-walks-off-parkinsons-symptoms-norman-doidge-extract-brain-heals-body
+
