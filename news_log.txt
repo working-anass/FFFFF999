@@ -1848,3 +1848,8 @@ Topic: Music
 Title: BuzzBallz, brat tenacity and hangover face: 25 things I learned about the world at Glastonbury 2025
 URL: https://www.theguardian.com/music/2025/jun/29/buzzballz-brat-tenacity-and-hangover-face-25-things-i-learned-about-the-world-at-glastonbury-2025
 
+Site: The Guardian
+Topic: Global Development
+Title: The Indian village where child sexual exploitation is the norm
+URL: https://www.theguardian.com/global-development/2019/jan/14/indian-village-where-child-sexual-exploitation-is-the-norm-sagar-gram-jan-sahas
+
