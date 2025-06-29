@@ -1643,3 +1643,8 @@ Topic: Football
 Title: Nasser al-Khelaifi plays game of risk with plans to move PSG from the Parc
 URL: https://www.theguardian.com/football/2025/jun/29/nasser-al-khelaifi-plays-game-of-risk-with-plans-to-move-psg-from-the-parc
 
+Site: The Guardian
+Topic: World
+Title: ‘If things were bad before, they will be worse’: can families recover from the stress and strain of war?
+URL: https://www.theguardian.com/world/2025/jun/29/if-things-were-bad-before-they-will-be-worse-can-families-recover-from-the-stress-and-strain-of-war
+
