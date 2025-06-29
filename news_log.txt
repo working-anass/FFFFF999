@@ -1778,3 +1778,13 @@ Topic: Music
 Title: Adrian Chiles’s first time at Glastonbury: ‘The peace-and-love control knobs get turned up to 11’
 URL: https://www.theguardian.com/music/2025/jun/29/adrian-chiles-first-time-glastonbury
 
+Site: The Guardian
+Topic: World
+Title: Russia has launched biggest air attack of three-year war on Ukraine, Kyiv says
+URL: https://www.theguardian.com/world/2025/jun/29/russia-launches-biggest-air-attack-of-the-three-year-war-on-ukraine-kyiv-says
+
+Site: The Guardian
+Topic: Fashion
+Title: ‘Never out of fashion’: basket bags are accessory of the summer (again)
+URL: https://www.theguardian.com/fashion/2025/jun/21/fashion-wicker-raffia-straw-basket-bags-accessory-of-the-summer
+
