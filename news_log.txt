@@ -1808,3 +1808,18 @@ Topic: Science
 Title: Campaigners sound alarm as European nations move to exit landmine ban
 URL: https://www.theguardian.com/science/2025/apr/27/campaigners-sound-alarm-as-european-nations-move-to-exit-landmine-ban
 
+Site: The Guardian
+Topic: Us News
+Title: Trump considers forcing journalists to reveal sources who leaked Iran report
+URL: https://www.theguardian.com/us-news/2025/jun/29/trump-iran-military-strike-report
+
+Site: The Guardian
+Topic: Global Development
+Title: ‘It’s heartbreaking’: Steve McCurry on Afghan Girl, a portrait of past and present
+URL: https://www.theguardian.com/global-development/2021/sep/20/its-heartbreaking-steve-mccurry-on-afghan-girl-a-portrait-of-past-and-present
+
+Site: The Guardian
+Topic: Football
+Title: Bundesliga clubs weigh up bids for Manchester City’s James McAtee
+URL: https://www.theguardian.com/football/2025/jun/29/bundesliga-clubs-weigh-up-bids-for-manchester-citys-james-mcatee
+
