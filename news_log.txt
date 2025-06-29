@@ -1548,3 +1548,18 @@ Topic: Business
 Title: Jeff Bezos: where the $106bn man belongs on the all-time rich list
 URL: https://www.theguardian.com/business/2018/jan/10/is-amazon-founder-jeff-bezos-the-richest-person-ever
 
+Site: The Guardian
+Topic: World
+Title: Ukraine war briefing: key eastern Ukrainian city under assault as Russia hails cooperation with North Korea
+URL: https://www.theguardian.com/world/2025/jun/29/ukraine-war-briefing-key-eastern-ukrainian-city-under-assault-as-russia-hails-cooperation-with-north-korea
+
+Site: The Guardian
+Topic: Global Development
+Title: Myanmar civil war: a quick guide to the conflict
+URL: https://www.theguardian.com/global-development/2025/jan/31/why-is-myanmar-embroiled-in-conflict
+
+Site: The Guardian
+Topic: Football
+Title: ‘It’s not football’: Maresca furious after Chelsea’s two-hour weather delay
+URL: https://www.theguardian.com/football/2025/jun/29/its-not-football-maresca-furious-after-chelseas-two-hour-weather-delay
+
