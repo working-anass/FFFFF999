@@ -1928,3 +1928,8 @@ Topic: Football
 Title: ‘A new wave’: England Under-21 triumph could hand Tuchel a talent goldmine
 URL: https://www.theguardian.com/football/2025/jun/29/england-under-21-euros-thomas-tuchel-lee-carsley-football
 
+Site: The Guardian
+Topic: Us News
+Title: One dead and two injured after explosion damages Philadelphia homes
+URL: https://www.theguardian.com/us-news/2025/jun/29/philadelphia-house-explosion
+
