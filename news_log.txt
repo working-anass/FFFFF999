@@ -1918,3 +1918,13 @@ Topic: Global Development
 Title: Vapes threaten to undo gains in tackling dangers of tobacco, health leaders warn
 URL: https://www.theguardian.com/global-development/2025/jun/23/smoking-vapes-tobacco-industry-world-health-organization-gains-dangers-global-health
 
+Site: The Guardian
+Topic: World
+Title: Turkish police arrest more than 50 people before banned Istanbul Pride parade
+URL: https://www.theguardian.com/world/2025/jun/29/turkish-police-arrest-more-than-50-people-before-banned-istanbul-pride-parade
+
+Site: The Guardian
+Topic: Football
+Title: ‘A new wave’: England Under-21 triumph could hand Tuchel a talent goldmine
+URL: https://www.theguardian.com/football/2025/jun/29/england-under-21-euros-thomas-tuchel-lee-carsley-football
+
