@@ -1663,3 +1663,18 @@ Topic: Football
 Title: Sunderland in talks to sign Atlético Madrid defender Reinildo Mandava for free
 URL: https://www.theguardian.com/football/2025/jun/29/sunderland-in-talks-to-sign-atletico-madrid-defender-reinildo-mandava-for-free
 
+Site: The Guardian
+Topic: World
+Title: Revealed: spies for hire used ‘Big Brother’ tactics on salmon farm activists
+URL: https://www.theguardian.com/world/2025/jun/29/revealed-spies-for-hire-salmon-farm-activists
+
+Site: The Guardian
+Topic: Music
+Title: Streeting condemns anti-IDF chants at Glastonbury but says ‘Israel should get its own house in order’
+URL: https://www.theguardian.com/music/2025/jun/29/wes-streeting-says-chants-about-idf-at-glastonbury-festival-appalling
+
+Site: The Guardian
+Topic: Lifeandstyle
+Title: This is how we do it: ‘Even after 11 years we have sex every day, and three times isn’t unusual’
+URL: https://www.theguardian.com/lifeandstyle/2025/jun/29/this-is-how-we-do-it-even-after-11-years-we-have-sex-every-day-and-three-times-isnt-unusual
+
