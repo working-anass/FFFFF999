@@ -2363,3 +2363,13 @@ Topic: Tv And Radio
 Title: John Oliver on Trump’s ‘big beautiful bill’: ‘Death by a thousand cuts’
 URL: https://www.theguardian.com/tv-and-radio/2025/jun/30/john-oliver-big-beautiful-bill-medicaid
 
+Site: The Guardian
+Topic: World
+Title: Israel launches waves of Gaza airstrikes after new displacement orders
+URL: https://www.theguardian.com/world/2025/jun/30/israel-launches-waves-of-gaza-airstrikes-after-new-displacement-orders
+
+Site: The Guardian
+Topic: Us News
+Title: US Senate Republicans make final push to pass Trump’s one big beautiful bill
+URL: https://www.theguardian.com/us-news/2025/jun/30/republicans-senators-trump-one-big-beautiful-bill
+
