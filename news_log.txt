@@ -2428,3 +2428,8 @@ Topic: Technology
 Title: Gov.uk smartphone app to launch with limited functionality
 URL: https://www.theguardian.com/technology/2025/jun/30/gov-uk-smartphone-app-launch-functionality
 
+Site: The Guardian
+Topic: Uk News
+Title: Man, 92, who allegedly raped and murdered woman in 1967 caught after DNA advances, court told
+URL: https://www.theguardian.com/uk-news/2025/jun/16/man-92-who-allegedly-raped-and-murdered-woman-in-1967-caught-after-dna-advances-court-told
+
