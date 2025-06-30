@@ -2348,3 +2348,8 @@ Topic: Football
 Title: Arsenal could face battle with Spurs to sign £67.5m Eberechi Eze
 URL: https://www.theguardian.com/football/2025/jun/30/arsenal-could-face-battle-with-spurs-to-sign-675m-eberechi-eze
 
+Site: The Guardian
+Topic: World
+Title: Norway lottery operator apologises to 47,000 players over prize mixup
+URL: https://www.theguardian.com/world/2025/jun/30/norway-lottery-error-apology
+
