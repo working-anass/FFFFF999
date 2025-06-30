@@ -2258,3 +2258,18 @@ Topic: Technology
 Title: Microsoft says AI system better than doctors at diagnosing complex health conditions
 URL: https://www.theguardian.com/technology/2025/jun/30/microsoft-ai-system-better-doctors-diagnosing-health-conditions-research
 
+Site: The Guardian
+Topic: Us News
+Title: Two teens shot and six others bear-sprayed at New York City Pride march
+URL: https://www.theguardian.com/us-news/2025/jun/30/nyc-pride-stonewall-shooting-teens
+
+Site: The Guardian
+Topic: Us News
+Title: Cooperating witness against Kilmar Ábrego García to be spared deportation
+URL: https://www.theguardian.com/us-news/2025/jun/30/kilmar-abrego-garcia-witness-deportation
+
+Site: The Guardian
+Topic: Football
+Title: West Ham open to £60m Kudus offer from Tottenham to ease PSR pressure
+URL: https://www.theguardian.com/football/2025/jun/30/west-ham-open-to-tottenham-offer-for-mohammed-kudus
+
