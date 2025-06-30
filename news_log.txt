@@ -2228,3 +2228,18 @@ Topic: Uk News
 Title: Man, 92, convicted of raping and murdering Bristol woman in 1967
 URL: https://www.theguardian.com/uk-news/2025/jun/30/louisa-dunne-murder-cold-case-conviction
 
+Site: The Guardian
+Topic: Us News
+Title: Trump’s justice department issues directive to strip naturalized Americans of citizenship for civil offenses
+URL: https://www.theguardian.com/us-news/2025/jun/30/trump-birthright-citizenship-naturalized-citizens
+
+Site: The Guardian
+Topic: Us News
+Title: Throwing their bodies on the gears: the Democratic lawmakers showing up to resist Trump
+URL: https://www.theguardian.com/us-news/2025/jun/30/democrats-trump-resistance
+
+Site: The Guardian
+Topic: Politics
+Title: Man criticises Home Office for keeping visa fee of wife who died before reaching UK
+URL: https://www.theguardian.com/politics/2025/jun/30/man-criticises-home-office-for-keeping-visa-fee-of-wife-who-died-before-reaching-uk
+
