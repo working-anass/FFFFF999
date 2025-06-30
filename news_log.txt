@@ -2088,3 +2088,8 @@ Topic: Business
 Title: Number of new UK entry-level jobs has dived since ChatGPT launch – research
 URL: https://www.theguardian.com/business/2025/jun/30/uk-entry-level-jobs-chatgpt-launch-adzuna
 
+Site: The Guardian
+Topic: Global Development
+Title: Revealed: Saudi Arabia’s secretive rehabilitation ‘prisons’ for disobedient women
+URL: https://www.theguardian.com/global-development/2025/may/28/saudi-arabia-women-girls-rehabilitation-prisons-dar-al-reaya
+
