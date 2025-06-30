@@ -2048,3 +2048,28 @@ Topic: Global Development
 Title: Rusted screws, metal spikes and plastic rubbish: the horrific sexual violence used against Tigray’s women
 URL: https://www.theguardian.com/global-development/2025/jun/30/sexual-violence-tigray-women-abuse-gang-rape-ethiopia-eritrea
 
+Site: The Guardian
+Topic: Uk News
+Title: Kate Roughley jailed for 14 years over death of baby at Stockport nursery
+URL: https://www.theguardian.com/uk-news/article/2024/may/22/kate-roughley-jailed-over-death-of-baby-genevieve-meehan-at-stockport-nursery
+
+Site: The Guardian
+Topic: Environment
+Title: UN expert urges criminalizing fossil fuel disinformation, banning lobbying
+URL: https://www.theguardian.com/environment/2025/jun/30/un-expert-urges-criminalizing-fossil-fuel-disinformation-banning-lobbying
+
+Site: The Guardian
+Topic: Business
+Title: Britons could soon install balcony solar panels in flats and rental homes
+URL: https://www.theguardian.com/business/2025/jun/30/britons-could-soon-install-balcony-solar-panels-in-flats-and-rental-homes
+
+Site: The Guardian
+Topic: Artanddesign
+Title: Good for you! Braving the heatwave on Glastonbury’s final day – photo essay
+URL: https://www.theguardian.com/artanddesign/2025/jun/30/good-for-you-braving-the-heatwave-on-glastonburys-final-day-photo-essay
+
+Site: Al Jazeera
+Topic: Liveblog
+Title: Israel bombards eastern Gaza City after ordering Palestinians to flee
+URL: https://www.aljazeera.com/news/liveblog/2025/6/30/live-israel-bombards-eastern-gaza-city-after-ordering-people-to-flee
+
