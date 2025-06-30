@@ -2108,3 +2108,13 @@ Topic: Business
 Title: UK households hit by squeeze on living standards despite fastest growth in G7
 URL: https://www.theguardian.com/business/2025/jun/30/uk-households-living-growth-g7-ons-gdp-savings
 
+Site: The Guardian
+Topic: Uk News
+Title: Man arrested on suspicion of murder after woman, 93, found dead in Cornwall
+URL: https://www.theguardian.com/uk-news/2025/jun/30/bude-cornwall-woman-found-dead-man-arrested
+
+Site: The Guardian
+Topic: Money
+Title: I went to a drive-thru Starbucks but ended up with a £100 parking fine
+URL: https://www.theguardian.com/money/2025/jun/30/i-went-to-a-drive-thru-starbucks-but-ended-up-with-a-100-parking-fine
+
