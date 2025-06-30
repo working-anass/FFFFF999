@@ -2458,3 +2458,8 @@ Topic: Football
 Title: From Russo to Katoto: six contenders to be top scorer at Euro 2025
 URL: https://www.theguardian.com/football/2025/jun/30/from-russo-to-katoto-six-contenders-to-be-top-scorer-at-euro-2025
 
+Site: The Guardian
+Topic: Football
+Title: Inter knocked out of Club World Cup in last 16 by Brazilian side Fluminense
+URL: https://www.theguardian.com/football/2025/jun/30/inter-knocked-out-of-club-world-cup-in-last-16-by-brazilians-fluminense
+
