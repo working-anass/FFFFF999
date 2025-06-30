@@ -2293,3 +2293,13 @@ Topic: Film
 Title: Beat the Lotto review – how a small-time accountant tried to outwit Ireland’s national lottery
 URL: https://www.theguardian.com/film/2025/jun/30/beat-the-lotto-review-how-a-small-time-accountant-tried-to-outwit-irelands-national-lottery
 
+Site: The Guardian
+Topic: Football
+Title: The Club World Cup has shown MLS the cost of capping ambition
+URL: https://www.theguardian.com/football/2025/jun/30/mls-club-world-cup-psg-inter-miami-salary-cap-analysis
+
+Site: The Guardian
+Topic: Sport
+Title: Lions’ first-choice half-backs will unite for first time against Queensland
+URL: https://www.theguardian.com/sport/2025/jun/30/lions-half-backs-gibson-park-russell-queensland-rugby
+
