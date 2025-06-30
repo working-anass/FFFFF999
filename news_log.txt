@@ -2118,3 +2118,18 @@ Topic: Money
 Title: I went to a drive-thru Starbucks but ended up with a £100 parking fine
 URL: https://www.theguardian.com/money/2025/jun/30/i-went-to-a-drive-thru-starbucks-but-ended-up-with-a-100-parking-fine
 
+Site: The Guardian
+Topic: Uk News
+Title: UK’s sale of F-35 fighter jet parts to Israel is lawful, high court rules
+URL: https://www.theguardian.com/uk-news/2025/jun/30/uk-sale-f-35-fighter-jet-parts-israel-lawful-high-court
+
+Site: The Guardian
+Topic: Environment
+Title: A ‘vigorous’ coastal low is headed for Australia’s east. But what does that mean, and how worried should we be?
+URL: https://www.theguardian.com/environment/2025/jun/30/a-vigorous-coastal-low-is-headed-for-australias-east-but-what-does-that-mean-and-how-worried-should-we-be
+
+Site: The Guardian
+Topic: Environment
+Title: I’m obsessed with brittle stars: fish often nip off bits of their arms but they regenerate
+URL: https://www.theguardian.com/environment/2025/jun/30/martin-solan-obsessed-with-brittle-stars-sea-floor-biodiversity-climate-crisis-warming-oceans
+
