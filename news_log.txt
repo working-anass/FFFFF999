@@ -2073,3 +2073,18 @@ Topic: Liveblog
 Title: Israel bombards eastern Gaza City after ordering Palestinians to flee
 URL: https://www.aljazeera.com/news/liveblog/2025/6/30/live-israel-bombards-eastern-gaza-city-after-ordering-people-to-flee
 
+Site: The Guardian
+Topic: Us News
+Title: Senate opens debate on Trump’s bill estimated to add $3.3tn to US debt
+URL: https://www.theguardian.com/us-news/2025/jun/29/senate-debate-trump-bill
+
+Site: The Guardian
+Topic: Environment
+Title: Country diary: In pursuit of the elusive Dartford warbler – a true bird of mystery
+URL: https://www.theguardian.com/environment/2025/jun/30/country-diary-pursuit-elusive-dartford-warbler-true-bird-mystery
+
+Site: The Guardian
+Topic: Business
+Title: Number of new UK entry-level jobs has dived since ChatGPT launch – research
+URL: https://www.theguardian.com/business/2025/jun/30/uk-entry-level-jobs-chatgpt-launch-adzuna
+

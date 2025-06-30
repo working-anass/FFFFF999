@@ -1,0 +1,25 @@
+Site: The Guardian
+Title: Number of new UK entry-level jobs has dived since ChatGPT launch – research
+URL: https://www.theguardian.com/business/2025/jun/30/uk-entry-level-jobs-chatgpt-launch-adzuna
+
+The number of new entry-level UK jobs has dropped by almost a third since the launch of ChatGPT , new figures suggest, as companies use AI to cut back the size of their workforces.
+
+Vacancies for graduate jobs, apprenticeships, internships and junior jobs with no degree requirement have dropped 32% since the launch of the AI chatbot in November 2022, research by the job search site Adzuna released on Monday has found. These entry-level jobs now account for 25% of the market in the UK, down from 28.9% in 2022.
+
+It comes as businesses increasingly use AI as a route to improve efficiency and reduce staff numbers. This month the chief executive of BT, Allison Kirkby, said advances in AI could presage deeper job cuts at the telecoms company, after it outlined plans two years ago to shed between 40,000 and 55,000 workers.
+
+Meanwhile, Dario Amodei, the boss of the $61bn (£44.5bn) AI developer Anthropic, has warned the technology could wipe out half of all entry-level office jobs in the next five years, and push up unemployment by between 10% and 20%.
+
+The figures from Adzuna follow a separate warning from its rival job search site Indeed, which reported last week that university graduates are facing the toughest job market since 2018 . It found the number of roles advertised for recent graduates had fallen 33% in mid-June compared with the same point last year.
+
+Big companies are increasingly relying on AI for jobs once reserved for humans. Klarna, the buy now, pay later fintech company, has said its AI assistant now manages two-thirds of its customer service queries. The US technology company IBM has said it is using AI agents to take on the work of hundreds of HR staff, although as a result it has hired more programmers and salespeople.
+
+It is still a matter of debate whether AI will do more to create or destroy human jobs. The International Monetary Fund has estimated that 60% of jobs in advanced economies such as the US and UK are exposed to AI, and that half of these jobs may be negatively affected. However, the Tony Blair Institute has said potential job losses in the private sector could be mitigated by AI creating new roles.
+
+A recent report by the consultancy PwC found that workers with AI skills were being paid 56% more than those without knowledge of the technology last year, compared with 25% the year prior.
+
+It also found that the mix of skills sought by employers is changing 66% faster in occupations most exposed to AI, such as financial analysts, than in those least exposed roles, such as physical therapists. This could mean that workers find it more difficult to keep up with changing demands for new skills.
+
+This month Peter Kyle, the technology secretary, said workers and businesses should “act now” on getting to grips with AI , or risk being left behind.
+
+He said: “I think most people are approaching this with trepidation. Once they start [using AI], it turns to exhilaration, because it is a lot more straightforward than people realise, and it is far more rewarding than people expect.”
