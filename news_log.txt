@@ -1983,3 +1983,18 @@ Topic: Australia News
 Title: 1 July changes: minimum wage, Centrelink payments, parental leave, road fines and everything else coming for 2025-26
 URL: https://www.theguardian.com/australia-news/2025/jun/30/1-july-changes-2025-centrelink-payments-minimum-wage-road-fines-everything-financial-year
 
+Site: The Guardian
+Topic: Us News
+Title: Trump news at a glance: president pushes Republicans to back big bill as analysis says it will add extra $3.3tn in debt
+URL: https://www.theguardian.com/us-news/2025/jun/30/trump-news-at-a-glance-president-pushes-republicans-to-back-big-bill-as-analysis-says-it-will-add-extra-33tn-in-debt
+
+Site: The Guardian
+Topic: Global Development
+Title: Lesotho activist arrested after video on unemployment rates angers prime minister
+URL: https://www.theguardian.com/global-development/2025/jun/30/tsolo-thakeli-sam-maketane-lesotho-activist-unemployment-video
+
+Site: The Guardian
+Topic: Business
+Title: Shiploads of cars ready to set sail for US from UK as trade deal kicks in
+URL: https://www.theguardian.com/business/2025/jun/30/shiploads-cars-ready-us-from-uk-as-trade-deal-kicks-in
+
