@@ -2403,3 +2403,13 @@ Topic: Football
 Title: Sheffield Wednesday facing EFL action and possible walkout after failing to pay players
 URL: https://www.theguardian.com/football/2025/jun/30/sheffield-wednesday-facing-efl-action-and-possible-walkout-after-failing-to-pay-players
 
+Site: The Guardian
+Topic: Uk News
+Title: Royal train to be retired as King Charles seeks to modernise monarchy
+URL: https://www.theguardian.com/uk-news/2025/jun/30/royal-train-to-be-retired-as-king-charles-seeks-to-modernise-monarchy
+
+Site: The Guardian
+Topic: World
+Title: Twenty bodies discovered in Sinaloa as Mexican cartel violence surges
+URL: https://www.theguardian.com/world/2025/jun/30/mexico-sinaloa-cartel-violence
+
