@@ -2443,3 +2443,8 @@ Topic: Politics
 Title: Liz Kendall is a listening kind of woman but can’t seem to hear Labour discontent on welfare bill
 URL: https://www.theguardian.com/politics/2025/jun/30/liz-kendall-labour-welfare-bill
 
+Site: The Guardian
+Topic: Environment
+Title: Heavy rain lashes the east coast as vigorous coastal low intensifies off NSW
+URL: https://www.theguardian.com/environment/2025/jul/01/nsw-weather-warnings-forecast-coastal-low-rain-wind
+
