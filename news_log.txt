@@ -2158,3 +2158,8 @@ Topic: Environment
 Title: Weather tracker: Temperatures plunge in Chile, Argentina and Uruguay
 URL: https://www.theguardian.com/environment/2025/jun/30/weather-tracker-temperatures-plunge-in-chile-argentina-and-uruguay
 
+Site: The Guardian
+Topic: Environment
+Title: England wildlife regulator chair ‘enthusiastic’ about lynx rewilding
+URL: https://www.theguardian.com/environment/2025/jun/30/lynx-rewilding-england-wildlife-regulator-tony-juniper
+
