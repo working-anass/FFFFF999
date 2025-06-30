@@ -2273,3 +2273,23 @@ Topic: Football
 Title: West Ham open to £60m Kudus offer from Tottenham to ease PSR pressure
 URL: https://www.theguardian.com/football/2025/jun/30/west-ham-open-to-tottenham-offer-for-mohammed-kudus
 
+Site: The Guardian
+Topic: Us News
+Title: Six people killed as small plane crashes minutes after takeoff in Ohio
+URL: https://www.theguardian.com/us-news/2025/jun/30/ohio-plane-crash
+
+Site: The Guardian
+Topic: Us News
+Title: Man who helped girl attacked by shark in Florida detained by Ice officials
+URL: https://www.theguardian.com/us-news/2025/jun/30/florida-shark-attack-detained-immigration
+
+Site: The Guardian
+Topic: Environment
+Title: Flying ants: why this year’s mating season could be longer and more frenzied than ever
+URL: https://www.theguardian.com/environment/2025/jun/30/flying-ant-day-this-years-mating-season-longer-more-frenzied
+
+Site: The Guardian
+Topic: Film
+Title: Beat the Lotto review – how a small-time accountant tried to outwit Ireland’s national lottery
+URL: https://www.theguardian.com/film/2025/jun/30/beat-the-lotto-review-how-a-small-time-accountant-tried-to-outwit-irelands-national-lottery
+
