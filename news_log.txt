@@ -2163,3 +2163,18 @@ Topic: Environment
 Title: England wildlife regulator chair ‘enthusiastic’ about lynx rewilding
 URL: https://www.theguardian.com/environment/2025/jun/30/lynx-rewilding-england-wildlife-regulator-tony-juniper
 
+Site: The Guardian
+Topic: Us News
+Title: Sleeper cells and threat warnings: how the US-Iran conflict is spinning up fear
+URL: https://www.theguardian.com/us-news/2025/jun/30/us-iran-conflict-terrorism-threats
+
+Site: The Guardian
+Topic: Global Development
+Title: ‘It was almost a relief when someone died’: former prisoners on the torture and terror of Eritrea’s secret prisons
+URL: https://www.theguardian.com/global-development/2025/jan/20/eritrea-torture-terror-prisons-former-prisoners
+
+Site: The Guardian
+Topic: Football
+Title: Freese saves three penalties as USA scrape past Costa Rica and into Gold Cup semi-final
+URL: https://www.theguardian.com/football/2025/jun/30/freese-saves-three-penalties-as-usa-scrape-past-costa-rica-and-into-gold-cup-semi-final
+
