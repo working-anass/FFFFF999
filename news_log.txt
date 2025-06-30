@@ -2178,3 +2178,28 @@ Topic: Football
 Title: Freese saves three penalties as USA scrape past Costa Rica and into Gold Cup semi-final
 URL: https://www.theguardian.com/football/2025/jun/30/freese-saves-three-penalties-as-usa-scrape-past-costa-rica-and-into-gold-cup-semi-final
 
+Site: The Guardian
+Topic: Us News
+Title: Disabled Amazon workers in corporate jobs allege ‘systemic discrimination’
+URL: https://www.theguardian.com/us-news/2025/jun/30/disabled-amazon-workers-discrimination
+
+Site: The Guardian
+Topic: Us News
+Title: US city declares 12-year-old boy a hero for saving his family from house fire
+URL: https://www.theguardian.com/us-news/2025/jun/30/virginia-city-boy-hero-house-fire-saved-family
+
+Site: The Guardian
+Topic: Sport
+Title: Wimbledon opening day hottest on record as temperatures soar
+URL: https://www.theguardian.com/sport/2025/jun/30/wimbledon-hottest-opening-day-on-record
+
+Site: The Guardian
+Topic: Environment
+Title: Spain records highs of 46C and France under alert as Europe swelters in heatwave
+URL: https://www.theguardian.com/environment/2025/jun/30/spain-records-highs-of-46c-and-france-under-alert-as-europe-swelters-in-heatwave
+
+Site: The Guardian
+Topic: Business
+Title: Lindsey oil refinery owner Prax falls into administration as ministers urged to intervene
+URL: https://www.theguardian.com/business/2025/jun/30/lindsey-oil-refinery-prax-group-administration
+
