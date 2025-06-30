@@ -2138,3 +2138,8 @@ Topic: Business
 Title: WH Smith cuts sale price of high street business by £12m
 URL: https://www.theguardian.com/business/2025/jun/30/wh-smith-cuts-sale-price-high-street-modella-capital
 
+Site: The Guardian
+Topic: Football
+Title: Kirk close to return at Linköping after sacking over relationship with player
+URL: https://www.theguardian.com/football/2025/jun/30/willie-kirk-return-management-linkoping-sacking-relationship-with-player
+
