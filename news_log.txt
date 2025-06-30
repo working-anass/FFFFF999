@@ -2303,3 +2303,13 @@ Topic: Sport
 Title: Lions’ first-choice half-backs will unite for first time against Queensland
 URL: https://www.theguardian.com/sport/2025/jun/30/lions-half-backs-gibson-park-russell-queensland-rugby
 
+Site: The Guardian
+Topic: Society
+Title: The Vivienne died from cardio-respiratory arrest due to ketamine use, inquest finds
+URL: https://www.theguardian.com/society/2025/jun/30/the-vivienne-died-from-cardio-respiratory-arrest-due-to-ketamine-use-inquest-finds
+
+Site: The Guardian
+Topic: Business
+Title: US dollar heads for worst first half in more than 50 years amid Trump tariffs
+URL: https://www.theguardian.com/business/2025/jun/30/us-dollar-first-half-trump-tariffs
+
