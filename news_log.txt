@@ -2353,3 +2353,8 @@ Topic: World
 Title: Norway lottery operator apologises to 47,000 players over prize mixup
 URL: https://www.theguardian.com/world/2025/jun/30/norway-lottery-error-apology
 
+Site: The Guardian
+Topic: World
+Title: Trust in UN’s nuclear watchdog is broken, Iranian president says
+URL: https://www.theguardian.com/world/2025/jun/30/trust-un-nuclear-watchdog-broken-iran-president-iaea
+
