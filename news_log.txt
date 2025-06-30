@@ -2418,3 +2418,13 @@ Topic: Us News
 Title: Trump officials create searchable national citizenship database
 URL: https://www.theguardian.com/us-news/2025/jun/30/trump-citizenship-database
 
+Site: The Guardian
+Topic: Us News
+Title: ‘Horrified’ Idaho community reels from sniper attack that killed firefighters
+URL: https://www.theguardian.com/us-news/2025/jun/30/idaho-firefighters-sniper-attack
+
+Site: The Guardian
+Topic: Technology
+Title: Gov.uk smartphone app to launch with limited functionality
+URL: https://www.theguardian.com/technology/2025/jun/30/gov-uk-smartphone-app-launch-functionality
+
