@@ -2313,3 +2313,8 @@ Topic: Business
 Title: US dollar heads for worst first half in more than 50 years amid Trump tariffs
 URL: https://www.theguardian.com/business/2025/jun/30/us-dollar-first-half-trump-tariffs
 
+Site: The Guardian
+Topic: Football
+Title: Substituted players unleashed: latest TV tweak will push media training to the limit
+URL: https://www.theguardian.com/football/2025/jun/30/football-daily-newsletter-substituted-players-tv-interviews
+
