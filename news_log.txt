@@ -2143,3 +2143,8 @@ Topic: Football
 Title: Kirk close to return at Linköping after sacking over relationship with player
 URL: https://www.theguardian.com/football/2025/jun/30/willie-kirk-return-management-linkoping-sacking-relationship-with-player
 
+Site: Al Jazeera
+Topic: Liveblog
+Title: US Senate debates Trump’s big bill of tax breaks and spending cuts
+URL: https://www.aljazeera.com/news/liveblog/2025/6/30/trump-live-us-senate-debates-big-bill-of-tax-breaks-and-spending-cuts
+
