@@ -1933,3 +1933,23 @@ Topic: Us News
 Title: One dead and two injured after explosion damages Philadelphia homes
 URL: https://www.theguardian.com/us-news/2025/jun/29/philadelphia-house-explosion
 
+Site: The Guardian
+Topic: Us News
+Title: Idaho shooting: two dead after firefighters ambushed by gunman while responding to fire
+URL: https://www.theguardian.com/us-news/2025/jun/29/firefighters-idaho-gunman
+
+Site: The Guardian
+Topic: Science
+Title: Martian dust may pose health risk to humans exploring red planet, study finds
+URL: https://www.theguardian.com/science/2025/mar/26/martian-dust-may-pose-health-risk-to-humans-exploring-red-planet-study-finds
+
+Site: The Guardian
+Topic: Football
+Title: Harry Kane sinks Flamengo to set up Bayern Munich’s Club World Cup tie with PSG
+URL: https://www.theguardian.com/football/2025/jun/29/flamengo-bayern-munich-club-world-cup-match-report
+
+Site: The Guardian
+Topic: Football
+Title: ‘I was villainised’: Mary Earps hurt by reaction to her England retirement
+URL: https://www.theguardian.com/football/2025/jun/30/mary-earps-england-retirement-lionesses-womens-euro-2025
+

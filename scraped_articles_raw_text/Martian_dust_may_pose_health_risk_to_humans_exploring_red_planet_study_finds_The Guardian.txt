@@ -1,0 +1,9 @@
+Site: The Guardian
+Title: Martian dust may pose health risk to humans exploring red planet, study finds
+URL: https://www.theguardian.com/science/2025/mar/26/martian-dust-may-pose-health-risk-to-humans-exploring-red-planet-study-finds
+
+F rom a distance Mars looks beautiful, but sending astronauts to explore the planet might be more challenging than first thought, due to the presence of toxic dust. A new study identifies some of the health hazards and discusses the kind of personal protective equipment that astronauts might need.
+
+During Apollo missions to the moon, astronauts suffered from exposure to lunar dust. It clung to spacesuits and seeped into the lunar landers, causing coughing, runny eyes and irritated throats. Studies showed that chronic health effects would result from prolonged exposure. Martian dust isn’t as sharp and abrasive as lunar dust, but it does have the same tendency to stick to everything, and the fine particles (about 4% the width of a human hair) can penetrate deep into lungs and enter the bloodstream. Toxic substances in the dust include silica, gypsum and various metals.
+
+“A mission to Mars does not have the luxury of rapid return to Earth for treatment,” the researchers write in the journal GeoHealth . And the 40-minute communication delay will limit the usefulness of remote medical support from Earth. Instead, the researchers stress that limiting exposure to dust is essential, requiring air filters, self-cleaning space suits and electrostatic repulsion devices, for example.
