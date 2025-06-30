@@ -1,0 +1,23 @@
+Site: The Guardian
+Title: More than 25% of UK businesses hit by cyber-attack in last year, report finds
+URL: https://www.theguardian.com/business/2025/jun/30/uk-businesses-hit-by-cyber-attack-last-year-report
+
+More than one in four UK businesses have been the victim of a cyber-attack in the last year and many more risk “sleepwalking” into such disruption unless they take urgent action, according to a report.
+
+About 27% of companies said their building had suffered a cyber-attack in the last 12 months, according to a survey of facilities managers, service providers and consultancies undertaken by the Royal Institution of Chartered Surveyors (Rics) and shared with the Guardian. The figure is up from 16% a year ago.
+
+Almost three-quarters (73%) of more than 8,000 business leaders believe that a cybersecurity incident will disrupt their business in the next 12 to 24 months. Rics identified cybersecurity and digital risk as one of the biggest and fastest-growing threats to owners and occupiers of buildings.
+
+Marks & Spencer was forced to halt orders on its website for almost seven weeks after a major attack in April, which caused clothing sales to fall by a fifth in the four weeks to 25 May. It lost ground to rivals such as Next, Zara and H&M.
+
+As cybercriminals’ techniques become more sophisticated, attacks on critical infrastructure and data breaches are becoming more common, Rics said. This is going to be exacerbated by the rising capability of artificial intelligence and the pace of technological change.
+
+Rics warned that some buildings may be using dangerously outdated operating systems. It said a building opened in 2013 could conceivably use Windows 7, an operating system that has not received security updates from Microsoft in more than five years.
+
+Paul Bagust, the head of property practice at Rics, said: “Buildings are no longer just bricks and mortar, they have evolved into smart, interconnected digital environments embracing increasingly sophisticated and ever-evolving technologies to enhance occupier experience.
+
+“This has led to increasing data being collected and used to inform decision-making; at the property manager, building user, occupier and owner levels. However, while these technologies bring many benefits, from efficiency gains and reduced negative impacts on the planet, they also create multiple risks and vulnerabilities which can be exploited by those looking to cause disruption.”
+
+The report identified operational technology such as building management systems, CCTV networks, Internet of Things devices and access control systems as risk areas. This ranges from automated lighting and heating, and ventilation and air conditioning systems, to advanced security protocols and energy management.
+
+Bagust added: “It is inconceivable to imagine a world where technology will not continue to pose a growing risk to a building’s operation … Failure to identify these growing digital challenges and incorporate security countermeasures risks businesses sleepwalking into cyber-attacks.”

@@ -1998,3 +1998,13 @@ Topic: Business
 Title: Shiploads of cars ready to set sail for US from UK as trade deal kicks in
 URL: https://www.theguardian.com/business/2025/jun/30/shiploads-cars-ready-us-from-uk-as-trade-deal-kicks-in
 
+Site: The Guardian
+Topic: Science
+Title: Irish museum solves mystery of bronze age axe heads delivered in porridge box
+URL: https://www.theguardian.com/science/article/2024/jul/25/irish-museum-solves-mystery-of-bronze-age-axe-heads-delivered-in-porridge-box
+
+Site: The Guardian
+Topic: Business
+Title: More than 25% of UK businesses hit by cyber-attack in last year, report finds
+URL: https://www.theguardian.com/business/2025/jun/30/uk-businesses-hit-by-cyber-attack-last-year-report
+
