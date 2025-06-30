@@ -2038,3 +2038,13 @@ Topic: Sport
 Title: ‘I was angry at the world’: Damon Hill on pain of his father’s death and how it fuelled his rise
 URL: https://www.theguardian.com/sport/2025/jun/30/i-was-angry-at-the-world-damon-hill-on-pain-of-his-fathers-death-and-how-it-fuelled-his-rise
 
+Site: The Guardian
+Topic: Science
+Title: Unsung observatory worker was UK’s first professional female astronomer, experts say
+URL: https://www.theguardian.com/science/2025/jun/30/unsung-observatory-worker-uk-first-professional-female-astronomer-annie-walker
+
+Site: The Guardian
+Topic: Global Development
+Title: Rusted screws, metal spikes and plastic rubbish: the horrific sexual violence used against Tigray’s women
+URL: https://www.theguardian.com/global-development/2025/jun/30/sexual-violence-tigray-women-abuse-gang-rape-ethiopia-eritrea
+
