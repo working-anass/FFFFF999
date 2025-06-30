@@ -2133,3 +2133,8 @@ Topic: Environment
 Title: I’m obsessed with brittle stars: fish often nip off bits of their arms but they regenerate
 URL: https://www.theguardian.com/environment/2025/jun/30/martin-solan-obsessed-with-brittle-stars-sea-floor-biodiversity-climate-crisis-warming-oceans
 
+Site: The Guardian
+Topic: Business
+Title: WH Smith cuts sale price of high street business by £12m
+URL: https://www.theguardian.com/business/2025/jun/30/wh-smith-cuts-sale-price-high-street-modella-capital
+
