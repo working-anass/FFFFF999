@@ -2008,3 +2008,18 @@ Topic: Business
 Title: More than 25% of UK businesses hit by cyber-attack in last year, report finds
 URL: https://www.theguardian.com/business/2025/jun/30/uk-businesses-hit-by-cyber-attack-last-year-report
 
+Site: The Guardian
+Topic: World
+Title: Seoul wrestles with how to handle invasion of ‘lovebugs’
+URL: https://www.theguardian.com/world/2025/jun/30/seoul-lovebug-invasion-insects-south-korea
+
+Site: The Guardian
+Topic: World
+Title: Pioneering project releases more lost Irish records spanning 700 years
+URL: https://www.theguardian.com/world/2025/jun/30/pioneering-project-releases-more-lost-irish-records-spanning-700-years
+
+Site: The Guardian
+Topic: Music
+Title: Olivia Rodrigo at Glastonbury review – full of bile and brilliance, this is easily the weekend’s best big set
+URL: https://www.theguardian.com/music/2025/jun/30/olivia-rodrigo-at-glastonbury-review
+
