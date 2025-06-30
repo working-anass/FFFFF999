@@ -2243,3 +2243,18 @@ Topic: Politics
 Title: Man criticises Home Office for keeping visa fee of wife who died before reaching UK
 URL: https://www.theguardian.com/politics/2025/jun/30/man-criticises-home-office-for-keeping-visa-fee-of-wife-who-died-before-reaching-uk
 
+Site: The Guardian
+Topic: Uk News
+Title: ‘I never believed they’d be able to trace him’: granddaughter of 1967 murder victim finally sees justice
+URL: https://www.theguardian.com/uk-news/2025/jun/30/louisa-dunne-murder-conviction-granddaughter
+
+Site: The Guardian
+Topic: Football
+Title: The US needed more than a trophy from the Gold Cup, and they may just get it
+URL: https://www.theguardian.com/football/2025/jun/30/usmnt-gold-cup-belief-identity-confidence-2025
+
+Site: The Guardian
+Topic: Technology
+Title: Microsoft says AI system better than doctors at diagnosing complex health conditions
+URL: https://www.theguardian.com/technology/2025/jun/30/microsoft-ai-system-better-doctors-diagnosing-health-conditions-research
+
