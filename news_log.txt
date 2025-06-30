@@ -2318,3 +2318,13 @@ Topic: Football
 Title: Substituted players unleashed: latest TV tweak will push media training to the limit
 URL: https://www.theguardian.com/football/2025/jun/30/football-daily-newsletter-substituted-players-tv-interviews
 
+Site: The Guardian
+Topic: Music
+Title: Jurors in Sean ‘Diddy’ Combs’s sex-trafficking trial begin deliberations
+URL: https://www.theguardian.com/music/2025/jun/30/diddy-trial-jury-deliberation
+
+Site: The Guardian
+Topic: Business
+Title: From snail slime to salmon sperm: the K-beauty boom hits UK high streets
+URL: https://www.theguardian.com/business/2025/may/08/snail-slime-salmon-sperm-k-beauty-boom-hits-uk-high-streets
+
