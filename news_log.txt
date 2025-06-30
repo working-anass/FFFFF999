@@ -2223,3 +2223,8 @@ Topic: Football
 Title: Aston Villa move to sell women’s team in push to avoid PSR breach
 URL: https://www.theguardian.com/football/2025/jun/30/aston-villa-sell-womens-team-avoid-psr-breach
 
+Site: The Guardian
+Topic: Uk News
+Title: Man, 92, convicted of raping and murdering Bristol woman in 1967
+URL: https://www.theguardian.com/uk-news/2025/jun/30/louisa-dunne-murder-cold-case-conviction
+
