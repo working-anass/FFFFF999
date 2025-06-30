@@ -2103,3 +2103,8 @@ Topic: Australia News
 Title: Absence of motive evidence counts in Erin Patterson’s favour, jury told, as deliberations begin
 URL: https://www.theguardian.com/australia-news/2025/jun/30/erin-patterson-jury-deliberations-mushroom-lunch-trial-australia-ntwnfb
 
+Site: The Guardian
+Topic: Business
+Title: UK households hit by squeeze on living standards despite fastest growth in G7
+URL: https://www.theguardian.com/business/2025/jun/30/uk-households-living-growth-g7-ons-gdp-savings
+
