@@ -2388,3 +2388,13 @@ Topic: Uk News
 Title: Robin Masefield obituary
 URL: https://www.theguardian.com/uk-news/2025/jun/30/robin-masefield-obituary
 
+Site: The Guardian
+Topic: Us News
+Title: Two more Ice deaths put US on track for one of deadliest years in immigration detention
+URL: https://www.theguardian.com/us-news/2025/jun/30/us-ice-detention-deaths
+
+Site: The Guardian
+Topic: Football
+Title: Fifpro calls for longer half-time breaks after heat ‘wake-up call’ at Club World Cup
+URL: https://www.theguardian.com/football/2025/jun/30/fifpro-calls-for-longer-half-time-breaks-after-extreme-heat-wake-up-call-at-club-world-cup
+
