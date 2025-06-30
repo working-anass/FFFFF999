@@ -2093,3 +2093,13 @@ Topic: Global Development
 Title: Revealed: Saudi Arabia’s secretive rehabilitation ‘prisons’ for disobedient women
 URL: https://www.theguardian.com/global-development/2025/may/28/saudi-arabia-women-girls-rehabilitation-prisons-dar-al-reaya
 
+Site: The Guardian
+Topic: Football
+Title: Football transfer rumours: Arsenal join Premier League race for Hugo Ekitike?
+URL: https://www.theguardian.com/football/2025/jun/30/football-transfer-rumours-arsenal-join-premier-league-race-for-hugo-ekitike
+
+Site: The Guardian
+Topic: Australia News
+Title: Absence of motive evidence counts in Erin Patterson’s favour, jury told, as deliberations begin
+URL: https://www.theguardian.com/australia-news/2025/jun/30/erin-patterson-jury-deliberations-mushroom-lunch-trial-australia-ntwnfb
+
