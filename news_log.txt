@@ -2203,3 +2203,23 @@ Topic: Business
 Title: Lindsey oil refinery owner Prax falls into administration as ministers urged to intervene
 URL: https://www.theguardian.com/business/2025/jun/30/lindsey-oil-refinery-prax-group-administration
 
+Site: The Guardian
+Topic: World
+Title: Russia has taken first village in Ukraine’s Dnipropetrovsk, state media claims
+URL: https://www.theguardian.com/world/2025/jun/30/russia-taken-first-village-ukraine-dnipropetrovsk-state-media-claims
+
+Site: The Guardian
+Topic: Uk News
+Title: Speed restrictions imposed on two main train lines amid UK heatwave
+URL: https://www.theguardian.com/uk-news/2025/jun/30/speed-restrictions-train-lines-uk-heatwave
+
+Site: The Guardian
+Topic: Global Development
+Title: How the Taliban are erasing Afghanistan’s women – photo essay
+URL: https://www.theguardian.com/global-development/2024/nov/14/women-girls-afghanistan-taliban-repression-interviewed-photographed-100-afghan-women
+
+Site: The Guardian
+Topic: Football
+Title: Aston Villa move to sell women’s team in push to avoid PSR breach
+URL: https://www.theguardian.com/football/2025/jun/30/aston-villa-sell-womens-team-avoid-psr-breach
+
