@@ -1953,3 +1953,18 @@ Topic: Football
 Title: ‘I was villainised’: Mary Earps hurt by reaction to her England retirement
 URL: https://www.theguardian.com/football/2025/jun/30/mary-earps-england-retirement-lionesses-womens-euro-2025
 
+Site: The Guardian
+Topic: World
+Title: Mexico police discover 381 bodies ‘thrown indiscriminately’ on crematorium floor
+URL: https://www.theguardian.com/world/2025/jun/30/mexico-crematorium-police-381-bodies-ciudad-juarez-ntwnfb
+
+Site: The Guardian
+Topic: World
+Title: Ukraine war briefing: Zelenskyy to pull Kyiv out of convention banning anti-personnel landmines
+URL: https://www.theguardian.com/world/2025/jun/30/ukraine-war-briefing-zelenskyy-to-pull-kyiv-out-of-convention-banning-anti-personnel-landmines
+
+Site: The Guardian
+Topic: Football
+Title: Club World Cup could ‘destroy’ Manchester City’s season, says Pep Guardiola
+URL: https://www.theguardian.com/football/2025/jun/30/club-world-cup-manchester-city-pep-guardiola
+
