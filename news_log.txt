@@ -2358,3 +2358,8 @@ Topic: World
 Title: Trust in UN’s nuclear watchdog is broken, Iranian president says
 URL: https://www.theguardian.com/world/2025/jun/30/trust-un-nuclear-watchdog-broken-iran-president-iaea
 
+Site: The Guardian
+Topic: Tv And Radio
+Title: John Oliver on Trump’s ‘big beautiful bill’: ‘Death by a thousand cuts’
+URL: https://www.theguardian.com/tv-and-radio/2025/jun/30/john-oliver-big-beautiful-bill-medicaid
+
