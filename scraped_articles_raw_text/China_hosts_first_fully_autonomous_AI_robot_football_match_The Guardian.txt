@@ -1,0 +1,19 @@
+Site: The Guardian
+Title: China hosts first fully autonomous AI robot football match
+URL: https://www.theguardian.com/technology/2025/jun/30/china-hosts-first-fully-autonomous-ai-robot-football-match
+
+They think it’s all over … for human footballers at least.
+
+The pitch wasn’t the only artificial element on display at a football match on Saturday. Four teams of humanoid robots took each other on in Beijing, in games of three-a-side powered by artificial intelligence.
+
+While the modern game has faced accusations of becoming near-robotic in its obsession with tactical perfection, the games in China showed that AI won’t be taking Kylian Mbappé’s job just yet.
+
+Footage of the humanoid kickabout showed the robots struggling to kick the ball or stay upright, performing pratfalls that would have earned their flesh-and-blood counterparts a yellow card for diving. At least two robots were stretchered off after failing to regain their feet after going to ground.
+
+Cheng Hao, founder and CEO of Booster Robotics, the company that supplied the robot players, said sports competitions offered the ideal testing ground for humanoid robots. He said humans could play robots in the future, although judging by Saturday’s evidence the humanoids have some way to go before they can hold their own on a football pitch.
+
+Cheng said: “In the future, we may arrange for robots to play football with humans. That means we must ensure the robots are completely safe.”
+
+The competition was fought between university teams, which adapted the robots with their own algorithms. In the final match, Tsinghua University’s THU Robotics defeated the China Agricultural University’s Mountain Sea team with a score of 5–3 to win the championship.
+
+One Tsinghua supporter celebrated their victory while also praising the competition. “They [THU] did really well,” he said. “But the Mountain Sea team was also impressive. They brought a lot of surprises.”

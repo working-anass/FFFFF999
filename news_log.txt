@@ -2328,3 +2328,13 @@ Topic: Business
 Title: From snail slime to salmon sperm: the K-beauty boom hits UK high streets
 URL: https://www.theguardian.com/business/2025/may/08/snail-slime-salmon-sperm-k-beauty-boom-hits-uk-high-streets
 
+Site: The Guardian
+Topic: Football
+Title: Jonny Evans retires to take up official new role at Manchester United
+URL: https://www.theguardian.com/football/2025/jun/30/excited-jonny-evans-retires-to-take-up-official-new-role-at-manchester-united
+
+Site: The Guardian
+Topic: Technology
+Title: China hosts first fully autonomous AI robot football match
+URL: https://www.theguardian.com/technology/2025/jun/30/china-hosts-first-fully-autonomous-ai-robot-football-match
+
