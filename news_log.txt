@@ -2413,3 +2413,8 @@ Topic: World
 Title: Twenty bodies discovered in Sinaloa as Mexican cartel violence surges
 URL: https://www.theguardian.com/world/2025/jun/30/mexico-sinaloa-cartel-violence
 
+Site: The Guardian
+Topic: Us News
+Title: Trump officials create searchable national citizenship database
+URL: https://www.theguardian.com/us-news/2025/jun/30/trump-citizenship-database
+

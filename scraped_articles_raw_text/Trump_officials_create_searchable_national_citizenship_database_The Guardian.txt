@@ -1,0 +1,43 @@
+Site: The Guardian
+Title: Trump officials create searchable national citizenship database
+URL: https://www.theguardian.com/us-news/2025/jun/30/trump-citizenship-database
+
+The US Department of Homeland Security has for the first time built a national citizenship database that combines information from immigration agencies and the social security administration.
+
+The database was created in collaboration with the “department of government efficiency” (Doge) in an effort to bridge the gaps between disparate information sources to make it easier to determine whether someone is a citizen, according to NPR , which first reported the details of the database.
+
+The database is the result of an expansion of the systematic alien verification for entitlements (Save) program, made up of smaller databases within the homeland security department, and an integration with information from the Social Security Administration. The centralized repository is searchable and can be accessed by state and local election officials to look up the names of anyone trying to vote to determine if they are citizens, according to NPR. Until now, election officials had to ask potential voters for documents verifying their citizenship or rely on a hard-to-navigate patchwork of databases.
+
+In response to a request for comment, the DHS said: “Integration with the Social Security Administration (SSA) significantly improves the service offered by Save.”
+
+Previously, agencies involved in voting were required to use numbers issued by the DHS to look up voter registrations, which they may not have had access to but may have been more likely to possess social security numbers, according to the statement. The citizenship database may also soon integrate state department of motor vehicles (DMV) data, NPR reported.
+
+The DHS statement also describes the motivations for the creation of the database: “Under the leadership of President Trump and Secretary Noem, USCIS is moving quickly to eliminate benefit and voter fraud among the alien population.” Voter fraud is rare in the US, experts say ; consequences include fines or jail time.
+
+The citizenship database is one of the first results of Doge’s efforts to gain access to and merge information on Americans from agencies across the federal government, including the Internal Revenue Service, in the first few months of the Trump administration.
+
+Reports indicate Doge is attempting to create a single data hub that enables access to these vast troves of information on Americans in an effort to eliminate the separation of information in isolated or protected silos. The attempt to connect various sources of personal information, which Doge has said is needed to root out fraud, and allow it to be accessed in one place has sparked several lawsuits.
+
+In response, union members in Maryland have sued the office of personnel management, the treasury department and the education department for sharing personal information with Doge officials “who had no need to know the vast amount of sensitive personal information to which they were granted access”, according to their suit.
+
+“Defendants admit that the [Social Security Administration] granted Doge personnel broad access to millions of Americans’ sensitive PII [personally identifiable information],” US district judge Ellen Lipton Hollander of Maryland wrote in a decision ordering a temporary block on the Social Security Administration sharing information with Doge.
+
+“This intrusion into the personal affairs of millions of Americans – absent an adequate explanation for the need to do so – is not in the public interest.”
+
+The database in question was created with little engagement of the public, something that is requisite for building these types of mass surveillance databases. The Privacy Act of 1974 requires federal agencies to notify the public if there are new ways they plan to use or collect Americans’ personal information. Legal experts have also questioned whether this sort of a centralized database sidesteps many of the privacy and security protections implemented within each agency.
+
+The consolidation of personal information into a mass database is unprecedented and has sparked concern among immigration and privacy advocates. The creation of a centralized repository brings together pieces of information that were previously within the purview of separate agencies, and potentially makes it easier for government officials to look up individual’s data from across the government. Many worry about how else this database could be used.
+
+“The premise of noncitizen voter fraud is one that officials, including President Trump, have used as a pretext to discredit and intimidate entire communities,” said Citlaly Mora, spokesperson for immigration legal project Just Futures Law.
+
+“This database is the latest iteration of Doge’s attempt to weaponize the data of the millions of people that live in the US They are building this database without transparency and without consulting the public about how their data will be used, a brazen violation of our privacy rights. Given this administration’s track record of failing to follow proper processes, we should all be concerned.”
+
+The rollout of the citizenship database, which is an upgraded version of an existing network of data sources, comes after the New York Times reported that software firm Palantir was selected to help develop a “mega-database” for the Trump administration.
+
+In a letter to the company, 10 Democratic lawmakers said the database, which would collect the tax and other personal information on all Americans in a single repository, would potentially be a violation of federal law.
+
+“The unprecedented possibility of a searchable ‘mega-database’ of tax returns and other data that will potentially be shared with or accessed by other federal agencies is a surveillance nightmare that raises a host of legal concerns, not least that it will make it significantly easier for Donald Trump’s administration to spy on and target his growing list of enemies and other Americans,” the letter reads.
+
+Palantir has repeatedly denied that it was building a master database.
+
+It said: “Palantir is neither conducting nor enabling mass surveillance of American citizens. We do not operate the systems, access the data, or make decisions about its use.”
