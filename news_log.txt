@@ -2433,3 +2433,13 @@ Topic: Uk News
 Title: Man, 92, who allegedly raped and murdered woman in 1967 caught after DNA advances, court told
 URL: https://www.theguardian.com/uk-news/2025/jun/16/man-92-who-allegedly-raped-and-murdered-woman-in-1967-caught-after-dna-advances-court-told
 
+Site: The Guardian
+Topic: Uk News
+Title: Scottish firefighters tackle wildfires for third day as risk to life grows
+URL: https://www.theguardian.com/uk-news/2025/jun/30/scottish-firefighters-tackle-wildfires-for-third-day-as-risk-to-life-grows
+
+Site: The Guardian
+Topic: Politics
+Title: Liz Kendall is a listening kind of woman but can’t seem to hear Labour discontent on welfare bill
+URL: https://www.theguardian.com/politics/2025/jun/30/liz-kendall-labour-welfare-bill
+
