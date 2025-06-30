@@ -2383,3 +2383,8 @@ Topic: Business
 Title: UK food delivery firms step up checks after claims of illegal workers
 URL: https://www.theguardian.com/business/2025/jun/30/uk-food-delivery-companies-increase-checks-illegal-workers
 
+Site: The Guardian
+Topic: Uk News
+Title: Robin Masefield obituary
+URL: https://www.theguardian.com/uk-news/2025/jun/30/robin-masefield-obituary
+
