@@ -2023,3 +2023,8 @@ Topic: Music
 Title: Olivia Rodrigo at Glastonbury review – full of bile and brilliance, this is easily the weekend’s best big set
 URL: https://www.theguardian.com/music/2025/jun/30/olivia-rodrigo-at-glastonbury-review
 
+Site: The Guardian
+Topic: Science
+Title: Starwatch: Spica greets the passing moon
+URL: https://www.theguardian.com/science/2025/jun/30/starwatch-spica-greets-the-passing-moon
+
