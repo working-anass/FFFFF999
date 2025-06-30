@@ -2448,3 +2448,13 @@ Topic: Environment
 Title: Heavy rain lashes the east coast as vigorous coastal low intensifies off NSW
 URL: https://www.theguardian.com/environment/2025/jul/01/nsw-weather-warnings-forecast-coastal-low-rain-wind
 
+Site: The Guardian
+Topic: Uk News
+Title: King Charles to receive £132m next year after crown estate makes £1.1bn profit
+URL: https://www.theguardian.com/uk-news/2025/jul/01/king-charles-crown-estate-profit-land-property
+
+Site: The Guardian
+Topic: Football
+Title: From Russo to Katoto: six contenders to be top scorer at Euro 2025
+URL: https://www.theguardian.com/football/2025/jun/30/from-russo-to-katoto-six-contenders-to-be-top-scorer-at-euro-2025
+
