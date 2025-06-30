@@ -2373,3 +2373,13 @@ Topic: Us News
 Title: US Senate Republicans make final push to pass Trump’s one big beautiful bill
 URL: https://www.theguardian.com/us-news/2025/jun/30/republicans-senators-trump-one-big-beautiful-bill
 
+Site: The Guardian
+Topic: Us News
+Title: Boulder woman, 82, dies from injuries sustained in attack on rally for Israeli hostages
+URL: https://www.theguardian.com/us-news/2025/jun/30/boulder-attack-victim-dies
+
+Site: The Guardian
+Topic: Business
+Title: UK food delivery firms step up checks after claims of illegal workers
+URL: https://www.theguardian.com/business/2025/jun/30/uk-food-delivery-companies-increase-checks-illegal-workers
+
