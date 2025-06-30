@@ -2148,3 +2148,13 @@ Topic: Liveblog
 Title: US Senate debates Trump’s big bill of tax breaks and spending cuts
 URL: https://www.aljazeera.com/news/liveblog/2025/6/30/trump-live-us-senate-debates-big-bill-of-tax-breaks-and-spending-cuts
 
+Site: The Guardian
+Topic: World
+Title: Russia pays young Ukrainians to be unwitting suicide bombers in shadow war
+URL: https://www.theguardian.com/world/2025/jun/30/russia-pays-ukrainians-suicide-bombers-shadow-war-you-now
+
+Site: The Guardian
+Topic: Environment
+Title: Weather tracker: Temperatures plunge in Chile, Argentina and Uruguay
+URL: https://www.theguardian.com/environment/2025/jun/30/weather-tracker-temperatures-plunge-in-chile-argentina-and-uruguay
+
