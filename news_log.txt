@@ -2398,3 +2398,8 @@ Topic: Football
 Title: Fifpro calls for longer half-time breaks after heat ‘wake-up call’ at Club World Cup
 URL: https://www.theguardian.com/football/2025/jun/30/fifpro-calls-for-longer-half-time-breaks-after-extreme-heat-wake-up-call-at-club-world-cup
 
+Site: The Guardian
+Topic: Football
+Title: Sheffield Wednesday facing EFL action and possible walkout after failing to pay players
+URL: https://www.theguardian.com/football/2025/jun/30/sheffield-wednesday-facing-efl-action-and-possible-walkout-after-failing-to-pay-players
+
