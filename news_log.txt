@@ -2338,3 +2338,13 @@ Topic: Technology
 Title: China hosts first fully autonomous AI robot football match
 URL: https://www.theguardian.com/technology/2025/jun/30/china-hosts-first-fully-autonomous-ai-robot-football-match
 
+Site: The Guardian
+Topic: Us News
+Title: Republican senator denounces Trump’s ‘big, beautiful bill’ in fiery speech
+URL: https://www.theguardian.com/us-news/2025/jun/30/thom-tillis-big-beautiful-bill-medicaid-cuts-trump
+
+Site: The Guardian
+Topic: Football
+Title: Arsenal could face battle with Spurs to sign £67.5m Eberechi Eze
+URL: https://www.theguardian.com/football/2025/jun/30/arsenal-could-face-battle-with-spurs-to-sign-675m-eberechi-eze
+
