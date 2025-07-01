@@ -2618,3 +2618,13 @@ Topic: Liveblog
 Title: Hamas vows to ‘save our people’ as Israeli forces kill nearly 100 in Gaza
 URL: https://www.aljazeera.com/news/liveblog/2025/7/1/live-gaza-death-toll-surges-as-hamas-accuses-israel-of-stalling-ceasefire
 
+Site: The Guardian
+Topic: World
+Title: ‘A new wave of repression’: fears for Iran’s political prisoners after Israel war
+URL: https://www.theguardian.com/world/2025/jul/01/iran-political-prisoners-jail-conditions-israel-war
+
+Site: The Guardian
+Topic: Global Development
+Title: Meet Kerala’s ‘rainforest gardeners’ creating a Noah’s ark for endangered plants
+URL: https://www.theguardian.com/global-development/2025/jul/01/kerala-india-rainforest-biodiversity-restoration-nature-gardeners-gurukula-western-ghats
+
