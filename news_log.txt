@@ -2828,3 +2828,13 @@ Topic: Uk News
 Title: Hottest day of the year recorded in UK, says Met Office
 URL: https://www.theguardian.com/uk-news/2025/jul/01/hottest-day-of-the-year-recorded-in-uk-says-met-office
 
+Site: The Guardian
+Topic: World
+Title: Why is Palestine Action being banned and what happens next?
+URL: https://www.theguardian.com/world/2025/jul/01/why-is-palestine-action-being-banned-and-what-happens-next
+
+Site: The Guardian
+Topic: Sport
+Title: Farrell’s five selection posers in big week for Lions hoping to make Test squad
+URL: https://www.theguardian.com/sport/2025/jul/01/big-week-lions-test-squad-rugby-union-the-breakdown
+
