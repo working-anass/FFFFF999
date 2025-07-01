@@ -3048,3 +3048,8 @@ Topic: Science
 Title: One giant ... lie? Why so many people still think the moon landings were faked
 URL: https://www.theguardian.com/science/2019/jul/10/one-giant-lie-why-so-many-people-still-think-the-moon-landings-were-faked
 
+Site: The Guardian
+Topic: Sport
+Title: UPenn to ban transgender athletes, ending civil rights case focused on swimmer Lia Thomas
+URL: https://www.theguardian.com/sport/2025/jul/01/penn-trans-ban-title-ix-lia-thomas
+
