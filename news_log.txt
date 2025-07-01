@@ -3003,3 +3003,8 @@ Topic: Us News
 Title: Trump celebrates harsh conditions for detainees on visit to ‘Alligator Alcatraz’
 URL: https://www.theguardian.com/us-news/2025/jul/01/trump-alligator-alcatraz-immigration-florida
 
+Site: The Guardian
+Topic: Us News
+Title: Trump and Musk’s feud blows up again with threats of Doge and deportation
+URL: https://www.theguardian.com/us-news/2025/jul/01/trump-musk-feud-doge-deportation
+
