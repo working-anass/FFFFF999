@@ -2818,3 +2818,13 @@ Topic: Uk News
 Title: Jailed wife of ex-Tory councillor loses sentence appeal over Southport tweet
 URL: https://www.theguardian.com/uk-news/2025/may/20/jailed-wife-of-ex-tory-councillor-loses-sentence-appeal-over-southport-tweet
 
+Site: The Guardian
+Topic: Us News
+Title: US says it has halted healthcare fraud schemes worth nearly $15bn
+URL: https://www.theguardian.com/us-news/2025/jul/01/healthcare-fraud-schemes-us-justice-department
+
+Site: The Guardian
+Topic: Uk News
+Title: Hottest day of the year recorded in UK, says Met Office
+URL: https://www.theguardian.com/uk-news/2025/jul/01/hottest-day-of-the-year-recorded-in-uk-says-met-office
+
