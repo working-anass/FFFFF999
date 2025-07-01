@@ -2688,3 +2688,33 @@ Topic: Football
 Title: The Club World Cup that wasn’t: how fake highlights took over the internet
 URL: https://www.theguardian.com/football/2025/jul/01/fake-club-world-cup-highlights-youtube-scam
 
+Site: The Guardian
+Topic: World
+Title: Thailand’s PM Paetongtarn Shinawatra suspended over leaked Hun Sen call
+URL: https://www.theguardian.com/world/2025/jul/01/thailands-pm-paetongtarn-shinawatra-suspended-over-leaked-call
+
+Site: The Guardian
+Topic: Us News
+Title: Reality TV stars Todd and Julie Chrisley defiant after Trump pardons
+URL: https://www.theguardian.com/us-news/2025/jul/01/todd-and-julie-chrisley-interview
+
+Site: The Guardian
+Topic: Uk News
+Title: Man, 92, jailed for 1967 rape and murder of Louisa Dunne in Bristol
+URL: https://www.theguardian.com/uk-news/2025/jul/01/man-92-jailed-for-1967-rape-and-murder-of-louisa-dunne-in-bristol
+
+Site: The Guardian
+Topic: Science
+Title: Why you need to worry about the ‘wet-bulb temperature’
+URL: https://www.theguardian.com/science/2022/jul/31/why-you-need-to-worry-about-the-wet-bulb-temperature
+
+Site: The Guardian
+Topic: Business
+Title: Great Britain’s energy networks to get £24bn upgrade but bills to rise
+URL: https://www.theguardian.com/business/2025/jul/01/great-britain-energy-networks-investment-bills-increase-ofgem
+
+Site: The Guardian
+Topic: Business
+Title: How to be successful as a digital nomad
+URL: https://www.theguardian.com/business/2023/oct/31/how-to-be-successful-as-a-digital-nomad
+
