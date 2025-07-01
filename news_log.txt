@@ -2723,3 +2723,13 @@ Topic: Uk News
 Title: The convictions of Lucy Letby: should they be overturned?
 URL: https://www.theguardian.com/uk-news/2025/may/14/the-convictions-of-lucy-letby-should-they-be-overturned
 
+Site: The Guardian
+Topic: Global Development
+Title: Obama calls Trump’s USAID closure a ‘travesty’ as report warns of extra 14 million deaths by 2030
+URL: https://www.theguardian.com/global-development/2025/jul/01/obama-bush-trump-usaid-closure-lancet-report-warns-extra-deaths
+
+Site: The Guardian
+Topic: Global Development
+Title: WHO declares loneliness a ‘global public health concern’
+URL: https://www.theguardian.com/global-development/2023/nov/16/who-declares-loneliness-a-global-public-health-concern
+
