@@ -2903,3 +2903,18 @@ Topic: Us News
 Title: Trump seizes on ‘moral character’ loophole as way to revoke citizenship
 URL: https://www.theguardian.com/us-news/2025/jul/01/us-citizenship-denaturalization-trump-memo
 
+Site: The Guardian
+Topic: Us News
+Title: What’s in Trump’s big, beautiful bill? Tax cuts, deportations and more
+URL: https://www.theguardian.com/us-news/2025/jul/01/what-is-in-big-beautiful-bill-trump
+
+Site: The Guardian
+Topic: Environment
+Title: Tracking sea ice is ‘early warning system’ for global heating - but US halt to data sharing will make it harder, scientists warn
+URL: https://www.theguardian.com/environment/2025/jul/02/tracking-sea-ice-is-early-warning-system-for-global-heating-but-us-halt-to-data-sharing-will-make-it-harder-scientists-warn
+
+Site: The Guardian
+Topic: Business
+Title: Trump’s tax cuts helped billionaires pay less than the working class for first time
+URL: https://www.theguardian.com/business/2019/oct/09/trump-tax-cuts-helped-billionaires-pay-less
+
