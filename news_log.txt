@@ -2988,3 +2988,13 @@ Topic: Thefilter
 Title: The ultimate holiday capsule wardrobe: Jess Cartner-Morley’s 11 suitcase essentials
 URL: https://www.theguardian.com/thefilter/2025/jul/01/ultimate-holiday-capsule-wardrobe
 
+Site: The Guardian
+Topic: World
+Title: Germany summons Iranian ambassador over alleged spying on Jews
+URL: https://www.theguardian.com/world/2025/jul/01/germany-summons-iranian-ambassador-over-alleged-spying-on-jews
+
+Site: The Guardian
+Topic: Business
+Title: Santander to buy TSB for £2.65bn amid fears of branch closures and job losses
+URL: https://www.theguardian.com/business/2025/jul/01/santander-to-buy-tsb-for-265bn-amid-fears-of-job-losses
+
