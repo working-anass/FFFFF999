@@ -2803,3 +2803,18 @@ Topic: Business
 Title: Finance firms’ claim to be ‘saving the world’ was a mistake, says City veteran
 URL: https://www.theguardian.com/business/2025/jul/01/city-finance-firms-aberdeen-asset-managers-esg-issues
 
+Site: The Guardian
+Topic: Us News
+Title: A private prison firm wants to detain immigrants in this Kansas town. Its residents are pushing back
+URL: https://www.theguardian.com/us-news/2025/jul/01/kansas-leavenworth-corecivic-prison-immigrants
+
+Site: The Guardian
+Topic: Us News
+Title: Why it’s so easy for the US to cut children’s access to healthcare: ‘There’s no right to these programs’
+URL: https://www.theguardian.com/us-news/2025/jul/01/childrens-healthcare-cuts-youth-protections
+
+Site: The Guardian
+Topic: Uk News
+Title: Jailed wife of ex-Tory councillor loses sentence appeal over Southport tweet
+URL: https://www.theguardian.com/uk-news/2025/may/20/jailed-wife-of-ex-tory-councillor-loses-sentence-appeal-over-southport-tweet
+
