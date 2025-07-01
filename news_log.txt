@@ -2888,3 +2888,8 @@ Topic: Football
 Title: Transfer latest: Arteta hails £5m Arrizabalaga, West Ham push for Slavia defender Diouf
 URL: https://www.theguardian.com/football/2025/jul/01/transfer-latest-arsenal-kepa-arrizabalaga-arteta-west-ham-el-hadji-malick-diouf-slavia-prague
 
+Site: The Guardian
+Topic: Uk News
+Title: Meghan Markle launches ‘thoughtful’ collection of wines
+URL: https://www.theguardian.com/uk-news/2025/jul/01/meghan-markle-wine
+
