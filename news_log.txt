@@ -2923,3 +2923,13 @@ Topic: Technology
 Title: AI companies start winning the copyright fight
 URL: https://www.theguardian.com/technology/2025/jun/30/ai-techscape-copyright
 
+Site: The Guardian
+Topic: World
+Title: ‘Dad, imam, God’: children living with self-declared pope in former UK orphanage
+URL: https://www.theguardian.com/world/2025/jul/01/children-living-former-uk-orphanage-ahmadi-religion-peace-light
+
+Site: The Guardian
+Topic: Us News
+Title: Trump administration raises possibility of stripping Mamdani of US citizenship
+URL: https://www.theguardian.com/us-news/2025/jul/01/trump-zohran-mamdani-citizenship
+
