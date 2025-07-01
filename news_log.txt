@@ -3023,3 +3023,8 @@ Topic: Technology
 Title: The Trump-Musk feud shows danger of handing the keys of power to one person
 URL: https://www.theguardian.com/technology/2025/jun/07/trump-musk-feud-power
 
+Site: The Guardian
+Topic: Music
+Title: Sean ‘Diddy’ Combs jury unable to reach verdict on racketeering charge
+URL: https://www.theguardian.com/music/2025/jul/01/sean-diddy-combs-trial-jury-update
+
