@@ -2653,3 +2653,8 @@ Topic: Business
 Title: Sainsbury’s boss warns over retail taxes after ‘high impact’ NI rise
 URL: https://www.theguardian.com/business/2025/jul/01/argos-sainsburys-growth-fans-supermarket-sales
 
+Site: The Guardian
+Topic: Football
+Title: Beth Mead insists Lionesses can take heat as they arrive for Euro 2025
+URL: https://www.theguardian.com/football/2025/jun/30/beth-mead-insists-lionesses-can-take-heat-as-they-arrive-for-euro-2025
+
