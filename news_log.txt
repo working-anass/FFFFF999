@@ -2563,3 +2563,13 @@ Topic: Music
 Title: Bob Geldof told Freddie Mercury ‘don’t get clever’ before 1985 Live Aid set
 URL: https://www.theguardian.com/music/2025/jul/01/bob-geldof-told-freddie-mercury-dont-get-clever-before-1985-live-aid-set
 
+Site: The Guardian
+Topic: Uk News
+Title: Head of king’s property portfolio given 20% pay rise to £1.9m
+URL: https://www.theguardian.com/uk-news/article/2024/jul/24/head-of-kings-property-portfolio-given-pay-rise
+
+Site: The Guardian
+Topic: Technology
+Title: Whitehall’s ambition to cut costs using AI is fraught with risk
+URL: https://www.theguardian.com/technology/2025/jul/01/whitehall-ambition-to-cut-costs-using-ai-is-fraught-with-risk
+

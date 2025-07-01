@@ -1,0 +1,31 @@
+Site: The Guardian
+Title: Whitehall’s ambition to cut costs using AI is fraught with risk
+URL: https://www.theguardian.com/technology/2025/jul/01/whitehall-ambition-to-cut-costs-using-ai-is-fraught-with-risk
+
+A Dragons’ Den-style event this week, where tech companies will have 20 minutes to pitch ideas for increasing automation in the British justice system, is one of numerous examples of how the cash-strapped Labour government hopes artificial intelligence and data science can save money and improve public services.
+
+Amid warnings from critics that Downing Street has been “drinking the Kool-Aid” on AI, the Department of Health and Social Care this week announced an AI early warning system to detect dangerous maternity services after a series of scandals, and Wes Streeting, the health secretary, said he wants one in eight operations to be conducted by a robot within a decade.
+
+AI is being used to prioritise actions on the 25,000 pieces of correspondence the Department for Work and Pensions receives each day and to detect potential fraud and error in benefit claims. Ministers even have access to an AI tool that is supposed to provide a “vibe check” on parliamentary opinion to help them weigh the political risks of policy proposals.
+
+Again and again, ministers are turning to technology to tackle acute crises that in the past might have been dealt with by employing more staff or investing more money.
+
+The push to digitise government, which is led by the prime minister, Keir Starmer, and his science and technology secretary, Peter Kyle, has brought the government into close contact with the biggest US tech companies. Google, Microsoft, Palantir, IBM and Amazon were all in attendance at a Ministry of Justice roundtable discussion last month. Starmer and Kyle are not alone. Countries from Singapore to Estonia have been increasingly embracing AI in public service delivery.
+
+Jeegar Kakkad, a director at the Tony Blair Institute for Global Change – one of the organisations arguing for greater use of technology and which is part-funded by tech firms – put the argument like this: “Our systems are broken. They cannot keep up with demand. You have a couple of choices: keep trying to make a broken system work with traditional approaches – more money, more immigrants to fill the gap in the workforce – or you have to use technology.
+
+“I think the answer is technology, but we have to make sure we have agency in how we design these systems, they are human-designed and we put rules in place.”
+
+Kyle has recently been at pains to stress that the government is doing everything it can to enable big tech firms to thrive in Britain. At London Tech Week last month, he told executives about regulation and planning policies designed to make their businesses run better, saying: “All of this adds up to a government that is on your side.”
+
+When it comes to injecting technology into public services, ministers face a choice: whether to “build or buy”. The temptation is often to issue contracts to private companies to achieve the fastest and greatest impact. For the tech companies, a huge pot of revenue is at stake. The value of UK public sector tech contracts rose to £19.6bn last year, up from £14.4bn in 2019, according to Tussell, which researches government contracts.
+
+But introducing AI and automation into public services is riskier than using it to help drivers navigate busy roads or recommending songs to music fans. When citizens interact with public services they are often at their most vulnerable.
+
+For example, last week the Ada Lovelace Institute, an independent research body, found that 59% of the public were concerned about the idea of AI being used to assess welfare eligibility, compared with 39% of people worried about the use of facial recognition technology in policing.
+
+And the public is also showing signs of concern about the motivations of private technology companies. The same polling found the public was significantly less likely to trust private companies to deliver technology that could assess welfare eligibility or predict the risk of cancer than government bodies (although governments are less trusted than academics and not-for-profits).
+
+The institute urged MPs to launch a review of the “role of technology companies and the bodies funded by them in shaping the policy and media narrative on the benefits of public sector AI; and the effectiveness of existing measures that aim to tackle conflicts of interest and ‘revolving door’ dynamics between government and the technology sector”.
+
+It said: “At a time when AI is being offered as a solution to a wide range of public sector problems, the public are concerned about the motivations of private sector involvement. The public expects transparency and that public sector AI prioritises people over profit.”
