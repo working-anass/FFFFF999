@@ -2528,3 +2528,38 @@ Topic: Money
 Title: How gen Z is rewriting money rules: ‘I thrift, I splurge, I save 25%’
 URL: https://www.theguardian.com/money/2025/jun/30/gen-z-money-budgeting-thrift-save
 
+Site: The Guardian
+Topic: World
+Title: Five years on, Hong Kong’s national security law extinguishes last standing pro-democracy party
+URL: https://www.theguardian.com/world/2025/jul/01/five-years-on-hong-kong-national-security-law-pro-democracy-party-league-of-social-democrats-china
+
+Site: The Guardian
+Topic: World
+Title: Dancing with Putin: how Austria’s former foreign minister found a new home in Russia
+URL: https://www.theguardian.com/world/2025/jul/01/vladimir-putin-foreign-minister-karin-kneissl-russian-president-st-petersburg-vienna-moscow
+
+Site: The Guardian
+Topic: World
+Title: ‘A supermarket for sexual predators’: abuse scandal at elite boarding school shakes France
+URL: https://www.theguardian.com/world/2025/jul/01/abuse-scandal-boarding-school-france-betharram
+
+Site: The Guardian
+Topic: Football
+Title: Manchester City knocked out of Club World Cup as Al-Hilal strike twice in extra-time
+URL: https://www.theguardian.com/football/2025/jul/01/manchester-city-al-hilal-club-world-cup-last-16-report
+
+Site: The Guardian
+Topic: Technology
+Title: Elon Musk’s xAI accused of pollution over Memphis supercomputer
+URL: https://www.theguardian.com/technology/2025/apr/24/elon-musk-xai-memphis
+
+Site: The Guardian
+Topic: Money
+Title: ‘My mind was shrieking: “What am I doing?”’ – when the digital nomad dream turns sour
+URL: https://www.theguardian.com/money/2025/jul/01/digital-nomad-dream-turns-sour
+
+Site: The Guardian
+Topic: Music
+Title: Bob Geldof told Freddie Mercury ‘don’t get clever’ before 1985 Live Aid set
+URL: https://www.theguardian.com/music/2025/jul/01/bob-geldof-told-freddie-mercury-dont-get-clever-before-1985-live-aid-set
+
