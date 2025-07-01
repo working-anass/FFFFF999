@@ -2513,3 +2513,8 @@ Topic: Australia News
 Title: 1 July changes: minimum wage, Centrelink payments, parental leave, road fines and everything else coming for 2025-26
 URL: https://www.theguardian.com/australia-news/2025/jul/01/1-july-changes-2025-centrelink-payments-minimum-wage-road-fines-everything-financial-year
 
+Site: The Guardian
+Topic: World
+Title: Clashes and arrests in Turkey over magazine cartoon allegedly depicting prophet Muhammad
+URL: https://www.theguardian.com/world/2025/jul/01/istanbul-turkey-leman-magazine-alleged-prophet-muhammad-cartoon-protests-arrests
+
