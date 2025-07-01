@@ -2573,3 +2573,18 @@ Topic: Technology
 Title: Whitehall’s ambition to cut costs using AI is fraught with risk
 URL: https://www.theguardian.com/technology/2025/jul/01/whitehall-ambition-to-cut-costs-using-ai-is-fraught-with-risk
 
+Site: The Guardian
+Topic: World
+Title: Kim Jong-un pays rare public tribute to North Korean soldiers killed in Ukraine
+URL: https://www.theguardian.com/world/2025/jul/01/kim-jong-un-tribute-north-korea-soldiers-killed-ukraine-fighting
+
+Site: The Guardian
+Topic: Us News
+Title: Idaho student murders suspect reportedly agrees to plead guilty on all counts
+URL: https://www.theguardian.com/us-news/2025/jun/30/idaho-killings-suspect
+
+Site: The Guardian
+Topic: Business
+Title: Food prices pushed up by hot weather hitting harvest yields, say UK retailers
+URL: https://www.theguardian.com/business/2025/jul/01/food-prices-pushed-up-by-hot-weather-hitting-harvest-yields-say-uk-retailers
+
