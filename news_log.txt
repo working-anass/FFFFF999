@@ -2518,3 +2518,13 @@ Topic: World
 Title: Clashes and arrests in Turkey over magazine cartoon allegedly depicting prophet Muhammad
 URL: https://www.theguardian.com/world/2025/jul/01/istanbul-turkey-leman-magazine-alleged-prophet-muhammad-cartoon-protests-arrests
 
+Site: The Guardian
+Topic: Environment
+Title: ‘Even if we stop drinking we will be exposed’: A French region has banned tap water. Is it a warning for the rest of Europe?
+URL: https://www.theguardian.com/environment/2025/jul/01/pfas-forever-chemicals-water-contamination-saint-louis-france-aoe
+
+Site: The Guardian
+Topic: Money
+Title: How gen Z is rewriting money rules: ‘I thrift, I splurge, I save 25%’
+URL: https://www.theguardian.com/money/2025/jun/30/gen-z-money-budgeting-thrift-save
+
