@@ -2608,3 +2608,13 @@ Topic: Business
 Title: British overseas territories miss final deadline to crack down on ‘dirty money’
 URL: https://www.theguardian.com/business/2025/jul/01/british-overseas-territories-miss-final-deadline-to-crack-down-on-dirty-money
 
+Site: The Guardian
+Topic: Books
+Title: ‘Smoke and confusion’: exhibition points out Jane Austen’s true thoughts on Bath
+URL: https://www.theguardian.com/books/2025/jul/01/smoke-and-confusion-new-exhibition-reveals-jane-austen-true-thoughts-on-bath
+
+Site: Al Jazeera
+Topic: Liveblog
+Title: Hamas vows to ‘save our people’ as Israeli forces kill nearly 100 in Gaza
+URL: https://www.aljazeera.com/news/liveblog/2025/7/1/live-gaza-death-toll-surges-as-hamas-accuses-israel-of-stalling-ceasefire
+
