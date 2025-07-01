@@ -2943,3 +2943,28 @@ Topic: World
 Title: Births in England and Wales increase for first time since 2021
 URL: https://www.theguardian.com/world/2025/jul/01/births-england-and-wales-increase
 
+Site: The Guardian
+Topic: World
+Title: Pressure grows on Yvette Cooper to abandon plans to ban Palestine Action
+URL: https://www.theguardian.com/world/2025/jul/01/yvette-cooper-plan-ban-palestine-action-un-experts-lawyers
+
+Site: The Guardian
+Topic: World
+Title: Turkish police arrest cartoonists over drawing ‘showing prophet Muhammad’
+URL: https://www.theguardian.com/world/2025/jul/01/turkey-president-erdogan-cartoon-depicting-prophets-vile-provocation
+
+Site: The Guardian
+Topic: Us News
+Title: Senate Republicans pass Trump’s ‘big, beautiful’ bill, clearing major hurdle
+URL: https://www.theguardian.com/us-news/2025/jul/01/senate-passes-big-beautiful-bill-vote
+
+Site: The Guardian
+Topic: Football
+Title: ‘I’m not scared of taking risks’: Robbie Savage sets sights on Forest Green revival
+URL: https://www.theguardian.com/football/2025/jul/01/robbie-savage-forest-green-rovers-dale-vince
+
+Site: The Guardian
+Topic: Business
+Title: AstraZeneca boss ‘wants to shift stock market listing to US’
+URL: https://www.theguardian.com/business/2025/jul/01/astrazeneca-boss-wants-to-shift-stock-market-listing-to-us
+
