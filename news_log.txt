@@ -2873,3 +2873,18 @@ Topic: Environment
 Title: Parking space-sized gardens impress Hampton Court flower show judges
 URL: https://www.theguardian.com/environment/2025/jul/01/parking-space-sized-gardens-impress-hampton-court-flower-show-judges
 
+Site: The Guardian
+Topic: World
+Title: Italy limits outdoor work as heatwave breaks records across Europe
+URL: https://www.theguardian.com/world/2025/jul/01/italy-limits-outdoor-work-as-heatwave-breaks-records-across-europe
+
+Site: The Guardian
+Topic: Us News
+Title: Gunman’s life went ‘downhill’ in months before fatal attack on Idaho firefighters
+URL: https://www.theguardian.com/us-news/2025/jul/01/idaho-firefighter-attack-gunman
+
+Site: The Guardian
+Topic: Football
+Title: Transfer latest: Arteta hails £5m Arrizabalaga, West Ham push for Slavia defender Diouf
+URL: https://www.theguardian.com/football/2025/jul/01/transfer-latest-arsenal-kepa-arrizabalaga-arteta-west-ham-el-hadji-malick-diouf-slavia-prague
+
