@@ -2783,3 +2783,23 @@ Topic: Football
 Title: Women’s Euro 2025: Guardian writers’ predictions for the tournament
 URL: https://www.theguardian.com/football/2025/jul/01/womens-euro-2025-guardian-writers-predictions-for-the-tournament
 
+Site: The Guardian
+Topic: Environment
+Title: After 150 years, a prized box returns to an Indigenous nation in Canada: ‘I felt like royalty traveling with it’
+URL: https://www.theguardian.com/environment/2025/jul/01/bentwood-box-canada-indigenous-nation
+
+Site: The Guardian
+Topic: Science
+Title: Huge megalithic complex of more than 500 standing stones discovered in Spain
+URL: https://www.theguardian.com/science/2022/aug/18/megalithic-complex-standing-stones-discovered-spain
+
+Site: The Guardian
+Topic: Global Development
+Title: Outrage as sugar cane workers in India still being ‘pushed’ into having hysterectomies
+URL: https://www.theguardian.com/global-development/2025/jun/12/outrage-as-sugar-cane-workers-in-india-still-being-pushed-into-having-hysterectomies
+
+Site: The Guardian
+Topic: Business
+Title: Finance firms’ claim to be ‘saving the world’ was a mistake, says City veteran
+URL: https://www.theguardian.com/business/2025/jul/01/city-finance-firms-aberdeen-asset-managers-esg-issues
+
