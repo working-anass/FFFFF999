@@ -2968,3 +2968,8 @@ Topic: Business
 Title: AstraZeneca boss ‘wants to shift stock market listing to US’
 URL: https://www.theguardian.com/business/2025/jul/01/astrazeneca-boss-wants-to-shift-stock-market-listing-to-us
 
+Site: The Guardian
+Topic: World
+Title: ‘Beyond anything imaginable’: dozens killed at busy Gaza seafront cafe
+URL: https://www.theguardian.com/world/2025/jul/01/the-scenes-were-beyond-anything-imaginable-busy-gaza-seafront-cafe-devastated-by-airstrike
+
