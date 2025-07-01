@@ -2668,3 +2668,23 @@ Topic: Lifeandstyle
 Title: I was getting lonely. Here’s what happened when I tried to make new friends in my 30s
 URL: https://www.theguardian.com/lifeandstyle/2025/jul/01/adult-loneliness-making-friends-as-a-grown-up
 
+Site: The Guardian
+Topic: Uk News
+Title: Lucy Letby hospital investigation: three bosses arrested on suspicion of manslaughter
+URL: https://www.theguardian.com/uk-news/2025/jul/01/lucy-letby-countess-of-chester-hospital-bosses-arrested
+
+Site: The Guardian
+Topic: Environment
+Title: How Indigenous people find themselves on the frontline of the green transition
+URL: https://www.theguardian.com/environment/2025/jul/01/how-indigenous-people-find-themselves-on-the-frontline-of-the-green-transition
+
+Site: The Guardian
+Topic: Football
+Title: David Squires on … his essential Women’s Euro 2025 wallchart
+URL: https://www.theguardian.com/football/picture/2025/jul/01/david-squires-on-his-essential-womens-euro-2025-wallchart
+
+Site: The Guardian
+Topic: Football
+Title: The Club World Cup that wasn’t: how fake highlights took over the internet
+URL: https://www.theguardian.com/football/2025/jul/01/fake-club-world-cup-highlights-youtube-scam
+
