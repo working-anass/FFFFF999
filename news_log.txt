@@ -2628,3 +2628,13 @@ Topic: Global Development
 Title: Meet Kerala’s ‘rainforest gardeners’ creating a Noah’s ark for endangered plants
 URL: https://www.theguardian.com/global-development/2025/jul/01/kerala-india-rainforest-biodiversity-restoration-nature-gardeners-gurukula-western-ghats
 
+Site: The Guardian
+Topic: World
+Title: Twelve days in Gaza: what happened while the world looked away?
+URL: https://www.theguardian.com/world/2025/jul/01/gaza-israel-iran-war-idf
+
+Site: The Guardian
+Topic: Global Development
+Title: Iranian woman dies ‘after being beaten by morality police’ over hijab law
+URL: https://www.theguardian.com/global-development/2022/sep/16/iranian-woman-dies-after-being-beaten-by-morality-police-over-hijab-law
+
