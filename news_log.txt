@@ -3028,3 +3028,8 @@ Topic: Music
 Title: Sean ‘Diddy’ Combs jury unable to reach verdict on racketeering charge
 URL: https://www.theguardian.com/music/2025/jul/01/sean-diddy-combs-trial-jury-update
 
+Site: The Guardian
+Topic: Us News
+Title: Ice raids leave crops unharvested at California farms: ‘We need the labor’
+URL: https://www.theguardian.com/us-news/2025/jul/01/ice-raids-crops-california-farms
+
