@@ -2598,3 +2598,13 @@ Topic: Business
 Title: Taylor Swift, Charli xcx and Springsteen among live music acts who gave UK £10bn lift in 2024
 URL: https://www.theguardian.com/business/2025/jul/01/taylor-swift-charli-xcx-and-springsteen-among-live-music-acts-who-gave-uk-10bn-lift-in-2024
 
+Site: The Guardian
+Topic: Environment
+Title: Country diary: Like wrecked prizes, the body parts of pheasants litter the landscape
+URL: https://www.theguardian.com/environment/2025/jul/01/country-diary-wrecked-prizes-body-parts-pheasant-litter-landscape
+
+Site: The Guardian
+Topic: Business
+Title: British overseas territories miss final deadline to crack down on ‘dirty money’
+URL: https://www.theguardian.com/business/2025/jul/01/british-overseas-territories-miss-final-deadline-to-crack-down-on-dirty-money
+
