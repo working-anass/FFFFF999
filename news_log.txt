@@ -2643,3 +2643,13 @@ Topic: Football
 Title: Football transfer rumours: Manchester United switch focus to Ollie Watkins?
 URL: https://www.theguardian.com/football/2025/jul/01/football-transfer-rumours-manchester-united-ollie-watkins-aston-villa-nicolas-jackson
 
+Site: The Guardian
+Topic: Global Development
+Title: Brazil’s last asbestos miners are switching to rare earth minerals. Can they offer a brighter future?
+URL: https://www.theguardian.com/global-development/2025/jul/01/minerals-brazil-asbestos-miners-rare-earths-transition-mining
+
+Site: The Guardian
+Topic: Business
+Title: Sainsbury’s boss warns over retail taxes after ‘high impact’ NI rise
+URL: https://www.theguardian.com/business/2025/jul/01/argos-sainsburys-growth-fans-supermarket-sales
+
