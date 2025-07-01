@@ -2838,3 +2838,23 @@ Topic: Sport
 Title: Farrell’s five selection posers in big week for Lions hoping to make Test squad
 URL: https://www.theguardian.com/sport/2025/jul/01/big-week-lions-test-squad-rugby-union-the-breakdown
 
+Site: The Guardian
+Topic: Us News
+Title: Kristi Noem failed to disclose $80,000 received while South Dakota governor – report
+URL: https://www.theguardian.com/us-news/2025/jul/01/kristi-noem-payment-south-dakota-governor
+
+Site: The Guardian
+Topic: Uk News
+Title: Children crossing Channel from France exposed to teargas, report says
+URL: https://www.theguardian.com/uk-news/2025/jul/01/children-crossing-channel-small-boats-france-uk-teargas-report
+
+Site: The Guardian
+Topic: Science
+Title: Think you’re cool? Here are the six boxes you’ll have to tick
+URL: https://www.theguardian.com/science/2025/jul/01/think-youre-cool-here-are-the-six-boxes-youll-have-to-tick
+
+Site: The Guardian
+Topic: Business
+Title: M&S’s online business should be ‘fully’ operational by end of month, CEO says
+URL: https://www.theguardian.com/business/2025/jul/01/marks-spencer-cyber-attack-agm-online-operational
+
