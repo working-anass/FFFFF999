@@ -2748,3 +2748,18 @@ Topic: Business
 Title: Southern Water owners to invest up to £1.2bn into troubled utility
 URL: https://www.theguardian.com/business/2025/jul/01/southern-water-owners-invest-macquarie-regulatory-licence
 
+Site: The Guardian
+Topic: World
+Title: Witnesses describe grim aftermath of Israeli strike on busy Gaza cafe
+URL: https://www.theguardian.com/world/2025/jul/01/aftermath-israeli-missile-strike-gaza-al-baqa-cafe-witness-accounts
+
+Site: The Guardian
+Topic: Us News
+Title: Severe weather hits the US hard as key forecast offices reel from Trump cuts
+URL: https://www.theguardian.com/us-news/2025/jul/01/severe-weather-nws-trump-cuts
+
+Site: The Guardian
+Topic: Global Development
+Title: Bank unveils green loans plan to unlock trillions for climate finance
+URL: https://www.theguardian.com/global-development/2025/jun/16/public-money-green-loans-climate-finance
+
