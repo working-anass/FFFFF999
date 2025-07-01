@@ -2973,3 +2973,18 @@ Topic: World
 Title: ‘Beyond anything imaginable’: dozens killed at busy Gaza seafront cafe
 URL: https://www.theguardian.com/world/2025/jul/01/the-scenes-were-beyond-anything-imaginable-busy-gaza-seafront-cafe-devastated-by-airstrike
 
+Site: The Guardian
+Topic: Uk News
+Title: Wrexham nursing home owner tells Covid inquiry lack of testing terrified staff
+URL: https://www.theguardian.com/uk-news/2025/jul/01/co-owner-wrexham-nursing-home-staff-lack-of-testing-covid-inquiry
+
+Site: The Guardian
+Topic: Business
+Title: Macquarie digs deeper for redemption at Southern Water. There was no alternative
+URL: https://www.theguardian.com/business/nils-pratley-on-finance/2025/jul/01/macquarie-digs-deeper-for-redemption-at-southern-water-there-was-no-alternative
+
+Site: The Guardian
+Topic: Thefilter
+Title: The ultimate holiday capsule wardrobe: Jess Cartner-Morley’s 11 suitcase essentials
+URL: https://www.theguardian.com/thefilter/2025/jul/01/ultimate-holiday-capsule-wardrobe
+
