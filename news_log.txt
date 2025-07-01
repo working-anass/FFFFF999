@@ -2763,3 +2763,23 @@ Topic: Global Development
 Title: Bank unveils green loans plan to unlock trillions for climate finance
 URL: https://www.theguardian.com/global-development/2025/jun/16/public-money-green-loans-climate-finance
 
+Site: The Guardian
+Topic: Lifeandstyle
+Title: My girlfriend told me she prefers big penises. Now I’m worried I won’t satisfy her
+URL: https://www.theguardian.com/lifeandstyle/2025/jul/01/my-girlfriend-told-me-she-prefers-big-penises-now-im-worried-i-wont-satisfy-her
+
+Site: The Guardian
+Topic: Science
+Title: ‘E-tattoo’ could track mental workload for people in high-stake jobs, study says
+URL: https://www.theguardian.com/science/2025/may/29/e-tattoo-could-track-mental-workload-people-high-stake-jobs-study-says
+
+Site: The Guardian
+Topic: Football
+Title: Cristiano Ronaldo’s £492m Saudi deal: two cynical regimes form a strategic alliance
+URL: https://www.theguardian.com/football/2025/jul/01/cristiano-ronaldo-492m-al-nassr-saudi-arabia
+
+Site: The Guardian
+Topic: Football
+Title: Women’s Euro 2025: Guardian writers’ predictions for the tournament
+URL: https://www.theguardian.com/football/2025/jul/01/womens-euro-2025-guardian-writers-predictions-for-the-tournament
+

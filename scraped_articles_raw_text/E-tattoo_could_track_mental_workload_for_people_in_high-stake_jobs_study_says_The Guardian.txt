@@ -1,0 +1,35 @@
+Site: The Guardian
+Title: ‘E-tattoo’ could track mental workload for people in high-stake jobs, study says
+URL: https://www.theguardian.com/science/2025/may/29/e-tattoo-could-track-mental-workload-people-high-stake-jobs-study-says
+
+Whether it is doing sums or working out what to text your new date, some tasks produce a furrowed brow. Now scientists say they have come up with a device to monitor such effort: an electronic tattoo, stuck to the forehead.
+
+The researchers say the device could prove valuable among pilots, healthcare workers and other professions where managing mental workload is crucial to preventing catastrophes.
+
+“For this kind of high-demand and high-stake scenario, eventually we hope to have this real-time mental workload decoder that can give people some warning and alert so that they can self-adjust, or they can ask AI or a co-worker to offload some of their work,” said Dr Nanshu Lu, an author of the research from the University of Texas at Austin, adding the device may not only help workers avoid serious mistakes but also protect their health.
+
+Writing in the journal Device , Lu and colleagues describe how using questionnaires to investigate mental workload is problematic, not least as people are poor at objectively judging cognitive effort and they are usually conducted after a task.
+
+Meanwhile, existing electroencephalography (EEG) and electrooculography (EOG) devices, that can be used to assess mental workload by measuring brain waves and eye movements respectively, are wired, bulky and prone to erroneous measurements arising from movements.
+
+By contrast, the “e-tattoo” is a lightweight, flexible, wireless device.
+
+The black, wiggly path of the e-tattoo is composed of a graphite-based conductive material, and is attached to the forehead using conductive adhesive film.
+
+Four square EEG electrodes, positioned on the forehead, each detect a different region of brain activity – with a reference electrode behind the ear – while rectangular EOG electrodes, placed vertically and horizontally around the eyes, provide data about eye movements. Each of the stretchable electrodes is coated in an additional conductive material.
+
+The e-tattoo, which is bespoke and disposable, is connected to a reusable flexible printed circuit using conductive tape, while a lightweight battery can be clipped to the device.
+
+After finding the e-tattoo worked as well as traditional EEG and EOG devices for monitoring brain waves and eye movements the team tested the technology on six participants.
+
+Each participant was shown a screen on which 20 letters flashed up, one at a time, at various locations. Participants were asked to click a mouse if either the letter itself, or its location, matched one shown a given number of letters (N) back. Each participant carried out the task multiple times, with the N value varying between 0 and 3 – corresponding to four levels of difficulty.
+
+The team found that as the task became harder, the different types of brainwave detected showed shifts in activity that corresponded to a greater mental workload.
+
+The team then fed the EEG and EOG data, together with the “N” numbers, into a machine-learning algorithm. After a training period, the researchers found the algorithm did better than chance at predicting the mental workload of a participant based on their EEG and EOG data alone.
+
+Lu said the full device –including chip and battery – was expected to cost less than $200 (£148). The team are now developing the approach so signals can be decoded by the device’s microprocessor and sent to an app to alert the user if their mental workload is too high.
+
+But the remedy is not, necessarily, to switch to a simple task.
+
+“Previous studies indicated that the optimal mental performance occurs when the mental workload demand is not too low or too high,” said Lu. “When it’s too low, it’s very boring, and the people will just lose focus.”
