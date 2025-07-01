@@ -3008,3 +3008,8 @@ Topic: Us News
 Title: Trump and Musk’s feud blows up again with threats of Doge and deportation
 URL: https://www.theguardian.com/us-news/2025/jul/01/trump-musk-feud-doge-deportation
 
+Site: The Guardian
+Topic: Sport
+Title: Wimbledon umpire takes action after player complains of ‘dangerous’ spectator
+URL: https://www.theguardian.com/sport/2025/jul/01/wimbledon-security-yulia-putintseva-concerns-spectator-umpire
+
