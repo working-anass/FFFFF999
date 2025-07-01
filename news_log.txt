@@ -2478,3 +2478,38 @@ Topic: Football
 Title: Brentford show firm faith in their model as Keith Andrews jumps into the unknown
 URL: https://www.theguardian.com/football/2025/jun/30/brentford-show-firm-faith-in-their-model-as-keith-andrews-jumps-into-the-unknown
 
+Site: The Guardian
+Topic: World
+Title: Ukraine war briefing: Russia claims to have seized all of Luhansk region; Kim Jong-un mourns war dead
+URL: https://www.theguardian.com/world/2025/jul/01/ukraine-war-briefing-russia-claims-to-have-seized-all-of-luhansk-region-and-first-village-in-dnipropetrovsk
+
+Site: The Guardian
+Topic: World
+Title: The spiritual economy: young Chinese turn to fortune tellers as anxiety about the future rises
+URL: https://www.theguardian.com/world/2025/jul/01/china-fortune-tellers-young-people-mysticism
+
+Site: The Guardian
+Topic: Us News
+Title: Trump news at a glance: Republicans scramble to pass ‘one big, beautiful bill’ as deadline looms
+URL: https://www.theguardian.com/us-news/2025/jul/01/trump-administration-news-today-latest
+
+Site: The Guardian
+Topic: Global Development
+Title: ‘I don’t want my boy to be positive’: pregnant women face sky-high viral loads as cuts hit HIV care in Africa
+URL: https://www.theguardian.com/global-development/2025/jun/16/i-dont-want-my-boy-to-be-positive-pregnant-women-face-sky-high-viral-loads-as-cuts-hit-hiv-care-in-africa
+
+Site: The Guardian
+Topic: Football
+Title: ‘I took the Club World Cup as a challenge’: Dani Carvajal returns for Real Madrid
+URL: https://www.theguardian.com/football/2025/jun/30/i-took-the-club-world-cup-as-a-challenge-dani-carvajal-returns-for-real-madrid
+
+Site: The Guardian
+Topic: Technology
+Title: Musk vows to unseat lawmakers who support Trump’s one big beautiful bill
+URL: https://www.theguardian.com/technology/2025/jun/30/musk-big-beautiful-bill-america-party
+
+Site: The Guardian
+Topic: Australia News
+Title: 1 July changes: minimum wage, Centrelink payments, parental leave, road fines and everything else coming for 2025-26
+URL: https://www.theguardian.com/australia-news/2025/jul/01/1-july-changes-2025-centrelink-payments-minimum-wage-road-fines-everything-financial-year
+
