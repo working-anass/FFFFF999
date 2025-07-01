@@ -3043,3 +3043,8 @@ Topic: Business
 Title: United Airlines received billions in Covid aid. Now thousands of workers could lose their jobs
 URL: https://www.theguardian.com/business/2021/apr/25/united-airlines-layoffs-covid-relief
 
+Site: The Guardian
+Topic: Science
+Title: One giant ... lie? Why so many people still think the moon landings were faked
+URL: https://www.theguardian.com/science/2019/jul/10/one-giant-lie-why-so-many-people-still-think-the-moon-landings-were-faked
+
