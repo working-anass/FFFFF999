@@ -2863,3 +2863,13 @@ Topic: Uk News
 Title: Parents of baby found with ‘catastrophic injuries’ went for cigarette as medics tried to save him, court hears
 URL: https://www.theguardian.com/uk-news/2025/jul/01/parents-of-baby-found-with-catastrophic-injuries-went-for-cigarette-as-medics-tried-to-save-him-court-hears
 
+Site: The Guardian
+Topic: Uk News
+Title: Arrest of protester over antisemitic chanting in Nottingham ruled ‘unconstitutional’
+URL: https://www.theguardian.com/uk-news/2025/jul/01/arrest-of-protester-over-antisemitic-chanting-in-nottingham-ruled-unconstitutional
+
+Site: The Guardian
+Topic: Environment
+Title: Parking space-sized gardens impress Hampton Court flower show judges
+URL: https://www.theguardian.com/environment/2025/jul/01/parking-space-sized-gardens-impress-hampton-court-flower-show-judges
+
