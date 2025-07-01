@@ -2998,3 +2998,8 @@ Topic: Business
 Title: Santander to buy TSB for £2.65bn amid fears of branch closures and job losses
 URL: https://www.theguardian.com/business/2025/jul/01/santander-to-buy-tsb-for-265bn-amid-fears-of-job-losses
 
+Site: The Guardian
+Topic: Us News
+Title: Trump celebrates harsh conditions for detainees on visit to ‘Alligator Alcatraz’
+URL: https://www.theguardian.com/us-news/2025/jul/01/trump-alligator-alcatraz-immigration-florida
+
