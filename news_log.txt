@@ -2658,3 +2658,13 @@ Topic: Football
 Title: Beth Mead insists Lionesses can take heat as they arrive for Euro 2025
 URL: https://www.theguardian.com/football/2025/jun/30/beth-mead-insists-lionesses-can-take-heat-as-they-arrive-for-euro-2025
 
+Site: The Guardian
+Topic: Environment
+Title: EU may allow carbon credits from developing nations to count towards climate goals
+URL: https://www.theguardian.com/environment/2025/jul/01/eu-may-allow-carbon-credits-developing-nations-climate-goals
+
+Site: The Guardian
+Topic: Lifeandstyle
+Title: I was getting lonely. Here’s what happened when I tried to make new friends in my 30s
+URL: https://www.theguardian.com/lifeandstyle/2025/jul/01/adult-loneliness-making-friends-as-a-grown-up
+
