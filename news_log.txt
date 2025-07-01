@@ -2918,3 +2918,8 @@ Topic: Business
 Title: Trump’s tax cuts helped billionaires pay less than the working class for first time
 URL: https://www.theguardian.com/business/2019/oct/09/trump-tax-cuts-helped-billionaires-pay-less
 
+Site: The Guardian
+Topic: Technology
+Title: AI companies start winning the copyright fight
+URL: https://www.theguardian.com/technology/2025/jun/30/ai-techscape-copyright
+
