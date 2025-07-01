@@ -3013,3 +3013,13 @@ Topic: Sport
 Title: Wimbledon umpire takes action after player complains of ‘dangerous’ spectator
 URL: https://www.theguardian.com/sport/2025/jul/01/wimbledon-security-yulia-putintseva-concerns-spectator-umpire
 
+Site: The Guardian
+Topic: Environment
+Title: Key climate change reports removed from US government websites
+URL: https://www.theguardian.com/environment/2025/jul/01/climate-change-reports-removed-trump
+
+Site: The Guardian
+Topic: Technology
+Title: The Trump-Musk feud shows danger of handing the keys of power to one person
+URL: https://www.theguardian.com/technology/2025/jun/07/trump-musk-feud-power
+
