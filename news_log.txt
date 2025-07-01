@@ -2588,3 +2588,13 @@ Topic: Business
 Title: Food prices pushed up by hot weather hitting harvest yields, say UK retailers
 URL: https://www.theguardian.com/business/2025/jul/01/food-prices-pushed-up-by-hot-weather-hitting-harvest-yields-say-uk-retailers
 
+Site: The Guardian
+Topic: Football
+Title: Rodri suffers injury setback as Manchester City count cost of Club World Cup exit
+URL: https://www.theguardian.com/football/2025/jul/01/manchester-city-al-hilal-club-world-cup-pep-guardiola-rodri
+
+Site: The Guardian
+Topic: Business
+Title: Taylor Swift, Charli xcx and Springsteen among live music acts who gave UK £10bn lift in 2024
+URL: https://www.theguardian.com/business/2025/jul/01/taylor-swift-charli-xcx-and-springsteen-among-live-music-acts-who-gave-uk-10bn-lift-in-2024
+
