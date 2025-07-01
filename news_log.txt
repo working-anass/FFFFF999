@@ -2893,3 +2893,13 @@ Topic: Uk News
 Title: Meghan Markle launches ‘thoughtful’ collection of wines
 URL: https://www.theguardian.com/uk-news/2025/jul/01/meghan-markle-wine
 
+Site: The Guardian
+Topic: World
+Title: Poland to tighten border controls amid growing tension over irregular crossings
+URL: https://www.theguardian.com/world/2025/jul/01/poland-to-tighten-border-controls-irregular-crossings
+
+Site: The Guardian
+Topic: Us News
+Title: Trump seizes on ‘moral character’ loophole as way to revoke citizenship
+URL: https://www.theguardian.com/us-news/2025/jul/01/us-citizenship-denaturalization-trump-memo
+
