@@ -2733,3 +2733,18 @@ Topic: Global Development
 Title: WHO declares loneliness a ‘global public health concern’
 URL: https://www.theguardian.com/global-development/2023/nov/16/who-declares-loneliness-a-global-public-health-concern
 
+Site: The Guardian
+Topic: Environment
+Title: You love the outdoors. So why are you pooping all over it?
+URL: https://www.theguardian.com/environment/ng-interactive/2025/jul/01/you-love-the-outdoors-so-why-are-you-pooping-all-over-it
+
+Site: The Guardian
+Topic: Football
+Title: Maresca’s search for unpredictability lies behind Chelsea’s transfer strategy
+URL: https://www.theguardian.com/football/2025/jul/01/chelsea-enzo-maresca-search-for-unpredictability-transfer-strategy
+
+Site: The Guardian
+Topic: Business
+Title: Southern Water owners to invest up to £1.2bn into troubled utility
+URL: https://www.theguardian.com/business/2025/jul/01/southern-water-owners-invest-macquarie-regulatory-licence
+
