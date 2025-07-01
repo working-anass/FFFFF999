@@ -2933,3 +2933,13 @@ Topic: Us News
 Title: Trump administration raises possibility of stripping Mamdani of US citizenship
 URL: https://www.theguardian.com/us-news/2025/jul/01/trump-zohran-mamdani-citizenship
 
+Site: The Guardian
+Topic: Football
+Title: Al-Hilal and the trouble with underdog stories at the Club World Cup
+URL: https://www.theguardian.com/football/2025/jul/01/al-hilal-manchester-city-club-world-cup
+
+Site: The Guardian
+Topic: World
+Title: Births in England and Wales increase for first time since 2021
+URL: https://www.theguardian.com/world/2025/jul/01/births-england-and-wales-increase
+
