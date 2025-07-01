@@ -3033,3 +3033,13 @@ Topic: Us News
 Title: Ice raids leave crops unharvested at California farms: ‘We need the labor’
 URL: https://www.theguardian.com/us-news/2025/jul/01/ice-raids-crops-california-farms
 
+Site: The Guardian
+Topic: Football
+Title: Gonzalo García downs Juventus to send Real Madrid to Club World Cup quarters
+URL: https://www.theguardian.com/football/2025/jul/01/real-madrid-juventus-club-world-cup-last-16-match-report
+
+Site: The Guardian
+Topic: Business
+Title: United Airlines received billions in Covid aid. Now thousands of workers could lose their jobs
+URL: https://www.theguardian.com/business/2021/apr/25/united-airlines-layoffs-covid-relief
+
