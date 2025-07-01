@@ -2463,3 +2463,18 @@ Topic: Football
 Title: Inter knocked out of Club World Cup in last 16 by Brazilian side Fluminense
 URL: https://www.theguardian.com/football/2025/jun/30/inter-knocked-out-of-club-world-cup-in-last-16-by-brazilians-fluminense
 
+Site: The Guardian
+Topic: Environment
+Title: A ‘vigorous’ coastal low is hitting Australia’s east coast. What does it mean, how worried should we be and is it a bomb cyclone?
+URL: https://www.theguardian.com/environment/2025/jul/01/not-a-bomb-cyclone-what-is-vigorous-coastal-low-east-coast-australia-weather-explainer
+
+Site: The Guardian
+Topic: Science
+Title: Origin of the species: where did Darwin's finches come from?
+URL: https://www.theguardian.com/science/2018/jul/30/origin-of-the-species-where-did-darwins-finches-come-from
+
+Site: The Guardian
+Topic: Football
+Title: Brentford show firm faith in their model as Keith Andrews jumps into the unknown
+URL: https://www.theguardian.com/football/2025/jun/30/brentford-show-firm-faith-in-their-model-as-keith-andrews-jumps-into-the-unknown
+
