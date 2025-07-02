@@ -3238,3 +3238,13 @@ Topic: Football
 Title: Jarell Quansah completes £30m move from Liverpool to Bayer Leverkusen
 URL: https://www.theguardian.com/football/2025/jul/02/jarell-quansah-completes-30m-move-from-liverpool-to-bayer-leverkusen-transfer-window
 
+Site: The Guardian
+Topic: Uk News
+Title: Lucy Letby alleged to have murdered and harmed more babies
+URL: https://www.theguardian.com/uk-news/2025/jul/02/lucy-letby-alleged-to-have-murdered-or-harmed-more-babies
+
+Site: The Guardian
+Topic: Football
+Title: Football transfer rumours: Noni Madueke to swap Chelsea for Arsenal?
+URL: https://www.theguardian.com/football/2025/jul/02/football-transfer-rumours-noni-madueke-to-swap-chelsea-for-arsenal
+
