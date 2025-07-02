@@ -3518,3 +3518,8 @@ Topic: Politics
 Title: Survival-mode Starmer throws tearful chancellor to wolves at PMQs
 URL: https://www.theguardian.com/politics/2025/jul/02/starmer-tearful-chancellor-rachel-reeves-pmqs
 
+Site: The Guardian
+Topic: Us News
+Title: Republican voters on Trump’s sweeping tax-and-spend legislation: ‘This bill is a no-brainer!’
+URL: https://www.theguardian.com/us-news/2025/jul/02/trump-supporters-on-big-beautiful-bill
+
