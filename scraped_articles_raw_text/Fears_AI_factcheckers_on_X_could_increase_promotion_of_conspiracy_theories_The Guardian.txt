@@ -1,0 +1,31 @@
+Site: The Guardian
+Title: Fears AI factcheckers on X could increase promotion of conspiracy theories
+URL: https://www.theguardian.com/technology/2025/jul/02/fears-ai-factcheckers-on-x-could-increase-promotion-of-conspiracy-theories
+
+A decision by Elon Musk’s X social media platform to enlist artificial intelligence chatbots to draft factchecks risks increasing the promotion of “lies and conspiracy theories”, a former UK technology minister has warned.
+
+Damian Collins accused Musk’s firm of “leaving it to bots to edit the news” after X announced on Tuesday that it would allow large language models to write community notes to clarify or correct contentious posts, before users approve them for publication. The notes have previously been written by humans.
+
+X said using AI to write factchecking notes – which sit beneath some X posts – “advances the state of the art in improving information quality on the internet”.
+
+Keith Coleman, the vice-president of product at X, said humans would review AI-generated notes and the note would appear only if people with a variety of viewpoints found it useful.
+
+“We designed this pilot to be AI helping humans, with humans deciding,” he said. “We believe this can deliver both high quality and high trust. Additionally we published a paper along with the launch of our pilot, co-authored with professors and researchers from MIT, University of Washington, Harvard and Stanford laying out why this combination of AI and humans is such a promising direction.”
+
+But Collins said the system was already open to abuse and that AI agents working on community notes could allow “the industrial manipulation of what people see and decide to trust” on the platform, which has about 600 million users.
+
+It is the latest pushback against human factcheckers by US tech firms. Last month Google said user-created factchecks , including by professional factchecking organisations, would be deprioritised in its search results. It said such checks were “no longer providing significant additional value for users”. In January, Meta announced it was getting rid of human factcheckers in the US and would adopt its own community notes system on Instagram, Facebook and Threads.
+
+X’s research paper outlining its new factchecking system criticised professional factchecking as often slow and limited in scale and said it “lacks trust by large sections of the public”.
+
+AI-created community notes “have the potential to be faster to produce, less effort to generate, and of high quality”, it said. Human and AI-written notes would be submitted into the same pool and X users would vote for which were most useful and should appear on the platform.
+
+AI would draft “a neutral well-evidenced summary”, the research paper said. Trust in community notes “stems not from who drafts the notes, but from the people that evaluate them”, it said.
+
+But Andy Dudfield, the head of AI at the UK factchecking organisation Full Fact, said: “These plans risk increasing the already significant burden on human reviewers to check even more draft notes, opening the door to a worrying and plausible situation in which notes could be drafted, reviewed, and published entirely by AI without the careful consideration that human input provides.”
+
+Samuel Stockwell, a research associate at the Centre for Emerging Technology and Security at the Alan Turing Institute, said: “AI can help factcheckers process the huge volumes of claims flowing daily through social media, but much will depend on the quality of safeguards X puts in place against the risk that these AI ‘note writers’ could hallucinate and amplify misinformation in their outputs. AI chatbots often struggle with nuance and context, but are good at confidently providing answers that sound persuasive even when untrue. That could be a dangerous combination if not effectively addressed by the platform.”
+
+Researchers have found that people perceive human-authored community notes as significantly more trustworthy than simple misinformation flags.
+
+An analysis of several hundred misleading posts on X in the run-up to last year’s presidential election found that in three-quarters of cases, accurate community notes were not being displayed, indicating they were not being upvoted by users. These misleading posts, including claims that Democrats were importing illegal voters and the 2020 presidential election was stolen, amassed more than 2bn views , according to the Center for Countering Digital Hate.

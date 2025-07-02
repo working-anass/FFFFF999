@@ -3468,3 +3468,23 @@ Topic: World
 Title: Wisconsin supreme court strikes down 1849 abortion ban
 URL: https://www.theguardian.com/world/2025/jul/02/wisconsin-court-abortion-ban
 
+Site: The Guardian
+Topic: Us News
+Title: Kirsten Gillibrand apologizes to Zohran Mamdani over ‘jihad’ claim
+URL: https://www.theguardian.com/us-news/2025/jul/02/zohran-mamdani-kirsten-gillibrand-apologizes
+
+Site: The Guardian
+Topic: Uk News
+Title: MI5 apologises after spy gave false evidence about neo-Nazi informant
+URL: https://www.theguardian.com/uk-news/2025/jul/02/mi5-apologises-after-spy-gave-false-evidence-about-neo-nazi-informant
+
+Site: The Guardian
+Topic: Environment
+Title: Waska: the cost of spiritual healing in the Amazon
+URL: https://www.theguardian.com/environment/ng-interactive/2025/jun/17/waska-the-cost-of-spiritual-healing-in-the-amazon
+
+Site: The Guardian
+Topic: Technology
+Title: Fears AI factcheckers on X could increase promotion of conspiracy theories
+URL: https://www.theguardian.com/technology/2025/jul/02/fears-ai-factcheckers-on-x-could-increase-promotion-of-conspiracy-theories
+
