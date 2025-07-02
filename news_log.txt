@@ -3228,3 +3228,8 @@ Topic: Football
 Title: Has a team won the Champions League without beating any league champions?
 URL: https://www.theguardian.com/football/2025/jul/02/has-a-football-team-won-the-champions-league-without-beating-any-league-champions
 
+Site: The Guardian
+Topic: Technology
+Title: Tesla’s path in China clears as Musk courts both Trump and Xi
+URL: https://www.theguardian.com/technology/2024/nov/22/elon-musk-tesla-china-us-relationship-trump-xi-jinping
+
