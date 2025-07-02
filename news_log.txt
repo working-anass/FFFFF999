@@ -3538,3 +3538,13 @@ Topic: Business
 Title: London is leaving the door wide open to private equity raiders
 URL: https://www.theguardian.com/business/nils-pratley-on-finance/2025/jul/02/spectris-kkr-private-equity-takeover-bid-raid-london-stock-market
 
+Site: The Guardian
+Topic: Us News
+Title: US researchers launch new mission to solve mystery of Amelia Earhart’s fate
+URL: https://www.theguardian.com/us-news/2025/jul/02/amelia-earhart-missing-plane
+
+Site: The Guardian
+Topic: Science
+Title: Ancient steppe herders brought higher risk of MS to northern Europe
+URL: https://www.theguardian.com/science/2024/jan/10/ancient-steppe-herders-brought-higher-risk-of-ms-to-northern-europe
+
