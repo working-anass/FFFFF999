@@ -3143,3 +3143,13 @@ Topic: Business
 Title: The G7 has once again put multinationals’ profits over the interests of people
 URL: https://www.theguardian.com/business/2025/jul/02/the-g7-has-once-again-put-multinationals-profits-over-the-interests-of-people
 
+Site: The Guardian
+Topic: Uk News
+Title: Labour ought to think small on infrastructure
+URL: https://www.theguardian.com/uk-news/2025/jul/01/labour-ought-to-think-small-on-infrastructure
+
+Site: The Guardian
+Topic: Technology
+Title: ‘A billion people backing you’: China transfixed as Musk turns against Trump
+URL: https://www.theguardian.com/technology/2025/jul/02/a-billion-people-backing-you-china-transfixed-as-musk-turns-against-trump
+
