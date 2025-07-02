@@ -3453,3 +3453,18 @@ Topic: Global Development
 Title: ‘Shock and grief’ as senior doctor killed in Israeli airstrike in Gaza
 URL: https://www.theguardian.com/global-development/2025/jul/02/shock-and-grief-as-senior-doctor-killed-in-israeli-airstrike-in-gaza
 
+Site: The Guardian
+Topic: Uk News
+Title: Former Royal Navy head sacked as MoD says behaviour fell ‘far short’ of values
+URL: https://www.theguardian.com/uk-news/2025/jul/02/royal-navy-head-sacked-ben-key-investigation
+
+Site: The Guardian
+Topic: Technology
+Title: Tesla vehicle deliveries drop sharply as Musk backlash affects demand
+URL: https://www.theguardian.com/technology/2025/jul/02/tesla-delivery-demand-drop-elon-musk
+
+Site: The Guardian
+Topic: World
+Title: Wisconsin supreme court strikes down 1849 abortion ban
+URL: https://www.theguardian.com/world/2025/jul/02/wisconsin-court-abortion-ban
+
