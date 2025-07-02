@@ -3118,3 +3118,8 @@ Topic: Football
 Title: Dortmund complete Club World Cup last eight line-up with win over Monterrey
 URL: https://www.theguardian.com/football/2025/jul/02/dortmund-complete-club-world-cup-last-eight-line-up-with-win-over-monterrey
 
+Site: The Guardian
+Topic: Environment
+Title: More than 80% of UK farmers worried about climate crisis harming livelihood, study finds
+URL: https://www.theguardian.com/environment/2025/jul/02/farmers-climate-crisis-livelihood-extreme-weather-study
+
