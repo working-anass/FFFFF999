@@ -3438,3 +3438,18 @@ Topic: Business
 Title: UK bond yields rise sharply amid speculation over future of Rachel Reeves
 URL: https://www.theguardian.com/business/2025/jul/02/uk-bond-yields-rise-sharply-amid-speculation-over-future-of-rachel-reeves
 
+Site: The Guardian
+Topic: Us News
+Title: Former January 6 defendant now advising justice department’s ‘weaponization working group’
+URL: https://www.theguardian.com/us-news/2025/jul/02/january-6-rioter-justice-department-jared-l-wise
+
+Site: The Guardian
+Topic: Science
+Title: Freak event probably killed last woolly mammoths, scientists say
+URL: https://www.theguardian.com/science/article/2024/jun/27/last-woolly-mammoths-arctic-island
+
+Site: The Guardian
+Topic: Global Development
+Title: ‘Shock and grief’ as senior doctor killed in Israeli airstrike in Gaza
+URL: https://www.theguardian.com/global-development/2025/jul/02/shock-and-grief-as-senior-doctor-killed-in-israeli-airstrike-in-gaza
+

@@ -1,0 +1,23 @@
+Site: The Guardian
+Title: Freak event probably killed last woolly mammoths, scientists say
+URL: https://www.theguardian.com/science/article/2024/jun/27/last-woolly-mammoths-arctic-island
+
+The last woolly mammoths on Earth took their final stand on a remote Arctic island about 4,000 years ago, but the question of what sealed their fate has remained a mystery. Now a genetic analysis suggests that a freak event such as an extreme storm or a plague was to blame.
+
+The findings counter a previous theory that harmful genetic mutations caused by inbreeding led to a “genomic meltdown” in the isolated population. The latest analysis confirms that although the group had low genetic diversity, a stable population of a few hundred mammoths had occupied the island for thousands of years before suddenly vanishing.
+
+“We can now confidently reject the idea that the population was simply too small and that they were doomed to go extinct for genetic reasons,” said Prof Love Dalén, an evolutionary geneticist at the Centre for Palaeogenetics, run jointly by the Swedish Museum of Natural History and Stockholm University. “This means it was probably just some random event that killed them off, and if that random event hadn’t happened then we would still have mammoths today.”
+
+Woolly mammoths once roamed across vast expanses of ice age Europe, Asia and the northern reaches of North America. After the global climate began warming about 12,000 years ago, and as human hunters posed an increasing threat, they retreated northwards, and they died out on the mainland about 10,000 years ago. Rising sea levels cut off a pocket population on Wrangel Island , which survived for another 6,000 years.
+
+Dalén and colleagues analysed the genomes of 13 mammoth specimens found on Wrangel and seven earlier specimens excavated on the mainland, together representing a span of 50,000 years.
+
+The findings, published in Cell , reveal that the Wrangel population went through a severe bottleneck, reduced to just eight breeding individuals at one point. But the group recovered to a population of 200-300 within 20 generations, which appears to have remained stable until the very end.
+
+Compared with their mainland ancestors, the Wrangel Island mammoth genomes showed signs of inbreeding and low genetic diversity, including in genes known to play a critical role in the vertebrate immune response. This suggests the group would have been more vulnerable to new pathogens such as a plague or bird flu.
+
+“Mammoths are an excellent system for understanding the ongoing biodiversity crisis and what happens from a genetic point of view when a species goes through a population bottleneck because they mirror the fate of a lot of present-day populations,” said Marianne Dehasque, of Uppsala University, the first author of the paper.
+
+Dr Vincent Lynch, a biologist at the University at Buffalo, who was not involved in the research, said the findings gave new insights into the mammoths’ final days and raised the possibility that a genetically compromised group would have been unable to respond to an environmental change such as a new pathogen.
+
+“Extinction, at least when it’s not at the hands of humans, doesn’t usually result from just one cause,” he said. “It’s the result of a combination of factors like inbreeding, a small population size, an accumulation of harmful mutations and, sometimes, bad luck.”
