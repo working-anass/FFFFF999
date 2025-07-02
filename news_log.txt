@@ -3298,3 +3298,38 @@ Topic: World
 Title: Quad countries agree to diversify critical mineral supplies amid China concerns
 URL: https://www.theguardian.com/world/2025/jul/02/quad-countries-agree-to-diversify-critical-mineral-supplies-amid-china-concerns
 
+Site: The Guardian
+Topic: Uk News
+Title: Chris Whitty says culture-war coverage of cycling could harm nation’s health
+URL: https://www.theguardian.com/uk-news/2025/jul/02/chris-whitty-culture-wars-cycling-health-nhs
+
+Site: The Guardian
+Topic: Environment
+Title: Droughts worldwide pushing tens of millions towards starvation, says report
+URL: https://www.theguardian.com/environment/2025/jul/02/droughts-worldwide-pushing-tens-millions-starvation-report
+
+Site: The Guardian
+Topic: Sport
+Title: Debacle in the desert: will the Athetics’ $1.75bn stadium on the Vegas Strip ever be built?
+URL: https://www.theguardian.com/sport/2025/jul/02/athletics-las-vegas-stadium-john-fisher-mlb-debacle
+
+Site: The Guardian
+Topic: Science
+Title: Lobster bisque and onion soup on ISS menu for French astronaut
+URL: https://www.theguardian.com/science/2025/jul/02/lobster-bisque-onion-soup-iss-menu-french-astronaut-sophie-adenot
+
+Site: The Guardian
+Topic: Business
+Title: UK watchdog threatens Ticketmaster with legal action over way Oasis tickets were sold
+URL: https://www.theguardian.com/business/2025/jul/02/uk-watchdog-threatens-ticketmaster-with-legal-action-over-way-oasis-reunion-tickets-were-sold
+
+Site: The Guardian
+Topic: World
+Title: ‘The ground shook’: drone attacks help Haitian government wrest control of capital from criminal gangs
+URL: https://www.theguardian.com/world/2025/jul/02/haiti-port-au-prince-drone-attacks-gangs
+
+Site: The Guardian
+Topic: Film
+Title: Hearts of Darkness: A Film-Maker’s Apocalypse review – Francis Ford Coppola and the mother of all meltdowns
+URL: https://www.theguardian.com/film/2025/jul/02/hearts-of-darkness-a-film-makers-apocalypse-review-francis-ford-coppola-and-the-mother-of-all-meltdowns
+
