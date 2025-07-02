@@ -3353,3 +3353,18 @@ Topic: Sport
 Title: Freeman bags two tries as dominant Lions impress against Queensland Reds
 URL: https://www.theguardian.com/sport/2025/jul/02/queensland-reds-british-and-irish-lions-rugby-union-match-report
 
+Site: The Guardian
+Topic: Us News
+Title: US north-east sees record tick season as climate crisis sparks arachnid boom
+URL: https://www.theguardian.com/us-news/2025/jul/02/ticks-us-north-east
+
+Site: The Guardian
+Topic: Football
+Title: Chelsea seal João Pedro signing on seven-year contract after £60m deal with Brighton
+URL: https://www.theguardian.com/football/2025/jul/02/chelsea-sign-joao-pedro-seven-year-contract-60m-brighton
+
+Site: The Guardian
+Topic: World
+Title: French police arrest ‘incel’ suspected of planning knife attack on women
+URL: https://www.theguardian.com/world/2025/jul/02/french-police-arrest-incel-suspected-of-planning-knife-attack-on-women
+
