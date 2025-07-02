@@ -3253,3 +3253,18 @@ Topic: World
 Title: Political cowardice hindering Europe’s climate efforts, says EU’s green chief
 URL: https://www.theguardian.com/world/2025/jul/02/political-cowardice-hindering-europe-climate-efforts-eu-green-chief-teresa-ribera
 
+Site: The Guardian
+Topic: Football
+Title: Transfer latest: Chloe Kelly signs permanent Arsenal deal, Ellie Carpenter joins Chelsea
+URL: https://www.theguardian.com/football/2025/jul/02/chloe-kelly-signs-arsenal-permanent-deal
+
+Site: The Guardian
+Topic: Technology
+Title: Google undercounts its carbon emissions, report finds
+URL: https://www.theguardian.com/technology/2025/jul/02/google-carbon-emissions-report
+
+Site: The Guardian
+Topic: Business
+Title: Greggs feels the heat as shoppers shun pastries in hot June
+URL: https://www.theguardian.com/business/2025/jul/02/greggs-feels-the-heat-as-shoppers-shun-pastries-in-hot-june
+

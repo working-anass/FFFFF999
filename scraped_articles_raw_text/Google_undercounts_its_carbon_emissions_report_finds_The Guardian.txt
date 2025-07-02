@@ -1,0 +1,47 @@
+Site: The Guardian
+Title: Google undercounts its carbon emissions, report finds
+URL: https://www.theguardian.com/technology/2025/jul/02/google-carbon-emissions-report
+
+In 2021, Google set a lofty goal of achieving net-zero carbon emissions by 2030. Yet in the years since then, the company has moved in the opposite direction as it invests in energy-intensive artificial intelligence. In its latest sustainability report , Google said its carbon emissions had increased 51% between 2019 and 2024.
+
+New research aims to debunk even that enormous figure and provide context to Google’s sustainability reports, painting a bleaker picture. A report authored by non-profit advocacy group Kairos Fellowship found that, between 2019 and 2024, Google’s carbon emissions actually went up by 65%. What’s more, between 2010 , the first year there is publicly available data on Google’s emissions, and 2024, Google’s total greenhouse gas emissions increased 1,515%, Kairos found. The largest year-over-year jump in that window was also the most recent, 2023 to 2024, when Google saw a 26% increase in emissions just between 2023 and 2024, according to the report.
+
+“Google’s own data makes it clear: the corporation is contributing to the acceleration of climate catastrophe, and the metrics that matter – how many emissions they emit, how much water they use, and how fast these trends are accelerating – are headed in the wrong direction for us and the planet,” said Nicole Sugerman, a campaign manager at Kairos Fellowship.
+
+The authors say that they found the vast majority of the numbers they used to determine how much energy Google is using and how much its carbon emissions are increasing in the appendices of Google’s own sustainability reports. Many of those numbers were not highlighted in the main body of Google’s reports, they say.
+
+Google did not immediately respond to a request for comment on the figures.
+
+The authors behind the report, titled Google’s Eco-Failures, attribute the discrepancy between the numbers they calculated and the numbers Google highlights in its sustainability reports to various factors, including that the firm uses a different metric for calculating how much its emissions have increased. While Google uses market-based emissions, the researchers used location-based emissions. Location-based emissions is the average energy the company consumes from local power grids, while market-based emissions include energy the company has purchased to offset its total emissions.
+
+“[Location-based emissions] represents a company’s ‘real’ grid emissions,” said Franz Ressel, the lead researcher and report co-author. “Market-based emissions are a corporate-friendly metric that obscures a polluters’ actual impact on the environment. It allows companies to pollute in one place, and try to ‘offset’ those emissions by purchasing energy contracts in another place.”
+
+The energy the tech giant has needed to purchase to power its data centers alone increased 820% since 2010, according to Kairos’ research, a figure that is expected to expand in the future as Google rolls out more AI products. Between 2019 and 2024, emissions that came primarily from the purchase of electricity to power data centers jumped 121%, the report’s authors said.
+
+“In absolute terms, the increase was 6.8 TWh, or the equivalent of Google adding the entire state of Alaska’s energy use in one year to their previous use,” said Sugerman.
+
+Based on Google’s current trajectory, the Kairos report’s authors say the company is unlikely to meet its own 2030 deadline without a significant push from the public. There are three categories of greenhouse gas emissions – called Scopes 1, 2 and 3 – and Google has only meaningfully decreased its Scope 1 emissions since 2019, according to the Kairos report. Scope 1 emissions, which include emissions just from Google’s own facilities and vehicles, account for only 0.31% of the company’s total emissions, according to the report. Scope 2 emissions are indirect emissions that come primarily from the electricity Google purchases to power its facilities, and scope 3 accounts for indirect emissions from all other sources such as suppliers, use of Google’s consumer devices or employee business travel.
+
+“It’s not sustainable to keep building at the rate [Google is] building because they need to scale their compute within planetary limits,” said Sugerman. “We do not have enough green energy to serve the needs of Google and certainly not the needs of Google and the rest of us.”
+
+Thirsty, power-hungry data centers
+
+As the company builds out resource-intensive data centers across the country, experts are also paying close attention to Google’s water usage. According to the company’s own sustainability report, Google’s water withdrawal – how much water is taken from various sources – increased 27% between 2023 and 2024 to 11bn gallons of water.
+
+The amount is “enough to supply the potable water needs for the 2.5 million people and 5,500 industrial users in Boston and its suburbs for 55 days”, according to the Kairos report.
+
+Tech companies have faced both internal and public pressure to power their growing number of data centers with clean energy. Amazon employees recently put forth a package of shareholder proposals that asked the company to disclose its overall carbon emissions and targeted the climate impact of its data centers. The proposals were ultimately voted down. On Sunday, several organizations including Amazon Employees for Climate Justice, League of Conservation Voters, Public Citizen, and the Sierra Club, published an open letter in the San Francisco Chronicle and the Seattle Times calling on the CEOs of Google, Amazon and Microsoft to “commit to no new gas and zero delayed coal plant retirements to power your data centers”.
+
+“In just the last two years alone, your companies have built data centers throughout the United States capable of consuming more electricity than four million American homes,” the letter reads. “Within five years, your data centers alone will use more electricity than 22 million households, rivaling the consumption of multiple mid-size states.”
+
+In its own sustainability report, Google warns that the firm’s “future trajectories” may be impacted by the “evolving landscape” of the tech industry.
+
+“We’re at an extraordinary inflection point, not just for our company specifically, but for the technology industry as a whole – driven by the rapid growth of AI,” the report reads. “The combination of AI’s potential for non-linear growth driven by its unprecedented pace of development and the uncertain scale of clean energy and infrastructure needed to meet this growth makes it harder to predict our future emissions and could impact our ability to reduce them.”
+
+The Kairos report accuses Google of relying “heavily on speculative technologies, particularly nuclear power”, to achieve its goal of net zero carbon emissions by 2030.
+
+“Google’s emphasis on nuclear energy as a clean energy ‘solution’ is particularly concerning, given the growing consensus among both scientists and business experts that their successful deployment on scale, if it is to ever occur, cannot be achieved in the near or mid-term future,” the report reads.
+
+The Kairos report alleges the way that Google presents some of its data is misleading. In the case of data center emissions, for example, Google says it has improved the energy efficiency of its data centers by 50% over 13 years. Citing energy efficiency numbers rather than sharing absolute ones obscures Google’s total emissions, the authors argue.
+
+“In fact, since 2010, the company’s total energy consumption has increased 1,282%,” the report concluded.
