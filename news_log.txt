@@ -3133,3 +3133,8 @@ Topic: World
 Title: He was the EU’s great Brexit survivor. Can Maroš Šefčovič now pull off a trade deal with Trump?
 URL: https://www.theguardian.com/world/2025/jul/02/he-was-the-eus-great-brexit-survivor-can-maros-sefcovic-now-pull-off-a-trade-deal-with-trump
 
+Site: The Guardian
+Topic: Global Development
+Title: Women in India don’t want ‘safe zones’ – they want to enjoy public spaces as equals
+URL: https://www.theguardian.com/global-development/2025/jul/02/india-women-safety-public-spaces-home
+
