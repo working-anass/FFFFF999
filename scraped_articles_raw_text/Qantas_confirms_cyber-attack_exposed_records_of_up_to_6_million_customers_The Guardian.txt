@@ -1,0 +1,39 @@
+Site: The Guardian
+Title: Qantas confirms cyber-attack exposed records of up to 6 million customers
+URL: https://www.theguardian.com/business/2025/jul/02/qantas-confirms-cyber-attack-exposes-records-of-up-to-6-million-customers
+
+Qantas has suffered a major cyber-attack, potentially exposing the records of up to 6 million customers.
+
+The airline said on Wednesday that the affected system had now been contained and its systems were secured. The system in question was a third-party platform used by the airline’s contact centre, which contains the records of 6 million customers.
+
+The data includes customer names, email addresses, phone numbers, birth dates and frequent flyer numbers. It did not contain credit card details, financial information or passport details.
+
+Frequent flyer accounts were not compromised, neither were passwords, Pins or login details.
+
+- Sign up for Guardian Australia’s breaking news email
+
+Qantas said it first detected the unusual activity on Monday and immediately took steps to contain the system.
+
+Qantas is assessing the portion of data stolen but said it was expected to be “significant”.
+
+Qantas said it has informed the Australian Cyber Security Centre, the Office of the Australian Information Commissioner, as well as the Australian federal police.
+
+The airline’s chief executive, Vanessa Hudson, said the company had recruited independent specialised cybersecurity experts to investigate the matter.
+
+A dedicated customer support line and a dedicated page on the company’s website will update customers as the investigation progresses.
+
+“We sincerely apologise to our customers and we recognise the uncertainty this will cause,” Hudson said. “Our customers trust us with their personal information and we take that responsibility seriously.
+
+“We are contacting our customers today and our focus is on providing them with the necessary support.”
+
+Cyber-attacks remain on the increase in Australia, after superannuation funds in April suffered hacks on a small handful of customers that resulted in more than $500,000 being taken from their accounts.
+
+In May, the Office of the Australian Information Commissioner said the number of data breaches reported under the mandatory notification scheme had increased by 25% in 2024, compared with 2023.
+
+According to the report covering 1 July to 31 December 2024, there were 595 data breaches in the latter half of the year, taking the total number of breaches reported that year to 1,113, up 25% from 893 in 2023.
+
+In the half year, the highest number of reports came from health providers (121) followed by government (100), finance (54), legal and accounting (36), and retail (34).
+
+The report found 69% of the data breaches occurred due to malicious or criminal attack, with phishing – that is, using compromised credentials to access data – being the most common at 34% of such incidents. It was followed by ransomware at 24%.
+
+The majority of reported breaches affected fewer than 5,000 people each but two were reported to affect between 500,000 and 1 million people. Most personal information in the breaches comprised contact information, ID information or financial or health information.

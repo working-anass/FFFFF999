@@ -3053,3 +3053,18 @@ Topic: Sport
 Title: UPenn to ban transgender athletes, ending civil rights case focused on swimmer Lia Thomas
 URL: https://www.theguardian.com/sport/2025/jul/01/penn-trans-ban-title-ix-lia-thomas
 
+Site: The Guardian
+Topic: Science
+Title: Synthetic human embryos created in groundbreaking advance
+URL: https://www.theguardian.com/science/2023/jun/14/synthetic-human-embryos-created-in-groundbreaking-advance
+
+Site: The Guardian
+Topic: Business
+Title: Qantas confirms cyber-attack exposed records of up to 6 million customers
+URL: https://www.theguardian.com/business/2025/jul/02/qantas-confirms-cyber-attack-exposes-records-of-up-to-6-million-customers
+
+Site: Al Jazeera
+Topic: Liveblog
+Title: Trump says Israel agrees to a truce in Gaza, urges Hamas to accept deal
+URL: https://www.aljazeera.com/news/liveblog/2025/7/2/live-trump-says-israel-agrees-to-finalise-60-day-ceasefire-in-gaza
+
