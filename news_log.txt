@@ -3113,3 +3113,8 @@ Topic: Business
 Title: Trump says the economy ‘went to hell’ under Biden. The opposite is true
 URL: https://www.theguardian.com/business/2025/mar/16/trump-biden-economy
 
+Site: The Guardian
+Topic: Football
+Title: Dortmund complete Club World Cup last eight line-up with win over Monterrey
+URL: https://www.theguardian.com/football/2025/jul/02/dortmund-complete-club-world-cup-last-eight-line-up-with-win-over-monterrey
+
