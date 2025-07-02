@@ -3198,3 +3198,18 @@ Topic: Business
 Title: Trump says China will face 55% tariffs as he endorses trade deal
 URL: https://www.theguardian.com/business/2025/jun/11/trump-says-china-will-face-55-percent-tariffs-us-trade-deal-rare-earth-minerals
 
+Site: The Guardian
+Topic: Media
+Title: Paramount settles with Trump for $16m over 60 Minutes interview with Kamala Harris
+URL: https://www.theguardian.com/media/2025/jul/02/paramount-settles-with-trump-for-16m-over-60-minutes-interview-with-kamala-harris
+
+Site: The Guardian
+Topic: Football
+Title: In-form Foden and sluggish Dias – what did we learn from City’s Club World Cup?
+URL: https://www.theguardian.com/football/2025/jul/02/in-form-foden-and-sluggish-dias-what-did-we-learn-from-citys-club-world-cup
+
+Site: The Guardian
+Topic: Technology
+Title: People in the UK: how is AI changing job-seeking for university graduates?
+URL: https://www.theguardian.com/technology/2025/jun/25/people-in-the-uk-how-is-ai-changing-job-seeking-for-university-graduates
+
