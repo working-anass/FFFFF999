@@ -3153,3 +3153,28 @@ Topic: Technology
 Title: ‘A billion people backing you’: China transfixed as Musk turns against Trump
 URL: https://www.theguardian.com/technology/2025/jul/02/a-billion-people-backing-you-china-transfixed-as-musk-turns-against-trump
 
+Site: The Guardian
+Topic: World
+Title: Dalai Lama says there will be search for his successor after his death, ending years of speculation
+URL: https://www.theguardian.com/world/2025/jul/02/dalai-lama-says-there-will-be-search-for-his-successor-ending-years-of-speculation
+
+Site: The Guardian
+Topic: Environment
+Title: ‘Tiny melodies’: musician uses moths’ flight data to compose piece about their decline
+URL: https://www.theguardian.com/environment/2025/jul/02/moths-help-music-composer-shine-light-decline
+
+Site: The Guardian
+Topic: Global Development
+Title: Women behind the lens: bending over backwards for luck
+URL: https://www.theguardian.com/global-development/2025/jul/02/women-behind-the-lens-bending-over-backwards-for-luck-isabella-madrid
+
+Site: The Guardian
+Topic: Technology
+Title: The rise and rise of Maye Musk: China’s love affair with Elon Musk’s mother
+URL: https://www.theguardian.com/technology/2024/dec/25/the-rise-and-rise-of-maye-musk-chinas-love-affair-with-elon-musks-mother
+
+Site: The Guardian
+Topic: Business
+Title: Owners of collapsed oil refinery Prax Lindsey took £11.5m in pay and dividends
+URL: https://www.theguardian.com/business/2025/jul/02/owners-collapsed-oil-refinery-prax-lindsey-11-million-pounds-pay-dividends
+
