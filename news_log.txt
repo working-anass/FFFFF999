@@ -3248,3 +3248,8 @@ Topic: Football
 Title: Football transfer rumours: Noni Madueke to swap Chelsea for Arsenal?
 URL: https://www.theguardian.com/football/2025/jul/02/football-transfer-rumours-noni-madueke-to-swap-chelsea-for-arsenal
 
+Site: The Guardian
+Topic: World
+Title: Political cowardice hindering Europe’s climate efforts, says EU’s green chief
+URL: https://www.theguardian.com/world/2025/jul/02/political-cowardice-hindering-europe-climate-efforts-eu-green-chief-teresa-ribera
+
