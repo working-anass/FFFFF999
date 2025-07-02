@@ -3188,3 +3188,8 @@ Topic: Business
 Title: EU may as well be ‘province of China’ due to reliance on imports, says industrialist
 URL: https://www.theguardian.com/business/2025/jul/02/eu-may-as-well-be-province-of-china-due-to-reliance-on-imports-says-industrialist
 
+Site: The Guardian
+Topic: Uk News
+Title: Heathrow substation fire ‘caused by fault first identified seven years ago’
+URL: https://www.theguardian.com/uk-news/2025/jul/02/heathrow-substation-fire-caused-by-fault-first-identified-seven-years-ago
+
