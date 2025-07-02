@@ -3563,3 +3563,8 @@ Topic: Us News
 Title: ‘A win for humanity’: Trump’s asylum ban at US-Mexico border ruled unlawful
 URL: https://www.theguardian.com/us-news/2025/jul/02/trump-us-mexico-border-immigrants-asylum
 
+Site: The Guardian
+Topic: Football
+Title: Ryan Mason ready to ‘write my own script’ with West Brom after perfect Spurs ending
+URL: https://www.theguardian.com/football/2025/jul/02/ryan-mason-west-brom-tottenham-football
+
