@@ -3268,3 +3268,13 @@ Topic: Business
 Title: Greggs feels the heat as shoppers shun pastries in hot June
 URL: https://www.theguardian.com/business/2025/jul/02/greggs-feels-the-heat-as-shoppers-shun-pastries-in-hot-june
 
+Site: The Guardian
+Topic: Uk News
+Title: Sikh activist who died in UK could have been poisoned, says pathologist
+URL: https://www.theguardian.com/uk-news/2025/jul/02/sikh-activist-avtar-singh-khanda-pathologist-family-inquest
+
+Site: The Guardian
+Topic: Music
+Title: ‘He looks like a potato’: every major Gallagher feud since Oasis split in 2009
+URL: https://www.theguardian.com/music/2025/jul/02/he-looks-like-a-potato-every-major-gallagher-feud-since-oasis-split-in-2009
+
