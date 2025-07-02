@@ -3068,3 +3068,18 @@ Topic: Liveblog
 Title: Trump says Israel agrees to a truce in Gaza, urges Hamas to accept deal
 URL: https://www.aljazeera.com/news/liveblog/2025/7/2/live-trump-says-israel-agrees-to-finalise-60-day-ceasefire-in-gaza
 
+Site: The Guardian
+Topic: World
+Title: US halts weapons shipments to Ukraine over fears stockpiles are too low
+URL: https://www.theguardian.com/world/2025/jul/02/us-halts-ukraine-weapons-shipments
+
+Site: The Guardian
+Topic: Football
+Title: A moment to sense the sheer scale of progress: Euro 2025 set for kick-off
+URL: https://www.theguardian.com/football/2025/jul/01/womens-euro-2025-football-switzerland
+
+Site: The Guardian
+Topic: Football
+Title: Morecambe on verge of administration amid infighting and stalled takeover talks
+URL: https://www.theguardian.com/football/2025/jul/02/morecambe-on-verge-administration-amid-infighting-stalled-takeover-talks
+
