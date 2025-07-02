@@ -3433,3 +3433,8 @@ Topic: Global Development
 Title: Hundreds of cases of femicide recorded in Afghanistan since Taliban takeover are ‘tip of the iceberg’
 URL: https://www.theguardian.com/global-development/article/2024/aug/15/hundreds-of-cases-of-femicide-recorded-in-afghanistan-since-taliban-takeover-are-tip-of-the-iceberg
 
+Site: The Guardian
+Topic: Business
+Title: UK bond yields rise sharply amid speculation over future of Rachel Reeves
+URL: https://www.theguardian.com/business/2025/jul/02/uk-bond-yields-rise-sharply-amid-speculation-over-future-of-rachel-reeves
+
