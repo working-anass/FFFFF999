@@ -3333,3 +3333,23 @@ Topic: Film
 Title: Hearts of Darkness: A Film-Maker’s Apocalypse review – Francis Ford Coppola and the mother of all meltdowns
 URL: https://www.theguardian.com/film/2025/jul/02/hearts-of-darkness-a-film-makers-apocalypse-review-francis-ford-coppola-and-the-mother-of-all-meltdowns
 
+Site: The Guardian
+Topic: Us News
+Title: House to vote on Trump’s big policy bill as Johnson vows to ‘get it over the line’
+URL: https://www.theguardian.com/us-news/2025/jul/02/trump-bill-house-senate
+
+Site: The Guardian
+Topic: Us News
+Title: US vet uses cod skin to save bald eagle in time for Fourth of July
+URL: https://www.theguardian.com/us-news/2025/jul/02/cod-skin-bald-eagle-fourth-of-july
+
+Site: The Guardian
+Topic: Uk News
+Title: Hancock defends moving hospital patients to care homes during Covid pandemic
+URL: https://www.theguardian.com/uk-news/2025/jul/02/matt-hancock-covid-inquiry-care-homes-hospital-discharge-policy
+
+Site: The Guardian
+Topic: Sport
+Title: Freeman bags two tries as dominant Lions impress against Queensland Reds
+URL: https://www.theguardian.com/sport/2025/jul/02/queensland-reds-british-and-irish-lions-rugby-union-match-report
+
