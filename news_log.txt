@@ -3373,3 +3373,8 @@ Topic: Liveblog
 Title: Donald Trump’s One Big Beautiful Bill heads to US House for critical vote
 URL: https://www.aljazeera.com/news/liveblog/2025/7/2/donald-trump-live-presidents-budget-bill-to-face-tight-vote-in-us-house
 
+Site: The Guardian
+Topic: Technology
+Title: AI helps find formula for paint to keep buildings cooler
+URL: https://www.theguardian.com/technology/2025/jul/02/ai-helps-find-formula-for-paint-to-keep-buildings-cooler
+

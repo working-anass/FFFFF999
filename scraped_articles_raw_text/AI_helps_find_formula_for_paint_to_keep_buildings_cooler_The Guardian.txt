@@ -1,0 +1,25 @@
+Site: The Guardian
+Title: AI helps find formula for paint to keep buildings cooler
+URL: https://www.theguardian.com/technology/2025/jul/02/ai-helps-find-formula-for-paint-to-keep-buildings-cooler
+
+AI-engineered paint could reduce the sweltering urban heat island effect in cities and cut air-conditioning bills, scientists have claimed, as machine learning accelerates the creation of new materials for everything from electric motors to carbon capture.
+
+Materials experts have used artificial intelligence to formulate new coatings that can keep buildings between 5C and 20C cooler than normal paint after exposure to midday sun. They could also be applied to cars, trains, electrical equipment and other objects that will require more cooling in a world that is heating up.
+
+Using machine learning, researchers at universities in the US, China, Singapore and Sweden designed new paint formulas tuned to best reflect the sun’s rays and emit heat, according to a peer-reviewed study published in the science journal Nature.
+
+It is the latest example of AI being used to leapfrog traditional trial-and-error approaches to scientific advances. Last year the British company MatNex used AI to create a new kind of permanent magnet used in electric vehicle motors to avoid the use of rare earth metals, whose mining is carbon-intensive.
+
+Microsoft has released AI tools to help researchers rapidly design new inorganic materials – often crystalline structures used in solar panels and medical implants. And there are hopes for new materials to better capture carbon in the atmosphere and to make more efficient batteries.
+
+The paint research was carried out by academics at the University of Texas in Austin, Shanghai Jiao Tong University, the National University of Singapore and Umeå University in Sweden. It found that applying one of several new AI-enabled paints to the roof of a four-storey apartment block could save electricity equivalent to 15,800 kilowatts a year in a hot climate such as Rio de Janeiro’s or Bangkok’s. If the paint were applied to 1,000 blocks, that could save enough electricity to power more than 10,000 air conditioning units for a year.
+
+Yuebing Zheng, a professor at the University of Texas and co-leader of the study, said: “Our machine learning framework represents a significant leap forward in the design of thermal meta-emitters. By automating the process and expanding the design space, we can create materials with superior performance that were previously unimaginable.”
+
+He said a month’s work designing a new material was being done in a few days using AI and that new materials that may never have been discovered through trial and error were being created.
+
+“Now, we follow the machine learning output, [its instructions for] the structure and what kind of materials we should use, and we can get it right without going through many, many design and fabrication testing cycles.”
+
+Dr Alex Ganose, a chemistry lecturer at Imperial College London who also uses machine learning to design new materials, said: “Things are moving very fast in this space. In the last year or so there have been so many startups trying to use generative AI for materials.”
+
+He said the process of designing a new material could require the calculation of millions of potential combinations. AI allows material scientists to push through previous restrictions in computational power. It also means the traditional process of creating a material and then testing its properties can be reversed, with scientists able to tell the AI what properties they want upfront.
