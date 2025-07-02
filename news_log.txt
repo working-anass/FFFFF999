@@ -3283,3 +3283,13 @@ Topic: Society
 Title: ‘I was constantly scared of what she was going to do’: the troubled life and shocking death of Immy Nunn
 URL: https://www.theguardian.com/society/2025/jul/02/the-troubled-life-and-shocking-death-of-immy-nunn
 
+Site: The Guardian
+Topic: Us News
+Title: Trump’s ‘Alligator Alcatraz’ tour was a calculated celebration of the dystopian
+URL: https://www.theguardian.com/us-news/2025/jul/02/trump-alligator-alcatraz-florida-tour-dystopian
+
+Site: The Guardian
+Topic: Football
+Title: ‘I cut off his head six times’: the sculptors behind football statues
+URL: https://www.theguardian.com/football/2025/jul/02/sculptors-behind-football-statues-players-fans
+
