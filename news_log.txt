@@ -3123,3 +3123,13 @@ Topic: Environment
 Title: More than 80% of UK farmers worried about climate crisis harming livelihood, study finds
 URL: https://www.theguardian.com/environment/2025/jul/02/farmers-climate-crisis-livelihood-extreme-weather-study
 
+Site: The Guardian
+Topic: Us News
+Title: Trump news at a glance: a senator quits, the ‘big beautiful bill’ loses its name – but senate still passes Trump’s megabill
+URL: https://www.theguardian.com/us-news/2025/jul/02/trump-administration-news-today
+
+Site: The Guardian
+Topic: World
+Title: He was the EU’s great Brexit survivor. Can Maroš Šefčovič now pull off a trade deal with Trump?
+URL: https://www.theguardian.com/world/2025/jul/02/he-was-the-eus-great-brexit-survivor-can-maros-sefcovic-now-pull-off-a-trade-deal-with-trump
+
