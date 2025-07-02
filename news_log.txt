@@ -3528,3 +3528,13 @@ Topic: Football
 Title: Gareth Bale-led consortium submits offer to buy Cardiff from Vincent Tan
 URL: https://www.theguardian.com/football/2025/jul/02/gareth-bale-led-consortium-submits-offer-to-buy-cardiff-from-vincent-tan
 
+Site: The Guardian
+Topic: Football
+Title: Kosola’s corker gets Finland off and running at Euro 2025 after Iceland see red
+URL: https://www.theguardian.com/football/2025/jul/02/iceland-finland-womens-euro-2025-group-a-match-report
+
+Site: The Guardian
+Topic: Business
+Title: London is leaving the door wide open to private equity raiders
+URL: https://www.theguardian.com/business/nils-pratley-on-finance/2025/jul/02/spectris-kkr-private-equity-takeover-bid-raid-london-stock-market
+

@@ -1,0 +1,25 @@
+Site: The Guardian
+Title: London is leaving the door wide open to private equity raiders
+URL: https://www.theguardian.com/business/nils-pratley-on-finance/2025/jul/02/spectris-kkr-private-equity-takeover-bid-raid-london-stock-market
+
+T his shouldn’t happen in a well-functioning stock market: a grownup industrial company, listed in London since 1988, with revenues of £1.3bn last year and pre-tax profits of £191m, is being taken out by private equity at a 96% premium to the pre-action share price. How can a business be worth twice as much in private hands than on the public markets?
+
+The company is Spectris, a low-profile but high-quality FTSE 250 maker of precision instruments and testing equipment used in everything from food manufacturing to automotives. The buyer is KKR with an agreed offer of £4.1bn that beats fellow US private equity house Advent’s £3.8bn offer last week.
+
+The detail of the bidding, as revealed in Wednesday’s documents, is a tale in itself. The board of Spectris had turned down two previous approaches from KKR, starting at £30.25 a share, and five from Advent, before accepting the latter’s £37.63. Now KKR has come over the top at £40 a share. The impression is of private equity firms salivating over the target while the public markets sleep. The caricature of the London market as a risk-averse place of capital drift is roughly accurate.
+
+The perceived problem at Spectris – the reason for its falling share price from early 2024 – was weak trading during the year, then the possible effect of Donald Trump’s tariffs on an international business that makes a third of its sales in Asia, plus an increase in debt to fund a couple of acquisitions in the US. The worries were legitimate up to a point but, as a few City analysts had argued before the bidders showed up, none suddenly made Spectris a bad business.
+
+Its chief executive, Andrew Heath, had still transformed the portfolio since 2019, selling peripheral units and bringing in better fits. Return on capital employed was a handsome 18.5% in 2023 with a good chance of getting back to that level.
+
+Two details should sting. One was KKR’s comment about how private ownership will allow management to focus on the day job “without the ongoing shorter-term requirements of being a publicly listed company”. Unfortunately, that assessment is probably correct. One can’t trust everything private equity says, but KKR’s plan for Spectris is to “significantly accelerate inorganic growth”. In other words, do deals that were off-limits to the company while its acquisition currency, its share price, was weak.
+
+The second painful aspect is that the buyer will probably make fat returns even after paying what, in other circumstances, would be regarded as a silly premium. UBS’s analyst thinks a private equity owner could still make a 20% internal rate of return under its “bear case” operating environment. Under its “medium-term normalised scenario”, the rate could be 35%.
+
+This is the crisis in the UK stock market in a nutshell. The broker Peel Hunt, in research titled “UK for sale”, last month counted 30 bids of £100m-plus for UK listed companies so far this year – all outside the FTSE 100 index and adding up to £25bn. There has been only one new listing of £100m-plus in the same period. While a certain level of takeover action is normal, average premiums of 43% says there are huge pockets of undervaluation at the mid-cap and small-cap end of the market. The position is dangerous if one takes the view, as one should, that a dynamic economy needs a vibrant stock market.
+
+None of this is new news, of course, but the sight of two 96% takeover premiums in a month ( the other was chip designer Alphawave ) should hammer home the size of the problem. Peel Hunt’s remedies to address the outflow of capital are reform of pension funds, ISAs and stamp duty. All have been advocated here too. Are we confident they will happen?
+
+Well, pension consolidation may happen eventually. But a lower limit on cash ISAs, as a way to nudge long-term savers towards stock markets, may look a battle too far for Rachel Reeves now that Martin Lewis, the most influential man in Britain, has declared the policy “a mistake” . On stamp duty, an underfire chancellor (or the next one) probably isn’t going to surrender a £4bn annual tax-take easily, even though the policy might pay for itself over time.
+
+This is all depressing. Outside the FTSE 100, the door is wide open for private equity raiders. It is not healthy.
