@@ -3558,3 +3558,8 @@ Topic: Football
 Title: Euro 2025 hosts Switzerland suffer own-goal and VAR heartache against Norway
 URL: https://www.theguardian.com/football/2025/jul/02/switzerland-norway-womens-euro-2025-group-a-match-report
 
+Site: The Guardian
+Topic: Us News
+Title: ‘A win for humanity’: Trump’s asylum ban at US-Mexico border ruled unlawful
+URL: https://www.theguardian.com/us-news/2025/jul/02/trump-us-mexico-border-immigrants-asylum
+
