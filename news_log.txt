@@ -3423,3 +3423,13 @@ Topic: Music
 Title: ‘I genuinely love this place so much!’ Fatboy Slim’s 100th Glastonbury set – picture essay
 URL: https://www.theguardian.com/music/2025/jul/02/fatboy-slim-100th-glastonbury-set-picture-essay
 
+Site: The Guardian
+Topic: World
+Title: Macron and Putin discuss Iran in first call in three years
+URL: https://www.theguardian.com/world/2025/jul/02/macron-and-putin-discuss-iran-in-first-call-in-three-years
+
+Site: The Guardian
+Topic: Global Development
+Title: Hundreds of cases of femicide recorded in Afghanistan since Taliban takeover are ‘tip of the iceberg’
+URL: https://www.theguardian.com/global-development/article/2024/aug/15/hundreds-of-cases-of-femicide-recorded-in-afghanistan-since-taliban-takeover-are-tip-of-the-iceberg
+
