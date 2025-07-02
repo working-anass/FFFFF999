@@ -3293,3 +3293,8 @@ Topic: Football
 Title: ‘I cut off his head six times’: the sculptors behind football statues
 URL: https://www.theguardian.com/football/2025/jul/02/sculptors-behind-football-statues-players-fans
 
+Site: The Guardian
+Topic: World
+Title: Quad countries agree to diversify critical mineral supplies amid China concerns
+URL: https://www.theguardian.com/world/2025/jul/02/quad-countries-agree-to-diversify-critical-mineral-supplies-amid-china-concerns
+
