@@ -3488,3 +3488,23 @@ Topic: Technology
 Title: Fears AI factcheckers on X could increase promotion of conspiracy theories
 URL: https://www.theguardian.com/technology/2025/jul/02/fears-ai-factcheckers-on-x-could-increase-promotion-of-conspiracy-theories
 
+Site: The Guardian
+Topic: World
+Title: Israeli military used 500lb bomb in strike on Gaza cafe, fragments reveal
+URL: https://www.theguardian.com/world/2025/jul/02/israeli-military-bomb-fragments-gaza-al-baqa-cafe
+
+Site: The Guardian
+Topic: Us News
+Title: US to breed billions of flies and dump them out of aircraft in bid to fight flesh-eating maggot
+URL: https://www.theguardian.com/us-news/2025/jul/02/new-world-screwworm-fly-flesh-eating-maggot
+
+Site: The Guardian
+Topic: Business
+Title: If AstraZeneca goes to the US, it will be a major blow for London and Labour
+URL: https://www.theguardian.com/business/2025/jul/02/if-astrazeneca-goes-to-the-us-it-will-be-a-major-blow-for-london-and-labour
+
+Site: The Guardian
+Topic: Wellness
+Title: ‘Shar-pei sex’, swinging, and 10 orgasms in an afternoon: This is sex after 60
+URL: https://www.theguardian.com/wellness/2025/jul/02/sex-after-60
+
