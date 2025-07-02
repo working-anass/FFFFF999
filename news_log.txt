@@ -3523,3 +3523,8 @@ Topic: Us News
 Title: Republican voters on Trump’s sweeping tax-and-spend legislation: ‘This bill is a no-brainer!’
 URL: https://www.theguardian.com/us-news/2025/jul/02/trump-supporters-on-big-beautiful-bill
 
+Site: The Guardian
+Topic: Football
+Title: Gareth Bale-led consortium submits offer to buy Cardiff from Vincent Tan
+URL: https://www.theguardian.com/football/2025/jul/02/gareth-bale-led-consortium-submits-offer-to-buy-cardiff-from-vincent-tan
+
