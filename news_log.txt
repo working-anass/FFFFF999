@@ -3378,3 +3378,18 @@ Topic: Technology
 Title: AI helps find formula for paint to keep buildings cooler
 URL: https://www.theguardian.com/technology/2025/jul/02/ai-helps-find-formula-for-paint-to-keep-buildings-cooler
 
+Site: The Guardian
+Topic: World
+Title: Europe’s heatwave moves east as row erupts in France over air conditioning
+URL: https://www.theguardian.com/world/2025/jul/02/europe-heatwave-moves-east-row-france-air-conditioning
+
+Site: The Guardian
+Topic: Us News
+Title: US tries to deport stateless Palestinian woman again despite judge’s order
+URL: https://www.theguardian.com/us-news/2025/jul/02/stateless-palestinian-woman-deportation-ward-sakeik
+
+Site: The Guardian
+Topic: Science
+Title: First cat in space: how a Parisian stray called Félicette was blasted far from Earth
+URL: https://www.theguardian.com/science/2023/sep/09/first-cat-space-felicette-orbit-humans-earth-atmosphere
+
