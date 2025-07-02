@@ -3083,3 +3083,33 @@ Topic: Football
 Title: Morecambe on verge of administration amid infighting and stalled takeover talks
 URL: https://www.theguardian.com/football/2025/jul/02/morecambe-on-verge-administration-amid-infighting-stalled-takeover-talks
 
+Site: The Guardian
+Topic: World
+Title: Trump claims Israel ready for Gaza peace deal in bid to boost Hamas ceasefire talks
+URL: https://www.theguardian.com/world/2025/jul/02/trump-claims-israel-ready-for-gaza-peace-deal-in-bid-to-boost-hamas-ceasefire-talks
+
+Site: The Guardian
+Topic: World
+Title: Ukraine war briefing: Ukraine launches one of its deepest drone strikes into Russia, killing three
+URL: https://www.theguardian.com/world/2025/jul/02/ukraine-war-briefing-ukraine-launches-one-of-its-deepest-drone-strikes-into-russia-killing-three
+
+Site: The Guardian
+Topic: Us News
+Title: Jury says Google must pay California Android smartphone users $314.6m
+URL: https://www.theguardian.com/us-news/2025/jul/01/google-california-android-smartphone
+
+Site: The Guardian
+Topic: Us News
+Title: Judge blocks Kristi Noem from ending temporary protected status for Haitians
+URL: https://www.theguardian.com/us-news/2025/jul/01/kristi-noem-haitian-immigrants-tps
+
+Site: The Guardian
+Topic: Global Development
+Title: Drone attacks killing hundreds of civilians across Africa, says report
+URL: https://www.theguardian.com/global-development/2025/mar/10/drone-attacks-killing-hundreds-of-civilians-across-africa-says-report
+
+Site: The Guardian
+Topic: Business
+Title: Trump says the economy ‘went to hell’ under Biden. The opposite is true
+URL: https://www.theguardian.com/business/2025/mar/16/trump-biden-economy
+

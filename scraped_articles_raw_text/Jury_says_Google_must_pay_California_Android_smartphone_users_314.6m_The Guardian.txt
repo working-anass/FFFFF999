@@ -1,0 +1,17 @@
+Site: The Guardian
+Title: Jury says Google must pay California Android smartphone users $314.6m
+URL: https://www.theguardian.com/us-news/2025/jul/01/google-california-android-smartphone
+
+A jury in San Jose, California, said on Tuesday that Google misused customers’ cellphone data and must pay more than $314.6m to Android smartphone users in the state, according to an attorney for the plaintiffs.
+
+The jury agreed with the plaintiffs that Alphabet ’s Google was liable for sending and receiving information from the devices without permission while they were idle, causing what the lawsuit had called “mandatory and unavoidable burdens shouldered by Android device users for Google’s benefit”.
+
+Google spokesperson Jose Castaneda said in a statement that the company would appeal, and that the verdict “misunderstands services that are critical to the security, performance, and reliability of Android devices”.
+
+The plaintiffs’ attorney Glen Summers said the verdict “forcefully vindicates the merits of this case and reflects the seriousness of Google’s misconduct”.
+
+The plaintiffs filed the class action in state court in 2019 on behalf of an estimated 14 million Californians. They argued that Google collected information from idle phones running its Android operating system for company uses like targeted advertising, consuming Android users’ cellular data at their expense.
+
+Google told the court that no Android users were harmed by the data transfers and that users consented to them in the company’s terms of service and privacy policies.
+
+Another group filed a separate lawsuit in federal court in San Jose, bringing the same claims against Google on behalf of Android users in the other 49 states. That case is scheduled for trial in April 2026.
