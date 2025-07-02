@@ -3403,3 +3403,23 @@ Topic: Books
 Title: Larry: A New Biography of Lawrence Durrell by Michael Haag review – a Mediterranean life
 URL: https://www.theguardian.com/books/2025/jul/02/larry-a-new-biography-of-lawrence-durrell-by-michael-haag-review-a-mediterranean-life
 
+Site: The Guardian
+Topic: Environment
+Title: EU targets 90% cut in emissions by 2040 as green groups cry foul
+URL: https://www.theguardian.com/environment/2025/jul/02/eu-targets-90-percent-cut-in-emissions-by-2040-as-green-groups-cry-foul
+
+Site: The Guardian
+Topic: Science
+Title: Skeleton found in pot is first ancient Egyptian to undergo whole genome analysis
+URL: https://www.theguardian.com/science/2025/jul/02/skeleton-in-pot-first-ancient-egyptian-undergo-genome-analysis
+
+Site: The Guardian
+Topic: Science
+Title: Air pollution linked to lung cancer-driving DNA mutations, study finds
+URL: https://www.theguardian.com/science/2025/jul/02/air-pollution-lung-cancer-dna-mutations-study
+
+Site: The Guardian
+Topic: Music
+Title: ‘I genuinely love this place so much!’ Fatboy Slim’s 100th Glastonbury set – picture essay
+URL: https://www.theguardian.com/music/2025/jul/02/fatboy-slim-100th-glastonbury-set-picture-essay
+

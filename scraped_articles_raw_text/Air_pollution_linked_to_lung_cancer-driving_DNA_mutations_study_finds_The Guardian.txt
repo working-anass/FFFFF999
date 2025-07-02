@@ -1,0 +1,25 @@
+Site: The Guardian
+Title: Air pollution linked to lung cancer-driving DNA mutations, study finds
+URL: https://www.theguardian.com/science/2025/jul/02/air-pollution-lung-cancer-dna-mutations-study
+
+Air pollution has been linked to a swathe of lung cancer-driving DNA mutations, in a study of people diagnosed with the disease despite never having smoked tobacco.
+
+The findings from an investigation into cancer patients around the world helps explain why never-smokers make up a rising proportion of people developing the cancer, a trend the researchers called an “urgent and growing global problem”.
+
+Prof Ludmil Alexandrov, a senior author on the study at the University of California in San Diego, said researchers had observed the “problematic trend” but had not understood the cause. “Our research shows that air pollution is strongly associated with the same types of DNA mutations we typically associate with smoking,” he said.
+
+The scientists analysed the entire genetic code of lung tumours removed from 871 never-smokers in Europe, North America, Africa and Asia as part of the Sherlock-Lung study . They found that the higher the levels of air pollution in a region, the more cancer-driving and cancer-promoting mutations were present in residents’ tumours.
+
+Fine-particulate air pollution was particularly linked to mutations in the TP53 gene. These have previously been associated with tobacco smoking. People exposed to greater air pollution also had shorter telomeres, protective strands of DNA found at the ends of chromosomes, which are often compared with the caps on shoelaces. Telomeres tend to shorten with age, so premature telomere shortening is interpreted as a sign of rapid ageing.
+
+“This is an urgent and growing global problem that we are working to understand,” said Dr Maria Teresa Landi, an epidemiologist on the study at the US National Cancer Institute in Maryland.
+
+With smoking in decline in many parts of the world, including the UK and the US, never-smokers are making up a larger proportion of lung cancer patients. Current estimates suggest that 10-25% of lung cancers are now diagnosed in never-smokers. Almost all are a form of cancer known as adenocarcinoma.
+
+Lung cancer remains the leading cause of cancer-related death worldwide. About 2.5m new cases are diagnosed globally each year. More than a million of the deaths occur in China, where smoking, air pollution and other environmental contaminants are factors.
+
+Recent research found that the highest rates of adenocarcinoma attributable to air pollution were in east Asia. While cases in the UK were much lower, they still amounted to more than 1,100 new diagnoses a year, scientists found.
+
+The latest work, published in Nature , identified only a slight rise in cancer-causing mutations in people exposed to secondhand tobacco smoke. But the study highlighted a significant risk from certain Chinese herbal medicines that contain aristolochic acid. Signature mutations linked to the herbal medicines were seen almost exclusively in never-smokers from Taiwan.
+
+Another mysterious mutational signature was seen in never-smokers but not smokers. “This is something entirely different,” Alexandrov said.
