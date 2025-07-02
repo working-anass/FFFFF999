@@ -3548,3 +3548,8 @@ Topic: Science
 Title: Ancient steppe herders brought higher risk of MS to northern Europe
 URL: https://www.theguardian.com/science/2024/jan/10/ancient-steppe-herders-brought-higher-risk-of-ms-to-northern-europe
 
+Site: The Guardian
+Topic: Politics
+Title: Welfare climbdown lets genie out of the bottle, and no one knows what happens next
+URL: https://www.theguardian.com/politics/2025/jul/02/welfare-climbdown-lets-genie-out-of-the-bottle-and-no-one-knows-what-happens-next
+
