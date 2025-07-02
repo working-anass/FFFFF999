@@ -3178,3 +3178,13 @@ Topic: Business
 Title: Owners of collapsed oil refinery Prax Lindsey took £11.5m in pay and dividends
 URL: https://www.theguardian.com/business/2025/jul/02/owners-collapsed-oil-refinery-prax-lindsey-11-million-pounds-pay-dividends
 
+Site: The Guardian
+Topic: Global Development
+Title: Women behind the lens: ‘The bridal dress is meant to present her as a queen … but to me it always felt like a cage’
+URL: https://www.theguardian.com/global-development/2025/jun/04/women-behind-the-lens-morocco-wedding-dress-exalt-bride-cage
+
+Site: The Guardian
+Topic: Business
+Title: EU may as well be ‘province of China’ due to reliance on imports, says industrialist
+URL: https://www.theguardian.com/business/2025/jul/02/eu-may-as-well-be-province-of-china-due-to-reliance-on-imports-says-industrialist
+
