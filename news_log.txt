@@ -3393,3 +3393,13 @@ Topic: Science
 Title: First cat in space: how a Parisian stray called Félicette was blasted far from Earth
 URL: https://www.theguardian.com/science/2023/sep/09/first-cat-space-felicette-orbit-humans-earth-atmosphere
 
+Site: The Guardian
+Topic: Music
+Title: Sean ‘Diddy’ Combs found guilty on two of five counts in sex-trafficking case
+URL: https://www.theguardian.com/music/2025/jul/02/diddy-trial-verdict-sean-combs
+
+Site: The Guardian
+Topic: Books
+Title: Larry: A New Biography of Lawrence Durrell by Michael Haag review – a Mediterranean life
+URL: https://www.theguardian.com/books/2025/jul/02/larry-a-new-biography-of-lawrence-durrell-by-michael-haag-review-a-mediterranean-life
+
