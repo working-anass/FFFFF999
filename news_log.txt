@@ -3213,3 +3213,18 @@ Topic: Technology
 Title: People in the UK: how is AI changing job-seeking for university graduates?
 URL: https://www.theguardian.com/technology/2025/jun/25/people-in-the-uk-how-is-ai-changing-job-seeking-for-university-graduates
 
+Site: The Guardian
+Topic: Science
+Title: Mushrooms communicate with each other using up to 50 ‘words’, scientist claims
+URL: https://www.theguardian.com/science/2022/apr/06/fungi-electrical-impulses-human-language-study
+
+Site: The Guardian
+Topic: Global Development
+Title: Women behind the lens: ‘In Cuba, domestic life is forced on to the streets’
+URL: https://www.theguardian.com/global-development/2025/mar/05/women-behind-the-lens-in-cuba-domestic-life-is-forced-onto-the-streets
+
+Site: The Guardian
+Topic: Football
+Title: Has a team won the Champions League without beating any league champions?
+URL: https://www.theguardian.com/football/2025/jul/02/has-a-football-team-won-the-champions-league-without-beating-any-league-champions
+
