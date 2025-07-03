@@ -4013,3 +4013,8 @@ Topic: Environment
 Title: Dartford warblers on the Dorset oilfields
 URL: https://www.theguardian.com/environment/2025/jul/03/dartford-warblers-on-the-dorset-oilfields
 
+Site: The Guardian
+Topic: Us News
+Title: Trump’s tax and spending bill passes Congress in major win for president
+URL: https://www.theguardian.com/us-news/2025/jul/03/trump-tax-bill-passes-congress
+
