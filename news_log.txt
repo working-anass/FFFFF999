@@ -4043,3 +4043,8 @@ Topic: Sport
 Title: Former world champion Julio César Chávez Jr arrested by Ice over alleged cartel ties
 URL: https://www.theguardian.com/sport/2025/jul/03/julio-cesar-chavez-jr-arrested-ice-cartel-deportation
 
+Site: The Guardian
+Topic: Us News
+Title: US man arrested while filming Home Depot Ice raid sues government for $1m
+URL: https://www.theguardian.com/us-news/2025/jul/03/photographer-arrested-home-depot-ice-raid
+
