@@ -4038,3 +4038,8 @@ Topic: Politics
 Title: SMILE! It’s just a normal day for Labour’s happy family of Keir, Rachel and Wes
 URL: https://www.theguardian.com/politics/2025/jul/03/smile-normal-day-labour-family-keir-rachel-wes
 
+Site: The Guardian
+Topic: Sport
+Title: Former world champion Julio César Chávez Jr arrested by Ice over alleged cartel ties
+URL: https://www.theguardian.com/sport/2025/jul/03/julio-cesar-chavez-jr-arrested-ice-cartel-deportation
+
