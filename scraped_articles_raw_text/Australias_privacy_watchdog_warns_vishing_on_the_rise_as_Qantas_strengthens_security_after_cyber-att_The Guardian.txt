@@ -1,0 +1,43 @@
+Site: The Guardian
+Title: Australia’s privacy watchdog warns ‘vishing’ on the rise as Qantas strengthens security after cyber-attack
+URL: https://www.theguardian.com/business/2025/jul/04/australias-privacy-watchdog-warns-vishing-on-the-rise-as-qantas-strengthens-security-after-cyber-attack
+
+Qantas has said it will beef up its security and threat detection in the wake of a cyber-attack affecting up to 6 million customers , as Australia’s privacy watchdog has warned attacks using social engineering to gain access to data are on the rise.
+
+In an update to customers on Thursday, the airline said more security measures would be put in place after cybercriminals were able to gain access to a third-party system used by a Qantas airline contact centre to steal customers’ personal information .
+
+“We’re … putting additional security measures in place to further restrict access and strengthen system monitoring and detection,” the company said.
+
+Qantas began emailing affected customers on Wednesday evening, but had not indicated as of Thursday afternoon whether any compensation would be provided to those who had their personal information compromised.
+
+Cybersecurity analysts indicated to Guardian Australia that, as of Thursday afternoon, the data had not yet been posted on forums or dark web locations that attackers commonly frequent.
+
+The alleged culprit of the attack has yet to be identified but has similarities to a ransomware group known as Scattered Spider . The group has targeted airlines in the US in recent weeks by engaging in what are called social engineering attacks, or “vishing”. They involve calling the IT support for large companies, often impersonating employees or contractors to deceive IT help desks into granting access and bypassing multi-factor authentication.
+
+- Sign up for Guardian Australia’s breaking news email
+
+An Office of the Australian Information Commissioner (OAIC) report on data breaches, released in May and covering the second half of last year, noted a rise in the number of social engineering attacks resulting in data breaches in Australia. The attacks made up 28% of all reported breaches resulting from malicious or criminal attacks.
+
+The OAIC noted at the time that the “significant increase” was particularly significant within Australian government agencies, which reported 60 out of the 115 breaches of that kind – a 46% increase on the previous six months.
+
+Google’s threat intelligence report in recent months has also warned of multiple threat actors using these methods to get into companies’ systems.
+
+In a June update , Nick Guttilla, from Google’s Mandiant threat intelligence, said threat actors first build up intelligence on their target, reviewing employee positions and titles, information about their networks, cloud and email providers, and searching for publicly exposed documentation.
+
+Some of this information can be found on company websites, as well as social media like LinkedIn.
+
+From there, threat actors may test the IT service desk, which would routinely deal with a high volume of calls from staff needing help on password resets. According to Guttilla, attackers will see how far they can get before a staff member requests ID verification, feigning ignorance of the process to see if the staff member will relent and forgo normal procedure.
+
+An attacker may also pretend their phone is unavailable and that they need urgent account access.
+
+In some attacks, they persuade an employee to install an application that helps exfiltrate the data from a system quickly. It is unknown at this stage if this is what happened in the Qantas breach.
+
+Guttilla said training staff to rigorously perform ID checks on all calls, particularly for privileged accounts with more systems access, was critical.
+
+The minister responsible for cybersecurity, Tony Burke, did not confirm whether the Qantas attack was associated with the Scattered Spider group, but said he had been briefed and would allow the cybersecurity agencies to make announcements on any alleged culprits.
+
+“The reality is with these networks, they’ll go where they can find vulnerability,” he said.
+
+Burke said when companies relied on third parties for their systems, it made their cybersecurity obligations “more complex”.
+
+The Australian Signals Directorate was approached for comment.

@@ -3918,3 +3918,13 @@ Topic: Tv And Radio
 Title: From sweary Brit Awards chaos to uniting a mourning city: TV’s top 12 Oasis moments
 URL: https://www.theguardian.com/tv-and-radio/2025/jul/03/television-top-12-oasis-moments-tv-noel-liam-gallagher
 
+Site: The Guardian
+Topic: Business
+Title: Australia’s privacy watchdog warns ‘vishing’ on the rise as Qantas strengthens security after cyber-attack
+URL: https://www.theguardian.com/business/2025/jul/04/australias-privacy-watchdog-warns-vishing-on-the-rise-as-qantas-strengthens-security-after-cyber-attack
+
+Site: The Guardian
+Topic: World
+Title: Air India’s behaviour towards bereaved families ‘outrageous’, says lawyer
+URL: https://www.theguardian.com/world/2025/jul/03/air-india-behaviour-bereaved-families-aviation-lawyer
+
