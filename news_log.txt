@@ -3763,3 +3763,18 @@ Topic: Science
 Title: ‘Narcissists – only more devious’: the truth about dark empaths
 URL: https://www.theguardian.com/science/2024/nov/10/narcissists-only-more-devious-the-truth-about-dark-empaths
 
+Site: The Guardian
+Topic: Us News
+Title: ‘Our sense of safety was violated’: a Black suburb in Ohio confronts repeated threats from white supremacists
+URL: https://www.theguardian.com/us-news/2025/jul/03/lincoln-heights-ohio-white-supremacism
+
+Site: The Guardian
+Topic: Uk News
+Title: Greater Manchester police investigating over 1,000 grooming gang suspects
+URL: https://www.theguardian.com/uk-news/2025/jul/03/greater-manchester-police-investigating-over-1000-grooming-gang-suspects
+
+Site: The Guardian
+Topic: Football
+Title: Xabi Alonso relishes value of Valverde – with idol Gerrard his role model
+URL: https://www.theguardian.com/football/2025/jul/03/xabi-alonso-relishes-value-of-valverde-with-idol-gerrard-his-role-model
+
