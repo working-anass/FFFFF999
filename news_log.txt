@@ -3843,3 +3843,13 @@ Topic: Environment
 Title: Farms in England could be taken out of food production to boost nature, says Labour
 URL: https://www.theguardian.com/environment/2025/jul/03/farms-england-stop-food-production-boost-nature-labour
 
+Site: The Guardian
+Topic: Uk News
+Title: ‘Truly awful’: rival fans united in grief at Anfield after death of Diogo Jota
+URL: https://www.theguardian.com/uk-news/2025/jul/03/diogo-jota-death-rival-football-fans-grief-liverpool-anfield
+
+Site: The Guardian
+Topic: Uk News
+Title: Four remanded in custody after aircraft damaged at RAF Brize Norton
+URL: https://www.theguardian.com/uk-news/2025/jul/03/four-remanded-in-custody-aircraft-damaged-raf-brize-norton-allegedly-palestine-action
+
