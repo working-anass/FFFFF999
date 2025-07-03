@@ -3588,3 +3588,28 @@ Topic: Law
 Title: For richer, for poorer: ex-banker will not have to split £80m equally with wife, court rules
 URL: https://www.theguardian.com/law/2025/jul/02/banker-divorce-marriage-uk-supreme-court-law
 
+Site: The Guardian
+Topic: World
+Title: Ukraine war briefing: Washington downplays halt of some weapons shipments as Kyiv calls in US ambassador
+URL: https://www.theguardian.com/world/2025/jul/03/ukraine-war-briefing-washington-downplays-halt-of-some-weapons-shipments-as-kyiv-calls-in-us-ambassador
+
+Site: The Guardian
+Topic: World
+Title: The leaked phone call that could ring the changes for one of Thailand’s most powerful dynasties
+URL: https://www.theguardian.com/world/2025/jul/03/thailand-cambodia-leaked-phone-call-shinawatra-dynasty-paetongtarn
+
+Site: The Guardian
+Topic: World
+Title: Japan’s Tokara islands hit by 900 earthquakes in two weeks
+URL: https://www.theguardian.com/world/2025/jul/03/japan-earthquake-tokara-islands-900-earthquakes-two-weeks
+
+Site: The Guardian
+Topic: Us News
+Title: Kilmar Ábrego García was tortured in Salvadorian prison, court filing alleges
+URL: https://www.theguardian.com/us-news/2025/jul/02/kilmar-abrego-garcia-tortured-cecot
+
+Site: The Guardian
+Topic: Business
+Title: Capital gains for the rich and persistent gender pay gaps: what we can learn from the ATO’s annual tax statistics
+URL: https://www.theguardian.com/business/grogonomics/2025/jul/03/capital-gains-for-the-rich-and-persistent-gender-pay-gaps-what-we-can-learn-from-the-atos-annual-tax-statistics
+
