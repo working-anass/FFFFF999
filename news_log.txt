@@ -3673,3 +3673,23 @@ Topic: Football
 Title: Al-Hilal’s win over Manchester City lays bare strength of Saudi Arabia
 URL: https://www.theguardian.com/football/2025/jul/03/al-hilal-manchester-city-club-world-cup-saudi-arabia
 
+Site: The Guardian
+Topic: Tv And Radio
+Title: Gaza: Doctors Under Attack review – this crucial film is the stuff of nightmares. But the world needs to see it
+URL: https://www.theguardian.com/tv-and-radio/2025/jul/03/gaza-doctors-under-attack-review-channel-4-crucial-film-stuff-of-nightmares
+
+Site: The Guardian
+Topic: Global Development
+Title: ‘Delay is catastrophic’: how instant antibiotics could save thousands of African children in comas
+URL: https://www.theguardian.com/global-development/2025/jul/03/antibiotics-children-coma-africa-malaria-bacterial-infection-research
+
+Site: The Guardian
+Topic: Lifeandstyle
+Title: You be the judge: should my flatmate stop filling our home with plant cuttings?
+URL: https://www.theguardian.com/lifeandstyle/2025/jul/03/you-be-the-judge-should-my-flatmate-stop-filling-our-home-with-plant-cuttings
+
+Site: Al Jazeera
+Topic: Liveblog
+Title: ‘Horrific scenes’ in Gaza as Israel kills dozens of aid seekers
+URL: https://www.aljazeera.com/news/liveblog/2025/7/3/live-israel
+
