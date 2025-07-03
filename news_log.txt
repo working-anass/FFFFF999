@@ -3893,3 +3893,28 @@ Topic: Business
 Title: P&O Ferries boss got pay rise of at least 55% after firing almost 800 workers
 URL: https://www.theguardian.com/business/2025/jul/03/po-ferries-boss-got-pay-rise-of-at-least-55-after-firing-almost-800-workers
 
+Site: The Guardian
+Topic: World
+Title: EU closing in on ‘framework’ trade deal with US to avoid Trump’s 50% tariffs
+URL: https://www.theguardian.com/world/2025/jul/03/eu-closing-in-on-framework-deal-with-us-to-avoid-trump-50-tariffs
+
+Site: The Guardian
+Topic: Us News
+Title: Why is Hakeem Jeffries speaking for hours on the House floor?
+URL: https://www.theguardian.com/us-news/2025/jul/03/hakeem-jeffries-house-speech-trump-tax-bill
+
+Site: The Guardian
+Topic: Global Development
+Title: ‘Everything is gone’: how Israeli forces destroyed Jabaliya refugee camp
+URL: https://www.theguardian.com/global-development/2024/dec/18/jabaliya-refugee-camp-gaza-destruction-idf
+
+Site: The Guardian
+Topic: Football
+Title: Diogo Jota obituary
+URL: https://www.theguardian.com/football/2025/jul/03/diogo-jota-obituary
+
+Site: The Guardian
+Topic: Tv And Radio
+Title: From sweary Brit Awards chaos to uniting a mourning city: TV’s top 12 Oasis moments
+URL: https://www.theguardian.com/tv-and-radio/2025/jul/03/television-top-12-oasis-moments-tv-noel-liam-gallagher
+
