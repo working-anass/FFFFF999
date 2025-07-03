@@ -1,0 +1,21 @@
+Site: The Guardian
+Title: Extreme heatwaves may cause global decline in dairy production, scientists warn
+URL: https://www.theguardian.com/environment/2025/jul/03/heatwaves-global-dairy-decline-milk-production-farming-environment
+
+Dairy production will be threatened by the increasing frequency and intensity of heatwaves, a study has found.
+
+Drawing on records from more than 130,000 cows over a period of 12 years, the researchers report that extreme heat reduces dairy cows’ ability to produce milk by 10%.
+
+Just one hour of wet-bulb temperature – a measure that combines air temperature and humidity – above 26C can reduce a cow’s daily milk production by 0.5%. Exposure to high temperatures also has a prolonged effect, with milk production still lower than typical levels up to 10 days after the initial hot day.
+
+Using temperature projections for 2050, the report shows that by mid-century, average daily milk production could be reduced by 4% as a result of worsening heat stress. The researchers, from the Universities of Jerusalem, Tel Aviv, and Chicago , said this drop would be felt particularly by the 150 million households dependent on milk production globally.
+
+The damaging effects of heat stress on dairy farms will be especially severe in south Asia, which is expected to account for more than half of global growth in milk production over the coming decade. As fossil fuel burning continues to accelerate, the region is set to become increasingly vulnerable to debilitating heatwaves, further exacerbating the impact on milk yields.
+
+Cattle are responsible for about a third of human caused-methane emissions, that, like carbon dioxide, accelerates global heating.
+
+Farmers are already implementing adaptation strategies, not least in Israel , the location of the study, where almost all farms employ some form of technology to reduce heat stress. Adaptation methods include ensuring cows have access to shade, as well as cooling cattle directly through ventilation or sprinklers.
+
+However, the researchers found on days that exceeded 24C, these cooling strategies were only able to inhibit 40% of the impact of extreme heat on dairy production.
+
+Claire Palandri, the lead author of the study published in the journal Science Advances, has urged policymakers to “look into more strategies to not only cool cows but reduce stressors, like confinement and calf separation. Stressors make cows more sensitive to heat and less resilient.”

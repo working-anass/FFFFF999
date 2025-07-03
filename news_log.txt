@@ -3993,3 +3993,13 @@ Topic: Film
 Title: ‘We would never do that’: Ringo Starr says he asked for changes in Beatles movie script
 URL: https://www.theguardian.com/film/2025/jul/03/ringo-starr-asked-for-changes-in-beatles-movie-script-sam-mendes
 
+Site: The Guardian
+Topic: Us News
+Title: Jimmy Swaggart obituary
+URL: https://www.theguardian.com/us-news/2025/jul/03/jimmy-swaggart-obittuary
+
+Site: The Guardian
+Topic: Environment
+Title: Extreme heatwaves may cause global decline in dairy production, scientists warn
+URL: https://www.theguardian.com/environment/2025/jul/03/heatwaves-global-dairy-decline-milk-production-farming-environment
+
