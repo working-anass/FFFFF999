@@ -3633,3 +3633,8 @@ Topic: World
 Title: ‘Preaching water, drinking wine’: Austrians mock far-right MPs for lucrative side jobs
 URL: https://www.theguardian.com/world/2025/jul/03/preaching-water-drinking-wine-austrians-mock-far-right-mps-for-lucrative-side-jobs
 
+Site: The Guardian
+Topic: Football
+Title: Norway apply Euros sting as the cowbell tolls on Switzerland’s big night
+URL: https://www.theguardian.com/football/2025/jul/02/nadine-riesen-switzerland-norway-womens-euro-2025-football
+
