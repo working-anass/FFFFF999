@@ -3728,3 +3728,13 @@ Topic: Football
 Title: Aitana Bonmatí’s return lifts Spain in pursuit of Euro 2025 dream
 URL: https://www.theguardian.com/football/2025/jul/03/aitana-bonmatis-return-lifts-spain-in-pursuit-of-euro-2025-dream
 
+Site: The Guardian
+Topic: Environment
+Title: ‘We thought we’d got the numbers wrong’: Holloman Lake is a birder’s paradise – and has the highest levels of ‘forever chemicals’ on record
+URL: https://www.theguardian.com/environment/2025/jul/03/holloman-lake-birds-wildlife-pfas-forever-chemicals-aoe
+
+Site: The Guardian
+Topic: Film
+Title: ‘The film wouldn’t even be made today’: the story behind Back to the Future at 40
+URL: https://www.theguardian.com/film/2025/jul/03/back-to-the-future-at-40
+
