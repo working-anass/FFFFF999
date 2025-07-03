@@ -3698,3 +3698,13 @@ Topic: Football
 Title: Martin Ho signs three-year contract to become Tottenham’s head coach
 URL: https://www.theguardian.com/football/2025/jul/03/martin-ho-tottenham-women-head-coach-three-year-contract
 
+Site: The Guardian
+Topic: World
+Title: US couple could face trial in France over stolen shipwreck gold
+URL: https://www.theguardian.com/world/2025/jul/03/us-couple-could-face-trial-in-france-over-stolen-shipwreck-gold
+
+Site: The Guardian
+Topic: Football
+Title: Diogo Jota, Liverpool and Portugal footballer, dies aged 28 in car crash
+URL: https://www.theguardian.com/football/2025/jul/03/diogo-jota-liverpool-portugal-footballer-dies-aged-28-car-crash
+
