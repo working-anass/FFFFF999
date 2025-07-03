@@ -3748,3 +3748,13 @@ Topic: Football
 Title: ‘Football has lost a champion’: tributes paid to Diogo Jota after death aged 28
 URL: https://www.theguardian.com/football/2025/jul/03/diogo-jota-tributes-paid-after-death-aged-28
 
+Site: The Guardian
+Topic: Us News
+Title: After 47 years in the US, Ice took this Iranian mother from her yard. Her family just wants her home
+URL: https://www.theguardian.com/us-news/2025/jul/03/ice-iran-donna-kashanian
+
+Site: The Guardian
+Topic: Football
+Title: Football transfer rumours: Juventus interested in cut-price Sancho deal?
+URL: https://www.theguardian.com/football/2025/jul/03/football-transfer-rumours-juventus-interested-in-cut-price-sancho-deal
+
