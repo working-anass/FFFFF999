@@ -3778,3 +3778,33 @@ Topic: Football
 Title: Xabi Alonso relishes value of Valverde – with idol Gerrard his role model
 URL: https://www.theguardian.com/football/2025/jul/03/xabi-alonso-relishes-value-of-valverde-with-idol-gerrard-his-role-model
 
+Site: The Guardian
+Topic: World
+Title: Global firms ‘profiting from genocide’ in Gaza, says UN rapporteur
+URL: https://www.theguardian.com/world/2025/jul/03/global-firms-profiting-israel-genocide-gaza-united-nations-rapporteur
+
+Site: The Guardian
+Topic: Us News
+Title: ‘It’s harsh. It’s mean, brutal’: Trump bill to cause most harm to America’s poorest
+URL: https://www.theguardian.com/us-news/2025/jul/03/trump-budget-bill
+
+Site: The Guardian
+Topic: Science
+Title: Nasa discovers interstellar comet moving through solar system
+URL: https://www.theguardian.com/science/2025/jul/03/nasa-interstellar-comet-solar-system-a11pl3z-3i-atlas
+
+Site: The Guardian
+Topic: Football
+Title: ‘Everything is better’: how Rubiales’s unwanted kiss transformed Spanish women’s football
+URL: https://www.theguardian.com/football/2025/jul/03/spain-women-football-euro-2025-fight-battles-on-and-off-pitch
+
+Site: The Guardian
+Topic: Business
+Title: US economy adds 147,000 jobs in June, surpassing expectations amid Trump trade war
+URL: https://www.theguardian.com/business/2025/jul/03/us-economy-jobs-report
+
+Site: The Guardian
+Topic: Sport
+Title: Tour de France 2025: full team-by-team guide
+URL: https://www.theguardian.com/sport/2025/jul/03/tour-de-france-2025-full-team-by-team-guide
+
