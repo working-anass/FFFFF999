@@ -3828,3 +3828,13 @@ Topic: World
 Title: Deputy commander of Russian navy killed in strike near Ukraine frontline
 URL: https://www.theguardian.com/world/2025/jul/03/deputy-commander-of-russian-navy-mikhail-gudkov-killed-in-strike-near-ukraine-frontline
 
+Site: The Guardian
+Topic: Uk News
+Title: Tommy Robinson denies harassing two MailOnline journalists
+URL: https://www.theguardian.com/uk-news/2025/jul/03/tommy-robinson-denies-harassing-two-mailonline-journalists
+
+Site: The Guardian
+Topic: Global Development
+Title: Major western brands pay Indian garment workers 11p an hour
+URL: https://www.theguardian.com/global-development/2019/feb/01/major-western-brands-pay-indian-garment-workers-11p-an-hour
+
