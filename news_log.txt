@@ -3693,3 +3693,8 @@ Topic: Liveblog
 Title: ‘Horrific scenes’ in Gaza as Israel kills dozens of aid seekers
 URL: https://www.aljazeera.com/news/liveblog/2025/7/3/live-israel
 
+Site: The Guardian
+Topic: Football
+Title: Martin Ho signs three-year contract to become Tottenham’s head coach
+URL: https://www.theguardian.com/football/2025/jul/03/martin-ho-tottenham-women-head-coach-three-year-contract
+
