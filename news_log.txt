@@ -4033,3 +4033,8 @@ Topic: World
 Title: Israel’s actions offend us more than Bob Vylan
 URL: https://www.theguardian.com/world/2025/jul/03/israels-actions-offend-us-more-than-bob-vylan
 
+Site: The Guardian
+Topic: Politics
+Title: SMILE! It’s just a normal day for Labour’s happy family of Keir, Rachel and Wes
+URL: https://www.theguardian.com/politics/2025/jul/03/smile-normal-day-labour-family-keir-rachel-wes
+
