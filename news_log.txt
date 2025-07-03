@@ -3743,3 +3743,8 @@ Topic: Business
 Title: UK government bond markets rally after Starmer backs Reeves
 URL: https://www.theguardian.com/business/2025/jul/03/uk-government-bonds-markets-rally-keir-starmer-backs-rachel-reeves-as-chancellor
 
+Site: The Guardian
+Topic: Football
+Title: ‘Football has lost a champion’: tributes paid to Diogo Jota after death aged 28
+URL: https://www.theguardian.com/football/2025/jul/03/diogo-jota-tributes-paid-after-death-aged-28
+
