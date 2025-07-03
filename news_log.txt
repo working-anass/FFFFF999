@@ -3808,3 +3808,18 @@ Topic: Sport
 Title: Tour de France 2025: full team-by-team guide
 URL: https://www.theguardian.com/sport/2025/jul/03/tour-de-france-2025-full-team-by-team-guide
 
+Site: The Guardian
+Topic: Uk News
+Title: Derry spools sculpture disappoints some former ‘factory girls’
+URL: https://www.theguardian.com/uk-news/2025/jul/03/derry-spools-sculpture-factory-girls
+
+Site: The Guardian
+Topic: Business
+Title: Baggage handlers filmed slamming luggage onto conveyor belt at Melbourne airport stood down
+URL: https://www.theguardian.com/business/2022/dec/03/baggage-handlers-filmed-slamming-luggage-onto-conveyor-belt-at-melbourne-airport-stood-down
+
+Site: The Guardian
+Topic: Culture
+Title: Mark Gatiss: ‘What does Benedict Cumberbatch smell like? Strawberries’
+URL: https://www.theguardian.com/culture/2025/jul/03/mark-gatiss-interview-bookish-sherlock-league-gentlemen-doctor-who
+
