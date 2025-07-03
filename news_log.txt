@@ -3638,3 +3638,18 @@ Topic: Football
 Title: Norway apply Euros sting as the cowbell tolls on Switzerland’s big night
 URL: https://www.theguardian.com/football/2025/jul/02/nadine-riesen-switzerland-norway-womens-euro-2025-football
 
+Site: The Guardian
+Topic: Uk News
+Title: Met police accused of ‘assault on right to protest’ after tenfold rise in nuisance law arrests
+URL: https://www.theguardian.com/uk-news/2025/jul/03/met-police-accused-of-assault-on-right-to-protest-after-tenfold-rise-in-nuisance-law-arrests
+
+Site: The Guardian
+Topic: Environment
+Title: ‘Forever chemicals’ in school uniforms could be banned under proposed law
+URL: https://www.theguardian.com/environment/2025/jul/03/forever-chemicals-in-school-uniforms-could-be-banned-under-proposed-law
+
+Site: The Guardian
+Topic: News
+Title: ‘People pay to be told lies’: the rise and fall of the world’s first ayahuasca multinational
+URL: https://www.theguardian.com/news/2025/jul/03/people-pay-to-be-told-lies-the-rise-and-fall-of-the-worlds-first-ayahuasca-multinational
+
