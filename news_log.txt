@@ -3823,3 +3823,8 @@ Topic: Culture
 Title: Mark Gatiss: ‘What does Benedict Cumberbatch smell like? Strawberries’
 URL: https://www.theguardian.com/culture/2025/jul/03/mark-gatiss-interview-bookish-sherlock-league-gentlemen-doctor-who
 
+Site: The Guardian
+Topic: World
+Title: Deputy commander of Russian navy killed in strike near Ukraine frontline
+URL: https://www.theguardian.com/world/2025/jul/03/deputy-commander-of-russian-navy-mikhail-gudkov-killed-in-strike-near-ukraine-frontline
+
