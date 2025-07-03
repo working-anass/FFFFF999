@@ -3978,3 +3978,18 @@ Topic: World
 Title: Two tourists from UK and New Zealand killed by elephant, Zambian police say
 URL: https://www.theguardian.com/world/2025/jul/03/two-tourists-uk-and-new-zealand-killed-by-elephant-zambia
 
+Site: The Guardian
+Topic: Us News
+Title: Michael Madsen, star of Reservoir Dogs, Kill Bill and Donnie Brasco, dies aged 67
+URL: https://www.theguardian.com/us-news/2025/jul/03/michael-madsen-death
+
+Site: The Guardian
+Topic: Business
+Title: Crumbs! Biscuit museum’s Jaffa Cake display reignites old debate
+URL: https://www.theguardian.com/business/2025/jul/03/crumbs-biscuit-museums-jaffa-cake-display-reignites-old-debate
+
+Site: The Guardian
+Topic: Film
+Title: ‘We would never do that’: Ringo Starr says he asked for changes in Beatles movie script
+URL: https://www.theguardian.com/film/2025/jul/03/ringo-starr-asked-for-changes-in-beatles-movie-script-sam-mendes
+
