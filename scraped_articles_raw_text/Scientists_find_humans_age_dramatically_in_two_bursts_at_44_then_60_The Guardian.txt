@@ -1,0 +1,27 @@
+Site: The Guardian
+Title: Scientists find humans age dramatically in two bursts – at 44, then 60
+URL: https://www.theguardian.com/science/article/2024/aug/14/scientists-find-humans-age-dramatically-in-two-bursts-at-44-then-60-aging-not-slow-and-steady
+
+If you have noticed a sudden accumulation of wrinkles, aches and pains or a general sensation of having grown older almost overnight, there may be a scientific explanation. Research suggests that rather than being a slow and steady process, aging occurs in at least two accelerated bursts.
+
+The study, which tracked thousands of different molecules in people aged 25 to 75, detected two major waves of age-related changes at around ages 44 and again at 60. The findings could explain why spikes in certain health issues including musculoskeletal problems and cardiovascular disease occur at certain ages.
+
+“We’re not just changing gradually over time. There are some really dramatic changes,” said Prof Michael Snyder, a geneticist and director of the Center for Genomics and Personalized Medicine at Stanford University and senior author of the study.
+
+“It turns out the mid-40s is a time of dramatic change, as is the early 60s – and that’s true no matter what class of molecules you look at.”
+
+The research tracked 108 volunteers, who submitted blood and stool samples and skin, oral and nasal swabs every few months for between one and nearly seven years. Researchers assessed 135,000 different molecules (RNA, proteins and metabolites) and microbes (the bacteria, viruses and fungi living in the guts and on the skin of the participants).
+
+The abundance of most molecules and microbes did not shift in a gradual, chronological fashion. When the scientists looked for clusters of molecules with the largest shifts, they found these transformations tended to occur when people were in their mid-40s and early 60s.
+
+The mid-40s ageing spike was unexpected and initially assumed to be a result of perimenopausal changes in women skewing results for the whole group. But the data revealed similar shifts were happening in men in their mid-40s, too.
+
+“This suggests that while menopause or perimenopause may contribute to the changes observed in women in their mid-40s, there are likely other, more significant factors influencing these changes in both men and women,” said Dr Xiaotao Shen, a former postdoctoral scholar at Stanford medical school and first author of the study who is now based at Nanyang Technological University Singapore.
+
+The first wave of changes included molecules linked to cardiovascular disease and the ability to metabolise caffeine, alcohol and lipids. The second wave of changes included molecules involved in immune regulation, carbohydrate metabolism and kidney function. Molecules linked to skin and muscle ageing changed at both time points. Previous research suggested that a later spike in ageing may occur around the age of 78, but the latest study could not confirm this because the oldest participants were 75.
+
+The pattern fits with previous evidence that the risk of many age-related diseases does not increase incrementally, with Alzheimer’s and cardiovascular disease risk showing a steep uptick after 60. It is also possible that some of the changes could be linked to lifestyle or behavioural factors. For instance, the change in alcohol metabolism could result from an uptick in consumption in people’s mid-40s, which can be a stressful period of life.
+
+The findings could help target interventions, such as increasing exercise during periods of more rapid muscle loss, the authors said. “I’m a big believer that we should try to adjust our lifestyles while we’re still healthy,” Snyder said.
+
+The findings are published in the journal Nature Aging .

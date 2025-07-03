@@ -3613,3 +3613,18 @@ Topic: Business
 Title: Capital gains for the rich and persistent gender pay gaps: what we can learn from the ATO’s annual tax statistics
 URL: https://www.theguardian.com/business/grogonomics/2025/jul/03/capital-gains-for-the-rich-and-persistent-gender-pay-gaps-what-we-can-learn-from-the-atos-annual-tax-statistics
 
+Site: The Guardian
+Topic: World
+Title: Bali ferry sinking leaves at least four dead, dozens missing
+URL: https://www.theguardian.com/world/2025/jul/03/bali-ferry-sinking-indonesia
+
+Site: The Guardian
+Topic: Us News
+Title: Trump news at a glance: megabill hangs in balance as House Republicans struggle to convince holdouts
+URL: https://www.theguardian.com/us-news/2025/jul/03/president-trump-administration-news-today-latest
+
+Site: The Guardian
+Topic: Science
+Title: Scientists find humans age dramatically in two bursts – at 44, then 60
+URL: https://www.theguardian.com/science/article/2024/aug/14/scientists-find-humans-age-dramatically-in-two-bursts-at-44-then-60-aging-not-slow-and-steady
+
