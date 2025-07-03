@@ -4053,3 +4053,8 @@ Topic: Football
 Title: Arianna Caruso’s stunner earns Italy opening Euro 2025 win against Belgium
 URL: https://www.theguardian.com/football/2025/jul/03/euro-2025-group-b-belgium-italy-match-report
 
+Site: The Guardian
+Topic: Football
+Title: González’s double inspires Spain to emphatic Euro 2025 win over Portugal
+URL: https://www.theguardian.com/football/2025/jul/03/spain-portugal-womens-euro-2025-match-report
+
