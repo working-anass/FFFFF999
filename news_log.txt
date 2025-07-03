@@ -4058,3 +4058,8 @@ Topic: Football
 Title: González’s double inspires Spain to emphatic Euro 2025 win over Portugal
 URL: https://www.theguardian.com/football/2025/jul/03/spain-portugal-womens-euro-2025-match-report
 
+Site: The Guardian
+Topic: Environment
+Title: Countries must protect human right to a stable climate, court rules
+URL: https://www.theguardian.com/environment/2025/jul/03/countries-must-protect-human-right-to-a-stable-climate-court-rules
+
