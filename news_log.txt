@@ -3838,3 +3838,8 @@ Topic: Global Development
 Title: Major western brands pay Indian garment workers 11p an hour
 URL: https://www.theguardian.com/global-development/2019/feb/01/major-western-brands-pay-indian-garment-workers-11p-an-hour
 
+Site: The Guardian
+Topic: Environment
+Title: Farms in England could be taken out of food production to boost nature, says Labour
+URL: https://www.theguardian.com/environment/2025/jul/03/farms-england-stop-food-production-boost-nature-labour
+
