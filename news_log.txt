@@ -4063,3 +4063,8 @@ Topic: Environment
 Title: Countries must protect human right to a stable climate, court rules
 URL: https://www.theguardian.com/environment/2025/jul/03/countries-must-protect-human-right-to-a-stable-climate-court-rules
 
+Site: The Guardian
+Topic: World
+Title: Slavery reparations group takes fight to Westminster and Brussels
+URL: https://www.theguardian.com/world/2025/jul/03/caribbean-slavery-reparations-westminster-brussels
+
