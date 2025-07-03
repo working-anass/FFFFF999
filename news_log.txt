@@ -4048,3 +4048,8 @@ Topic: Us News
 Title: US man arrested while filming Home Depot Ice raid sues government for $1m
 URL: https://www.theguardian.com/us-news/2025/jul/03/photographer-arrested-home-depot-ice-raid
 
+Site: The Guardian
+Topic: Football
+Title: Arianna Caruso’s stunner earns Italy opening Euro 2025 win against Belgium
+URL: https://www.theguardian.com/football/2025/jul/03/euro-2025-group-b-belgium-italy-match-report
+
