@@ -4018,3 +4018,13 @@ Topic: Us News
 Title: Trump’s tax and spending bill passes Congress in major win for president
 URL: https://www.theguardian.com/us-news/2025/jul/03/trump-tax-bill-passes-congress
 
+Site: The Guardian
+Topic: World
+Title: Austria deports man to Syria for first time in 15 years
+URL: https://www.theguardian.com/world/2025/jul/03/austria-syria-deportation-assad-criminal-asylum
+
+Site: The Guardian
+Topic: Environment
+Title: How Bridget Phillipson can improve the climate for having children
+URL: https://www.theguardian.com/environment/2025/jul/03/how-bridget-phillipson-can-improve-the-climate-for-having-children
+
