@@ -3963,3 +3963,18 @@ Topic: Film
 Title: Was Thatcher right to ban ‘video nasties’? I binged Zombie Flesh Eaters and Slaughtered Vomit Dolls to find out
 URL: https://www.theguardian.com/film/2025/jul/03/video-nasties-zombie-flesh-eaters-bans-horror
 
+Site: The Guardian
+Topic: Us News
+Title: John Roberts criticized by conservative ex-judge for ‘unforgivable reticence’ about Trump
+URL: https://www.theguardian.com/us-news/2025/jul/03/john-roberts-trump-j-michael-luttig-supreme-court
+
+Site: The Guardian
+Topic: Business
+Title: Reeves’s fearsome challenge: to balance backbenchers and bond markets
+URL: https://www.theguardian.com/business/2025/jul/03/rachel-reeves-balancing-backbenchers-and-bond-markets-analysis
+
+Site: The Guardian
+Topic: World
+Title: Two tourists from UK and New Zealand killed by elephant, Zambian police say
+URL: https://www.theguardian.com/world/2025/jul/03/two-tourists-uk-and-new-zealand-killed-by-elephant-zambia
+
