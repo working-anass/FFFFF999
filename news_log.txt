@@ -3938,3 +3938,28 @@ Topic: Football
 Title: Diogo Jota: the sense of loss goes far and wide
 URL: https://www.theguardian.com/football/2025/jul/03/football-daily-email-diogo-jota-rip
 
+Site: The Guardian
+Topic: World
+Title: Israel steps up deadly bombardment of Gaza before ceasefire talks
+URL: https://www.theguardian.com/world/2025/jul/03/israel-bombardment-offensive-gaza-hamas-ceasefire-talks
+
+Site: The Guardian
+Topic: Global Development
+Title: How the global trade in donkey skins threatens the lives of women and girls
+URL: https://www.theguardian.com/global-development/2025/jul/03/how-the-global-trade-in-donkey-skins-threatens-the-lives-of-women-and-girls
+
+Site: The Guardian
+Topic: Football
+Title: Senseless death of Diogo Jota will not stop us celebrating what he brought life
+URL: https://www.theguardian.com/football/2025/jul/03/senseless-death-of-diogo-jota-will-not-stop-us-celebrating-what-he-brought-life
+
+Site: The Guardian
+Topic: Football
+Title: Linchpin Caicedo’s ban leaves big hole for Chelsea in Club World Cup test
+URL: https://www.theguardian.com/football/2025/jul/03/chelsea-moises-caicedo-club-world-cup-football
+
+Site: The Guardian
+Topic: Film
+Title: Was Thatcher right to ban ‘video nasties’? I binged Zombie Flesh Eaters and Slaughtered Vomit Dolls to find out
+URL: https://www.theguardian.com/film/2025/jul/03/video-nasties-zombie-flesh-eaters-bans-horror
+
