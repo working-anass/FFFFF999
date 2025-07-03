@@ -4088,3 +4088,8 @@ Topic: Business
 Title: First-time buyers turn from rural areas to Britain’s regional cities
 URL: https://www.theguardian.com/business/2025/jul/04/first-time-buyers-turn-from-rural-areas-to-great-britains-regional-cities
 
+Site: The Guardian
+Topic: Science
+Title: Chimps’ rhythmic drumming could shed light on music’s evolutionary roots
+URL: https://www.theguardian.com/science/2025/may/09/chimpanzees-rhythmic-drumming-music-evolutionary-roots
+
