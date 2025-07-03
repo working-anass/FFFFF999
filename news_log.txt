@@ -4028,3 +4028,8 @@ Topic: Environment
 Title: How Bridget Phillipson can improve the climate for having children
 URL: https://www.theguardian.com/environment/2025/jul/03/how-bridget-phillipson-can-improve-the-climate-for-having-children
 
+Site: The Guardian
+Topic: World
+Title: Israel’s actions offend us more than Bob Vylan
+URL: https://www.theguardian.com/world/2025/jul/03/israels-actions-offend-us-more-than-bob-vylan
+
