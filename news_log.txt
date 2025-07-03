@@ -3658,3 +3658,13 @@ Topic: Environment
 Title: Country diary: A test of patience here on the farm
 URL: https://www.theguardian.com/environment/2025/jul/03/country-diary-farmers-patience-name-game-cows-prepare-calve
 
+Site: The Guardian
+Topic: Environment
+Title: ‘They are a species on the brink’: can trees save the salmon in Scotland’s River Dee?
+URL: https://www.theguardian.com/environment/2025/jul/03/they-are-a-species-on-the-brink-can-trees-save-the-salmon-in-scotlands-river-dee
+
+Site: The Guardian
+Topic: Business
+Title: Nearly 1,000 Britons will keep shorter working week after trial
+URL: https://www.theguardian.com/business/2025/jul/03/nearly-1000-britons-adopt-permanently-shorter-working-week-after-trial
+
