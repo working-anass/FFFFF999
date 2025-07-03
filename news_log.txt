@@ -4068,3 +4068,23 @@ Topic: World
 Title: Slavery reparations group takes fight to Westminster and Brussels
 URL: https://www.theguardian.com/world/2025/jul/03/caribbean-slavery-reparations-westminster-brussels
 
+Site: The Guardian
+Topic: World
+Title: Taliban praise Russia’s ‘brave decision’ to recognise their rule in Afghanistan
+URL: https://www.theguardian.com/world/2025/jul/03/taliban-praise-russias-brave-decision-to-recognise-their-rule-in-afghanistan
+
+Site: The Guardian
+Topic: Us News
+Title: US supreme court clears way for deportation of migrants to South Sudan
+URL: https://www.theguardian.com/us-news/2025/jul/03/us-supreme-court-south-sudan
+
+Site: The Guardian
+Topic: Football
+Title: Newcastle close to signing Forest’s Anthony Elanga with improved £55m offer
+URL: https://www.theguardian.com/football/2025/jul/03/newcastle-united-anthony-elanga-transfer-premier-league
+
+Site: The Guardian
+Topic: Business
+Title: First-time buyers turn from rural areas to Britain’s regional cities
+URL: https://www.theguardian.com/business/2025/jul/04/first-time-buyers-turn-from-rural-areas-to-great-britains-regional-cities
+
