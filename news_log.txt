@@ -3628,3 +3628,8 @@ Topic: Science
 Title: Scientists find humans age dramatically in two bursts – at 44, then 60
 URL: https://www.theguardian.com/science/article/2024/aug/14/scientists-find-humans-age-dramatically-in-two-bursts-at-44-then-60-aging-not-slow-and-steady
 
+Site: The Guardian
+Topic: World
+Title: ‘Preaching water, drinking wine’: Austrians mock far-right MPs for lucrative side jobs
+URL: https://www.theguardian.com/world/2025/jul/03/preaching-water-drinking-wine-austrians-mock-far-right-mps-for-lucrative-side-jobs
+
