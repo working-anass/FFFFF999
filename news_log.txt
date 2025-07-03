@@ -3723,3 +3723,8 @@ Topic: Business
 Title: UK rail regulator rejects Virgin’s bid for west coast mainline route
 URL: https://www.theguardian.com/business/2025/jul/03/uk-rail-regulator-rejects-virgins-bid-for-west-coast-mainline-route
 
+Site: The Guardian
+Topic: Football
+Title: Aitana Bonmatí’s return lifts Spain in pursuit of Euro 2025 dream
+URL: https://www.theguardian.com/football/2025/jul/03/aitana-bonmatis-return-lifts-spain-in-pursuit-of-euro-2025-dream
+
