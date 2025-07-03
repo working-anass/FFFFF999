@@ -3928,3 +3928,13 @@ Topic: World
 Title: Air India’s behaviour towards bereaved families ‘outrageous’, says lawyer
 URL: https://www.theguardian.com/world/2025/jul/03/air-india-behaviour-bereaved-families-aviation-lawyer
 
+Site: The Guardian
+Topic: Politics
+Title: Labour peer David Lipsey found dead after swimming in River Wye
+URL: https://www.theguardian.com/politics/2025/jul/03/labour-peer-lord-lipsey-found-dead-after-swimming-in-river-wye
+
+Site: The Guardian
+Topic: Football
+Title: Diogo Jota: the sense of loss goes far and wide
+URL: https://www.theguardian.com/football/2025/jul/03/football-daily-email-diogo-jota-rip
+
