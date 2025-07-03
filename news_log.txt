@@ -3853,3 +3853,13 @@ Topic: Uk News
 Title: Four remanded in custody after aircraft damaged at RAF Brize Norton
 URL: https://www.theguardian.com/uk-news/2025/jul/03/four-remanded-in-custody-aircraft-damaged-raf-brize-norton-allegedly-palestine-action
 
+Site: The Guardian
+Topic: Us News
+Title: US Capitol rioter sentenced to life in prison for plot to attack FBI office
+URL: https://www.theguardian.com/us-news/2025/jul/03/january-6-rioter-life-sentence-fbi-attack-plot
+
+Site: The Guardian
+Topic: Technology
+Title: Skirting the issue: Designer dress goes missing from Bezos-Sánchez wedding
+URL: https://www.theguardian.com/technology/2025/jul/03/designer-dress-missing-bezos-sanchez-venice-wedding
+
