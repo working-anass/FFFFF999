@@ -3668,3 +3668,8 @@ Topic: Business
 Title: Nearly 1,000 Britons will keep shorter working week after trial
 URL: https://www.theguardian.com/business/2025/jul/03/nearly-1000-britons-adopt-permanently-shorter-working-week-after-trial
 
+Site: The Guardian
+Topic: Football
+Title: Al-Hilal’s win over Manchester City lays bare strength of Saudi Arabia
+URL: https://www.theguardian.com/football/2025/jul/03/al-hilal-manchester-city-club-world-cup-saudi-arabia
+
