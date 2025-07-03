@@ -3758,3 +3758,8 @@ Topic: Football
 Title: Football transfer rumours: Juventus interested in cut-price Sancho deal?
 URL: https://www.theguardian.com/football/2025/jul/03/football-transfer-rumours-juventus-interested-in-cut-price-sancho-deal
 
+Site: The Guardian
+Topic: Science
+Title: ‘Narcissists – only more devious’: the truth about dark empaths
+URL: https://www.theguardian.com/science/2024/nov/10/narcissists-only-more-devious-the-truth-about-dark-empaths
+
