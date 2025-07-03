@@ -3653,3 +3653,8 @@ Topic: News
 Title: ‘People pay to be told lies’: the rise and fall of the world’s first ayahuasca multinational
 URL: https://www.theguardian.com/news/2025/jul/03/people-pay-to-be-told-lies-the-rise-and-fall-of-the-worlds-first-ayahuasca-multinational
 
+Site: The Guardian
+Topic: Environment
+Title: Country diary: A test of patience here on the farm
+URL: https://www.theguardian.com/environment/2025/jul/03/country-diary-farmers-patience-name-game-cows-prepare-calve
+
