@@ -3738,3 +3738,8 @@ Topic: Film
 Title: ‘The film wouldn’t even be made today’: the story behind Back to the Future at 40
 URL: https://www.theguardian.com/film/2025/jul/03/back-to-the-future-at-40
 
+Site: The Guardian
+Topic: Business
+Title: UK government bond markets rally after Starmer backs Reeves
+URL: https://www.theguardian.com/business/2025/jul/03/uk-government-bonds-markets-rally-keir-starmer-backs-rachel-reeves-as-chancellor
+
