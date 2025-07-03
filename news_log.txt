@@ -3863,3 +3863,33 @@ Topic: Technology
 Title: Skirting the issue: Designer dress goes missing from Bezos-Sánchez wedding
 URL: https://www.theguardian.com/technology/2025/jul/03/designer-dress-missing-bezos-sanchez-venice-wedding
 
+Site: The Guardian
+Topic: World
+Title: Crete wildfire forces 1,500 to evacuate as Europe heatwave continues
+URL: https://www.theguardian.com/world/2025/jul/03/more-than-1500-people-evacuated-in-crete-amid-wildfire-as-europe-heatwave-continues
+
+Site: The Guardian
+Topic: Us News
+Title: New book details how Obama slammed Biden’s re-election bid: ‘Your campaign is a mess’
+URL: https://www.theguardian.com/us-news/2025/jul/03/biden-obama-2024-how-trump-retook-the-white-house
+
+Site: The Guardian
+Topic: Us News
+Title: Four dead and 14 injured in shooting at Chicago party for rapper Mello Buckzz
+URL: https://www.theguardian.com/us-news/2025/jul/03/mello-buckzz-chicago-shooting
+
+Site: The Guardian
+Topic: Science
+Title: Soviet-era spacecraft plunges to Earth after 53 years stuck in orbit
+URL: https://www.theguardian.com/science/2025/may/10/kosmos-482-soviet-spacecraft-plunges-to-earth
+
+Site: The Guardian
+Topic: Global Development
+Title: What drove 200 women to stab a gangster to death? Netflix series revisits crime that shocked India
+URL: https://www.theguardian.com/global-development/2022/nov/17/what-drove-200-women-to-stab-a-gangster-to-death-netflix-series-revisits-that-shocked-india
+
+Site: The Guardian
+Topic: Business
+Title: P&O Ferries boss got pay rise of at least 55% after firing almost 800 workers
+URL: https://www.theguardian.com/business/2025/jul/03/po-ferries-boss-got-pay-rise-of-at-least-55-after-firing-almost-800-workers
+
