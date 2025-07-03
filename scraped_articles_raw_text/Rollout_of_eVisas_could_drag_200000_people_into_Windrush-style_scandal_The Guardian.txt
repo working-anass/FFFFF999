@@ -1,0 +1,45 @@
+Site: The Guardian
+Title: Rollout of eVisas ‘could drag 200,000 people into Windrush-style scandal’
+URL: https://www.theguardian.com/uk-news/2025/jul/03/rollout-of-evisas-could-drag-200000-people-into-windrush-style-scandal
+
+Up to 200,000 people who have lived in the UK legally for decades are at risk of being caught up in a Windrush-style scandal because the Home Office does not know their whereabouts or have their details on government computer systems.
+
+There are fears that some in this group will face a serious risk of being left undocumented as the Home Office converts immigration records from paper to digital.
+
+The news has emerged at a time when the Home Office says it is taking back control of its immigration system.
+
+Many of those affected are older people and some are not digitally literate. Many came from countries across Africa and Asia in the 1970s and 80s and were granted indefinite leave to remain by the Home Office with an ink stamp or vignette (sticker) in their passports, or a piece of paper confirming their status. This physical proof of right to remain is known as a legacy document.
+
+However, the Home Office is now encouraging everyone eligible to create an online eVisa account to replace their legacy document. Officials say the system is working well for millions of people, but many users have reported technical problems including with linking their passport to their eVisa.
+
+But the organisation the3million , which campaigns for the rights of EU citizens in the UK and has monitored the government’s eVisa rollout closely, believes the Home Office is unable to track this large group of people down so cannot urge them to obtain eVisas.
+
+It is possible some may have died or left the UK. They did not feature on the Home Office’s previous immigration database – CID (Case Information Database) – nor on Atlas, CID’s replacement.
+
+The best estimate of the number involved is 200,000, which comes from a Home Office internal assessment (pdf) in April 2022.
+
+The Guardian repeatedly asked the Home Office if it has records relating to those 200,000 people and if it knows how many are still alive and residing in the UK, but received no response.
+
+Naga Kandiah of MTC Solicitors has been working with some older people with legacy documents who are only now realising they need to go online and obtain eVisas.
+
+“Individuals who were previously granted indefinite leave to remain or other long-term statuses via ink-stamped endorsements are increasingly being left behind,” he said.
+
+“Despite holding lawful status, many are now at serious risk of being treated as undocumented, simply because their physical documents are not recognised or integrated into the Home Office’s new digital eVisa platform.
+
+“This vulnerable group often includes elderly, marginalised or digitally excluded individuals, many of whom have lived in the UK for 30 to 40 years or more.
+
+“Without access to digital records or UK Visas and Immigration accounts, these individuals are effectively invisible within the current system, despite their lawful and settled status.
+
+“As a result, many are being denied access to essential services and entitlements, including pensions, universal credit, NHS treatment and housing, simply because they cannot prove their status under the digital framework.”
+
+Even when older people with ink stamps or vignettes in their passports do try to engage with eVisas, many are reporting problems with the system.
+
+The Guardian reported on the case of Kathleen Harper last year, an American actor with an ink stamp in her passport granting her indefinite leave to remain. She struggled to access her eVisa and abandoned her attempt.
+
+But recently she was asked to provide proof of her identity and tried again to obtain an eVisa. Despite the Home Office putting experienced technical advisers on the case, they still hit walls, repeatedly getting a message on screen saying: “Cannot start yet.”
+
+Harper said: “It has taken at least eight phone calls and several hours of my time to get my passport connected to my eVisa. Is this a sane way of going about things?”
+
+Home Office sources said they had apologised to Harper for the confusion concerning her case and that her eVisa issue had now been resolved.
+
+Monique Hawkins of the3million said: “We believe the transition to eVisas could cause potential problems for people with legacy documents – there’s an urgent need for an independent review of the entire eVisa system and its rushed rollout.”

@@ -4003,3 +4003,13 @@ Topic: Environment
 Title: Extreme heatwaves may cause global decline in dairy production, scientists warn
 URL: https://www.theguardian.com/environment/2025/jul/03/heatwaves-global-dairy-decline-milk-production-farming-environment
 
+Site: The Guardian
+Topic: Uk News
+Title: Rollout of eVisas ‘could drag 200,000 people into Windrush-style scandal’
+URL: https://www.theguardian.com/uk-news/2025/jul/03/rollout-of-evisas-could-drag-200000-people-into-windrush-style-scandal
+
+Site: The Guardian
+Topic: Environment
+Title: Dartford warblers on the Dorset oilfields
+URL: https://www.theguardian.com/environment/2025/jul/03/dartford-warblers-on-the-dorset-oilfields
+
