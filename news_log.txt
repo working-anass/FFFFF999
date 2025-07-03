@@ -3568,3 +3568,23 @@ Topic: Football
 Title: Ryan Mason ready to ‘write my own script’ with West Brom after perfect Spurs ending
 URL: https://www.theguardian.com/football/2025/jul/02/ryan-mason-west-brom-tottenham-football
 
+Site: The Guardian
+Topic: Us News
+Title: Pentagon says US strikes set back Iran nuclear program ‘one to two years’
+URL: https://www.theguardian.com/us-news/2025/jul/02/us-strikes-iran-pentagon-trump
+
+Site: The Guardian
+Topic: Environment
+Title: ‘Half the tree of life’: ecologists’ horror as nature reserves are emptied of insects
+URL: https://www.theguardian.com/environment/2025/jun/03/climate-species-collapse-ecology-insects-nature-reserves-aoe
+
+Site: The Guardian
+Topic: Science
+Title: Recovery of ancient DNA identifies 20,000-year-old pendant’s owner
+URL: https://www.theguardian.com/science/2023/may/03/recovery-of-ancient-dna-identifies-20000-year-old-pendants-owner
+
+Site: The Guardian
+Topic: Law
+Title: For richer, for poorer: ex-banker will not have to split £80m equally with wife, court rules
+URL: https://www.theguardian.com/law/2025/jul/02/banker-divorce-marriage-uk-supreme-court-law
+
