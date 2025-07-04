@@ -4103,3 +4103,13 @@ Topic: Us News
 Title: Trump’s big bill achieved what conservatives have been trying to do for decades
 URL: https://www.theguardian.com/us-news/2025/jul/03/trump-spending-bill-conservatives-law
 
+Site: The Guardian
+Topic: World
+Title: Ukraine war briefing: Trump says he ‘didn’t make any progress’ with Putin after call
+URL: https://www.theguardian.com/world/2025/jul/04/ukraine-war-briefing-trump-says-he-didnt-make-any-progress-with-putin-after-call
+
+Site: The Guardian
+Topic: Us News
+Title: EPA puts 139 employees on leave after they sign a ‘declaration of dissent’
+URL: https://www.theguardian.com/us-news/2025/jul/03/epa-employees-administrative-leave
+
