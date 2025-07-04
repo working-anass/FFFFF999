@@ -4178,3 +4178,8 @@ Topic: Lifeandstyle
 Title: Experience: I was attacked by a wild tiger
 URL: https://www.theguardian.com/lifeandstyle/2025/jul/04/experience-i-was-attacked-by-a-wild-tiger
 
+Site: The Guardian
+Topic: Environment
+Title: Country diary: An extension to the house? Or the garden?
+URL: https://www.theguardian.com/environment/2025/jul/04/country-diary-extension-house-or-garden
+
