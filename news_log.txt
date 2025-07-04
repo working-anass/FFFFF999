@@ -4258,3 +4258,8 @@ Topic: Football
 Title: Football agent Jonathan Barnett accused of trafficking, torture and rape
 URL: https://www.theguardian.com/football/2025/jul/04/jonathan-barnett-football-agent-accused-of-trafficking-torture-rape
 
+Site: The Guardian
+Topic: Football
+Title: Diogo Jota to be honoured as mourners gather in Portugal for Liverpool player’s wake
+URL: https://www.theguardian.com/football/2025/jul/04/diogo-jota-portugal-liverpool-wake-tributes
+
