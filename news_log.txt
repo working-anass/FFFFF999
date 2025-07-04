@@ -4203,3 +4203,18 @@ Topic: World
 Title: Japan walks line between recession and submission as it seeks to overcome Trump tariffs
 URL: https://www.theguardian.com/world/2025/jul/04/japan-submission-recession-trump-tariffs
 
+Site: The Guardian
+Topic: Science
+Title: Roman egg found in Aylesbury still has contents after 1,700 years
+URL: https://www.theguardian.com/science/2024/feb/12/roman-egg-found-in-aylesbury-still-has-contents-after-1700-years
+
+Site: The Guardian
+Topic: Business
+Title: ‘An unjust transition’? Teesside locals divided over net zero after deindustrialisation
+URL: https://www.theguardian.com/business/2025/jul/04/teesside-net-zero-deindustrialisation-reform-uk
+
+Site: The Guardian
+Topic: Business
+Title: UK electric car sales up by a third in first half of 2025, preliminary data suggests
+URL: https://www.theguardian.com/business/2025/jul/04/uk-electric-car-sales-up-by-a-third-in-first-half-of-2025-preliminary-data-suggests
+
