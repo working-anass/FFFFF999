@@ -4248,3 +4248,13 @@ Topic: Football
 Title: The game the cold war scrapped finally set for kick-off 65 years later
 URL: https://www.theguardian.com/football/2025/jul/04/the-game-the-cold-war-scrapped-finally-set-for-kick-off-65-years-later
 
+Site: The Guardian
+Topic: Society
+Title: Young Europeans losing faith in democracy, poll finds
+URL: https://www.theguardian.com/society/2025/jul/04/young-europeans-losing-faith-in-democracy-poll-finds
+
+Site: The Guardian
+Topic: Football
+Title: Football agent Jonathan Barnett accused of trafficking, torture and rape
+URL: https://www.theguardian.com/football/2025/jul/04/jonathan-barnett-football-agent-accused-of-trafficking-torture-rape
+
