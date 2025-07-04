@@ -1,0 +1,39 @@
+Site: The Guardian
+Title: Scientists create mice with two fathers after making eggs from male cells
+URL: https://www.theguardian.com/science/2023/mar/08/scientists-create-mice-with-two-fathers-after-making-eggs-from-male-cells
+
+Scientists have created mice with two biological fathers by generating eggs from male cells, a development that opens up radical new possibilities for reproduction.
+
+The advance could ultimately pave the way for treatments for severe forms of infertility, as well as raising the tantalising prospect of same-sex couples being able to have a biological child together in the future.
+
+“This is the first case of making robust mammal oocytes from male cells,” said Katsuhiko Hayashi, who led the work at Kyushu University in Japan and is internationally renowned as a pioneer in the field of lab-grown eggs and sperm.
+
+Hayashi, who presented the development at the Third International Summit on Human Genome Editing at the Francis Crick Institute in London on Wednesday, predicts that it will be technically possible to create a viable human egg from a male skin cell within a decade. Others suggested this timeline was optimistic given that scientists are yet to create viable lab-grown human eggs from female cells.
+
+Previously scientists have created mice that technically had two biological fathers through a chain of elaborate steps, including genetic engineering. However, this is the first time viable eggs have been cultivated from male cells and marks a significant advance. Hayashi’s team is now attempting to replicate this achievement with human cells, although there would be significant hurdles for the use of lab-grown eggs for clinical purposes, including establishing their safety.
+
+“Purely in terms of technology, it will be possible [in humans] even in 10 years,” he said, adding that he personally would be in favour of the technology being used clinically to allow two men to have a baby if it were shown to be safe.
+
+“I don’t know whether they’ll be available for reproduction,” he said. “That is not a question just for the scientific programme, but also for [society].”
+
+The technique could also be applied to treat severe forms of infertility, including women with Turner’s syndrome, in whom one copy of the X chromosome is missing or partly missing, and Hayashi said this application was the primary motivation for the research.
+
+Others suggested that it could prove challenging to translate the technique to human cells. Human cells require much longer periods of cultivation to produce a mature egg, which can increase the risk of cells acquiring unwanted genetic changes.
+
+Prof George Daley, the dean of Harvard Medical School, described the work as “fascinating”, but added that other research had indicated that creating lab-grown gametes from human cells was more challenging than for mouse cells. “We still don’t understand enough of the unique biology of human gametogenesis to reproduce Hayashi’s provocative work in mice,” he said.
+
+The study, which has been submitted for publication in a leading journal, relied on a sequence of intricate steps to transform a skin cell, carrying the male XY chromosome combination, into an egg, with the female XX version.
+
+Male skin cells were reprogrammed into a stem cell-like state to create so-called induced pluripotent stem (iPS) cells. The Y-chromosome of these cells was then deleted and replaced by an X chromosome “borrowed” from another cell to produce iPS cells with two identical X chromosomes.
+
+“The trick of this, the biggest trick, is the duplication of the X chromosome,” said Hayashi. “We really tried to establish a system to duplicate the X chromosome.”
+
+Finally, the cells were cultivated in an ovary organoid, a culture system designed to replicate the conditions inside a mouse ovary. When the eggs were fertilised with normal sperm, the scientists obtained about 600 embryos, which were implanted into surrogate mice, resulting in the birth of seven mouse pups. The efficiency of about 1% was lower than the efficiency achieved with normal female-derived eggs, where about 5% of embryos went on to produce a live birth.
+
+The baby mice appeared healthy, had a normal lifespan, and went on to have offspring as adults. “They look OK, they look to be growing normally, they become fathers,” said Hayashi.
+
+He and colleagues are now attempting to replicate the creation of lab-grown eggs using human cells.
+
+Prof Amander Clark, who works on lab-grown gametes at the University of California Los Angeles, said that translating the work into human cells would be a “huge leap”, because scientists are yet to create lab-grown human eggs from female cells.
+
+Scientists have created the precursors of human eggs, but until now the cells have stopped developing before the point of meiosis, a critical step of cell division that is required in the development of mature eggs and sperm. “We’re poised at this bottleneck at the moment,” she said. “The next steps are an engineering challenge. But getting through that could be 10 years or 20 years.”
