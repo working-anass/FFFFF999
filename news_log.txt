@@ -4383,3 +4383,18 @@ Topic: Uk News
 Title: Anger as Dorset estate withdraws public entry to ‘stunning’ local landmark
 URL: https://www.theguardian.com/uk-news/2025/may/31/anger-as-dorset-bridehead-estate-withdraws-public-entry-stunning-local-landmark
 
+Site: The Guardian
+Topic: World
+Title: Smartphone bans in Dutch schools have improved learning, study finds
+URL: https://www.theguardian.com/world/2025/jul/04/dutch-schools-phone-ban-has-improved-learning-study-finds
+
+Site: The Guardian
+Topic: Uk News
+Title: Review body refuses to refer Jeremy Bamber case back to court of appeal
+URL: https://www.theguardian.com/uk-news/2025/jul/04/review-body-ccrc-refuses-to-refer-jeremy-bamber-murder-case-back-court-of-appeal
+
+Site: The Guardian
+Topic: Tv And Radio
+Title: ‘The crosser Jeremy Paxman got, the more we giggled’: what it’s like to come last on a TV show
+URL: https://www.theguardian.com/tv-and-radio/2025/jul/04/the-crosser-jeremy-paxman-got-the-more-we-giggled-what-its-like-to-come-last-on-a-tv-show
+
