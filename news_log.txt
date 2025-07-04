@@ -4523,3 +4523,18 @@ Topic: World
 Title: Allez, allez, allez! Quebec says sports fans can cheer ‘go!’ in English at provincial sports games
 URL: https://www.theguardian.com/world/2025/jul/04/quebec-canada-english-language
 
+Site: The Guardian
+Topic: Us News
+Title: Trump signs tax-and-spending bill into law in major win for administration
+URL: https://www.theguardian.com/us-news/2025/jul/04/trump-tax-and-spending-bill
+
+Site: The Guardian
+Topic: Music
+Title: Looking back with grandeur: Oasis kick off reunion tour in Cardiff with triumphant, nostalgic gig
+URL: https://www.theguardian.com/music/2025/jul/04/looking-back-with-grandeur-oasis-kick-off-reunion-tour-in-cardiff-with-triumphant-nostalgic-gig
+
+Site: The Guardian
+Topic: Politics
+Title: Reform councillor’s boast about removing ‘trans-ideological’ books from children’s library sections falls flat
+URL: https://www.theguardian.com/politics/2025/jul/04/reform-councillors-boast-about-removing-trans-ideological-books-from-childrens-library-sections-falls-flat
+
