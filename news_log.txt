@@ -4293,3 +4293,13 @@ Topic: Football
 Title: ‘Such a kind kid’: former neighbours and all Portugal grieve for Diogo Jota
 URL: https://www.theguardian.com/football/2025/jul/04/diogo-jota-portugal-grieves-gondomar-neighbours
 
+Site: The Guardian
+Topic: Uk News
+Title: Digested week: Wimbledon joy and the canny PR of the Dalai Lama
+URL: https://www.theguardian.com/uk-news/2025/jul/04/digested-week-wimbledon-joy-and-the-canny-pr-of-the-dalai-lama
+
+Site: The Guardian
+Topic: Football
+Title: Football transfer rumours: Real Madrid give all-clear for Arsenal to sign Rodrygo?
+URL: https://www.theguardian.com/football/2025/jul/04/football-transfer-rumours-real-madrid-give-all-clear-for-arsenal-to-sign-rodrygo
+
