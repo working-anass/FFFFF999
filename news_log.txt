@@ -4398,3 +4398,8 @@ Topic: Tv And Radio
 Title: ‘The crosser Jeremy Paxman got, the more we giggled’: what it’s like to come last on a TV show
 URL: https://www.theguardian.com/tv-and-radio/2025/jul/04/the-crosser-jeremy-paxman-got-the-more-we-giggled-what-its-like-to-come-last-on-a-tv-show
 
+Site: The Guardian
+Topic: World
+Title: A ceasefire in Gaza appears to be close. Here’s why it could happen now
+URL: https://www.theguardian.com/world/2025/jul/04/ceasefire-war-gaza-why-it-could-happen-now-iran-israel-netanyahu
+
