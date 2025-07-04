@@ -4448,3 +4448,23 @@ Topic: Science
 Title: Why do tennis players check the ball before serving?
 URL: https://www.theguardian.com/science/2003/jun/26/thisweekssciencequestions4
 
+Site: The Guardian
+Topic: Uk News
+Title: Teenager given life sentence for fatally stabbing Jahziah Coke, 13
+URL: https://www.theguardian.com/uk-news/2025/jul/04/teenager-life-sentence-fatally-stabbing-jahziah-coke
+
+Site: The Guardian
+Topic: Environment
+Title: These women are raising endangered butterfly larvae from prison: ‘They reconnect with their own brilliance’
+URL: https://www.theguardian.com/environment/2025/jul/04/taylor-butterfly-washington-women-prison
+
+Site: The Guardian
+Topic: Technology
+Title: Google refuses to reinstate man’s account after he took medical images of son’s groin
+URL: https://www.theguardian.com/technology/2022/aug/22/google-csam-account-blocked
+
+Site: The Guardian
+Topic: Business
+Title: How to balance the UK books: six options open to Rachel Reeves
+URL: https://www.theguardian.com/business/2025/jul/04/how-to-balance-the-uk-books-six-options-open-to-rachel-reeves
+
