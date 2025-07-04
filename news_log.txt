@@ -4113,3 +4113,18 @@ Topic: Us News
 Title: EPA puts 139 employees on leave after they sign a ‘declaration of dissent’
 URL: https://www.theguardian.com/us-news/2025/jul/03/epa-employees-administrative-leave
 
+Site: The Guardian
+Topic: Us News
+Title: Stateless Palestinian woman detained after honeymoon released from Ice jail
+URL: https://www.theguardian.com/us-news/2025/jul/03/ward-sakeik-released-detention
+
+Site: The Guardian
+Topic: Football
+Title: Pedro Neto may miss Chelsea’s Club World Cup quarter-final after friend Jota’s death
+URL: https://www.theguardian.com/football/2025/jul/04/pedro-neto-may-miss-chelseas-club-world-cup-quarter-final-after-friend-jotas-death
+
+Site: Al Jazeera
+Topic: Liveblog
+Title: Hamas seeks ceasefire guarantees as Israel intensifies attacks in Gaza
+URL: https://www.aljazeera.com/news/liveblog/2025/7/4/live-hamas-seeks-ceasefire-guarantees-as-israel-intensifies-gaza-attacks
+
