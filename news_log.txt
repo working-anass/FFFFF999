@@ -4538,3 +4538,8 @@ Topic: Politics
 Title: Reform councillor’s boast about removing ‘trans-ideological’ books from children’s library sections falls flat
 URL: https://www.theguardian.com/politics/2025/jul/04/reform-councillors-boast-about-removing-trans-ideological-books-from-childrens-library-sections-falls-flat
 
+Site: The Guardian
+Topic: Us News
+Title: Federal judge again halts deportation of eight immigrants to South Sudan
+URL: https://www.theguardian.com/us-news/2025/jul/04/south-sudan-deportations-halted
+
