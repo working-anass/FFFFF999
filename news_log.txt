@@ -4233,3 +4233,18 @@ Topic: Football
 Title: Diogo Jota gave Liverpool fans goals and a glorious song. He will never be forgotten
 URL: https://www.theguardian.com/football/2025/jul/04/diogo-jota-gave-liverpool-fans-goals-and-a-glorious-song-he-will-never-be-forgotten
 
+Site: The Guardian
+Topic: Us News
+Title: ‘A dark day for our country’: Democrats furious over Trump bill’s passage
+URL: https://www.theguardian.com/us-news/2025/jul/04/democrats-trump-bill
+
+Site: The Guardian
+Topic: Environment
+Title: ‘Slapp addict’ Italian oil firm accused of trying to silence green activists
+URL: https://www.theguardian.com/environment/2025/jul/04/italian-oil-firm-eni-accused-of-trying-to-silence-green-activists
+
+Site: The Guardian
+Topic: Football
+Title: The game the cold war scrapped finally set for kick-off 65 years later
+URL: https://www.theguardian.com/football/2025/jul/04/the-game-the-cold-war-scrapped-finally-set-for-kick-off-65-years-later
+
