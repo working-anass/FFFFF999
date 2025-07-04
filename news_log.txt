@@ -4288,3 +4288,8 @@ Topic: Business
 Title: Rachel Reeves needs wider headroom against fiscal rules, ex-Bank of England deputy says
 URL: https://www.theguardian.com/business/2025/jul/04/rachel-reeves-needs-wider-headroom-against-fiscal-rules-ex-bank-of-england-deputy-says
 
+Site: The Guardian
+Topic: Football
+Title: ‘Such a kind kid’: former neighbours and all Portugal grieve for Diogo Jota
+URL: https://www.theguardian.com/football/2025/jul/04/diogo-jota-portugal-grieves-gondomar-neighbours
+
