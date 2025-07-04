@@ -4273,3 +4273,18 @@ Topic: World
 Title: ‘Forgotten’ designer of art nouveau Métro entrances to get Paris museum
 URL: https://www.theguardian.com/world/2025/jul/04/hector-guimard-forgotten-designer-art-nouveau-metro-entrances-paris-museum
 
+Site: The Guardian
+Topic: Us News
+Title: Trump says US to start sending tariff rates letters to trading partners
+URL: https://www.theguardian.com/us-news/2025/jul/04/trump-says-us-will-send-letters-setting-tariff-rates-to-trading-partners
+
+Site: The Guardian
+Topic: Technology
+Title: Minister demands overhaul of UK’s leading AI institute
+URL: https://www.theguardian.com/technology/2025/jul/04/minister-demands-overhaul-of-uks-leading-ai-institute-alan-turing
+
+Site: The Guardian
+Topic: Business
+Title: Rachel Reeves needs wider headroom against fiscal rules, ex-Bank of England deputy says
+URL: https://www.theguardian.com/business/2025/jul/04/rachel-reeves-needs-wider-headroom-against-fiscal-rules-ex-bank-of-england-deputy-says
+

@@ -1,0 +1,33 @@
+Site: The Guardian
+Title: Minister demands overhaul of UK’s leading AI institute
+URL: https://www.theguardian.com/technology/2025/jul/04/minister-demands-overhaul-of-uks-leading-ai-institute-alan-turing
+
+The technology secretary has demanded an overhaul of the UK’s leading artificial intelligence institute in a wide-ranging letter that calls for a switch in focus to defence and national security, as well as leadership changes.
+
+Peter Kyle said it was clear further action was needed to ensure the government-backed Alan Turing Institute met its full potential.
+
+In a letter to ATI’s chair, seen by the Guardian, Kyle said the institute should be changed to prioritise defence, national security and “sovereign capabilities” – a reference to nation states being able to control their own AI technology .
+
+The call for new priorities implies a downgrading of ATI’s focus on health and the environment, which are two of three core subjects for the institute, alongside defence and security, under its “Turing 2.0” strategy.
+
+“Moving forward, defence and national security projects should form a core of ATI’s activities, and relationships with the UK’s security, defence, and intelligence communities should be strengthened accordingly,” Kyle wrote.
+
+Making clear that the Turing 2.0 strategy did not meet government requirements , Kyle indicated that he expected leadership changes at ATI.
+
+“To realise this vision, it is imperative that the ATI’s leadership reflects the institute’s reformed focus,” he wrote. “While we acknowledge the success of the current leadership in delivering reform at the institute during a difficult period, careful consideration should be given to the importance of an executive team who possesses a relevant background and sector knowledge to lead this transition.”
+
+ATI is chaired by Doug Gurr, the former head of Amazon’s UK operations and interim chair of the UK’s competition watchdog .
+
+The institute is going through a restructuring under its chief executive, Jean Innes, which one in five staff have said puts ATI’s credibility in “serious jeopardy”. At the end of last year, ATI employed 440 staff, but it has since launched a redundancy process.
+
+Although the institute is nominally independent, it recently secured £100m from the government in a five-year funding deal. The letter said ATI’s “longer-term funding arrangement” could be reviewed next year. The government would maintain its current level of research and development from national security and defence for the next three years, Kyle wrote, and would increase the number of defence and national security staff embedded in the institute.
+
+Dame Wendy Hall, a professor of computer science at the University of Southampton and the co-chair of a 2017 government AI review, said ATI would cease to be a national institute under the government’s proposed changes.
+
+“If the institute focuses on defence and security it ceases to be a national institute on AI,” Hall said. “It’s not broad enough. If the government wants an AI institute that does defence and security then it should just call it that.”
+
+In February, the government indicated a focus on national security with its AI strategy by renaming its AI Safety Institute, established under the premiership of Rishi Sunak, the AI Security Institute.
+
+Kyle’s letter also referred to the government’s 50-point AI action plan as a “testament” to the UK’s AI ambitions, The plan’s targets include a 20-fold increase in the amount of AI computing power under public control by 2030, and embedding AI in the public sector.
+
+ATI has been approached for comment.
