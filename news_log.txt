@@ -4498,3 +4498,13 @@ Topic: Business
 Title: Trump threatens 17% tariffs on food and farm produce exports from Europe
 URL: https://www.theguardian.com/business/2025/jul/04/trump-threatens-17-tariffs-on-food-and-farm-produce-exports-from-europe
 
+Site: The Guardian
+Topic: Us News
+Title: Democratic lawmakers denied entry to ‘Alligator Alcatraz’ immigration jail
+URL: https://www.theguardian.com/us-news/2025/jul/04/florida-democrats-alligator-alcatraz
+
+Site: The Guardian
+Topic: Football
+Title: Chelsea, Aston Villa and Barcelona fined by Uefa over spending rule breaches
+URL: https://www.theguardian.com/football/2025/jul/04/chelsea-aston-villa-and-barcelona-fined-by-uefa-over-spending-rule-breaches
+
