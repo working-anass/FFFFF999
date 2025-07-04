@@ -4128,3 +4128,23 @@ Topic: Liveblog
 Title: Hamas seeks ceasefire guarantees as Israel intensifies attacks in Gaza
 URL: https://www.aljazeera.com/news/liveblog/2025/7/4/live-hamas-seeks-ceasefire-guarantees-as-israel-intensifies-gaza-attacks
 
+Site: The Guardian
+Topic: Uk News
+Title: Housing minister vows to crack down on property management ‘wild west’
+URL: https://www.theguardian.com/uk-news/2025/jul/04/housing-minister-vows-to-crack-down-on-property-management-wild-west
+
+Site: The Guardian
+Topic: Environment
+Title: ‘Legal bullying’: global protest rights on line in Dutch court case, say activists
+URL: https://www.theguardian.com/environment/2025/jul/04/protest-rights-dutch-court-case-slapps-eu-greenpeace
+
+Site: The Guardian
+Topic: Science
+Title: Detectorist’s Roman swords find unearths iron age settlement in Gloucestershire
+URL: https://www.theguardian.com/science/2025/jul/04/roman-swords-gloucestershire-villa-iron-age-settlement-discovery
+
+Site: The Guardian
+Topic: Sport
+Title: India bat England into submission as Stokes’ threadbare attack drags its feet
+URL: https://www.theguardian.com/sport/2025/jul/03/india-bat-england-into-submission-as-stokes-threadbare-attack-drags-its-feet
+
