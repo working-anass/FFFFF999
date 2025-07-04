@@ -4218,3 +4218,18 @@ Topic: Business
 Title: UK electric car sales up by a third in first half of 2025, preliminary data suggests
 URL: https://www.theguardian.com/business/2025/jul/04/uk-electric-car-sales-up-by-a-third-in-first-half-of-2025-preliminary-data-suggests
 
+Site: The Guardian
+Topic: World
+Title: Gaza ceasefire talks: Hamas officials meet to discuss proposed deal
+URL: https://www.theguardian.com/world/2025/jul/04/gaza-ceasefire-talks-hamas-deal-israel
+
+Site: The Guardian
+Topic: Uk News
+Title: London’s first Roman basilica found under office block
+URL: https://www.theguardian.com/uk-news/2025/feb/13/londons-first-roman-basilica-found-under-office-block
+
+Site: The Guardian
+Topic: Football
+Title: Diogo Jota gave Liverpool fans goals and a glorious song. He will never be forgotten
+URL: https://www.theguardian.com/football/2025/jul/04/diogo-jota-gave-liverpool-fans-goals-and-a-glorious-song-he-will-never-be-forgotten
+
