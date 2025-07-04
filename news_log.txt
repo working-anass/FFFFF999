@@ -4363,3 +4363,8 @@ Topic: Football
 Title: Transfer latest: Nico Williams signs eight-year contract extension at Athletic Bilbao
 URL: https://www.theguardian.com/football/2025/jul/04/transfer-latest-nico-williams-athletic-bilbao-leeds-sunderland-arsenal
 
+Site: The Guardian
+Topic: Football
+Title: Thomas Partey, former Arsenal footballer, charged with rape and sexual assault
+URL: https://www.theguardian.com/football/2025/jul/04/thomas-partey-former-arsenal-footballer-charged-with-rape-and-sexual-assault
+
