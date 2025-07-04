@@ -4153,3 +4153,8 @@ Topic: Music
 Title: Sean ‘Diddy’ Combs faces growing wave of civil suits as criminal trial ends
 URL: https://www.theguardian.com/music/2025/jul/03/sean-diddy-combs-civil-suits
 
+Site: The Guardian
+Topic: Global Development
+Title: UNAids chief ‘shaken and disgusted’ by US cuts that will mean millions more deaths
+URL: https://www.theguardian.com/global-development/2025/jul/04/us-aid-cuts-kill-millions-unaids-head-winnie-byanyima
+
