@@ -4093,3 +4093,13 @@ Topic: Science
 Title: Chimps’ rhythmic drumming could shed light on music’s evolutionary roots
 URL: https://www.theguardian.com/science/2025/may/09/chimpanzees-rhythmic-drumming-music-evolutionary-roots
 
+Site: The Guardian
+Topic: World
+Title: Cramps, fatigue and hallucinations: paddling 200km in a Paleolithic canoe from Taiwan to Japan
+URL: https://www.theguardian.com/world/2025/jul/04/cramps-fatigue-and-hallucinations-paddling-200km-in-a-paleolithic-canoe-from-taiwan-to-japan
+
+Site: The Guardian
+Topic: Us News
+Title: Trump’s big bill achieved what conservatives have been trying to do for decades
+URL: https://www.theguardian.com/us-news/2025/jul/03/trump-spending-bill-conservatives-law
+
