@@ -4148,3 +4148,8 @@ Topic: Sport
 Title: India bat England into submission as Stokes’ threadbare attack drags its feet
 URL: https://www.theguardian.com/sport/2025/jul/03/india-bat-england-into-submission-as-stokes-threadbare-attack-drags-its-feet
 
+Site: The Guardian
+Topic: Music
+Title: Sean ‘Diddy’ Combs faces growing wave of civil suits as criminal trial ends
+URL: https://www.theguardian.com/music/2025/jul/03/sean-diddy-combs-civil-suits
+
