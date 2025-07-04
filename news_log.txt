@@ -4468,3 +4468,28 @@ Topic: Business
 Title: How to balance the UK books: six options open to Rachel Reeves
 URL: https://www.theguardian.com/business/2025/jul/04/how-to-balance-the-uk-books-six-options-open-to-rachel-reeves
 
+Site: The Guardian
+Topic: Sport
+Title: Gone in 70 seconds: Ben Shelton finishes bizarre match and finds the funny side
+URL: https://www.theguardian.com/sport/2025/jul/04/gone-in-70-seconds-ben-shelton-finishes-bizarre-match-and-finds-the-funny-side-wimbledon-tennis
+
+Site: The Guardian
+Topic: Us News
+Title: Disaster declarations issued through central Texas as heavy rains produce ‘catastrophic flooding’
+URL: https://www.theguardian.com/us-news/2025/jul/04/texas-flooding-disaster-declarations
+
+Site: The Guardian
+Topic: Football
+Title: Infantino awaits his ‘big bang’ as Club World Cup refuses to slide away
+URL: https://www.theguardian.com/football/2025/jul/04/football-daily-email-club-world-cup-quarter-finals
+
+Site: The Guardian
+Topic: World
+Title: Suriname expected to elect first female president amid discovery of oil reserves
+URL: https://www.theguardian.com/world/2025/jul/04/suriname-first-female-president
+
+Site: The Guardian
+Topic: Sport
+Title: Tour de France team boss Jonathan Vaughters blasts UCI over rider safety
+URL: https://www.theguardian.com/sport/2025/jul/04/tour-de-france-jonathan-vaughters-blasts-uci-over-rider-safety
+
