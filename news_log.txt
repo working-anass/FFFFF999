@@ -4543,3 +4543,8 @@ Topic: Us News
 Title: Federal judge again halts deportation of eight immigrants to South Sudan
 URL: https://www.theguardian.com/us-news/2025/jul/04/south-sudan-deportations-halted
 
+Site: The Guardian
+Topic: Sport
+Title: Pogacar and Vingegaard renew Tour rivalry in tricky and tortuous opening
+URL: https://www.theguardian.com/sport/2025/jul/04/pogacar-vingegaard-renew-tour-de-france-rivalry
+
