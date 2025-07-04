@@ -4373,3 +4373,8 @@ Topic: Uk News
 Title: ‘Graveyard spiral’: why Louisa Dunne cold case breakthrough may be a rare win
 URL: https://www.theguardian.com/uk-news/2025/jul/04/graveyard-spiral-why-louisa-dunne-cold-case-breakthrough-may-be-a-rare-win
 
+Site: The Guardian
+Topic: Business
+Title: Songwriters ‘missing millions in royalties from more than 100,000 UK gigs’
+URL: https://www.theguardian.com/business/2025/jul/04/songwriters-royalties-uk-gigs-prs-for-music
+

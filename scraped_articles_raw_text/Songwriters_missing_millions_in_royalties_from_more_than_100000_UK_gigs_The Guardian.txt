@@ -1,0 +1,47 @@
+Site: The Guardian
+Title: Songwriters ‘missing millions in royalties from more than 100,000 UK gigs’
+URL: https://www.theguardian.com/business/2025/jul/04/songwriters-royalties-uk-gigs-prs-for-music
+
+Songwriters are missing out on millions of pounds a year in royalties because the agency responsible for collecting and distributing payments cannot identify when their songs have been performed at more than 100,000 gigs and performances across the UK.
+
+PRS for Music is responsible for collecting royalties for writers when music is played, including on the radio, streaming services, in shops and at live events from pubs to stadiums and festivals.
+
+In the case of live music, PRS takes a small percentage cut of gross ticket sales from every performance, and after taking a cut for administration redistributes the royalties after successfully matching the setlist performed with the relevant songwriters.
+
+However, at a ballooning number of gigs, classical performances and theatre and variety shows, the collection agency has taken a cut of ticket sales but not been able to allocate it to songwriters because of a lack of information about songs played.
+
+In the music industry this growing pot of income at PRS is referred to as the “black box” and the agency is facing legal action about how it ultimately ends out distributing this money.
+
+The case is proceeding at the high court, and there is an alternative dispute resolution meeting scheduled for 25 September.
+
+The scale of the problem is evident in documents on the PRS website, where it maintains a list of “concerts available for distribution” – displaying entries of artists, dates and the venue they played – dating back to 2022.
+
+That list now tops 106,000 performances where money has been collected but not distributed, with almost three-quarters relating to pop gigs in mostly grassroots venues.
+
+Artists on the list are mostly not big names but it does include Ronan Keating, The Jesus and Mary Chain, 10cc, Aled Jones, Alien Ant Farm and All Our Yesterdays.
+
+Venues include a number of O2-sponsored Academy sites, as well as the Jazz Cafe and Ronnie Scott’s in London, Durham Cathedral, York Barbican and Leicester Racecourse.
+
+PRS does not reveal how much income is in the so-called black box, which it refers to as the “unclaimed pot”. However, the Guardian has seen a document that showed that for 2019 alone it amounted to £2.7m.
+
+The agency redistributes unclaimed money to the market after three years, using its own formula, which some in the industry believe is not fair for smaller artists and acts.
+
+“One of my members described [it] as a reverse Robin Hood,” said Mark Davyd, the founder and chief executive of the Music Venue Trust, which represents grassroots venues, speaking at a culture select committee session in May. “[PRS] comes in and takes 100% of the songwriter royalty on just about every show, it is unable to distribute it, and it ends up in what is colloquially known as the black box – it is a fund that cannot be distributed.”
+
+On its website, PRS has an article about the importance of submitting setlists after live shows in order to receive royalties. However, two of the acts interviewed – You Me At Six and Peaness – appear on the spreadsheet of unallocated royalties for gigs played.
+
+PRS said that it went to great lengths to try to match the music performed with the writers, including recently piloting a tool that automatically turns photos of handwritten setlists – which are a common submission – into readable text.
+
+“PRS dedicates significant resources to match live performances to works, and ensure songwriters and composers receive the royalties they are due,” said a spokesperson for PRS. “We have a team whose primary job is to manually research setlist details. In addition, we provide and widely promote our online tool, designed to make it easy for members or their representatives to report setlists for any performances of their works.
+
+“We also send staff to festivals and events to collect setlist in person. While it is true there is a contractual obligation on venues and promoters to provide setlists, we also work hard to fill in as many gaps as we can.”
+
+Last year, Dave Rowntree of Blur started a legal action against PRS, alleging it was in violation of UK and EU competition rules over how it distributed “black box” income.
+
+The lawsuit claims that PRS handles this income in a way that benefits music publishers more than songwriters. PRS has said Rowntree’s claims are “factually incorrect and fundamentally misrepresent our policies and operations”.
+
+Last month, the two sides attended a hearing at the competition appeal tribunal, which is in the process of determining whether or not Rowntree’s case will be certified as a class action.
+
+In June, PRS said it paid out a record £1.02bn to rights holders last year, up 8% on 2023, beating its five-year plan to top £1bn by 2026.
+
+PRS represents the rights of more than 180,000 music industry members, covering more than 45m musical works, collecting and paying royalties when tracks are played in public, broadcast, downloaded, streamed or performed live in the UK and around the world.
