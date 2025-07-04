@@ -4183,3 +4183,23 @@ Topic: Environment
 Title: Country diary: An extension to the house? Or the garden?
 URL: https://www.theguardian.com/environment/2025/jul/04/country-diary-extension-house-or-garden
 
+Site: The Guardian
+Topic: Uk News
+Title: TfL faces legal action over licence delays for Uber and other private hire drivers
+URL: https://www.theguardian.com/uk-news/2025/jul/04/tfl-faces-legal-challenge-licence-uber-private-hire-drivers
+
+Site: The Guardian
+Topic: Science
+Title: Remains of Roman town discovered in Cambridgeshire given protected status
+URL: https://www.theguardian.com/science/2024/sep/18/remains-of-roman-town-cambridgeshire-heritage-protection-solar-farm-great-staughton
+
+Site: The Guardian
+Topic: Business
+Title: UK government ‘closely watching’ £120m legal claim against Vodafone
+URL: https://www.theguardian.com/business/2025/jul/04/uk-government-closely-watching-franchise-operators-120m-legal-claim-against-vodafone
+
+Site: The Guardian
+Topic: World
+Title: Japan walks line between recession and submission as it seeks to overcome Trump tariffs
+URL: https://www.theguardian.com/world/2025/jul/04/japan-submission-recession-trump-tariffs
+
