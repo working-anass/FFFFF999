@@ -4348,3 +4348,18 @@ Topic: Business
 Title: ‘The bubble had to burst’: the inside story of the Lindsey oil refinery collapse
 URL: https://www.theguardian.com/business/2025/jul/04/the-bubble-had-to-burst-the-inside-story-of-the-lindsey-oil-refinery-collapse
 
+Site: The Guardian
+Topic: Us News
+Title: Lost Jefferson letter on arms and democracy resurfaces for Fourth of July sale
+URL: https://www.theguardian.com/us-news/2025/jul/04/lost-jefferson-letter-arms-democracy-fourth-july
+
+Site: The Guardian
+Topic: Global Development
+Title: Kidnap, torture, murder: the plight of Pakistan’s thousands of disappeared
+URL: https://www.theguardian.com/global-development/2020/dec/14/kidnap-torture-the-plight-of-pakistans-thousands-of-disappeared
+
+Site: The Guardian
+Topic: Football
+Title: Transfer latest: Nico Williams signs eight-year contract extension at Athletic Bilbao
+URL: https://www.theguardian.com/football/2025/jul/04/transfer-latest-nico-williams-athletic-bilbao-leeds-sunderland-arsenal
+
