@@ -4333,3 +4333,18 @@ Topic: Global Development
 Title: ‘No other explanation’: children of Gaza doctor killed in airstrike believe he was deliberately targeted
 URL: https://www.theguardian.com/global-development/2025/jul/04/marwan-al-sultan-gaza-doctor-israeli-airstrike-deliberately-targeted
 
+Site: The Guardian
+Topic: Uk News
+Title: ‘Peaceful trespass’ planned at Dorset beauty spot after new owners shut path
+URL: https://www.theguardian.com/uk-news/2025/jul/04/peaceful-trespass-bridehead-dorset-beauty-spot-owners-shut-path
+
+Site: The Guardian
+Topic: Uk News
+Title: Brothers assaulted police as they resisted airport arrest, UK court hears
+URL: https://www.theguardian.com/uk-news/2025/jul/04/brothers-assaulted-police-resisting-arrest-manchester-airport-court
+
+Site: The Guardian
+Topic: Business
+Title: ‘The bubble had to burst’: the inside story of the Lindsey oil refinery collapse
+URL: https://www.theguardian.com/business/2025/jul/04/the-bubble-had-to-burst-the-inside-story-of-the-lindsey-oil-refinery-collapse
+
