@@ -4378,3 +4378,8 @@ Topic: Business
 Title: Songwriters ‘missing millions in royalties from more than 100,000 UK gigs’
 URL: https://www.theguardian.com/business/2025/jul/04/songwriters-royalties-uk-gigs-prs-for-music
 
+Site: The Guardian
+Topic: Uk News
+Title: Anger as Dorset estate withdraws public entry to ‘stunning’ local landmark
+URL: https://www.theguardian.com/uk-news/2025/may/31/anger-as-dorset-bridehead-estate-withdraws-public-entry-stunning-local-landmark
+
