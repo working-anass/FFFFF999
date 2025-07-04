@@ -4443,3 +4443,8 @@ Topic: World
 Title: Europe is scrambling to form a united front and regain relevance in the Iran crisis
 URL: https://www.theguardian.com/world/2025/jul/04/europe-is-scrambling-to-form-a-united-front-and-regain-relevance-in-the-iran-crisis
 
+Site: The Guardian
+Topic: Science
+Title: Why do tennis players check the ball before serving?
+URL: https://www.theguardian.com/science/2003/jun/26/thisweekssciencequestions4
+
