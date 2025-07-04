@@ -4428,3 +4428,18 @@ Topic: Environment
 Title: ‘Balcony solar’ may at last become a reality for flat residents in Britain
 URL: https://www.theguardian.com/environment/2025/jul/04/balcony-solar-may-at-last-become-a-reality-for-flat-residents-in-britain
 
+Site: The Guardian
+Topic: Uk News
+Title: We have only ourselves to blame for the UK’s land monopoly
+URL: https://www.theguardian.com/uk-news/2025/jul/04/we-have-only-ourselves-to-blame-for-the-uks-land-monopoly
+
+Site: The Guardian
+Topic: Environment
+Title: Rare butterfly hits purple patch at Sussex rewilding project
+URL: https://www.theguardian.com/environment/2025/jul/04/purple-emperors-rare-butterfly-improved-population-sussex-rewilding-project
+
+Site: The Guardian
+Topic: World
+Title: Europe is scrambling to form a united front and regain relevance in the Iran crisis
+URL: https://www.theguardian.com/world/2025/jul/04/europe-is-scrambling-to-form-a-united-front-and-regain-relevance-in-the-iran-crisis
+
