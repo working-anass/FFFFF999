@@ -4303,3 +4303,13 @@ Topic: Football
 Title: Football transfer rumours: Real Madrid give all-clear for Arsenal to sign Rodrygo?
 URL: https://www.theguardian.com/football/2025/jul/04/football-transfer-rumours-real-madrid-give-all-clear-for-arsenal-to-sign-rodrygo
 
+Site: The Guardian
+Topic: Us News
+Title: Trump’s Medicaid cuts are coming for rural Americans: ‘It’s going to have to hit them first’
+URL: https://www.theguardian.com/us-news/2025/jul/04/rural-americans-medicaid-cuts-trump-bill
+
+Site: The Guardian
+Topic: Football
+Title: Marcus Rashford to report for pre-season training at Manchester United next week
+URL: https://www.theguardian.com/football/2025/jul/04/marcus-rashford-to-report-for-pre-season-training-at-manchester-united-next-week
+
