@@ -4313,3 +4313,23 @@ Topic: Football
 Title: Marcus Rashford to report for pre-season training at Manchester United next week
 URL: https://www.theguardian.com/football/2025/jul/04/marcus-rashford-to-report-for-pre-season-training-at-manchester-united-next-week
 
+Site: The Guardian
+Topic: Us News
+Title: LA school district demands inquiry after Ice officers filmed urinating on campus
+URL: https://www.theguardian.com/us-news/2025/jul/04/los-angeles-ice-officers-urinating
+
+Site: The Guardian
+Topic: Environment
+Title: Canada races to build icebreakers amid melting ice and geopolitical tensions
+URL: https://www.theguardian.com/environment/2025/jul/04/canada-icebreakers-arctic
+
+Site: The Guardian
+Topic: Environment
+Title: Pot-plant trade is ‘hitchhiker pathway’ for invasive flatworms, say UK experts
+URL: https://www.theguardian.com/environment/2025/jul/04/invasive-flatworms-rise-uk-soil-pot-plant-trade
+
+Site: The Guardian
+Topic: Global Development
+Title: ‘No other explanation’: children of Gaza doctor killed in airstrike believe he was deliberately targeted
+URL: https://www.theguardian.com/global-development/2025/jul/04/marwan-al-sultan-gaza-doctor-israeli-airstrike-deliberately-targeted
+
