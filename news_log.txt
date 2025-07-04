@@ -4158,3 +4158,23 @@ Topic: Global Development
 Title: UNAids chief ‘shaken and disgusted’ by US cuts that will mean millions more deaths
 URL: https://www.theguardian.com/global-development/2025/jul/04/us-aid-cuts-kill-millions-unaids-head-winnie-byanyima
 
+Site: The Guardian
+Topic: World
+Title: Russian drone attack on Kyiv injures 14, triggers multiple fires, mayor says
+URL: https://www.theguardian.com/world/2025/jul/04/kyiv-ukraine-russia-drone-attack
+
+Site: The Guardian
+Topic: Us News
+Title: Trump kicks off 4 July celebrating tax-and-spending bill and promising UFC fight at White House
+URL: https://www.theguardian.com/us-news/2025/jul/04/trump-4-july-des-moines-iowa-rally
+
+Site: The Guardian
+Topic: Uk News
+Title: Bite marks on York skeleton reveal first evidence of ‘gladiators’ fighting lions
+URL: https://www.theguardian.com/uk-news/2025/apr/23/bite-marks-on-york-skeleton-reveal-first-evidence-of-gladiators-fighting-lions
+
+Site: The Guardian
+Topic: Lifeandstyle
+Title: Experience: I was attacked by a wild tiger
+URL: https://www.theguardian.com/lifeandstyle/2025/jul/04/experience-i-was-attacked-by-a-wild-tiger
+
