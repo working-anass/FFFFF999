@@ -4518,3 +4518,8 @@ Topic: Football
 Title: Kyle Walker closes in on shock £5m move to Burnley from Manchester City
 URL: https://www.theguardian.com/football/2025/jul/04/kyle-walker-shock-5m-transfer-burnley-manchester-city
 
+Site: The Guardian
+Topic: World
+Title: Allez, allez, allez! Quebec says sports fans can cheer ‘go!’ in English at provincial sports games
+URL: https://www.theguardian.com/world/2025/jul/04/quebec-canada-english-language
+
