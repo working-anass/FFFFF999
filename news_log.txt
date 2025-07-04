@@ -4548,3 +4548,8 @@ Topic: Sport
 Title: Pogacar and Vingegaard renew Tour rivalry in tricky and tortuous opening
 URL: https://www.theguardian.com/sport/2025/jul/04/pogacar-vingegaard-renew-tour-de-france-rivalry
 
+Site: The Guardian
+Topic: Uk News
+Title: Home Office announces ‘nationwide blitz’ on asylum seekers taking jobs
+URL: https://www.theguardian.com/uk-news/2025/jul/05/home-office-announces-nationwide-blitz-on-asylum-seekers-taking-jobs
+
