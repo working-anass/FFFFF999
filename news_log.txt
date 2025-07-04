@@ -4508,3 +4508,8 @@ Topic: Football
 Title: Chelsea, Aston Villa and Barcelona fined by Uefa over spending rule breaches
 URL: https://www.theguardian.com/football/2025/jul/04/chelsea-aston-villa-and-barcelona-fined-by-uefa-over-spending-rule-breaches
 
+Site: The Guardian
+Topic: Football
+Title: Thomas Partey: the former Arsenal midfielder facing five rape charges
+URL: https://www.theguardian.com/football/2025/jul/04/thomas-partey-the-former-arsenal-midfielder-facing-five-charges
+
