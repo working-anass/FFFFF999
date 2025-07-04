@@ -4263,3 +4263,13 @@ Topic: Football
 Title: Diogo Jota to be honoured as mourners gather in Portugal for Liverpool player’s wake
 URL: https://www.theguardian.com/football/2025/jul/04/diogo-jota-portugal-liverpool-wake-tributes
 
+Site: The Guardian
+Topic: Politics
+Title: Trump says UK is protected from tariffs ‘because I like them’ as trade deal is signed off
+URL: https://www.theguardian.com/politics/2025/jun/16/starmer-and-trump-finalise-uk-us-trade-deal-at-g7-but-steel-tariffs-still-on-hold
+
+Site: The Guardian
+Topic: World
+Title: ‘Forgotten’ designer of art nouveau Métro entrances to get Paris museum
+URL: https://www.theguardian.com/world/2025/jul/04/hector-guimard-forgotten-designer-art-nouveau-metro-entrances-paris-museum
+
