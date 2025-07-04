@@ -4493,3 +4493,8 @@ Topic: Sport
 Title: Tour de France team boss Jonathan Vaughters blasts UCI over rider safety
 URL: https://www.theguardian.com/sport/2025/jul/04/tour-de-france-jonathan-vaughters-blasts-uci-over-rider-safety
 
+Site: The Guardian
+Topic: Business
+Title: Trump threatens 17% tariffs on food and farm produce exports from Europe
+URL: https://www.theguardian.com/business/2025/jul/04/trump-threatens-17-tariffs-on-food-and-farm-produce-exports-from-europe
+
