@@ -4948,3 +4948,8 @@ Topic: Lifeandstyle
 Title: Munroe Bergdorf: ‘The most expensive thing I’ve bought? Gender-affirming surgery’
 URL: https://www.theguardian.com/lifeandstyle/2025/jul/05/munroe-bergdorf-model-trans-activist-gender-affirming-surgery-interview
 
+Site: The Guardian
+Topic: Football
+Title: Miedema hits 100th Netherlands goal to upset Wales’ grand debut at Euro 2025
+URL: https://www.theguardian.com/football/2025/jul/05/wales-netherlands-womens-euro-2025-match-report
+
