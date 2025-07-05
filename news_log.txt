@@ -4778,3 +4778,13 @@ Topic: Books
 Title: ‘The damage is terrifying’: Barbara Kingsolver on Trump, rural America and the recovery home funded by her hit novel
 URL: https://www.theguardian.com/books/2025/jul/05/the-damage-is-terrifying-barbara-kingsolver-on-trump-rural-america-and-the-recovery-home-funded-by-her-hit-novel
 
+Site: The Guardian
+Topic: World
+Title: ‘Like working in a volcano’: stories from six countries in Europe on a day of extreme heat
+URL: https://www.theguardian.com/world/2025/jul/05/stories-from-six-countries-europe-extreme-heat
+
+Site: The Guardian
+Topic: Business
+Title: Sellout or washout: will the boom in huge outdoor concerts be sustained after Oasis?
+URL: https://www.theguardian.com/business/2025/jul/05/huge-outdoor-concerts-after-oasis
+
