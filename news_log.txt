@@ -4923,3 +4923,18 @@ Topic: Us News
 Title: ‘Blatant misinformation’: Social Security Administration email praising Trump’s tax bill blasted as a ‘lie’
 URL: https://www.theguardian.com/us-news/2025/jul/05/social-security-administration-email-trump-tax-bill
 
+Site: The Guardian
+Topic: Us News
+Title: If the US president threatens to take away freedoms, are we no longer free?
+URL: https://www.theguardian.com/us-news/2025/jul/05/trump-threats-freedoms
+
+Site: The Guardian
+Topic: Us News
+Title: Texas flood: stories of survival and pleas for help finding missing loved ones
+URL: https://www.theguardian.com/us-news/2025/jul/05/texas-flood-survival-pleas-for-help-missing
+
+Site: The Guardian
+Topic: Sport
+Title: Tour de France 2025: Philipsen wins chaotic first stage as Evenepoel and Roglic suffer
+URL: https://www.theguardian.com/sport/2025/jul/05/tour-de-france-2025-philipsen-wins-chaotic-first-stage-as-evenepoel-and-roglic-suffer
+
