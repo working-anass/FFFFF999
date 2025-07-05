@@ -4838,3 +4838,18 @@ Topic: Sport
 Title: France’s wait for Tour win rumbles on with no prospect of victory in sight
 URL: https://www.theguardian.com/sport/2025/jul/05/france-tour-win-rumbles-on-no-prospect-of-victory
 
+Site: The Guardian
+Topic: World
+Title: Buddhist rebirth v Chinese control: the battle to choose the Dalai Lama’s successor
+URL: https://www.theguardian.com/world/2025/jul/05/buddhist-rebirth-v-chinese-control-the-battle-to-choose-the-dalai-lamas-successor
+
+Site: The Guardian
+Topic: Global Development
+Title: New images show Brazil’s uncontacted people are thriving – but with success comes a new threat
+URL: https://www.theguardian.com/global-development/2024/dec/22/new-images-show-brazils-uncontacted-people-are-thriving-but-with-success-comes-a-new-threat
+
+Site: The Guardian
+Topic: Society
+Title: I was sexually assaulted by a celebrity after starring in a cult film at 19. My quest for justice changed the course of my life
+URL: https://www.theguardian.com/society/2025/jul/05/jenny-evans-sexually-assaulted-celebrity-my-quest-for-justice-changed-my-life
+
