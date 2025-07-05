@@ -4988,3 +4988,13 @@ Topic: Business
 Title: Qantas attack reveals one phone call is all it takes to crack cybersecurity’s weakest link: humans
 URL: https://www.theguardian.com/business/2025/jul/06/qantas-attack-reveals-one-phone-call-is-all-it-takes-to-crack-cybersecuritys-weakest-link-humans
 
+Site: The Guardian
+Topic: Us News
+Title: US hit with mass shootings and fatal accidents on Fourth of July holiday
+URL: https://www.theguardian.com/us-news/2025/jul/05/mass-shootings-fatal-accidents-fourth-of-july
+
+Site: The Guardian
+Topic: Lifeandstyle
+Title: The moment I knew: he pulled me close for my last-ever first kiss
+URL: https://www.theguardian.com/lifeandstyle/2025/jul/06/the-moment-i-knew-he-pulled-me-close-for-my-last-ever-first-kiss
+
