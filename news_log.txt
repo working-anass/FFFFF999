@@ -4613,3 +4613,8 @@ Topic: Football
 Title: Chelsea edge Palmeiras as late deflection books Club World Cup semi-final spot
 URL: https://www.theguardian.com/football/2025/jul/05/palmeiras-chelsea-club-world-cup-quarter-final-match-report
 
+Site: The Guardian
+Topic: World
+Title: ‘Will AI take my job?’ A trip to a Beijing fortune-telling bar to see what lies ahead
+URL: https://www.theguardian.com/world/2025/jul/05/trip-beijng-fortune-telling-bar-china
+
