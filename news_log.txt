@@ -4823,3 +4823,8 @@ Topic: World
 Title: ‘He’ll be happy here’: papal retreat forsaken by Francis excited to welcome Pope Leo
 URL: https://www.theguardian.com/world/2025/jul/05/papal-retreat-castel-gandolfo-pope-leo-italy
 
+Site: The Guardian
+Topic: Us News
+Title: Nurse on new CDC vaccine panel said to have been ‘anti-vax longer than RFK’
+URL: https://www.theguardian.com/us-news/2025/jul/05/vicky-pebsworth-vaccine-experts-rfk-jr
+
