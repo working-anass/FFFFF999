@@ -4978,3 +4978,13 @@ Topic: Business
 Title: Bernie Marcus, Home Depot cofounder and Trump mega-donor, dies aged 95
 URL: https://www.theguardian.com/business/2024/nov/05/bernie-marcus-home-depot-dead
 
+Site: The Guardian
+Topic: Us News
+Title: Hegseth falsely cited weapon shortages in halting shipments to Ukraine, Democrats say
+URL: https://www.theguardian.com/us-news/2025/jul/05/hegseth-weapons-shipments-ukraine
+
+Site: The Guardian
+Topic: Business
+Title: Qantas attack reveals one phone call is all it takes to crack cybersecurity’s weakest link: humans
+URL: https://www.theguardian.com/business/2025/jul/06/qantas-attack-reveals-one-phone-call-is-all-it-takes-to-crack-cybersecuritys-weakest-link-humans
+

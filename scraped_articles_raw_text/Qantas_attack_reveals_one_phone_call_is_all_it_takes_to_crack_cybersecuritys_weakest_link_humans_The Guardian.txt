@@ -1,0 +1,67 @@
+Site: The Guardian
+Title: Qantas attack reveals one phone call is all it takes to crack cybersecurity’s weakest link: humans
+URL: https://www.theguardian.com/business/2025/jul/06/qantas-attack-reveals-one-phone-call-is-all-it-takes-to-crack-cybersecuritys-weakest-link-humans
+
+A ll it can take is a phone call. That’s what Qantas learned this week when the personal information of up to 6 million customers was stolen by cybercriminals after attackers targeted an offshore IT call centre, enabling them to access a third-party system.
+
+It is the latest in a series of cyber-attacks on large companies in Australia involving the personal information of millions of Australians, after the attack on Optus , Medibank and, most recently, Australia’s $4t superannuation sector .
+
+The Qantas attack came just days after US authorities warned the airline sector had been targeted by a group known as Scattered Spider , using social engineering techniques, including impersonating employees or contractors to deceive IT help desks into granting access, and bypassing multi-factor authentication.
+
+New technology brings old methods
+
+While companies may spend millions keeping their systems secure and software up-to-date to plug known vulnerabilities, hackers can turn to this form of attack to target, often, the weakest link – humans.
+
+Social engineering is not new. It predates the internet, involving tricking someone into providing compromising information.
+
+The most common way people would see social engineering in practice is through phishing attacks – emails that are designed to look official to lure unsuspecting people into providing their login and passwords.
+
+The phone-call version of social engineering, known as vishing , can be more complicated for the attacker, requiring research into a company and its employees, and tactics to sound convincing over the phone to get the unwitting worker to let them in.
+
+- Sign up for Guardian Australia’s breaking news email
+
+The arrival of easy-to-use artificial intelligence products, including voice cloning, will only make this easier for attackers.
+
+The Office of the Australian Information Commissioner’s most recent data breaches report , covering the second half of 2024, noted a significant rise in reports of breaches caused by social engineering attacks, with government agencies reporting the most, followed by finance and health.
+
+The Qantas breach – that compromised information including names, email addresses, phone numbers, dates of birth and frequent flyer numbers – in isolation might not in isolation lead to financial loss, but the growing number of data breaches in Australia means hackers are able to collate data collected across the breaches and potentially launch attacks on unsuspecting new targets.
+
+Data breaches causing more data breaches
+
+In April, the nation’s superannuation funds became aware of the dangers of hackers collecting compromised login details from other breaches to gain access to super accounts , in what is termed credential stuffing.
+
+The industry was fortunate only a handful of customers suffered losses, together approximately $500,000 – likely a combination of the funds locking down systems, and the high proportion of fund holders who have yet to reach the age where they can access their super.
+
+The Albanese government, however, has been warned that the attack was a canary in the coalmine for the financial sector. In advice to the incoming government in May – released this week under freedom of information laws – the Australian Prudential Regulation Authority (Apra) warned super assets were at risk.
+
+“Cyber-attacks at large superannuation funds, that look likely to increase in scope and frequency, highlight that capability in the management of cyber and operational risks must improve,” Apra said.
+
+“While the number of member accounts that had funds fraudulently withdrawn was small, the incident highlighted the need for this sector to uplift its cybersecurity and operational resilience maturity.
+
+“This need will only grow as the sector increases in size, more members enter retirement and the sector takes on greater systemic significance with inter-linkages to the banking sector.”
+
+Apra had warned the sector in 2023 of the importance of multi-factor authentication – something some of the funds had failed to implement before the April attack.
+
+The regulator said there were also sustained cyber-attacks on banking and insurance businesses, and third-party providers that were “continuing to test resilience and defences as attackers develop new technologies and approaches”.
+
+Who is most at risk?
+
+Healthcare, finance, technology and critical infrastructure, such as telecommunications, were most at risk from cyber threats, according to Craig Searle, global leader of cyber advisory at global cybersecurity firm Trustwave.
+
+“The technology sector is uniquely exposed due to its central role in digital infrastructure and interconnected supply chains,” he said. “An attack on a single tech provider can cascade to hundreds or thousands of downstream clients, as seen in recent high-profile supply chain breaches.
+
+“Overall, the sectors most at risk are those with high-value data, complex supply chains, and critical service delivery.”
+
+Searle said attackers like Scattered Spider deliberately targeted third-party systems and outsourced IT support, as seen in the Qantas breach, representing a risk for large companies.
+
+“The interconnected nature of digital supply chains means a vulnerability or misconfiguration in a partner or contractor can trigger a domino effect, exposing sensitive data and operations far beyond the initial breach,” he said.
+
+Christiaan Beek, senior director for threat analytics at cybersecurity firm Rapid7, said third-party systems had become an integral part of many organisations’ business operations and, as a result, were increasingly targeted by threat actors.
+
+“It’s essential for organisations to apply the right levels of due diligence in assessing the security posture of such third-party systems to reduce the risk of their information being compromised.”
+
+Searle said organisations needed to shift from reactive to proactive cybersecurity, apply software patches promptly and enforce strong access control such as multi-factor authentication.
+
+Beek agreed organisations needed to be proactive, with executives held accountable for cybersecurity in their organisations, as well as board oversight.
+
+“The novel tactics observed by modern-day cybercrime groups escape the typical confines of security management programmes,” he said. “The no-limits approach of these criminals pushes us to rethink the typical boundary of defence, in particular surrounding social engineering and the ways in which we can be taken advantage of.”
