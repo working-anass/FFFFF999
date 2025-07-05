@@ -4828,3 +4828,13 @@ Topic: Us News
 Title: Nurse on new CDC vaccine panel said to have been ‘anti-vax longer than RFK’
 URL: https://www.theguardian.com/us-news/2025/jul/05/vicky-pebsworth-vaccine-experts-rfk-jr
 
+Site: The Guardian
+Topic: Us News
+Title: Revealed: the far-right, antisemitic men’s club network spreading across US
+URL: https://www.theguardian.com/us-news/2025/jul/05/far-right-mens-clubs-old-glory
+
+Site: The Guardian
+Topic: Sport
+Title: France’s wait for Tour win rumbles on with no prospect of victory in sight
+URL: https://www.theguardian.com/sport/2025/jul/05/france-tour-win-rumbles-on-no-prospect-of-victory
+
