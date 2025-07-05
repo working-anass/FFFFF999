@@ -4723,3 +4723,18 @@ Topic: Lifeandstyle
 Title: Tim Dowling: a rake has it in for me – and the tortoise
 URL: https://www.theguardian.com/lifeandstyle/2025/jul/05/tim-dowling-a-rake-has-it-in-for-me-and-the-tortoise
 
+Site: The Guardian
+Topic: Environment
+Title: Carbon-capture plan may be self-defeating
+URL: https://www.theguardian.com/environment/2025/jul/04/carbon-capture-plan-may-be-self-defeating
+
+Site: The Guardian
+Topic: Football
+Title: PSG’s culture shift leads into mighty Club World Cup showdown with Bayern
+URL: https://www.theguardian.com/football/2025/jul/05/paris-saint-germain-psg-bayern-munich-club-world-cup-culture
+
+Site: The Guardian
+Topic: Business
+Title: Leaders of Russia and China snub Brics summit in sign group’s value may be waning
+URL: https://www.theguardian.com/business/2025/jul/05/leaders-of-russia-and-china-snub-brics-summit-in-sign-groups-value-may-be-waning
+

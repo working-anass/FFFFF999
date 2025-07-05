@@ -1,0 +1,11 @@
+Site: The Guardian
+Title: Carbon-capture plan may be self-defeating
+URL: https://www.theguardian.com/environment/2025/jul/04/carbon-capture-plan-may-be-self-defeating
+
+The carbon-capture process described in your article uses lime pellets ( Shipping is one of the world’s dirtiest industries – could this invention finally clean up cargo fleets? 26 June ). These are typically produced by heating calcium carbonate (limestone), releasing CO 2 and requiring large amounts of energy, producing yet more CO 2 . If the used pellets are heated in a kiln for reuse, even if with renewable energy, the captured CO 2 is released again and nothing is gained. Quicklime production creates yet more CO 2 , so without removing these emissions, Seabound’s process would make shipping even dirtier.
+
+The Inflation Reduction Act passed under Joe Biden is funding development of cement production from calcium silicate. Once turned into concrete, this process sequesters CO 2 overall, and in even larger amounts if green electricity fuels the kilns. Seabound should take note, else their technology is just another carbon-capture con.
+
+Wind turbines are turned off when too much electricity is being produced, and, bizarrely, we pay to turn them off. This excess could fuel kilns instead as well as the production of hydrogen for steel furnaces. Small nuclear reactors, as used in nuclear submarines, could also fuel energy-hungry kilns and furnaces. Vitrified nuclear waste could be put into deep-ocean subduction-zone trenches in the casings of US bunker-busting bombs or fired at the sun when Elon Musk’s Starships stop auto-dismantling, rather than wasting these rockets on the futile race to Mars.
+
+Blue-green algae sequestered vast amounts of CO 2 over 2bn years; now mankind is busy releasing it again over a few decades. We had best harness these little helpers and farm other CO 2 fixers such as mussels, clams and oysters, if we wish to sequester CO 2 in an environmentally safe way. Dr Richard Richards Brant Broughton, Lincolnshire
