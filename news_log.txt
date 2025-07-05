@@ -4773,3 +4773,8 @@ Topic: Football
 Title: England have gamechangers galore but must find another way to win Euros again
 URL: https://www.theguardian.com/football/2025/jul/05/england-gamechangers-find-another-way-to-win-euro-2025
 
+Site: The Guardian
+Topic: Books
+Title: ‘The damage is terrifying’: Barbara Kingsolver on Trump, rural America and the recovery home funded by her hit novel
+URL: https://www.theguardian.com/books/2025/jul/05/the-damage-is-terrifying-barbara-kingsolver-on-trump-rural-america-and-the-recovery-home-funded-by-her-hit-novel
+
