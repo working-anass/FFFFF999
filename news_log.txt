@@ -4898,3 +4898,13 @@ Topic: Football
 Title: ‘It’s offensive’: voices from Iran as fans face 2026 World Cup travel ban
 URL: https://www.theguardian.com/football/2025/jul/05/iran-fans-2026-world-cup-us-donald-trump-travel-ban
 
+Site: The Guardian
+Topic: Education
+Title: ‘The American system is being destroyed’: academics on leaving US for ‘scientific asylum’ in France
+URL: https://www.theguardian.com/education/2025/jul/05/academics-leaving-us-scientific-asylum-france-trump
+
+Site: The Guardian
+Topic: Us News
+Title: Texas begins grim flood recovery after dozens killed and scores still missing – including children
+URL: https://www.theguardian.com/us-news/2025/jul/05/texas-flood-recovery-dozens-dead-children-missing
+
