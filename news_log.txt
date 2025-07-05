@@ -5003,3 +5003,8 @@ Topic: Tv And Radio
 Title: James May: ‘When I’m mistaken for Jeremy Clarkson, I have to go home and examine myself very deeply’
 URL: https://www.theguardian.com/tv-and-radio/2025/jul/06/james-may-tv-presenter-10-questions
 
+Site: The Guardian
+Topic: Football
+Title: Baltimore fires France to opening win against England to end Wiegman’s Euro record
+URL: https://www.theguardian.com/football/2025/jul/05/france-england-womens-euro-2025-match-report
+
