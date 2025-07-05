@@ -4573,3 +4573,18 @@ Topic: Liveblog
 Title: Hamas says ready to start Gaza ceasefire talks with Israel ‘immediately’
 URL: https://www.aljazeera.com/news/liveblog/2025/7/5/live-hamas-says-ready-to-start-gaza-ceasefire-talks-with-israel
 
+Site: The Guardian
+Topic: Environment
+Title: Wild kangaroo harvests are labelled ‘needlessly cruel’ by US lawmakers – but backed by Australian conservationists
+URL: https://www.theguardian.com/environment/2025/jul/05/wild-kangaroo-harvests-are-labelled-needlessly-cruel-by-us-lawmakers-but-backed-by-australian-conservationists
+
+Site: The Guardian
+Topic: Football
+Title: Fluminense book Club World Cup semi-final place with win over Al-Hilal
+URL: https://www.theguardian.com/football/2025/jul/05/fluminense-book-club-world-cup-semi-final-place-with-win-over-al-hilal
+
+Site: The Guardian
+Topic: Business
+Title: ‘A troubling halo of health’: how Celsius became Red Bull for women
+URL: https://www.theguardian.com/business/2024/sep/19/celsius-energy-drink
+
