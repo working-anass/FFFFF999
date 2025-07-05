@@ -4943,3 +4943,8 @@ Topic: World
 Title: Britain re-establishing diplomatic relations with Syria, announces David Lammy
 URL: https://www.theguardian.com/world/2025/jul/05/britain-re-establishing-diplomatic-relations-with-syria-announces-david-lammy
 
+Site: The Guardian
+Topic: Lifeandstyle
+Title: Munroe Bergdorf: ‘The most expensive thing I’ve bought? Gender-affirming surgery’
+URL: https://www.theguardian.com/lifeandstyle/2025/jul/05/munroe-bergdorf-model-trans-activist-gender-affirming-surgery-interview
+
