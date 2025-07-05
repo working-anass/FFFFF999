@@ -4918,3 +4918,8 @@ Topic: World
 Title: Israel continues airstrikes on Gaza after Hamas says it is ready for ceasefire talks
 URL: https://www.theguardian.com/world/2025/jul/05/israel-airstrikes-gaza-hamas-ceasefire-talks
 
+Site: The Guardian
+Topic: Us News
+Title: ‘Blatant misinformation’: Social Security Administration email praising Trump’s tax bill blasted as a ‘lie’
+URL: https://www.theguardian.com/us-news/2025/jul/05/social-security-administration-email-trump-tax-bill
+
