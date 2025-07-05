@@ -4878,3 +4878,13 @@ Topic: World
 Title: ‘Harvey would say, we’re on the brink’: why conservatives are coming for a gay rights hero
 URL: https://www.theguardian.com/world/2025/jul/05/harvey-milk-trump-lgbtq-rights
 
+Site: The Guardian
+Topic: World
+Title: Fresh scandal hits Spain’s ruling party as official quits over sexual harassment claims
+URL: https://www.theguardian.com/world/2025/jul/05/spain-ruling-party-official-quits-sexual-harassment-claims-pedro-sanchez-psoe-socialist
+
+Site: The Guardian
+Topic: Uk News
+Title: Met police arrest activists holding signs referring to Palestine Action
+URL: https://www.theguardian.com/uk-news/2025/jul/05/palestine-action-activists-arrested-london-gandhi-statue
+
