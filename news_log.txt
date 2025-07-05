@@ -4908,3 +4908,8 @@ Topic: Us News
 Title: Texas begins grim flood recovery after dozens killed and scores still missing – including children
 URL: https://www.theguardian.com/us-news/2025/jul/05/texas-flood-recovery-dozens-dead-children-missing
 
+Site: The Guardian
+Topic: Football
+Title: Transfer news: Jamie Gittens completes £55m Chelsea switch, Forest land Jesus
+URL: https://www.theguardian.com/football/2025/jul/05/transfer-news-jamie-gittens-completes-55m-chelsea-switch-nottingham-forest-sign-igor-jesus
+
