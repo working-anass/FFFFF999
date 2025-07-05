@@ -4793,3 +4793,8 @@ Topic: Business
 Title: Co-op to stop sourcing goods from Israel, Iran and 15 other countries
 URL: https://www.theguardian.com/business/2025/jun/24/co-op-to-stop-sourcing-products-from-countries-that-violate-human-rights
 
+Site: The Guardian
+Topic: Business
+Title: Brics to more than double with admission of six new countries
+URL: https://www.theguardian.com/business/2023/aug/24/five-brics-nations-announce-admission-of-six-new-countries-to-bloc
+
