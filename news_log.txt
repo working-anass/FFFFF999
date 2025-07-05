@@ -4618,3 +4618,23 @@ Topic: World
 Title: ‘Will AI take my job?’ A trip to a Beijing fortune-telling bar to see what lies ahead
 URL: https://www.theguardian.com/world/2025/jul/05/trip-beijng-fortune-telling-bar-china
 
+Site: The Guardian
+Topic: Science
+Title: Owning dog or cat could preserve some brain functions as we age, study says
+URL: https://www.theguardian.com/science/2025/jul/05/dog-cat-ownership-could-preserve-specific-brain-functions-as-we-age-cognitive-decline
+
+Site: The Guardian
+Topic: Football
+Title: England face fiendish path to glory but Euro 2025 is capturing hearts of hosts
+URL: https://www.theguardian.com/football/2025/jul/04/lionesses-face-fiendish-path-to-glory-but-euro-2025-is-capturing-hearts-of-hosts
+
+Site: The Guardian
+Topic: Technology
+Title: ‘The vehicle suddenly accelerated with our baby in it’: the terrifying truth about why Tesla’s cars keep crashing
+URL: https://www.theguardian.com/technology/2025/jul/05/the-vehicle-suddenly-accelerated-with-our-baby-in-it-the-terrifying-truth-about-why-teslas-cars-keep-crashing
+
+Site: The Guardian
+Topic: Sport
+Title: Hothouse kid Jamie Smith starts as he goes on and changes Test in 20 minutes
+URL: https://www.theguardian.com/sport/2025/jul/04/jamie-smith-changes-test-20-minutes-england-india
+

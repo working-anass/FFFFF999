@@ -1,0 +1,153 @@
+Site: The Guardian
+Title: ‘The vehicle suddenly accelerated with our baby in it’: the terrifying truth about why Tesla’s cars keep crashing
+URL: https://www.theguardian.com/technology/2025/jul/05/the-vehicle-suddenly-accelerated-with-our-baby-in-it-the-terrifying-truth-about-why-teslas-cars-keep-crashing
+
+I t was a Monday afternoon in June 2023 when Rita Meier, 45, joined us for a video call. Meier told us about the last time she said goodbye to her husband, Stefan, five years earlier. He had been leaving their home near Lake Constance, Germany, heading for a trade fair in Milan.
+
+Meier recalled how he hesitated between taking his Tesla Model S or her BMW. He had never driven the Tesla that far before. He checked the route for charging stations along the way and ultimately decided to try it. Rita had a bad feeling. She stayed home with their three children, the youngest less than a year old.
+
+At 3.18pm on 10 May 2018, Stefan Meier lost control of his Model S on the A2 highway near the Monte Ceneri tunnel. Travelling at about 100kmh (62mph), he ploughed through several warning markers and traffic signs before crashing into a slanted guardrail. “The collision with the guardrail launches the vehicle into the air, where it flips several times before landing,” investigators would write later.
+
+The car came to rest more than 70 metres away, on the opposite side of the road, leaving a trail of wreckage. According to witnesses, the Model S burst into flames while still airborne. Several passersby tried to open the doors and rescue the driver, but they couldn’t unlock the car. When they heard explosions and saw flames through the windows, they retreated. Even the firefighters, who arrived 20 minutes later, could do nothing but watch the Tesla burn.
+
+At that moment, Rita Meier was unaware of the crash. She tried calling her husband, but he didn’t pick up. When he still hadn’t returned her call hours later – highly unusual for this devoted father – she attempted to track his car using Tesla’s app. It no longer worked. By the time police officers rang her doorbell late that night, Meier was already bracing for the worst.
+
+The crash made headlines the next morning as one of the first fatal Tesla accidents in Europe. Tesla released a statement to the press saying the company was “deeply saddened” by the incident, adding, “We are working to gather all the facts in this case and are fully cooperating with local authorities.”
+
+To this day, Meier still doesn’t know why her husband died. She has kept everything the police gave her after their inconclusive investigation. The charred wreck of the Model S sits in a garage Meier rents specifically for that purpose. The scorched phone – which she had forensically analysed at her own expense, to no avail – sits in a drawer at home. Maybe someday all this will be needed again, she says. She hasn’t given up hope of uncovering the truth.
+
+R ita Meier was one of many people who reached out to us after we began reporting on the Tesla Files – a cache of 23,000 leaked documents and 100 gigabytes of confidential data shared by an anonymous whistleblower. The first report we published looked at problems with Tesla’s autopilot system, which allows the cars to temporarily drive on their own, taking over steering, braking and acceleration. Though touted by the company as “Full Self-Driving” (FSD), it is designed to assist, not replace, the driver, who should keep their eyes on the road and be ready to intervene at any time.
+
+Autonomous driving is the core promise around which Elon Musk has built his company. Tesla has never delivered a truly self-driving vehicle, yet the richest person in the world keeps repeating the claim that his cars will soon drive entirely without human help. Is Tesla’s autopilot really as advanced as he says?
+
+The Tesla Files suggest otherwise. They contain more than 2,400 customer complaints about unintended acceleration and more than 1,500 braking issues – 139 involving emergency braking without cause, and 383 phantom braking events triggered by false collision warnings. More than 1,000 crashes are documented. A separate spreadsheet on driver-assistance incidents where customers raised safety concerns lists more than 3,000 entries. The oldest date from 2015, the most recent from March 2022. In that time, Tesla delivered roughly 2.6m vehicles with autopilot software. Most incidents occurred in the US, but there have also been complaints from Europe and Asia. Customers described their cars suddenly accelerating or braking hard. Some escaped with a scare; others ended up in ditches, crashing into walls or colliding with oncoming vehicles. “After dropping my son off in his school parking lot, as I go to make a right-hand exit it lurches forward suddenly,” one complaint read. Another said, “My autopilot failed/malfunctioned this morning (car didn’t brake) and I almost rear-ended somebody at 65mph.” A third reported, “Today, while my wife was driving with our baby in the car, it suddenly accelerated out of nowhere.”
+
+Braking for no reason caused just as much distress. “Our car just stopped on the highway. That was terrifying,” a Tesla driver wrote. Another complained, “Frequent phantom braking on two-lane highways. Makes the autopilot almost unusable.” Some report their car “jumped lanes unexpectedly”, causing them to hit a concrete barrier, or veered into oncoming traffic.
+
+Musk has given the world many reasons to criticise him since he teamed up with Donald Trump. Many people do – mostly by boycotting his products. But while it is one thing to disagree with the political views of a business leader, it is another to be mortally afraid of his products. In the Tesla Files, we found thousands of examples of why such fear may be justified.
+
+Image: https://i.guim.co.uk/img/media/04888c2aacfe17d667734725fa2bcb1442c7a36e/0_712_1643_1761/master/1643.jpg?width=445&dpr=1&s=none&crop=none
+
+Caption: ‘My husband died in an unexplained accident. And no one cared.’Illustration: Carl Godfrey/The Guardian
+
+We set out to match some of these incidents of autopilot errors with customers’ names. Like hundreds of other Tesla customers, Rita Meier entered the vehicle identification number of her husband’s Model S into the response form we published on the website of the German business newspaper Handelsblatt, for which we carried out our investigation. She quickly discovered that the Tesla Files contained data related to the car. In her first email to us, she wrote, “You can probably imagine what it felt like to read that.”
+
+There isn’t much information – just an Excel spreadsheet titled “Incident Review”. A Tesla employee noted that the mileage counter on Stefan Meier’s car stood at 4,765 miles at the time of the crash. The entry was catalogued just one day after the fatal accident. In the comment field was written, “Vehicle involved in an accident.” The cause of the crash remains unknown to this day. In Tesla’s internal system, a company employee had marked the case as “resolved”, but for five years, Rita Meier had been searching for answers. After Stefan’s death, she took over the family business – a timber company with 200 employees based in Tettnang, Baden-Württemberg. As journalists, we are used to tough interviews, but this one was different. We had to strike a careful balance – between empathy and the persistent questioning good reporting demands. “Why are you convinced the Tesla was responsible for your husband’s death?” we asked her. “Isn’t it possible he was distracted – maybe looking at his phone?”
+
+No one knows for sure. But Meier was well aware that Musk has previously claimed Tesla “releases critical crash data affecting public safety immediately and always will”; that he has bragged many times about how its superior handling of data sets the company apart from its competitors. In the case of her husband, why was she expected to believe there was no data?
+
+Meier’s account was structured and precise. Only once did the toll become visible – when she described how her husband’s body burned in full view of the firefighters. Her eyes filled with tears and her voice cracked. She apologised, turning away. After she collected herself, she told us she has nothing left to gain – but also nothing to lose. That was why she had reached out to us. We promised to look into the case.
+
+R ita Meier wasn’t the only widow to approach us. Disappointed customers, current and former employees, analysts and lawyers were sharing links to our reporting. Many of them contacted us. More than once, someone wrote that it was about time someone stood up to Tesla – and to Elon Musk.
+
+Meier, too, shared our articles and the callout form with others in her network – including people who, like her, lost loved ones in Tesla crashes. One of them was Anke Schuster. Like Meier, she had lost her husband in a Tesla crash that defies explanation and had spent years chasing answers. And, like Meier, she had found her husband’s Model X listed in the Tesla Files. Once again, the incident was marked as resolved – with no indication of what that actually meant.
+
+“My husband died in an unexplained and inexplicable accident,” Schuster wrote in her first email. Her dealings with police, prosecutors and insurance companies, she said, had been “hell”. No one seemed to understand how a Tesla works. “I lost my husband. His four daughters lost their father. And no one ever cared.”
+
+Her husband, Oliver, was a tech enthusiast, fascinated by Musk. A hotelier by trade, he owned no fewer than four Teslas. He loved the cars. She hated them – especially the autopilot. The way the software seemed to make decisions on its own never sat right with her. Now, she felt as if her instincts had been confirmed in the worst way.
+
+Oliver Schuster was returning from a business meeting on 13 April 2021 when his black Model X veered off highway B194 between Loitz and Schönbeck in north-east Germany. It was 12.50pm when the car left the road and crashed into a tree. Schuster started to worry when her husband missed a scheduled bank appointment. She tried to track the vehicle but found no way to locate it. Even calling Tesla led nowhere. That evening, the police broke the news: after the crash her husband’s car had burst into flames. He had burned to death – with the fire brigade watching helplessly.
+
+The crashes that killed Meier’s and Schuster’s husbands were almost three years apart but the parallels were chilling. We examined accident reports, eyewitness accounts, crash-site photos and correspondence with Tesla. In both cases, investigators had requested vehicle data from Tesla, and the company hadn’t provided it. In Meier’s case, Tesla staff claimed no data was available. In Schuster’s, they said there was no relevant data.
+
+Over the next two years, we spoke with crash victims, grieving families and experts around the world. What we uncovered was an ominous black box – a system designed not only to collect and control every byte of customer data, but to safeguard Musk’s vision of autonomous driving. Critical information was sealed off from public scrutiny.
+
+E lon Musk is a perfectionist with a tendency towards micromanagement. At Tesla, his whims seem to override every argument – even in matters of life and death. During our reporting, we came across the issue of door handles. On Teslas, they retract into the doors while the cars are being driven. The system depends on battery power. If an airbag deploys, the doors are supposed to unlock automatically and the handles extend – at least, that’s what the Model S manual says.
+
+The idea for the sleek, futuristic design stems from Musk himself. He insisted on retractable handles, despite repeated warnings from engineers. Since 2018, they have been linked to at least four fatal accidents in Europe and the US, in which five people died.
+
+In February 2024, we reported on a particularly tragic case: a fatal crash on a country road near Dobbrikow, in Brandenburg, Germany. Two 18-year-olds were killed when the Tesla they were in slammed into a tree and caught fire. First responders couldn’t open the doors because the handles were retracted. The teenagers burned to death in the back seat.
+
+A court-appointed expert from Dekra, one of Germany’s leading testing authorities, later concluded that, given the retracted handles, the incident “qualifies as a malfunction”. According to the report, “the failure of the rear door handles to extend automatically must be considered a decisive factor” in the deaths. Had the system worked as intended, “it is assumed that rescuers might have been able to extract the two backseat passengers before the fire developed further”. Without what the report calls a “failure of this safety function”, the teens might have survived.
+
+Image: https://i.guim.co.uk/img/media/511509a29216c13f086c528981f6804d99884aa6/0_47_2500_1406/2500.jpg?width=465&dpr=1&s=none&crop=none
+
+Caption: 'I feel like I'm in the movies': malfunctioning robotaxi traps passenger in car – video
+
+Our investigation made waves. The Kraftfahrt-Bundesamt, Germany’s federal motor transport authority, got involved and announced plans to coordinate with other regulatory bodies to revise international safety standards. Germany’s largest automobile club, ADAC, issued a public recommendation that Tesla drivers should carry emergency window hammers. In a statement, ADAC warned that retractable door handles could seriously hinder rescue efforts. Even trained emergency responders, it said, may struggle to reach trapped passengers. Tesla shows no intention of changing the design.
+
+That’s Musk. He prefers the sleek look of Teslas without handles, so he accepts the risk to his customers. His thinking, it seems, goes something like this: at some point, the engineers will figure out a technical fix. The same logic applies to his grander vision of autonomous driving: because Musk wants to be first, he lets customers test his unfinished Autopilot system on public roads. It’s a principle borrowed from the software world, where releasing apps in beta has long been standard practice. The more users, the more feedback and, over time – often years – something stable emerges. Revenue and market share arrive much earlier. The motto: if you wait, you lose.
+
+Musk has taken that mindset to the road. The world is his lab. Everyone else is part of the experiment.
+
+B y the end of 2023, we knew a lot about how Musk’s cars worked – but the way they handle data still felt like a black box. How is that data stored? At what moment does the onboard computer send it to Tesla’s servers? We talked to independent experts at the Technical University Berlin. Three PhD candidates – Christian Werling, Niclas Kühnapfel and Hans Niklas Jacob – made headlines for hacking Tesla’s autopilot hardware. A brief voltage drop on a circuit board turned out to be just enough to trick the system into opening up.
+
+The security researchers uncovered what they called “Elon Mode” – a hidden setting in which the car drives fully autonomously, without requiring the driver to keep his hands on the wheel. They also managed to recover deleted data, including video footage recorded by a Tesla driver. And they traced exactly what data Tesla sends to its servers – and what it doesn’t.
+
+The hackers explained that Tesla stores data in three places. First, on a memory card inside the onboard computer – essentially a running log of the vehicle’s digital brain. Second, on the event data recorder – a black box that captures a few seconds before and after a crash. And third, on Tesla’s servers, assuming the vehicle uploads them.
+
+The researchers told us they had found an internal database embedded in the system – one built around so-called trigger events. If, for example, the airbag deploys or the car hits an obstacle, the system is designed to save a defined set of data to the black box – and transmit it to Tesla’s servers. Unless the vehicles were in a complete network dead zone, in both the Meier and Schuster cases, the cars should have recorded and transmitted that data.
+
+Image: https://i.guim.co.uk/img/media/04888c2aacfe17d667734725fa2bcb1442c7a36e/1639_678_1702_1784/master/1702.jpg?width=445&dpr=1&s=none&crop=none
+
+Caption: ‘Is the car driving erratically by itself normal? Yeah, that happens every now and then.’Illustration: Carl Godfrey/The Guardian
+
+Who in the company actually works with that data? We examined testimony from Tesla employees in court cases related to fatal crashes. They described how their departments operate. We cross-referenced their statements with entries in the Tesla Files. A pattern took shape: one team screens all crashes at a high level, forwarding them to specialists – some focused on autopilot, others on vehicle dynamics or road grip. There’s also a group that steps in whenever authorities request crash data.
+
+We compiled a list of employees relevant to our reporting. Some we tried to reach by email or phone. For others, we showed up at their homes. If they weren’t there, we left handwritten notes. No one wanted to talk.
+
+We searched for other crashes. One involved Hans von Ohain, a 33-year-old Tesla employee from Evergreen, Colorado. On 16 May 2022, he crashed into a tree on his way home from a golf outing and the car burst into flames. Von Ohain died at the scene. His passenger survived and told police that von Ohain, who had been drinking, had activated Full Self-Driving. Tesla, however, said it couldn’t confirm whether the system was engaged – because no vehicle data was transmitted for the incident.
+
+Then, in February 2024, Musk himself stepped in. The Tesla CEO claimed von Ohain had never downloaded the latest version of the software – so it couldn’t have caused the crash. Friends of von Ohain, however, told US media he had shown them the system. His passenger that day, who barely escaped with his life, told reporters that hours earlier the car had already driven erratically by itself. “The first time it happened, I was like, ‘Is that normal?’” he recalled asking von Ohain. “And he was like, ‘Yeah, that happens every now and then.’”
+
+His account was bolstered by von Ohain’s widow, who explained to the media how overjoyed her husband had been at working for Tesla. Reportedly, von Ohain received the Full Self-Driving system as a perk. His widow explained how he would use the system almost every time he got behind the wheel: “It was jerky, but we were like, that comes with the territory of new technology. We knew the technology had to learn, and we were willing to be part of that.”
+
+The Colorado State Patrol investigated but closed the case without blaming Tesla. It reported that no usable data was recovered.
+
+F or a company that markets its cars as computers on wheels, Tesla’s claim that it had no data available in all these cases is surprising. Musk has long described Tesla vehicles as part of a collective neural network – machines that continuously learn from one another. Think of the Borg aliens from the Star Trek franchise. Musk envisions his cars, like the Borg, as a collective – operating as a hive mind, each vehicle linked to a unified consciousness.
+
+When a journalist asked him in October 2015 what made Tesla’s driver-assistance system different, he replied, “The whole Tesla fleet operates as a network. When one car learns something, they all learn it. That is beyond what other car companies are doing.” Every Tesla driver, he explained, becomes a kind of “expert trainer for how the autopilot should work”.
+
+According to Musk, the eight cameras in every Tesla transmit more than 160bn video frames a day to the company’s servers. In its owner’s manual, Tesla states that its cars may collect even more: “analytics, road segment, diagnostic and vehicle usage data”, all sent to headquarters to improve product quality and features such as autopilot. The company claims it learns “from the experience of billions of miles that Tesla vehicles have driven”.
+
+It is a powerful promise: a fleet of millions of cars, constantly feeding raw information into a gargantuan processing centre. Billions – trillions – of data points, all in service of one goal: making cars drive better and keeping drivers safe. At the start of this year, Musk got a chance to show the world what he meant.
+
+On 1 January 2025, at 8.39am, a Tesla Cybertruck exploded outside the Trump International Hotel Las Vegas. The man behind the incident – US special forces veteran Matthew Livelsberger – had rented the vehicle, packed it with fireworks, gas canisters and grenades, and parked it in front of the building. Just before the explosion, he shot himself in the head with a .50 calibre Desert Eagle pistol. “This was not a terrorist attack, it was a wakeup call. Americans only pay attention to spectacles and violence,” Livelsberger wrote in a letter later found by authorities. “What better way to get my point across than a stunt with fireworks and explosives.”
+
+The soldier miscalculated. Seven bystanders suffered minor injuries. The Cybertruck was destroyed, but not even the windows of the hotel shattered. Instead, with his final act, Livelsberger revealed something else entirely: just how far the arm of Tesla’s data machinery can reach. “The whole Tesla senior team is investigating this matter right now,” Musk wrote on X just hours after the blast. “Will post more information as soon as we learn anything. We’ve never seen anything like this.”
+
+Later that day, Musk posted again. Tesla had already analysed all relevant data – and was ready to offer conclusions. “We have now confirmed that the explosion was caused by very large fireworks and/or a bomb carried in the bed of the rented Cybertruck and is unrelated to the vehicle itself,” he wrote. “All vehicle telemetry was positive at the time of the explosion.”
+
+Suddenly, Musk wasn’t just a CEO; he was an investigator. He instructed Tesla technicians to remotely unlock the scorched vehicle. He handed over internal footage captured up to the moment of detonation.The Tesla CEO had turned a suicide attack into a showcase of his superior technology.
+
+Yet there were critics even in the moment of glory. “It reveals the kind of sweeping surveillance going on,” warned David Choffnes, executive director of the Cybersecurity and Privacy Institute at Northeastern University in Boston, when contacted by a reporter. “When something bad happens, it’s helpful, but it’s a double-edged sword. Companies that collect this data can abuse it.”
+
+Image: https://i.guim.co.uk/img/media/04888c2aacfe17d667734725fa2bcb1442c7a36e/485_3281_1534_1227/master/1534.jpg?width=445&dpr=1&s=none&crop=none
+
+Caption: ‘In many crashes, investigators weren’t even aware that requesting data from Tesla was an option.’Illustration: Carl Godfrey/The Guardian
+
+There are other examples of what Tesla’s data collection makes possible. We found the case of David and Sheila Brown, who died in August 2020 when their Model 3 ran a red light at 114mph in Saratoga, California. Investigators managed to reconstruct every detail, thanks to Tesla’s vehicle data. It shows exactly when the Browns opened a door, unfastened a seatbelt, and how hard the driver pressed the accelerator – down to the millisecond, right up to the moment of impact. Over time, we found more cases, more detailed accident reports. The data definitely is there – until it isn’t.
+
+In many crashes when Teslas inexplicably veered off the road or hit stationary objects, investigators didn’t actually request data from the company. When we asked authorities why, there was often silence. Our impression was that many prosecutors and police officers weren’t even aware that asking was an option. In other cases, they acted only when pushed by victims’ families.
+
+In the Meier case, Tesla told authorities, in a letter dated 25 June 2018, that the last complete set of vehicle data was transmitted nearly two weeks before the crash. The only data from the day of the accident was a “limited snapshot of vehicle parameters” – taken “approximately 50 minutes before the incident”. However, this snapshot “doesn’t show anything in relation to the incident”. As for the black box, Tesla warned that the storage modules were likely destroyed, given the condition of the burned-out vehicle. Data transmission after a crash is possible, the company said – but in this case, it didn’t happen. In the end, investigators couldn’t even determine whether driver-assist systems were active at the time of the crash.
+
+The Schuster case played out similarly. Prosecutors in Stralsund, Germany, were baffled. The road where the crash happened is straight, the asphalt was dry and the weather at the time of the accident was clear. Anke Schuster kept urging the authorities to examine Tesla’s telemetry data.
+
+When prosecutors did formally request the data recorded by Schuster’s car on the day of the crash, it took Tesla more than two weeks to respond – and when it did, the answer was both brief and bold. The company didn’t say there was no data. It said that there was “no relevant data”. The authorities’ reaction left us stunned. We expected prosecutors to push back – to tell Tesla that deciding what’s relevant is their job, not the company’s. But they didn’t. Instead, they closed the case.
+
+The hackers from TU Berlin pointed us to a study by the Netherlands Forensic Institute, an independent division of the ministry of justice and security. In October 2021, the NFI published findings showing it had successfully accessed the onboard memories of all major Tesla models. The researchers compared their results with accident cases in which police had requested data from Tesla. Their conclusion was that while Tesla formally complied with those requests, it omitted large volumes of data that might have proved useful.
+
+Tesla’s credibility took a further hit in a report released by the US National Highway Traffic Safety Administration in April 2024. The agency concluded that Tesla failed to adequately monitor whether drivers remain alert and ready to intervene while using its driver-assist systems. It reviewed 956 crashes, field data and customer communications, and pointed to “gaps in Tesla’s telematic data” that made it impossible to determine how often autopilot was active during crashes. If a vehicle’s antenna was damaged or it crashed in an area without network coverage, even serious accidents sometimes went unreported. Tesla’s internal statistics include only those crashes in which an airbag or other pyrotechnic system deployed – something that occurs in just 18% of police-reported cases. This means that the actual accident rate is significantly higher than Tesla discloses to customers and investors.
+
+There’s more. Two years prior, the NHTSA had flagged something strange – something suspicious. In a separate report, it documented 16 cases in which Tesla vehicles crashed into stationary emergency vehicles. In each, autopilot disengaged “less than one second before impact” – far too little time for the driver to react. Critics warn that this behaviour could allow Tesla to argue in court that autopilot was not active at the moment of impact, potentially dodging responsibility.
+
+The YouTuber Mark Rober, a former engineer at Nasa, replicated this behaviour in an experiment on 15 March 2025. He simulated a range of hazardous situations, in which the Model Y performed significantly worse than a competing vehicle. The Tesla repeatedly ran over a crash-test dummy without braking. The video went viral, amassing more than 14m views within a few days.
+
+Caption: Mark Rober’s Tesa test drive
+
+The real surprise came after the experiment. Fred Lambert, who writes for the blog Electrek, pointed out the same autopilot disengagement that the NHTSA had documented. “Autopilot appears to automatically disengage a fraction of a second before the impact as the crash becomes inevitable,” Lambert noted.
+
+And so the doubts about Tesla’s integrity pile up. In the Tesla Files, we found emails and reports from a UK-based engineer who led Tesla’s Safety Incident Investigation programme, overseeing the company’s most sensitive crash cases. His internal memos reveal that Tesla deliberately limited documentation of particular issues to avoid the risk of this information being requested under subpoena. Although he pushed for clearer protocols and better internal processes, US leadership resisted – explicitly driven by fears of legal exposure.
+
+We contacted Tesla multiple times with questions about the company’s data practices. We asked about the Meier and Schuster cases – and what it means when fatal crashes are marked “resolved” in Tesla’s internal system. We asked the company to respond to criticism from the US traffic authority and to the findings of Dutch forensic investigators. We also asked why Tesla doesn’t simply publish crash data, as Musk once promised to do, and whether the company considers it appropriate to withhold information from potential US court orders. Tesla has not responded to any of our questions.
+
+Elon Musk boasts about the vast amount of data his cars generate – data that, he claims, will not only improve Tesla’s entire fleet but also revolutionise road traffic. But, as we have witnessed again and again in the most critical of cases, Tesla refuses to share it.
+
+Tesla’s handling of crash data affects even those who never wanted anything to do with the company. Every road user trusts the car in front, behind or beside them not to be a threat. Does that trust still stand when the car is driving itself?
+
+Internally, we called our investigation into Tesla’s crash data Black Box. At first, because it dealt with the physical data units built into the vehicles – so-called black boxes. But the devices Tesla installs hardly deserve the name. Unlike the flight recorders used in aviation, they’re not fireproof – and in many of the cases we examined, they proved useless.
+
+Over time, we came to see that the name held a second meaning. A black box, in common parlance, is something closed to the outside. Something opaque. Unknowable. And while we’ve gained some insight into Tesla as a company, its handling of crash data remains just that: a black box. Only Tesla knows how Elon Musk’s vehicles truly work. Yet today, more than 5m of them share our roads.
+
+Some names have been changed.
