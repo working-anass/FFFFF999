@@ -4588,3 +4588,8 @@ Topic: Business
 Title: ‘A troubling halo of health’: how Celsius became Red Bull for women
 URL: https://www.theguardian.com/business/2024/sep/19/celsius-energy-drink
 
+Site: The Guardian
+Topic: World
+Title: Ukraine war briefing: power to Zaporizhzhia plant cut off as UN watchdog warns nuclear safety ‘extremely precarious’
+URL: https://www.theguardian.com/world/2025/jul/05/ukraine-war-briefing-power-to-zaporizhzhia-plant-cut-off-as-un-watchdog-warns-nuclear-safety-extremely-precarious
+
