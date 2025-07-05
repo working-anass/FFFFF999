@@ -4593,3 +4593,18 @@ Topic: World
 Title: Ukraine war briefing: power to Zaporizhzhia plant cut off as UN watchdog warns nuclear safety ‘extremely precarious’
 URL: https://www.theguardian.com/world/2025/jul/05/ukraine-war-briefing-power-to-zaporizhzhia-plant-cut-off-as-un-watchdog-warns-nuclear-safety-extremely-precarious
 
+Site: The Guardian
+Topic: Tv And Radio
+Title: Julian McMahon’s death is a sad, dramatic end to a magnetic talent, whose star was on the rise again
+URL: https://www.theguardian.com/tv-and-radio/2025/jul/05/julian-mcmahon-actor-talent-cause-of-death
+
+Site: The Guardian
+Topic: Football
+Title: Bellingham v Bellingham: the art of the deal, even if big date must wait
+URL: https://www.theguardian.com/football/2025/jul/04/dortmund-jobe-bellingham-jude-bellingham-club-world-cup-real-madrid
+
+Site: The Guardian
+Topic: Technology
+Title: Risks to children playing Roblox ‘deeply disturbing’, say researchers
+URL: https://www.theguardian.com/technology/2025/apr/14/risks-children-roblox-deeply-disturbing-researchers
+
