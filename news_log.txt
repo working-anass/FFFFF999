@@ -5033,3 +5033,13 @@ Topic: Technology
 Title: How ‘native English’ Scattered Spider group linked to M&S attack operate
 URL: https://www.theguardian.com/technology/2025/may/01/how-native-english-scattered-spider-group-linked-to-ms-attack-operate
 
+Site: The Guardian
+Topic: Football
+Title: Real Madrid survive late Dortmund scare to set up Club World Cup semi-final with PSG
+URL: https://www.theguardian.com/football/2025/jul/05/real-madrid-borussia-dortmund-club-world-cup-match-report
+
+Site: The Guardian
+Topic: Sport
+Title: Shubman Gill displays old-fashioned technique to break England’s resolve
+URL: https://www.theguardian.com/sport/2025/jul/05/shubman-gill-displays-old-fashioned-technique-to-break-englands-resolve
+
