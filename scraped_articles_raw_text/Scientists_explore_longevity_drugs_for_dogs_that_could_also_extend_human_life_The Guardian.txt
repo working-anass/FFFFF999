@@ -1,0 +1,53 @@
+Site: The Guardian
+Title: Scientists explore longevity drugs for dogs that could also ‘extend human life’
+URL: https://www.theguardian.com/science/2024/dec/26/scientists-explore-longevity-drugs-for-dogs-that-could-also-extend-human-life
+
+Not for nothing are dogs called man’s best friend: they are good for their owners’ mental and physical health, and some studies have shown that if you’re looking for a date and want to seem more attractive, it might be time to get a canine companion.
+
+So what would it be like if dogs could live for ever – and what if that secret could help their owners live longer, healthier lives too?
+
+A number of companies are now finding common ground between the two goals.
+
+Early next year, Loyal, a US biotech start-up , is confident that it will bring LOY-002, a daily, beef-flavoured pill, to market that could give dogs a minimum of one extra year of healthy life.
+
+The San Francisco-based firm has raised $125m (£100m) in funding from companies who have held back from investing in human longevity projects because of the decades those trials would take.
+
+But Celine Halioua, founder and chief executive of Loyal – which is part of Cellular Longevity, a biotech firm researching the science of longevity – believes their work will benefit humans.
+
+“Finding out how to prevent canine age-related decline is a really strong proxy for doing the same with humans because dogs get similar age-related diseases, and share our environments and habits in ways laboratory mice do not,” she said.
+
+The LOY-002 pill aims to blunt and reverse metabolic changes associated with ageing: reducing frailty by curbing ageing-related increases in insulin.
+
+“We’re not making immortal dogs,” said Halioua. “The way the drug extends lifespan, we hypothesise, is by extending health and thus shortening the rate of ageing.”
+
+The same goal is being sought in another laboratory almost 900 miles across America, where a team of academic researchers are feverishly testing the impact of rapamycin as part of the Dog Aging Project .
+
+Rapamycin, a cheap, easily produced drug already commonly used as an immunosuppressant for humans after organ transplant operations, has repeatedly been shown to increase lifespan and delay – or even reverse – many age-related disorders in mice.
+
+While the drug has not been approved for longevity use in humans, many gerontologists nevertheless see it as the best hope we have for pharmacologically slowing down the ageing process.
+
+The Dog Aging Project, the first large-scale, longitudinal study of large animals in a natural environment, suggests that low doses of rapamycin could increase dogs’ lifespan, improving both their heart and cognitive functions by regulating cell growth and metabolism.
+
+“Our study is light years ahead of anything that’s been done on humans or can be done on humans,” said Daniel Promislow, a biogerontologist at the University of Washington and a co-director of the project. “What we’re doing is the equivalent of a 40-year-long study on humans, testing the ability of a drug to increase healthy lifespan.”
+
+Kate Creevy, co-founder and chief veterinary officer of the project, said they were in the unique position of being able to split their findings not just by male and female dogs – but also pre- and post-spaying, or surgical sterilisation.
+
+“This means that our research could have interesting translational impacts for women pre- and post-menopause,” said Creevy. “We also have data on what age dogs have been spayed – which could cross over to the variation in age that women have their menopause – and data on why they were spayed, which could cross over to women who have had hysterectomies for medical reasons.”
+
+When the project finally reports in four to five years’ time, Promislow hopes to be able to prove that rapamycin has the power to give dogs an extra three years of healthy life.
+
+Promislow insists that it is realistic to hope that his research could cross over to humans. “If we’re successful with dogs, it could be a turning point in informing us how to give human populations extra healthy lifespan too,” he said.
+
+The search to extend dogs’ lives is warmly welcomed across the human longevity community.
+
+Prof Tom Rando, director of the University of California’s Broad Stem Cell Research Centre and one of the most respected names in the geroscience community, said the research is “fascinating”.
+
+“The work is one more piece in the puzzle that we hope will eventually give us the full picture about human longevity,” he said.
+
+“The more human the animal gets that we can test our longevity drugs on, the more confidence we can have that these drugs will work on humans too,” he said. “And having evidence of efficacy and safety in dogs gives us more confidence for doing human studies with these same drugs.”
+
+But Jamie Justice, adjunct professor in gerontology and geriatric medicine at Wake Forest University School of Medicine, said that without a consensus among scientists on a human biomarker of ageing in the form of a simple blood test scientists cannot test any drugs on humans, no matter how positive the results are elsewhere.
+
+“Because we can’t conduct 40-year-long longevity tests on humans, we need a universally agreed biomarker to show the impact of drugs on predictors of health problems that we agree correlate with ageing,” she said.
+
+“The goal of science now needs to be to agree those parameters. Then the work that will yield the most exciting results of all – because they will be results we can take to market – can begin.”

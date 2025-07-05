@@ -4638,3 +4638,33 @@ Topic: Sport
 Title: Hothouse kid Jamie Smith starts as he goes on and changes Test in 20 minutes
 URL: https://www.theguardian.com/sport/2025/jul/04/jamie-smith-changes-test-20-minutes-england-india
 
+Site: The Guardian
+Topic: Us News
+Title: Trump is waging war against the media - and winning
+URL: https://www.theguardian.com/us-news/ng-interactive/2025/jul/05/trump-attack-us-media
+
+Site: The Guardian
+Topic: Science
+Title: Lab-grown sperm and eggs just a few years away, scientists say
+URL: https://www.theguardian.com/science/2025/jul/05/lab-grown-sperm-and-eggs-scientists-reproduction
+
+Site: The Guardian
+Topic: Science
+Title: Scientists explore longevity drugs for dogs that could also ‘extend human life’
+URL: https://www.theguardian.com/science/2024/dec/26/scientists-explore-longevity-drugs-for-dogs-that-could-also-extend-human-life
+
+Site: The Guardian
+Topic: Football
+Title: Enzo Maresca excited by glimpse of Chelsea’s future with ‘huge talent’ Estêvão
+URL: https://www.theguardian.com/football/2025/jul/05/estevao-willian-palmeiras-chelsea-club-world-cup-quarter-final
+
+Site: The Guardian
+Topic: Technology
+Title: Report: ‘massive’ Tesla leak reveals data breaches, thousands of safety complaints
+URL: https://www.theguardian.com/technology/2023/may/26/tesla-data-leak-customers-employees-safety-complaints
+
+Site: The Guardian
+Topic: Lifeandstyle
+Title: Blind date: ‘Going way back, she was a mod and I was a rocker’
+URL: https://www.theguardian.com/lifeandstyle/2025/jul/05/blind-date-andrew-susan
+

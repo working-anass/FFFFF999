@@ -1,0 +1,55 @@
+Site: The Guardian
+Title: Lab-grown sperm and eggs just a few years away, scientists say
+URL: https://www.theguardian.com/science/2025/jul/05/lab-grown-sperm-and-eggs-scientists-reproduction
+
+Scientists are just a few years from creating viable human sex cells in the lab, according to an internationally renowned pioneer of the field, who says the advance could open up biology-defying possibilities for reproduction.
+
+Speaking to the Guardian, Prof Katsuhiko Hayashi, a developmental geneticist at the University of Osaka, said rapid progress is being made towards being able to transform adult skin or blood cells into eggs and sperm, a feat of genetic conjury known as in-vitro gametogenesis (IVG).
+
+His own lab is about seven years away from the milestone, he predicts. Other frontrunners include a team at the University of Kyoto and a California-based startup, Conception Biosciences, whose Silicon Valley backers include the OpenAI founder, Sam Altman and whose CEO told the Guardian that growing eggs in the lab “might be the best tool we have to reverse population decline” and could pave the way for human gene editing.
+
+“I feel a bit of pressure. It feels like being in a race,” said Hayashi, speaking before his talk at the European Society of Human Reproduction and Embryology’s (ESHRE) annual meeting in Paris this week. “On the other hand, I always try to persuade myself to keep to a scientific sense of value.”
+
+If shown to be safe, IVG could pave the way for anyone – regardless of fertility or age – to have biological children. And given that Hayashi’s lab previously created mice with two biological fathers , theoretically this could extend to same-sex couples.
+
+“We get emails from [fertility] patients, maybe once a week,” said Hayashi. “Some people say”: ‘I can come to Japan.’ So I feel the demand from people.”
+
+Matt Krisiloff, Conception’s CEO, told the Guardian that lab-grown eggs “could be massive in the future”.
+
+“Just the aspect alone of pushing the fertility clock … to potentially allow women to have children at a much older age would be huge,” he said. “Outside of social policy, in the long term this technology might be the best tool we have to reverse population decline dynamics due to its potential to significantly expand that family planning window.”
+
+In a presentation at the ESHRE conference, Hayashi outlined his team’s latest advances, including creating primitive mouse sperm cells inside a lab-grown testicle organoid and developing an human ovary organoid, a step on the path to being able to cultivate human eggs.
+
+IVG typically begins with genetically reprogramming adult skin or blood cells into stem cells, which have the potential to become any cell type in the body. The stem cells are then coaxed into becoming primordial germ cells, the precursors to eggs and sperm. These are then placed into a lab-grown organoid (itself cultured from stem cells) designed to give out the complex sequence of biological signals required to steer the germ cells on to the developmental path to becoming mature eggs or sperm.
+
+Inside the artificial mouse testes, measuring only about 1mm across, Hayashi’s team were able to grow spermatocytes, the precursors of sperm cells, at which point the cells died. It is hoped that an updated testicle organoid, with a better oxygen supply, will bring them closer to mature sperm.
+
+Hayashi estimated that viable lab-grown human sperm could be about seven years away. Sperm cultivated from female cells would be “technically challenging, but I don’t say it is impossible”, he added.
+
+Others agreed with Hayashi’s predicted timescale. “People might not realise how quickly the science is moving,” said Prof Rod Mitchell, research lead for male fertility preservation in children with cancer at the University of Edinburgh . “It’s now realistic that we will be looking at eggs or sperm generated from immature cells in the testicle or ovary in five or 10 years’ time. I think that is a realistic estimate rather than the standard answer to questions about timescale.”
+
+Prof Allan Pacey, a professor of andrology and deputy vice-president of the University of Manchester , agreed: “I think somebody will crack it. I’m ready for it. Whether society has realised, I don’t know.”
+
+While several labs have successfully produced baby mice from lab-grown eggs, creating viable human eggs has proved far more technically challenging. But a recent advance in understanding how eggs are held in a dormant state – as they are in the human ovary for more than a decade – could prove crucial.
+
+In the race to crack IVG, Hayashi suggested that his former colleague, Prof Mitinori Saitou, based at Kyoto University, or Conception Biosciences, which is entirely focused on producing clinical-grade human eggs, could be in the lead. “But they [Conception] are really, really secretive,” he said.
+
+Krisiloff declined to share specific developments, but said the biotech is “making really good progress on getting to a full protocol” and that in a best case scenario the technology could be “in the clinic within five years, but could be longer”.
+
+Most believe that years of testing would be required to ensure the lab-grown cells are not carrying dangerous genetic mutations that could be passed on to embryos – and any subsequent generations. Some of the mice born produced using lab-grown cells have had normal lifespans and been fertile.
+
+“We really need to prove that this kind of technology is safe,” said Hayashi. “This is a big obligation.”
+
+In the UK, lab-grown cells would be illegal to use in fertility treatment under current laws and the Human Fertilisation and Embryology Authority is already grappling with how the safety of lab grown eggs and sperm could be ensured and what tests would need to be completed before clinical applications could be considered.
+
+“The idea that you can take a cell that was never supposed to be a sperm or an egg and make it into a sperm or an egg is incredible,” said Mitchell, a member of the HFEA’s scientific and clinical advances advisory committee. “But it does bring the problem of safety. We need to be confident that it’s safe before we could ever use those cells to make a baby.”
+
+There is also a question over how the technology might be applied. A central motivation is to help those with infertility, but Hayashi said he is ambivalent about the technology’s application to allow much older women or same-sex couples to have biological children – in part, due to the potentially greater associated safety risks. However, if society were broadly in favour, he would not oppose such applications, he said.
+
+“Of course, although I made a [mouse] baby from two dads, that is actually not natural,” he said. “So I would say that the if the science brings outcomes that are not natural, we should be very, very careful.”
+
+Unibabies (with sperm and egg made from a single parent) or multiplex babies (with genetic contributions from more than two parents) would also be theoretically possible. “Would anyone want to try these two options?” said Prof Hank Greely, who researches law and bioethics at Stanford University. “I don’t see why but it’s a big world with lots of crazy people in it, some of whom are rich.”
+
+Others are ready to contemplate some of the more radical possibilities for the technology, such as mass-screening of embryos or genetically editing the stem cells used to create babies.
+
+“It’s true those are possibilities for this technology,” said Krisiloff, adding that appropriate regulations and ethical considerations would be important. “I personally believe doing things that can reduce the chance of disease for future generations would be a good thing when there are clear diseases that can be prevented, but it’s important to not get carried away.”
