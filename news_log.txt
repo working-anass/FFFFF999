@@ -4873,3 +4873,8 @@ Topic: Sport
 Title: In Djokovic’s sunset years, he loves what he does and still wants to be loved
 URL: https://www.theguardian.com/sport/2025/jul/05/novak-djokovic-sunset-years-wimbledon-2025
 
+Site: The Guardian
+Topic: World
+Title: ‘Harvey would say, we’re on the brink’: why conservatives are coming for a gay rights hero
+URL: https://www.theguardian.com/world/2025/jul/05/harvey-milk-trump-lgbtq-rights
+
