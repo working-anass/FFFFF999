@@ -4763,3 +4763,13 @@ Topic: Sport
 Title: Racing’s leaders lost control of narrative in Oisin Murphy drink-driving case
 URL: https://www.theguardian.com/sport/2025/jul/04/horse-racings-leaders-lost-control-of-narrative-in-oisin-murphy-drink-driving-case
 
+Site: The Guardian
+Topic: Sport
+Title: Donald Trump’s UFC stunt is more than a circus. It’s authoritarian theatre
+URL: https://www.theguardian.com/sport/2025/jul/05/trump-ufc-white-house-authoritarian-spectacle
+
+Site: The Guardian
+Topic: Football
+Title: England have gamechangers galore but must find another way to win Euros again
+URL: https://www.theguardian.com/football/2025/jul/05/england-gamechangers-find-another-way-to-win-euro-2025
+
