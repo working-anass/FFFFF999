@@ -4953,3 +4953,8 @@ Topic: Football
 Title: Miedema hits 100th Netherlands goal to upset Wales’ grand debut at Euro 2025
 URL: https://www.theguardian.com/football/2025/jul/05/wales-netherlands-womens-euro-2025-match-report
 
+Site: The Guardian
+Topic: Football
+Title: Nine-man PSG hold off Bayern Munich to reach Club World Cup semi-finals
+URL: https://www.theguardian.com/football/2025/jul/05/paris-saint-germain-bayern-munich-club-world-cup-match-report
+
