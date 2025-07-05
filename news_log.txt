@@ -4863,3 +4863,13 @@ Topic: Global Development
 Title: ‘Uncontacted’ Indigenous group attacks loggers in the Peruvian Amazon
 URL: https://www.theguardian.com/global-development/article/2024/aug/11/mashco-piro-peru-uncontacted-indigenous-group-loggers-conflict
 
+Site: The Guardian
+Topic: Us News
+Title: The Rev William Barber’s ‘moral movement’ confronts Trump’s America. Can it work?
+URL: https://www.theguardian.com/us-news/2025/jul/05/reverend-william-barber-moral-movement
+
+Site: The Guardian
+Topic: Sport
+Title: In Djokovic’s sunset years, he loves what he does and still wants to be loved
+URL: https://www.theguardian.com/sport/2025/jul/05/novak-djokovic-sunset-years-wimbledon-2025
+
