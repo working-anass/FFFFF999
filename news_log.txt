@@ -4743,3 +4743,18 @@ Topic: Football
 Title: Liverpool players join mourners in Portugal for Diogo Jota’s funeral
 URL: https://www.theguardian.com/football/2025/jul/05/liverpool-players-and-citys-ruben-dias-in-portugal-for-diogo-jotas-funeral
 
+Site: The Guardian
+Topic: Science
+Title: Therapy wars: the revenge of Freud
+URL: https://www.theguardian.com/science/2016/jan/07/therapy-wars-revenge-of-freud-cognitive-behavioural-therapy
+
+Site: The Guardian
+Topic: Science
+Title: How goalkeepers can use an illusion to save penalty kicks
+URL: https://www.theguardian.com/science/neurophilosophy/2014/aug/18/muller-lyer-illusion-goalkeeping
+
+Site: The Guardian
+Topic: Business
+Title: How has Ryanair changed its cabin baggage rule – and will other airlines do it too?
+URL: https://www.theguardian.com/business/2025/jul/05/ryanair-changed-cabin-baggage-rule-airlines-free-cabin-bag-eu
+

@@ -1,0 +1,37 @@
+Site: The Guardian
+Title: How goalkeepers can use an illusion to save penalty kicks
+URL: https://www.theguardian.com/science/neurophilosophy/2014/aug/18/muller-lyer-illusion-goalkeeping
+
+A sportsperson’s performance on the playing field can alter the way they see things, which in turn can affect their subsequent performance. A football player who scores a goal, for example, will perceive their target as being bigger than it actually is , making it easier for them to score again, whereas a miss makes them perceive it as smaller and, therefore, harder to hit.
+
+This interplay between action and perception happens subconsciously, and so we have little or no control over it. But could players also influence their opponent’s actions by deliberately altering their perceptions? The answer seems to be “yes” - according to a small study published in 2008, goalkeepers can influence the direction and accuracy of penalty kicks by adopting a posture that mimics a classic optical illusion.
+
+Image: https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2014/8/18/1408374027225/49ee6940-61a6-492b-a402-c67ed8bce547-bestSizeAvailable.png?width=120&dpr=1&s=none&crop=none
+
+Caption: The Müller-Lyer illusion. Source:WikipediaPhotograph: Wikipedia
+
+The Müller-Lyer illusion (left) is a well-known illusion consisting of two parallel lines, one bounded by arrowheads pointing towards each other, the other by arrowheads pointing away from each other. Although both are exactly tye same length, people typically perceive one as being longer than the other, and this is often explained in terms of depth cues: We perceive one line as representing the inside corner of a room, and the other as representing the near corner of a building. Because depth perception involves judging distances, we assume that the inside corner is farther away, and therefore perceive that line to be the longer of the two.
+
+Research into the Müller-Lyer illusion has focused almost exclusively on how people perceive abstract geometrical figures under laboratory conditions, and has rarely examined how they might affect everyday life. One exception is this 2003 study , which showed that high-cut bathing suits make women’s legs look longer, because the Y-shaped contours formed by the leg openings mimic one set of arrowheads in the illusion.
+
+Psychologists John van der Kamp and Rich Masters decided to examine whether goalkeepers can influence penalty-takers’ behaviour by adopting postures that mimic the Müller-Lyer illusion.
+
+In football, the goal is eight yards wide and eight feet high, and penalty shots are taken from a spot just 12 yards in front of the goal mouth, at an average speed of 70 miles per hour. In this situation, then, the goalkeeper has very little time to react, and the odds are stacked heavily against them. They can, however, try to anticipate where the ball will go using information form the penalty-taker’s movements.
+
+In 2007, van der Kamp and Masters showed that goalkeepers can also influence the direction of the penalty kick by standing very slightly off-centre . In this follow-up study, they wanted to find out if postures that mimic the Müller-Lyer illusion can influence penalty-takers’ actions by altering their perception of the goalkeeper’s size.
+
+They recruited 15 male undergraduates and showed them photographs of goalkeepers standing in one of four different postures - the “arms-out” posture, with their arms stretched out to the side at shoulder height; “arms-up,” with their arms pointing upwards and outwards; “arms-down,” with their arms out and pointing downwards; and “arms-parallel,” with their arms held alongside their bodies.
+
+Each participant was shown each of these photographs five times, in a randomised order and, after viewing each photograph, was then asked to estimate the goalkeeper’s height by making a mark on a vertical line on a sheet of paper. The participants overestimated the height of the goalkeeper adopting the “arms-up” posture by an average of 0.24cm, but underestimated the size of those in the “arms-down” and “arms-parallel” postures, by an average of 0.35 and 0.51cm, respectively, regardless of the actual size of the person in the photograph.
+
+Having established that the goalkeeper’s posture can influence perception of their size, the researchers ran another experiment designed to test how this might affect aiming accuracy. In a pilot study they had shown that participants were more accurate at throwing than at kicking, and so they used simulated handball penalty throws instead of penalty kicks.
+
+In this experiment, another 24 male undergraduates were asked to throw balls at a handball goal projected onto a screen together with one of the four goalkeeper photographs used in the previous experiment. The researchers used high-speed video cameras to record the trajectory of each throw, and used the footage to determine where each throw landed relative to the goalkeeper’s midline.
+
+When the photograph showed the goalkeeper in the “arms-up” posture, the participants perceived him to bigger than he actually was, and consequently threw the balls further from his body, by an average of nearly 4cm. But when it showed him in the “arms-down” or “arms=parallel” postures, they perceived him as being smaller, and so threw the balls closer to him.
+
+This suggests that postures which make the goalkeeper seem bigger will result in the penalty-taker directing the ball away from his body, whereas those that make him seem smaller are more likely to result in penalty kicks aimed closer to them.
+
+A goalkeeper may thus influence the penalty-taker’s actions, and increase the likelihood that they will save a penalty kick, by adjusting their posture accordingly. van der Kamp and Masters conclude that “analysis of real-life goalkeeper behaviour may bear this out,” and since then have published preliminary data suggesting that their findings are indeed applicable to real-life situations .
+
+Reference : van der Kamp, J. & Masters, R. S. W. (2008). The human Müller-Lyer illusion in goalkeeping. Perception , 37 : 951-954. [ PDF ]
