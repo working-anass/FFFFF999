@@ -4968,3 +4968,13 @@ Topic: Sport
 Title: Alex Mitchell helps error-prone Lions edge past gritty NSW Waratahs
 URL: https://www.theguardian.com/sport/2025/jul/05/nsw-waratahs-british-irish-lions-tour-rugby-union-match-report
 
+Site: The Guardian
+Topic: World
+Title: LGBTQ+ figures criticise supreme court’s gender ruling at London Pride
+URL: https://www.theguardian.com/world/2025/jul/05/lgbtq-figures-criticise-supreme-courts-gender-ruling-at-london-pride
+
+Site: The Guardian
+Topic: Business
+Title: Bernie Marcus, Home Depot cofounder and Trump mega-donor, dies aged 95
+URL: https://www.theguardian.com/business/2024/nov/05/bernie-marcus-home-depot-dead
+
