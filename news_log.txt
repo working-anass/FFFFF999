@@ -4853,3 +4853,13 @@ Topic: Society
 Title: I was sexually assaulted by a celebrity after starring in a cult film at 19. My quest for justice changed the course of my life
 URL: https://www.theguardian.com/society/2025/jul/05/jenny-evans-sexually-assaulted-celebrity-my-quest-for-justice-changed-my-life
 
+Site: The Guardian
+Topic: Environment
+Title: Poison in the water: the town with the world’s worst case of forever chemicals contamination
+URL: https://www.theguardian.com/environment/2025/jun/19/world-worst-case-of-pfas-forever-chemicals-contamination-kallinge
+
+Site: The Guardian
+Topic: Global Development
+Title: ‘Uncontacted’ Indigenous group attacks loggers in the Peruvian Amazon
+URL: https://www.theguardian.com/global-development/article/2024/aug/11/mashco-piro-peru-uncontacted-indigenous-group-loggers-conflict
+
