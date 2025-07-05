@@ -4913,3 +4913,8 @@ Topic: Football
 Title: Transfer news: Jamie Gittens completes £55m Chelsea switch, Forest land Jesus
 URL: https://www.theguardian.com/football/2025/jul/05/transfer-news-jamie-gittens-completes-55m-chelsea-switch-nottingham-forest-sign-igor-jesus
 
+Site: The Guardian
+Topic: World
+Title: Israel continues airstrikes on Gaza after Hamas says it is ready for ceasefire talks
+URL: https://www.theguardian.com/world/2025/jul/05/israel-airstrikes-gaza-hamas-ceasefire-talks
+
