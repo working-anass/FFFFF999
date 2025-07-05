@@ -4678,3 +4678,13 @@ Topic: Technology
 Title: Trump to start TikTok sale talks with China, he says, with deal ‘pretty much’ reached
 URL: https://www.theguardian.com/technology/2025/jul/05/trump-to-start-tiktok-sale-talks-with-china-he-says-with-deal-pretty-much-reached
 
+Site: The Guardian
+Topic: Us News
+Title: Trump news at a glance: President rings in Independence Day by signing his ‘big, beautiful’ bill into law
+URL: https://www.theguardian.com/us-news/2025/jul/05/trump-news-at-a-glance-president-rings-in-independence-day-by-signing-his-big-beautiful-bill-into-law
+
+Site: The Guardian
+Topic: Science
+Title: ‘I think there is life there. Today’: the race to put a human on Mars – in pictures
+URL: https://www.theguardian.com/science/2025/jan/11/i-think-there-is-life-there-today-the-race-to-put-a-human-on-mars-in-pictures
+
