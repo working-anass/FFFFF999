@@ -4738,3 +4738,8 @@ Topic: Business
 Title: Leaders of Russia and China snub Brics summit in sign group’s value may be waning
 URL: https://www.theguardian.com/business/2025/jul/05/leaders-of-russia-and-china-snub-brics-summit-in-sign-groups-value-may-be-waning
 
+Site: The Guardian
+Topic: Football
+Title: Liverpool players join mourners in Portugal for Diogo Jota’s funeral
+URL: https://www.theguardian.com/football/2025/jul/05/liverpool-players-and-citys-ruben-dias-in-portugal-for-diogo-jotas-funeral
+
