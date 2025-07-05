@@ -1,0 +1,51 @@
+Site: The Guardian
+Title: Buy now, pay later loans will now affect US credit scores – what does that mean for consumers?
+URL: https://www.theguardian.com/business/2025/jul/05/bnpl-credit-score
+
+A new change to buy now, pay later loans means borrowers’ credit scores may see a change, which has worried some users of the loans.
+
+“I have a feeling that I’m just not going to have as much access to spending power and zero or really low APR rates,” said Nicole Nitta, a 31-year-old Las Vegas resident, who uses BNPL and shared that she already does not have great credit.
+
+Fico, the credit scoring company used by most US lenders, announced on 23 June that they would include BNPL loans, which play “an increasingly important role in consumers’ financial lives”, to help lenders more “accurately evaluate credit readiness”.
+
+For users of companies like Affirm , Afterpay and Klarna , the new calculation could benefit them because it allows them to build their credit – if, of course, they pay back the loans on time, experts say.
+
+Nitta first used BNPL for essentials in 2021, like non-perishable food items. She was out of work and “basically living off of savings”, she said.
+
+Now, working as an office manager for a private therapy practice and studying marriage and family therapy, Nitta is more stable financially but has significant student loan debt. She has since used BNPL for Christmas gifts and dishware when she moved into a new apartment, but said she always makes her payments on time.
+
+Ted Rossman, a senior industry analyst at the financial site Bankrate, says: “if you’re using buy now, pay later responsibly,” like Nitta, “I would argue [the change] should help you as a steppingstone to improve your credit, and maybe it helps you get your first credit card or car loan.
+
+“The main downside is if it dings you because you’re paying late or racking up too much debt. I would say that’s a fair consequence, because that is what happens on credit cards and other products,” he added.
+
+Companies like Affirm, Afterpay and Klarna were founded more than a decade ago, but their usage expanded significantly during the Covid-19 pandemic. These companies provided $180m in loans totaling more than $24bn in 2021, an almost tenfold increase from 2019, according to the Consumer Financial Protection Bureau .
+
+Fumiko Hayashi, a vice-president at the Federal Reserve Bank of Kansas City who conducts economic research on payments, noted that the change was due to a shift from purchasing in stores to buying online – in addition to an economic downturn during the pandemic.
+
+A typical BNPL loan allows consumers to divide a $50 to $1,000 purchase into four interest-free instalments. If a borrower does not make the required payments, then the lender charges them a late fee. Lenders also charge transaction fees to merchants.
+
+BNPL is most popular among people ages 33 and under, who represented 70% of borrowers of such loans in 2022, according to the financial protection bureau .
+
+Hayashi noted that a downside for the younger users is “if they keep using BNPL only and they don’t use a credit card at all, they cannot build credit history”. With Fico’s change, using BNPL responsibly could be beneficial for some younger users with no previous credit history – but less so for those not as responsible.
+
+For most users, Fico and Affirm say, including BNPL data in credit reports produced higher scores or no score changes – a finding in a year-long report released in February that looked at 500,000 consumers.
+
+Still, there are people who could be hurt by Fico using BNPL data. People with sub-prime or deep sub-prime credit scores obtained more than 60% of new BNPL loans from 2021 to 2022, according to the financial protection bureau .
+
+And 24% of BNPL borrowers were late making a payment in 2024, a 6% increase from the prior year, according to the Federal Reserve . Among people who make $25,000 or less, the rate increased from 31% to 40%.
+
+Notably, BNPL access “significantly reduces the sensitivity of spending relative to income”, according to a Harvard Business School report .
+
+“This effect is concentrated among individuals likely to be liquidity constrained, specifically, lower-income users and users without credit cards,” the report notes.
+
+Becca, a 26-year-old tech worker in New York who declined to use her last name, said she used BNPL for things like pricier beauty products – including a Chanel perfume. She said she might “spend like 80 bucks this month on it and make two separate $40 payments, and then next month, I pay off the rest”.
+
+While the payment option has helped her, she is concerned about companies like DoorDash offering BNPL for minor purchases like a pizza delivery .
+
+“It’s just encouraging poor spending behavior from young people,” Becca said. “All these items build up because you’re using it again and again and again. You don’t feel like you’re spending a lot of money.”
+
+It may be some time before the economy feels the impact of the new credit score calculation, Rossman said. While Fico stated that it would make the new scores available in fall 2025, most lenders continue to use a credit score model from 2009, (despite Fico since releasing new versions).
+
+“Change comes relatively slowly in the credit scoring world, so even if this becomes available in the fall, that doesn’t mean everybody is going to be using it right away,” said Rossman.
+
+“It’s kind of like your phone. For instance, Apple has the iPhone 16, but a lot of people are still using the 15 or the 14 or even older models. Credit scoring works the same way.”
