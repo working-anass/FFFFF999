@@ -4958,3 +4958,13 @@ Topic: Football
 Title: Nine-man PSG hold off Bayern Munich to reach Club World Cup semi-finals
 URL: https://www.theguardian.com/football/2025/jul/05/paris-saint-germain-bayern-munich-club-world-cup-match-report
 
+Site: The Guardian
+Topic: World
+Title: Alleged organiser of shooting of Colombian senator caught by police
+URL: https://www.theguardian.com/world/2025/jul/05/alleged-organiser-of-shooting-of-colombian-senator-caught-by-police
+
+Site: The Guardian
+Topic: Sport
+Title: Alex Mitchell helps error-prone Lions edge past gritty NSW Waratahs
+URL: https://www.theguardian.com/sport/2025/jul/05/nsw-waratahs-british-irish-lions-tour-rugby-union-match-report
+
