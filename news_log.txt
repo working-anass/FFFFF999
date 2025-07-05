@@ -4888,3 +4888,8 @@ Topic: Uk News
 Title: Met police arrest activists holding signs referring to Palestine Action
 URL: https://www.theguardian.com/uk-news/2025/jul/05/palestine-action-activists-arrested-london-gandhi-statue
 
+Site: The Guardian
+Topic: Technology
+Title: Elon Musk’s proposed new political party could focus on a few pivotal congressional seats
+URL: https://www.theguardian.com/technology/2025/jul/05/elon-musk-america-party-congress
+
