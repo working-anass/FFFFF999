@@ -4553,3 +4553,23 @@ Topic: Uk News
 Title: Home Office announces ‘nationwide blitz’ on asylum seekers taking jobs
 URL: https://www.theguardian.com/uk-news/2025/jul/05/home-office-announces-nationwide-blitz-on-asylum-seekers-taking-jobs
 
+Site: The Guardian
+Topic: Film
+Title: Julian McMahon, Fantastic Four, Nip/Tuck and Charmed actor, dies aged 56
+URL: https://www.theguardian.com/film/2025/jul/05/julian-mcmahon-dies-aged-56-cause-of-death-fantastic-four-niptuck-charmed
+
+Site: The Guardian
+Topic: Football
+Title: Jule Brand’s stunner gets Germany off to perfect start against stubborn Poland
+URL: https://www.theguardian.com/football/2025/jul/04/germany-poland-womens-euro-2025-match-report
+
+Site: The Guardian
+Topic: Music
+Title: Oasis review – a shameless trip back to the 90s for Britpop’s loudest, greatest songs
+URL: https://www.theguardian.com/music/2025/jul/05/oasis-review-playlist-oasis-big-on-the-first-two-albums-with-little-left-to-chance
+
+Site: Al Jazeera
+Topic: Liveblog
+Title: Hamas says ready to start Gaza ceasefire talks with Israel ‘immediately’
+URL: https://www.aljazeera.com/news/liveblog/2025/7/5/live-hamas-says-ready-to-start-gaza-ceasefire-talks-with-israel
+
