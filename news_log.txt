@@ -4668,3 +4668,13 @@ Topic: Lifeandstyle
 Title: Blind date: ‘Going way back, she was a mod and I was a rocker’
 URL: https://www.theguardian.com/lifeandstyle/2025/jul/05/blind-date-andrew-susan
 
+Site: The Guardian
+Topic: Football
+Title: Anxiety and excitement combine for Williamson with Wiegman’s new England
+URL: https://www.theguardian.com/football/2025/jul/04/euro-2025-williamson-wiegman-new-england-france
+
+Site: The Guardian
+Topic: Technology
+Title: Trump to start TikTok sale talks with China, he says, with deal ‘pretty much’ reached
+URL: https://www.theguardian.com/technology/2025/jul/05/trump-to-start-tiktok-sale-talks-with-china-he-says-with-deal-pretty-much-reached
+
