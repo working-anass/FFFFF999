@@ -4708,3 +4708,18 @@ Topic: Environment
 Title: How a £1.5bn ‘wildlife-boosting’ bypass became an environmental disaster
 URL: https://www.theguardian.com/environment/2025/jul/05/cambridgeshire-a14-road-wildlife-environmental-disaster
 
+Site: The Guardian
+Topic: World
+Title: ‘They’re skin and bones’: doctors in Gaza warn babies at risk of death from lack of formula
+URL: https://www.theguardian.com/world/2025/jul/05/theyre-skin-and-bones-doctors-in-gaza-warn-babies-at-risk-of-death-from-lack-of-formula
+
+Site: The Guardian
+Topic: Science
+Title: Neuroscientist Anil Seth: ‘We risk not understanding the central mystery of life’
+URL: https://www.theguardian.com/science/2021/aug/21/neuroscientist-anil-seth-we-risk-not-understanding-the-central-mystery-of-life
+
+Site: The Guardian
+Topic: Lifeandstyle
+Title: Tim Dowling: a rake has it in for me – and the tortoise
+URL: https://www.theguardian.com/lifeandstyle/2025/jul/05/tim-dowling-a-rake-has-it-in-for-me-and-the-tortoise
+
