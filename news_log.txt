@@ -4698,3 +4698,13 @@ Topic: Culture
 Title: Steve Coogan accuses Labour of paving way for Reform UK
 URL: https://www.theguardian.com/culture/2025/jul/05/steve-coogan-accuses-keir-starmer-labour-of-paving-way-for-reform-uk
 
+Site: The Guardian
+Topic: Us News
+Title: Here we go again: latest Trump tariff deadline looms amid inflation concerns
+URL: https://www.theguardian.com/us-news/2025/jul/05/trump-tariff-pause-inflation
+
+Site: The Guardian
+Topic: Environment
+Title: How a £1.5bn ‘wildlife-boosting’ bypass became an environmental disaster
+URL: https://www.theguardian.com/environment/2025/jul/05/cambridgeshire-a14-road-wildlife-environmental-disaster
+
