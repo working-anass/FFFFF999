@@ -4758,3 +4758,8 @@ Topic: Business
 Title: How has Ryanair changed its cabin baggage rule – and will other airlines do it too?
 URL: https://www.theguardian.com/business/2025/jul/05/ryanair-changed-cabin-baggage-rule-airlines-free-cabin-bag-eu
 
+Site: The Guardian
+Topic: Sport
+Title: Racing’s leaders lost control of narrative in Oisin Murphy drink-driving case
+URL: https://www.theguardian.com/sport/2025/jul/04/horse-racings-leaders-lost-control-of-narrative-in-oisin-murphy-drink-driving-case
+
