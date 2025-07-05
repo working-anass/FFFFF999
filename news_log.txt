@@ -4688,3 +4688,13 @@ Topic: Science
 Title: ‘I think there is life there. Today’: the race to put a human on Mars – in pictures
 URL: https://www.theguardian.com/science/2025/jan/11/i-think-there-is-life-there-today-the-race-to-put-a-human-on-mars-in-pictures
 
+Site: The Guardian
+Topic: Environment
+Title: Country diary: The sense of emptiness in these driven-grouse moors stirs a deep melancholy
+URL: https://www.theguardian.com/environment/2025/jul/05/country-diary-the-sense-of-emptiness-in-these-driven-grouse-moors-stirs-a-deep-melancholy
+
+Site: The Guardian
+Topic: Culture
+Title: Steve Coogan accuses Labour of paving way for Reform UK
+URL: https://www.theguardian.com/culture/2025/jul/05/steve-coogan-accuses-keir-starmer-labour-of-paving-way-for-reform-uk
+
