@@ -5008,3 +5008,8 @@ Topic: Football
 Title: Baltimore fires France to opening win against England to end Wiegman’s Euro record
 URL: https://www.theguardian.com/football/2025/jul/05/france-england-womens-euro-2025-match-report
 
+Site: The Guardian
+Topic: Science
+Title: ‘Amazing’ Viking-age treasure travelled half the world to Scotland, analysis finds
+URL: https://www.theguardian.com/science/article/2024/sep/01/amazing-viking-age-treasure-travelled-half-the-world-to-scotland-analysis-finds
+
