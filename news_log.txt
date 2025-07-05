@@ -4938,3 +4938,8 @@ Topic: Sport
 Title: Tour de France 2025: Philipsen wins chaotic first stage as Evenepoel and Roglic suffer
 URL: https://www.theguardian.com/sport/2025/jul/05/tour-de-france-2025-philipsen-wins-chaotic-first-stage-as-evenepoel-and-roglic-suffer
 
+Site: The Guardian
+Topic: World
+Title: Britain re-establishing diplomatic relations with Syria, announces David Lammy
+URL: https://www.theguardian.com/world/2025/jul/05/britain-re-establishing-diplomatic-relations-with-syria-announces-david-lammy
+
