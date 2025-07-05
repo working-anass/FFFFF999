@@ -4608,3 +4608,8 @@ Topic: Technology
 Title: Risks to children playing Roblox ‘deeply disturbing’, say researchers
 URL: https://www.theguardian.com/technology/2025/apr/14/risks-children-roblox-deeply-disturbing-researchers
 
+Site: The Guardian
+Topic: Football
+Title: Chelsea edge Palmeiras as late deflection books Club World Cup semi-final spot
+URL: https://www.theguardian.com/football/2025/jul/05/palmeiras-chelsea-club-world-cup-quarter-final-match-report
+
