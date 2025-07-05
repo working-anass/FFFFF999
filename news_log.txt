@@ -4788,3 +4788,8 @@ Topic: Business
 Title: Sellout or washout: will the boom in huge outdoor concerts be sustained after Oasis?
 URL: https://www.theguardian.com/business/2025/jul/05/huge-outdoor-concerts-after-oasis
 
+Site: The Guardian
+Topic: Business
+Title: Co-op to stop sourcing goods from Israel, Iran and 15 other countries
+URL: https://www.theguardian.com/business/2025/jun/24/co-op-to-stop-sourcing-products-from-countries-that-violate-human-rights
+
