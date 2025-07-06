@@ -5113,3 +5113,8 @@ Topic: News
 Title: Reboots and remakes: why is Hollywood stuck on repeat?
 URL: https://www.theguardian.com/news/ng-interactive/2025/jul/06/reboots-and-remakes-why-is-hollywood-stuck-on-repeat
 
+Site: The Guardian
+Topic: Football
+Title: How a Colombian podcast shed light on Bobby Moore and the ‘bracelet of Bogotá’
+URL: https://www.theguardian.com/football/2025/jul/06/colombian-podcast-bobby-moore-england-arrest-bracelet-bogota-football
+
