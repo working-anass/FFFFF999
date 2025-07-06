@@ -5043,3 +5043,8 @@ Topic: Sport
 Title: Shubman Gill displays old-fashioned technique to break England’s resolve
 URL: https://www.theguardian.com/sport/2025/jul/05/shubman-gill-displays-old-fashioned-technique-to-break-englands-resolve
 
+Site: The Guardian
+Topic: Uk News
+Title: Man spared jail after 'one-punch' killing of teenager in Crete
+URL: https://www.theguardian.com/uk-news/2018/jun/19/man-crete-court-one-punch-killing-harrow-archie-lloyd-malia
+
