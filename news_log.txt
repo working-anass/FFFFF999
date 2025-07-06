@@ -5073,3 +5073,8 @@ Topic: Music
 Title: Black Sabbath and Ozzy Osbourne: Back to the Beginning review – all-star farewell to the gods of metal is epic and emotional
 URL: https://www.theguardian.com/music/2025/jul/06/black-sabbath-and-ozzy-osbourne-back-to-the-beginning-review-all-star-farewell-to-the-gods-of-metal-is-epic-and-emotional
 
+Site: The Guardian
+Topic: World
+Title: Ali Khamenei, Iran’s supreme leader, makes first public appearance since Israel war
+URL: https://www.theguardian.com/world/2025/jul/06/ali-khamenei-irans-supreme-leader-makes-first-public-appearance-since-israel-war
+
