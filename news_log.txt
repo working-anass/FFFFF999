@@ -5163,3 +5163,8 @@ Topic: Business
 Title: Anger as Nationwide refuses members a binding vote on boss’s 43% pay hike
 URL: https://www.theguardian.com/business/2025/jul/06/anger-as-nationwide-refuses-members-a-binding-vote-on-bosss-43-pay-hike
 
+Site: The Guardian
+Topic: Business
+Title: The spirit of the G8 ‘make poverty history’ summit of 2005 seems long gone
+URL: https://www.theguardian.com/business/2025/jul/06/g8-make-poverty-history-summit-2005-debt-relief
+
