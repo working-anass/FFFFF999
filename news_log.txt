@@ -5393,3 +5393,8 @@ Topic: Tv And Radio
 Title: Live Aid at 40: When Rock ’n’ Roll Took on the World review – the moment Bob Geldof bursts into tears is astounding
 URL: https://www.theguardian.com/tv-and-radio/2025/jul/06/live-aid-at-40-when-rock-n-roll-took-on-the-world-review-bob-geldof-bbc2
 
+Site: The Guardian
+Topic: Football
+Title: Switzerland keep Euro 2025 dream alive after Reuteler and Pilgrim knock out Iceland
+URL: https://www.theguardian.com/football/2025/jul/06/switzerland-iceland-euro-2025-match-report
+
