@@ -5188,3 +5188,8 @@ Topic: Lifeandstyle
 Title: This is how we do it: ‘It’s been exciting to introduce him to toys, role play and unusual positions’
 URL: https://www.theguardian.com/lifeandstyle/2025/jul/06/this-is-how-we-do-it-its-been-exciting-to-introduce-him-to-toys-role-play-and-unusual-positions
 
+Site: The Guardian
+Topic: Football
+Title: Arsenal sign £50m-plus Martín Zubimendi after seeing off Real Madrid interest
+URL: https://www.theguardian.com/football/2025/jul/06/arsenal-sign-martin-zubimendi-real-madrid-interest-real-sociedad
+
