@@ -5128,3 +5128,18 @@ Topic: Politics
 Title: Big pay days and top of the polls: Nigel Farage’s first year as an MP
 URL: https://www.theguardian.com/politics/2025/jul/06/nigel-farage-first-year-reform-mp
 
+Site: The Guardian
+Topic: Environment
+Title: I was jailed for four years for a non-violent climate protest – this is my prison diary
+URL: https://www.theguardian.com/environment/2025/jan/25/just-stop-oil-jailed-four-years-non-violent-climate-protest-prison-diary
+
+Site: The Guardian
+Topic: Football
+Title: Transfer news has lost its sense of wonder and surprise in era of ‘my sources tell me …’
+URL: https://www.theguardian.com/football/2025/jul/06/transfer-window-influencers-jurgen-klinsmann-chris-waddle-football
+
+Site: The Guardian
+Topic: Football
+Title: Estêvão shows Chelsea he can form dangerous partnership with Palmer
+URL: https://www.theguardian.com/football/2025/jul/06/estevao-chelsea-cole-palmer-club-world-cup
+
