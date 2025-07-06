@@ -5353,3 +5353,8 @@ Topic: World
 Title: Israeli strikes kill at least 38 in Gaza as ceasefire talks reach critical point
 URL: https://www.theguardian.com/world/2025/jul/06/israeli-strikes-gaza-ceasefire-talks-critical-point-netanyahu
 
+Site: The Guardian
+Topic: Sport
+Title: Ben Stokes’ waning influence with the bat on display in England’s soggy defeat
+URL: https://www.theguardian.com/sport/2025/jul/06/ben-stokes-waning-influence-with-the-bat-on-display-in-englands-soggy-defeat
+
