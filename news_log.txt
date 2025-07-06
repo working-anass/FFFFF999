@@ -5323,3 +5323,13 @@ Topic: Sport
 Title: Akash Deep claims six wickets as India crush England to level Test series
 URL: https://www.theguardian.com/sport/2025/jul/06/england-india-second-test-day-five-match-report
 
+Site: The Guardian
+Topic: World
+Title: Paris reopens Seine River to public swimming after century-long ban
+URL: https://www.theguardian.com/world/2025/jul/06/paris-river-seine-public-swimming-after-century-long-ban
+
+Site: The Guardian
+Topic: Sport
+Title: Scratchy Lions win has simplified the Test selection equation for Andy Farrell
+URL: https://www.theguardian.com/sport/2025/jul/06/british-irish-lions-test-selection-andy-farrell-warratahs-australia
+
