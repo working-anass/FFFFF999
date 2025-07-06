@@ -5193,3 +5193,13 @@ Topic: Football
 Title: Arsenal sign £50m-plus Martín Zubimendi after seeing off Real Madrid interest
 URL: https://www.theguardian.com/football/2025/jul/06/arsenal-sign-martin-zubimendi-real-madrid-interest-real-sociedad
 
+Site: The Guardian
+Topic: Us News
+Title: Maga influencer and de facto national security adviser Laura Loomer holds outsized sway on Trump
+URL: https://www.theguardian.com/us-news/2025/jul/06/laura-loomer-donald-trump-maga-influencer
+
+Site: The Guardian
+Topic: Uk
+Title: Mick and Mairead Philpott convicted of killing six children in twisted plot that went wrong
+URL: https://www.theguardian.com/uk/2013/apr/02/derby-house-fire-evil-philpotts
+
