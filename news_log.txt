@@ -5118,3 +5118,13 @@ Topic: Football
 Title: How a Colombian podcast shed light on Bobby Moore and the ‘bracelet of Bogotá’
 URL: https://www.theguardian.com/football/2025/jul/06/colombian-podcast-bobby-moore-england-arrest-bracelet-bogota-football
 
+Site: The Guardian
+Topic: World
+Title: Dalai Lama celebrates his 90th birthday, triggering geopolitical questions for the future
+URL: https://www.theguardian.com/world/2025/jul/06/dalai-lama-celebrates-his-90th-birthday-triggering-geopolitical-questions-for-the-future
+
+Site: The Guardian
+Topic: Politics
+Title: Big pay days and top of the polls: Nigel Farage’s first year as an MP
+URL: https://www.theguardian.com/politics/2025/jul/06/nigel-farage-first-year-reform-mp
+
