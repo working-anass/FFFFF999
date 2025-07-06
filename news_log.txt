@@ -5223,3 +5223,13 @@ Topic: Business
 Title: EU leaders split over tactics as deadline looms for Trump trade talks
 URL: https://www.theguardian.com/business/2025/jul/06/eu-leaders-split-over-tactics-as-deadline-looms-for-trump-trade-talks
 
+Site: The Guardian
+Topic: Uk News
+Title: Britons lacking good public transport more likely to feel lonely, UK study finds
+URL: https://www.theguardian.com/uk-news/2025/jul/06/public-transport-car-dependancy-loneliness-uk-study
+
+Site: The Guardian
+Topic: Lifeandstyle
+Title: Dining across the divide: ‘He was a “Stop the boats” person’
+URL: https://www.theguardian.com/lifeandstyle/2025/jul/06/dining-across-the-divide-matt-sam
+
