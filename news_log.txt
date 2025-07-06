@@ -5298,3 +5298,8 @@ Topic: Football
 Title: ‘A real shock’: Bayern Munich confirm Musiala out for long period with leg fracture
 URL: https://www.theguardian.com/football/2025/jul/06/jamal-musiala-injury-long-period-out-fibula-fracture-ankle-dislocation-bayern-munich-club-world-cup
 
+Site: The Guardian
+Topic: Environment
+Title: South Australia ‘helpless’ in face of deadly marine algal bloom spreading to Adelaide beaches
+URL: https://www.theguardian.com/environment/2025/jul/07/south-australia-helpless-in-face-of-deadly-marine-algal-bloom-spreading-to-adelaide-beaches
+
