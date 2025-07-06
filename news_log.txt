@@ -5333,3 +5333,8 @@ Topic: Sport
 Title: Scratchy Lions win has simplified the Test selection equation for Andy Farrell
 URL: https://www.theguardian.com/sport/2025/jul/06/british-irish-lions-test-selection-andy-farrell-warratahs-australia
 
+Site: The Guardian
+Topic: Us News
+Title: Texas floods: death toll rises as search and rescue turns into grim recovery operation
+URL: https://www.theguardian.com/us-news/2025/jul/06/texas-floods-death-toll
+
