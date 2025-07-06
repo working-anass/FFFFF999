@@ -5173,3 +5173,18 @@ Topic: Uk News
 Title: Iraq war ‘made extremists of people’: ex-police terrorism chief looks back at 7/7
 URL: https://www.theguardian.com/uk-news/2025/jul/06/iraq-war-made-extremists-of-people-ex-police-terrorism-chief-looks-back-at-77
 
+Site: The Guardian
+Topic: Science
+Title: Patients with ultra-rare diseases worry new FDA rules will leave them without treatment
+URL: https://www.theguardian.com/science/2025/jul/06/fda-drugs-ultra-rare-diseases
+
+Site: The Guardian
+Topic: Football
+Title: ‘He lit up a room’: Trent Alexander-Arnold pays tribute to Diogo Jota
+URL: https://www.theguardian.com/football/2025/jul/06/diogo-jota-trent-alexander-arnold-tribute-former-liverpool-teammate
+
+Site: The Guardian
+Topic: Lifeandstyle
+Title: This is how we do it: ‘It’s been exciting to introduce him to toys, role play and unusual positions’
+URL: https://www.theguardian.com/lifeandstyle/2025/jul/06/this-is-how-we-do-it-its-been-exciting-to-introduce-him-to-toys-role-play-and-unusual-positions
+
