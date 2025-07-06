@@ -5078,3 +5078,18 @@ Topic: World
 Title: Ali Khamenei, Iran’s supreme leader, makes first public appearance since Israel war
 URL: https://www.theguardian.com/world/2025/jul/06/ali-khamenei-irans-supreme-leader-makes-first-public-appearance-since-israel-war
 
+Site: The Guardian
+Topic: Uk News
+Title: ‘We are in a dangerous place’: British Muslims on the fallout from 7/7 attack 20 years on
+URL: https://www.theguardian.com/uk-news/2025/jul/06/7-7-london-bombings-british-muslims-counter-terrorism-islamophobia
+
+Site: The Guardian
+Topic: Uk News
+Title: From swim schools to eye clinics: how families of 7/7 victims used heartbreak to help others
+URL: https://www.theguardian.com/uk-news/2025/jul/06/positive-legacies-7-7-london-bombings
+
+Site: Al Jazeera
+Topic: Liveblog
+Title: Israel bombs Gaza City home, killing 12, as ceasefire talks set to resume
+URL: https://www.aljazeera.com/news/liveblog/2025/7/6/live-israeli-forces-bomb-gaza-city-home-killing-12-amid-push-for-truce
+
