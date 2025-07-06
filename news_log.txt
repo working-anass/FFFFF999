@@ -5388,3 +5388,8 @@ Topic: Sport
 Title: Tour de France 2025: Van der Poel denies Pogacar in sprint finish and takes yellow jersey
 URL: https://www.theguardian.com/sport/2025/jul/06/tour-de-france-2025-mathieu-van-der-poel-stage-two-victory-yellow-jersey-cycling
 
+Site: The Guardian
+Topic: Tv And Radio
+Title: Live Aid at 40: When Rock ’n’ Roll Took on the World review – the moment Bob Geldof bursts into tears is astounding
+URL: https://www.theguardian.com/tv-and-radio/2025/jul/06/live-aid-at-40-when-rock-n-roll-took-on-the-world-review-bob-geldof-bbc2
+
