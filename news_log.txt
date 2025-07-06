@@ -5378,3 +5378,8 @@ Topic: Football
 Title: Graham Hansen’s late winner downs Finland and puts Norway on verge of last eight
 URL: https://www.theguardian.com/football/2025/jul/06/norway-finland-euro-2025-match-report
 
+Site: The Guardian
+Topic: Global Development
+Title: Live Aid led to the patronising ‘save Africa’ industry. We don’t need a musical about it
+URL: https://www.theguardian.com/global-development/2023/oct/10/live-aid-led-to-the-patronising-save-africa-industry-we-dont-need-a-musical-about-it
+
