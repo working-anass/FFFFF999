@@ -5383,3 +5383,8 @@ Topic: Global Development
 Title: Live Aid led to the patronising ‘save Africa’ industry. We don’t need a musical about it
 URL: https://www.theguardian.com/global-development/2023/oct/10/live-aid-led-to-the-patronising-save-africa-industry-we-dont-need-a-musical-about-it
 
+Site: The Guardian
+Topic: Sport
+Title: Tour de France 2025: Van der Poel denies Pogacar in sprint finish and takes yellow jersey
+URL: https://www.theguardian.com/sport/2025/jul/06/tour-de-france-2025-mathieu-van-der-poel-stage-two-victory-yellow-jersey-cycling
+
