@@ -5308,3 +5308,8 @@ Topic: World
 Title: ‘Our days are full of hardship’: people in Gaza barely dare to hope for success in ceasefire talks
 URL: https://www.theguardian.com/world/2025/jul/06/gaza-mood-ceasefire-talks
 
+Site: The Guardian
+Topic: Uk News
+Title: Police chiefs call for cuts to number of forces in England and Wales
+URL: https://www.theguardian.com/uk-news/2025/jul/06/police-chiefs-call-for-cuts-to-number-of-forces-in-england-and-wales
+
