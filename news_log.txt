@@ -5253,3 +5253,18 @@ Topic: Football
 Title: Fifa cuts ticket price to $13.40 for Club World Cup semi-final between Chelsea and Fluminense
 URL: https://www.theguardian.com/football/2025/jul/06/fifa-ticket-price-drop-chelsea-fluminense-semifinal
 
+Site: The Guardian
+Topic: Education
+Title: The radical 1960s schools experiment that created a whole new alphabet – and left thousands of children unable to spell
+URL: https://www.theguardian.com/education/2025/jul/06/1960s-schools-experiment-created-new-alphabet-thousands-children-unable-to-spell
+
+Site: The Guardian
+Topic: Us News
+Title: The destruction of Palestine is breaking the world
+URL: https://www.theguardian.com/us-news/ng-interactive/2025/jul/06/destruction-of-palestine-is-breaking-the-world
+
+Site: The Guardian
+Topic: Us News
+Title: Is Trump’s expansion of presidential powers setting the stage for future Oval Office holders?
+URL: https://www.theguardian.com/us-news/2025/jul/06/trump-expansion-of-presidential-powers
+
