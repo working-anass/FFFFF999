@@ -5108,3 +5108,8 @@ Topic: World
 Title: ‘Women were grabbed and dragged away like sacks’ – a history of British protest in pictures
 URL: https://www.theguardian.com/world/2025/jul/06/women-were-grabbed-and-dragged-away-like-sacks-a-history-of-british-protest-in-pictures
 
+Site: The Guardian
+Topic: News
+Title: Reboots and remakes: why is Hollywood stuck on repeat?
+URL: https://www.theguardian.com/news/ng-interactive/2025/jul/06/reboots-and-remakes-why-is-hollywood-stuck-on-repeat
+
