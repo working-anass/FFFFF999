@@ -5368,3 +5368,13 @@ Topic: Lifeandstyle
 Title: A controlling partner is isolating my daughter. What can I do to help?
 URL: https://www.theguardian.com/lifeandstyle/2025/jul/06/a-controlling-partner-is-isolating-my-daughter-what-can-i-do-to-help
 
+Site: The Guardian
+Topic: Science
+Title: ‘How might I do my life differently?’: the over-60s re-imagining what ageing looks like
+URL: https://www.theguardian.com/science/2022/dec/10/how-might-i-do-my-life-differently-the-over-60s-re-imagining-what-ageing-looks-like
+
+Site: The Guardian
+Topic: Football
+Title: Graham Hansen’s late winner downs Finland and puts Norway on verge of last eight
+URL: https://www.theguardian.com/football/2025/jul/06/norway-finland-euro-2025-match-report
+
