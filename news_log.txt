@@ -5143,3 +5143,13 @@ Topic: Football
 Title: Estêvão shows Chelsea he can form dangerous partnership with Palmer
 URL: https://www.theguardian.com/football/2025/jul/06/estevao-chelsea-cole-palmer-club-world-cup
 
+Site: The Guardian
+Topic: Us News
+Title: ‘I want my vote back’: Trump-voting family stunned after Canadian mother detained over immigration status
+URL: https://www.theguardian.com/us-news/2025/jul/06/trump-voting-family-canadian-mother-detained-immigration-status
+
+Site: The Guardian
+Topic: Music
+Title: ‘The best song to have sex to? Anything by Marvin Gaye. Nothing by Rick Astley’: Rick Astley’s honest playlist
+URL: https://www.theguardian.com/music/2025/jul/06/rick-astley-honest-playlist-kylie-donna-summer-biffy-clyro-abba
+
