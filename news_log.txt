@@ -5248,3 +5248,8 @@ Topic: World
 Title: Ibiza’s ambulance service risks collapse due to callouts to clubs, says union
 URL: https://www.theguardian.com/world/2025/jul/06/ibiza-ambulance-service-risks-collapse-callouts-clubs-drugs-union
 
+Site: The Guardian
+Topic: Football
+Title: Fifa cuts ticket price to $13.40 for Club World Cup semi-final between Chelsea and Fluminense
+URL: https://www.theguardian.com/football/2025/jul/06/fifa-ticket-price-drop-chelsea-fluminense-semifinal
+
