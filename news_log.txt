@@ -5293,3 +5293,8 @@ Topic: Science
 Title: Douglas Chamberlain obituary
 URL: https://www.theguardian.com/science/2025/jul/06/douglas-chamberlain-obituary
 
+Site: The Guardian
+Topic: Football
+Title: ‘A real shock’: Bayern Munich confirm Musiala out for long period with leg fracture
+URL: https://www.theguardian.com/football/2025/jul/06/jamal-musiala-injury-long-period-out-fibula-fracture-ankle-dislocation-bayern-munich-club-world-cup
+
