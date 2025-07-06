@@ -5343,3 +5343,8 @@ Topic: World
 Title: Lion’s owners arrested after woman and children injured in attack in Pakistan
 URL: https://www.theguardian.com/world/2025/jul/06/lion-owners-arrested-lahore-pakistan-woman-children-injured-attack
 
+Site: The Guardian
+Topic: Us News
+Title: Texas floods reveal limitations of disaster forecasting under climate crisis
+URL: https://www.theguardian.com/us-news/2025/jul/06/texas-floods-forecast-climate-crisis
+
