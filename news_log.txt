@@ -5233,3 +5233,18 @@ Topic: Lifeandstyle
 Title: Dining across the divide: ‘He was a “Stop the boats” person’
 URL: https://www.theguardian.com/lifeandstyle/2025/jul/06/dining-across-the-divide-matt-sam
 
+Site: The Guardian
+Topic: World
+Title: ‘We want closure’: family searches for answers over Kenyan police officer missing in Haiti
+URL: https://www.theguardian.com/world/2025/jul/06/kenya-benedict-kabiru-kuria-police-officer-missing-haiti
+
+Site: The Guardian
+Topic: Football
+Title: Crystal Palace in dark over European place and stuck in Textor’s tangled web
+URL: https://www.theguardian.com/football/2025/jul/06/crystal-palace-in-dark-over-european-place-and-stuck-in-textors-tangled-web
+
+Site: The Guardian
+Topic: World
+Title: Ibiza’s ambulance service risks collapse due to callouts to clubs, says union
+URL: https://www.theguardian.com/world/2025/jul/06/ibiza-ambulance-service-risks-collapse-callouts-clubs-drugs-union
+
