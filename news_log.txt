@@ -5288,3 +5288,8 @@ Topic: Football
 Title: Lionesses will be going home if they do not shape up but history offers hope
 URL: https://www.theguardian.com/football/2025/jul/06/lionesses-going-home-shape-up-netherlands-history-hope-wiegman-euro-2025
 
+Site: The Guardian
+Topic: Science
+Title: Douglas Chamberlain obituary
+URL: https://www.theguardian.com/science/2025/jul/06/douglas-chamberlain-obituary
+
