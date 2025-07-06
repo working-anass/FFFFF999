@@ -5268,3 +5268,13 @@ Topic: Us News
 Title: Is Trump’s expansion of presidential powers setting the stage for future Oval Office holders?
 URL: https://www.theguardian.com/us-news/2025/jul/06/trump-expansion-of-presidential-powers
 
+Site: The Guardian
+Topic: Us News
+Title: DoJ to give up audio tapes of killing and torture of DEA agent Kiki Camarena
+URL: https://www.theguardian.com/us-news/2025/jul/06/dea-agent-kiki-camarena
+
+Site: The Guardian
+Topic: Business
+Title: Born into crisis, gen Z is saving for retirement like no other generation
+URL: https://www.theguardian.com/business/2025/jul/06/gen-z-saving-retirement-employers
+
