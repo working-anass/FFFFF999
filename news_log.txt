@@ -5348,3 +5348,8 @@ Topic: Us News
 Title: Texas floods reveal limitations of disaster forecasting under climate crisis
 URL: https://www.theguardian.com/us-news/2025/jul/06/texas-floods-forecast-climate-crisis
 
+Site: The Guardian
+Topic: World
+Title: Israeli strikes kill at least 38 in Gaza as ceasefire talks reach critical point
+URL: https://www.theguardian.com/world/2025/jul/06/israeli-strikes-gaza-ceasefire-talks-critical-point-netanyahu
+
