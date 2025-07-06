@@ -5358,3 +5358,13 @@ Topic: Sport
 Title: Ben Stokes’ waning influence with the bat on display in England’s soggy defeat
 URL: https://www.theguardian.com/sport/2025/jul/06/ben-stokes-waning-influence-with-the-bat-on-display-in-englands-soggy-defeat
 
+Site: The Guardian
+Topic: Us News
+Title: Musk should stay out of politics, treasury secretary says after ‘America’ party news
+URL: https://www.theguardian.com/us-news/2025/jul/06/elon-musk-america-party-scott-bessent
+
+Site: The Guardian
+Topic: Lifeandstyle
+Title: A controlling partner is isolating my daughter. What can I do to help?
+URL: https://www.theguardian.com/lifeandstyle/2025/jul/06/a-controlling-partner-is-isolating-my-daughter-what-can-i-do-to-help
+
