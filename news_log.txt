@@ -5398,3 +5398,8 @@ Topic: Football
 Title: Switzerland keep Euro 2025 dream alive after Reuteler and Pilgrim knock out Iceland
 URL: https://www.theguardian.com/football/2025/jul/06/switzerland-iceland-euro-2025-match-report
 
+Site: The Guardian
+Topic: Technology
+Title: ‘They went too far’: Musk says he regrets some of his posts about Trump
+URL: https://www.theguardian.com/technology/2025/jun/11/elon-musk-trump-regret-posts
+
