@@ -5093,3 +5093,13 @@ Topic: Liveblog
 Title: Israel bombs Gaza City home, killing 12, as ceasefire talks set to resume
 URL: https://www.aljazeera.com/news/liveblog/2025/7/6/live-israeli-forces-bomb-gaza-city-home-killing-12-amid-push-for-truce
 
+Site: The Guardian
+Topic: World
+Title: A text, a Telegram link, then an offer of money: how Iran sought to recruit spies in Israel
+URL: https://www.theguardian.com/world/2025/jul/06/how-iran-sought-to-recruit-spies-in-israel
+
+Site: The Guardian
+Topic: Law
+Title: Kevin Nunn has spent 20 years in prison for a horrifying murder. Was he wrongly convicted?
+URL: https://www.theguardian.com/law/ng-interactive/2025/jul/06/kevin-nunn-20-years-prison-horrifying-murder-was-he-wrongly-convicted
+
