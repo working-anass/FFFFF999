@@ -5278,3 +5278,13 @@ Topic: Business
 Title: Born into crisis, gen Z is saving for retirement like no other generation
 URL: https://www.theguardian.com/business/2025/jul/06/gen-z-saving-retirement-employers
 
+Site: The Guardian
+Topic: Uk News
+Title: Yvette Cooper hails new French tactics to reduce Channel crossings
+URL: https://www.theguardian.com/uk-news/2025/jul/06/yvette-cooper-french-tactics-channel-crossings-small-boats
+
+Site: The Guardian
+Topic: Football
+Title: Lionesses will be going home if they do not shape up but history offers hope
+URL: https://www.theguardian.com/football/2025/jul/06/lionesses-going-home-shape-up-netherlands-history-hope-wiegman-euro-2025
+
