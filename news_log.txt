@@ -5048,3 +5048,28 @@ Topic: Uk News
 Title: Man spared jail after 'one-punch' killing of teenager in Crete
 URL: https://www.theguardian.com/uk-news/2018/jun/19/man-crete-court-one-punch-killing-harrow-archie-lloyd-malia
 
+Site: The Guardian
+Topic: World
+Title: Ukraine war briefing: Russia shoots down Ukrainian drones headed for Moscow as key airport halts flights
+URL: https://www.theguardian.com/world/2025/jul/06/ukraine-war-briefing-russia-shoots-down-ukrainian-drones-headed-for-moscow-as-key-airport-halts-flights
+
+Site: The Guardian
+Topic: Us News
+Title: Trump news at a glance: Elon Musk announces new political party targeting sway in Congress
+URL: https://www.theguardian.com/us-news/2025/jul/06/trump-news-at-a-glance-elon-musk-announces-new-political-party-targeting-key-congressional-seats
+
+Site: The Guardian
+Topic: Football
+Title: Ruthless France take advantage of Wiegman’s gamble on Lauren James
+URL: https://www.theguardian.com/football/2025/jul/05/ruthless-france-take-advantage-of-england-gamble-on-lauren-james
+
+Site: The Guardian
+Topic: Football
+Title: ‘Cheap’ defending cost England in Euro 2025 opener, admits Leah Williamson
+URL: https://www.theguardian.com/football/2025/jul/06/cheap-defending-cost-england-in-euro-2025-opener-admits-leah-williamson
+
+Site: The Guardian
+Topic: Music
+Title: Black Sabbath and Ozzy Osbourne: Back to the Beginning review – all-star farewell to the gods of metal is epic and emotional
+URL: https://www.theguardian.com/music/2025/jul/06/black-sabbath-and-ozzy-osbourne-back-to-the-beginning-review-all-star-farewell-to-the-gods-of-metal-is-epic-and-emotional
+
