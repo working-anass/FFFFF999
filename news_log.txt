@@ -5303,3 +5303,8 @@ Topic: Environment
 Title: South Australia ‘helpless’ in face of deadly marine algal bloom spreading to Adelaide beaches
 URL: https://www.theguardian.com/environment/2025/jul/07/south-australia-helpless-in-face-of-deadly-marine-algal-bloom-spreading-to-adelaide-beaches
 
+Site: The Guardian
+Topic: World
+Title: ‘Our days are full of hardship’: people in Gaza barely dare to hope for success in ceasefire talks
+URL: https://www.theguardian.com/world/2025/jul/06/gaza-mood-ceasefire-talks
+
