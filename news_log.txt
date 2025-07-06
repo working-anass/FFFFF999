@@ -5153,3 +5153,13 @@ Topic: Music
 Title: ‘The best song to have sex to? Anything by Marvin Gaye. Nothing by Rick Astley’: Rick Astley’s honest playlist
 URL: https://www.theguardian.com/music/2025/jul/06/rick-astley-honest-playlist-kylie-donna-summer-biffy-clyro-abba
 
+Site: The Guardian
+Topic: Uk
+Title: TV's Carol Klein closes nursery after neighbours kick up a stink
+URL: https://www.theguardian.com/uk/2011/aug/31/carol-klein-nursery-closure
+
+Site: The Guardian
+Topic: Business
+Title: Anger as Nationwide refuses members a binding vote on boss’s 43% pay hike
+URL: https://www.theguardian.com/business/2025/jul/06/anger-as-nationwide-refuses-members-a-binding-vote-on-bosss-43-pay-hike
+
