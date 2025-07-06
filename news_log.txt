@@ -5203,3 +5203,23 @@ Topic: Uk
 Title: Mick and Mairead Philpott convicted of killing six children in twisted plot that went wrong
 URL: https://www.theguardian.com/uk/2013/apr/02/derby-house-fire-evil-philpotts
 
+Site: The Guardian
+Topic: Australia News
+Title: Woman suffers ‘significant’ injury to arm after being mauled by animal at Queensland zoo
+URL: https://www.theguardian.com/australia-news/2025/jul/06/queensland-zoo-employee-suffers-significant-arm-injury-after-being-mauled-by-animal
+
+Site: The Guardian
+Topic: Environment
+Title: Weedkiller ingredient widely used in US can damage organs and gut bacteria, research shows
+URL: https://www.theguardian.com/environment/2025/jul/06/weedkiller-diquat-organ-damage-study
+
+Site: The Guardian
+Topic: Environment
+Title: Businesses and charities call for UK to scrap VAT on refurbished electronics
+URL: https://www.theguardian.com/environment/2025/jul/06/businesses-and-charities-call-for-uk-to-scrap-vat-on-refurbished-electronics
+
+Site: The Guardian
+Topic: Business
+Title: EU leaders split over tactics as deadline looms for Trump trade talks
+URL: https://www.theguardian.com/business/2025/jul/06/eu-leaders-split-over-tactics-as-deadline-looms-for-trump-trade-talks
+
