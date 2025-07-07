@@ -1,0 +1,59 @@
+Site: The Guardian
+Title: Can you solve it? The world’s most fascinating number – revealed!
+URL: https://www.theguardian.com/science/2025/jul/07/can-you-solve-it-the-worlds-most-fascinating-number-revealed
+
+Before we get to today’s puzzles, I’d like to introduce the most interesting number in the universe.
+
+108
+
+Readers of Asian heritage will nod with familiarity. The number has profound significance in Hinduism, Jainism, Sikhism, Buddhism and Chinese culture. It’s the number of beads on a rosary, the number of sun salutations performed in a yoga ceremony, the number of Buddhas to be carved on a walnut for good luck, and the phone number of the Indian Emergency Ambulance service.
+
+Mathematically, 108 is also a superstar, a fact I only discovered recently in a new book by the former Principal Chief Engineer of Indian Railways, Shyam Sunder Gupta. For example:
+
+108 is 1 1 x 2 2 x 3 3 , the product of the first three numbers raised to themselves.
+
+108 is the smallest number whose divisors when taken together contain every digit at least once. (The divisors are 1, 2, 3, 4, 6, 9, 12, 18, 27, 36, 54 and 108)
+
+108 is the largest known number n such that 2 n does not contain a 9.
+
+(2 108 = 324518553658426726783156020576256)
+
+108 is the internal angle (in degrees) of a regular pentagon
+
+108 is the number of free heptominoes (the Tetris-like shapes made from seven linked squares.)
+
+108 is the number of cards in a UNO deck.
+
+I’ve only scratched the surface. Gupta’s book, Exploring the Beauty of Fascinating Numbers, has ten pages of facts about 108, ending with the observation that ‘1’ stands for truth, ‘0’ for emptiness and ‘8’ is the infinity symbol rotated by 90 degrees. “Thus the sacred number 108 tells us that we are at once something, nothing and everything.” The only other numbers that Gupta devotes an entire chapter to are pi, 13, 666 and 153 (possibly the second most interesting number in the universe).
+
+It could be the case that the spiritual importance of 108 led Asian mathematicians to catalogue interesting properties about it. Or it could be that 108 really is a particularly interesting number – it is not too small, not too large, and highly divisible – which helped it gain spiritual importance in the first place. How nice that numerologists and number theorists have something to agree about for once!
+
+Today’s puzzles are about numbers with interesting properties.
+
+1. Brilliant billions
+
+You have ten cards. On each of the cards is one of the digits 0 to 9. When you arrange the cards in a line you get a number between 0123456789 and 987654321
+
+i) How many of these numbers are divisible by 2?
+
+ii) How many are divisible by 3?
+
+2. How low can you go?
+
+What is the smallest even number between 1000 and 9999 written with four different digits?
+
+3. All about me
+
+An autobiographical number is one where the first digit describes how many 0s it has, the second digit describes how many 1s it has, and so on, so that the ( n + 1)th digit describes how many n’ s it has. For example, 1210 is an autobiographical number because it has 1 zero, 2 ones, 1 two and 0 threes.
+
+Find the only ten digit autobiographical number.
+
+I’ll be back at 5pm UK with the solutions.
+
+PLEASE NO SPOILERS – instead tell me why you find 108 such a great number!
+
+Exploring the Beauty of Fascinating Numbers by Shyam Sunder Gupta is out now.
+
+I’ve been setting a puzzle here on alternate Mondays since 2015. I’m always on the look-out for great puzzles. If you would like to suggest one, email me .
+
+Sources of today’s puzzles: 1) Leon Gelkoff, 2) SmartFriends, a daily IQ challenge, smartfriends.app.link 3) An old classic.

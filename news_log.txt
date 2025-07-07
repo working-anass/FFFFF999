@@ -5513,3 +5513,23 @@ Topic: Technology
 Title: Framework Laptop 12 review: fun, flexible and repairable
 URL: https://www.theguardian.com/technology/2025/jul/07/framework-laptop-12-review-fun-flexible-and-repairable
 
+Site: The Guardian
+Topic: World
+Title: Dubai releases British teenager Marcus Fakana after sheikh’s pardon
+URL: https://www.theguardian.com/world/2025/jul/07/dubai-releases-british-teenager-marcus-fakana-after-sheikhs-pardon
+
+Site: The Guardian
+Topic: Science
+Title: Can you solve it? The world’s most fascinating number – revealed!
+URL: https://www.theguardian.com/science/2025/jul/07/can-you-solve-it-the-worlds-most-fascinating-number-revealed
+
+Site: The Guardian
+Topic: Science
+Title: Starwatch: Venus will pass through the ‘golden gate’ of two star clusters
+URL: https://www.theguardian.com/science/2025/jul/07/starwatch-venus-will-pass-through-the-golden-gate-of-two-star-clusters
+
+Site: The Guardian
+Topic: Technology
+Title: Framework Laptop 16 review: the ultimate in modular PCs
+URL: https://www.theguardian.com/technology/2024/feb/28/framework-laptop-16-review-modular-pc-keyboard-port-graphics-card
+
