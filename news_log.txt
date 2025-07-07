@@ -5448,3 +5448,8 @@ Topic: Sport
 Title: Lando Norris wins F1 British GP from angry Piastri in rain-soaked Silverstone thriller
 URL: https://www.theguardian.com/sport/2025/jul/06/lando-norris-wins-f1-british-grand-prix-after-rain-soaked-thriller-at-silverstone
 
+Site: The Guardian
+Topic: Us News
+Title: Trump news at a glance: markets react with confusion as Trump appears to move goal posts on tariffs again
+URL: https://www.theguardian.com/us-news/2025/jul/07/trump-administration-news-today-latest
+
