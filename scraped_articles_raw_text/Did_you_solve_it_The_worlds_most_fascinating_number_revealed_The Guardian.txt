@@ -1,0 +1,63 @@
+Site: The Guardian
+Title: Did you solve it? The world’s most fascinating number – revealed!
+URL: https://www.theguardian.com/science/2025/jul/07/did-you-solve-it-the-worlds-most-fascinating-number-revealed
+
+Earlier today I set three puzzles, and also explained why 108 is possibly the most fascinating number in the universe.
+
+Here are some more reasons:
+
+108 = 6 2 + 6 2 + 6 2
+
+108 is the smallest number that can be written as the sum of a square and a cube in two different ways. (108 = 2 3 + 10 2 = 3 3 + 9 2 )
+
+Many ratios in Moon-Sun-Earth astronomy seem to be around 108: the distance between the Earth and the Sun is about 108 times the diameter of the Sun; The distance between the Earth and the Moon is about 108 times the diameter of the Moon.
+
+The upper frequency of FM radio is 108Mhz.
+
+(Examples taken from the book Exploring the Beauty of Fascinating Numbers by Shyam Sunder Gupta. For more reasons click here.)
+
+Here are the puzzles again with solutions.
+
+1. Brilliant billions
+
+You have ten cards. On each of the cards is one of the digits 0 to 9. When you arrange the cards in a line you get a number between 0123456789 and 987654321
+
+i) How many of these numbers are divisible by 2?
+
+ii) How many are divisible by 3?
+
+Solution . i) half of them, ii) all of them!
+
+The sum of the digits 0-9 is 45, which is divisible by three, hence all numbers made from these ten digits are divisible by three.
+
+2. How low can you go?
+
+What is the smallest even number between 1000 and 9999 written with four different digits?
+
+Solution 1024
+
+Most people will try to use the three lowest digits, i.e 1032. I hope you didn’t fall into that trap.
+
+3. All about me
+
+An autobiographical number is one where the first digit describes how many 0s it has, the second digit describes how many 1s it has, and so on, so that the ( n + 1)th digit describes how many n’ s it has. For example, 1210 is an autobiographical number because it has 1 zero, 2 ones, 1 two and 0 threes.
+
+Find the only ten digit autobiographical number.
+
+Solution 6210001000
+
+Let the solution be ABCDEFGHIJ.
+
+Each digit n + 1 describes how many times digit n appears. Since there are only ten possible positions for digits, we can deduce that A + B + C + D + E + F + G + H + I + J = 10.
+
+Let’s proceed by trial and error. Image A = 9. Then J = 1, since there is a single 9 in the number. But that means A < 9, so we have a contradiction.
+
+Let A = 8. Then I is 1, which means B = 1, which means A <8, so this doesnt work either.
+
+Let A = 7. Then H = 1, so B must be either 1 or 2. (Since the digits must add up to ten.) If B = 1, then another digit must be 1, but this would mean B = 3, (since thee are three 1s) which is a contradiction. If B = 2, then C = 1 and we have another contridiction.
+
+Following this logic, we finally hit a solution that works when A = 6.
+
+I’ve been setting a puzzle here on alternate Mondays since 2015. I’m always on the look-out for great puzzles. If you would like to suggest one, email me .
+
+Sources of today’s puzzles: 1) Leon Gelkoff, 2) SmartFriends, a daily IQ challenge, smartfriends.app.link 3) An old classic.

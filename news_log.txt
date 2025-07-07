@@ -5748,3 +5748,18 @@ Topic: Uk
 Title: Musician found guilty of murder of teacher
 URL: https://www.theguardian.com/uk/2004/feb/04/ukcrime
 
+Site: The Guardian
+Topic: World
+Title: Russia’s former transport minister dies from gunshot wound hours after sacking
+URL: https://www.theguardian.com/world/2025/jul/07/russias-former-transport-minister-dies-from-gunshot-wound-hours-after-sacking
+
+Site: The Guardian
+Topic: World
+Title: Palestinians fear razing of villages in West Bank, as settlers circle their homes
+URL: https://www.theguardian.com/world/2025/jul/07/palestinians-fear-razing-of-villages-in-west-bank-as-settlers-circle-their-homes
+
+Site: The Guardian
+Topic: Science
+Title: Did you solve it? The world’s most fascinating number – revealed!
+URL: https://www.theguardian.com/science/2025/jul/07/did-you-solve-it-the-worlds-most-fascinating-number-revealed
+
