@@ -5868,3 +5868,8 @@ Topic: Football
 Title: João Pedro makes early mark for Chelsea but Blues forwards must avoid seeing red
 URL: https://www.theguardian.com/football/2025/jul/07/joao-pedro-chelsea-club-world-cup-fluminense
 
+Site: The Guardian
+Topic: Politics
+Title: Labour picks on kids as Farage reaches for his human punchbag
+URL: https://www.theguardian.com/politics/2025/jul/07/after-pensioners-and-disabled-people-now-labour-targets-children-in-send-reforms
+
