@@ -5628,3 +5628,13 @@ Topic: Business
 Title: Trump takes on the Fed – but he has little power over central bank, economists say
 URL: https://www.theguardian.com/business/2025/jul/07/trump-federal-reserve-jerome-powell
 
+Site: The Guardian
+Topic: Lifeandstyle
+Title: ‘There is no safe way to do it’: the rapid rise and horrifying risks of choking during sex
+URL: https://www.theguardian.com/lifeandstyle/2025/jul/07/no-safe-way-risks-of-choking-during-sex
+
+Site: The Guardian
+Topic: Lifeandstyle
+Title: The one change that worked: I stopped saying yes to everything – and found a phrase that made it easier
+URL: https://www.theguardian.com/lifeandstyle/2025/jul/07/one-change-worked-i-stopped-saying-yes-to-everything-found-phrase-that-made-it-easier
+
