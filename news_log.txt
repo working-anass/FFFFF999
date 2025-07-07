@@ -5873,3 +5873,8 @@ Topic: Politics
 Title: Labour picks on kids as Farage reaches for his human punchbag
 URL: https://www.theguardian.com/politics/2025/jul/07/after-pensioners-and-disabled-people-now-labour-targets-children-in-send-reforms
 
+Site: The Guardian
+Topic: Us News
+Title: US posts highest annual measles case tally in 33 years amid Texas outbreak
+URL: https://www.theguardian.com/us-news/2025/jul/07/annual-measles-cases-record
+
