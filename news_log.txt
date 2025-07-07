@@ -5618,3 +5618,8 @@ Topic: Football
 Title: Football transfer rumours: Dominic Calvert-Lewin to Manchester United?
 URL: https://www.theguardian.com/football/2025/jul/07/football-transfer-rumours-dominic-calvert-lewin-to-manchester-united
 
+Site: The Guardian
+Topic: Us News
+Title: Absolute creamer! Instagram star Prime Mutton takes America – with a passion for pints
+URL: https://www.theguardian.com/us-news/2025/jul/07/prime-mutton-jason-hackett-absolute-creamer
+
