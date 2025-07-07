@@ -5863,3 +5863,8 @@ Topic: World
 Title: Trump says Bolsonaro ‘not guilty of anything’ amid Brazil coup trial
 URL: https://www.theguardian.com/world/2025/jul/07/trump-bolsonaro-brazil-lula
 
+Site: The Guardian
+Topic: Football
+Title: João Pedro makes early mark for Chelsea but Blues forwards must avoid seeing red
+URL: https://www.theguardian.com/football/2025/jul/07/joao-pedro-chelsea-club-world-cup-fluminense
+
