@@ -5833,3 +5833,8 @@ Topic: Football
 Title: Sporting holding out for €70m up front as Arsenal close in on Viktor Gyökeres
 URL: https://www.theguardian.com/football/2025/jul/07/sporting-holding-out-70m-arsenal-close-in-on-gyokeres
 
+Site: The Guardian
+Topic: Football
+Title: Putellas at the double as rampant Spain hit rain-soaked Belgium for six at Euro 2025
+URL: https://www.theguardian.com/football/2025/jul/07/spain-belgium-womens-euro-2025-match-report
+
