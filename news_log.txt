@@ -5828,3 +5828,8 @@ Topic: Football
 Title: Luka Modric joining Milan from Real Madrid after Club World Cup, Allegri confirms
 URL: https://www.theguardian.com/football/2025/jul/07/luka-modric-joining-milan-from-real-madrid-after-club-world-cup-allegri-confirms
 
+Site: The Guardian
+Topic: Football
+Title: Sporting holding out for €70m up front as Arsenal close in on Viktor Gyökeres
+URL: https://www.theguardian.com/football/2025/jul/07/sporting-holding-out-70m-arsenal-close-in-on-gyokeres
+
