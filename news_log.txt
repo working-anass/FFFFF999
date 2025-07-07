@@ -5908,3 +5908,8 @@ Topic: Football
 Title: Diana Gomes rescues Portugal dream with late equaliser to deny Italy victory
 URL: https://www.theguardian.com/football/2025/jul/07/portugal-italy-womens-euro-2025-match-report
 
+Site: The Guardian
+Topic: Us News
+Title: Ted Cruz ensured Trump spending bill slashed weather forecasting funding
+URL: https://www.theguardian.com/us-news/2025/jul/07/ted-cruz-trump-weather-forecasting-cuts
+
