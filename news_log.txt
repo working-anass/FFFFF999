@@ -5893,3 +5893,8 @@ Topic: Uk News
 Title: Home Office reverses decision to deport Egyptian student in need of UK medical treatment
 URL: https://www.theguardian.com/uk-news/2023/nov/20/home-office-reverses-decision-to-deport-egyptian-student-in-need-of-uk-medical-treatment
 
+Site: The Guardian
+Topic: Uk News
+Title: Jurors shown CCTV footage of brothers’ alleged assault of police officers at Manchester airport
+URL: https://www.theguardian.com/uk-news/2025/jul/07/jurors-shown-cctv-footage-of-brothers-alleged-assault-of-police-officers-at-manchester-airport
+
