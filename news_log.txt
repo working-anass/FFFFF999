@@ -5453,3 +5453,13 @@ Topic: Us News
 Title: Trump news at a glance: markets react with confusion as Trump appears to move goal posts on tariffs again
 URL: https://www.theguardian.com/us-news/2025/jul/07/trump-administration-news-today-latest
 
+Site: The Guardian
+Topic: Environment
+Title: Young people in England’s coastal towns three times more likely to have a mental health condition
+URL: https://www.theguardian.com/environment/2025/jul/07/young-people-england-coastal-towns-more-likely-mental-health-condition
+
+Site: The Guardian
+Topic: Global Development
+Title: ‘They threw us out like garbage’: Iran rushes deportation of 4 million Afghans before deadline
+URL: https://www.theguardian.com/global-development/2025/jul/07/iran-rushes-deportation-4-million-afghans-deadline-women-repression
+
