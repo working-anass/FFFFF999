@@ -5838,3 +5838,13 @@ Topic: Football
 Title: Putellas at the double as rampant Spain hit rain-soaked Belgium for six at Euro 2025
 URL: https://www.theguardian.com/football/2025/jul/07/spain-belgium-womens-euro-2025-match-report
 
+Site: The Guardian
+Topic: World
+Title: Dozens missing after flash floods and landslides in Himachal Pradesh
+URL: https://www.theguardian.com/world/2025/jul/07/india-flash-floods-landslides-himachal-pradesh
+
+Site: The Guardian
+Topic: Us News
+Title: Trump delays tariff hikes again but announces new rates for some countries
+URL: https://www.theguardian.com/us-news/2025/jul/07/trump-tariffs-japan-south-korea
+
