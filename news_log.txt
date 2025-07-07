@@ -5558,3 +5558,13 @@ Topic: Environment
 Title: Weather tracker: supercharged storms hit Texas’s ‘Flash Flood Alley’
 URL: https://www.theguardian.com/environment/2025/jul/07/weather-tracker-texas-flash-floods-storm-barry
 
+Site: The Guardian
+Topic: Environment
+Title: ‘We’re told we won’t amount to anything’: is it possible to change the fortunes of young people living in England’s coastal towns?
+URL: https://www.theguardian.com/environment/2025/jul/07/young-people-uk-coast-mental-health-coastal-communities-deprivation
+
+Site: The Guardian
+Topic: Sport
+Title: Tension and tedium: welcome to the Wimbledon press conference room
+URL: https://www.theguardian.com/sport/2025/jul/07/tension-and-tedium-welcome-to-the-wimbledon-press-conference-room
+
