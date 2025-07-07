@@ -5878,3 +5878,18 @@ Topic: Us News
 Title: US posts highest annual measles case tally in 33 years amid Texas outbreak
 URL: https://www.theguardian.com/us-news/2025/jul/07/annual-measles-cases-record
 
+Site: The Guardian
+Topic: World
+Title: Man kidnapped by Argentina’s military regime as baby is reunited with relatives
+URL: https://www.theguardian.com/world/2025/jul/07/man-kidnapped-by-argentinas-military-regime-as-baby-is-reunited-with-relatives
+
+Site: The Guardian
+Topic: Us News
+Title: Pregnant doctor denied Covid-19 vaccine sues Trump administration
+URL: https://www.theguardian.com/us-news/2025/jul/07/pregnant-doctor-covid-19-vaccine-rfk-jr-trump
+
+Site: The Guardian
+Topic: Uk News
+Title: Home Office reverses decision to deport Egyptian student in need of UK medical treatment
+URL: https://www.theguardian.com/uk-news/2023/nov/20/home-office-reverses-decision-to-deport-egyptian-student-in-need-of-uk-medical-treatment
+
