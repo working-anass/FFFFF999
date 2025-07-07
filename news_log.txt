@@ -5533,3 +5533,18 @@ Topic: Technology
 Title: Framework Laptop 16 review: the ultimate in modular PCs
 URL: https://www.theguardian.com/technology/2024/feb/28/framework-laptop-16-review-modular-pc-keyboard-port-graphics-card
 
+Site: The Guardian
+Topic: Environment
+Title: Country diary: Bird cherries, caterpillar silk and a beautiful dead hedge
+URL: https://www.theguardian.com/environment/2025/jul/07/country-diary-bird-cherries-caterpillar-silk-and-a-beautiful-dead-hedge
+
+Site: The Guardian
+Topic: Technology
+Title: Framework Laptop 13 review: cracking modular PC gets all-round upgrade
+URL: https://www.theguardian.com/technology/2023/may/17/framework-laptop-13-review-modular-pc-upgrade-performance
+
+Site: The Guardian
+Topic: Technology
+Title: Surface Laptop 13in review: Microsoft’s cheaper, more compact Windows 11 machine
+URL: https://www.theguardian.com/technology/2025/jun/04/surface-laptop-13in-windows-11-ai-notebook-review
+
