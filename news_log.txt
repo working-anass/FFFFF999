@@ -5623,3 +5623,8 @@ Topic: Us News
 Title: Absolute creamer! Instagram star Prime Mutton takes America – with a passion for pints
 URL: https://www.theguardian.com/us-news/2025/jul/07/prime-mutton-jason-hackett-absolute-creamer
 
+Site: The Guardian
+Topic: Business
+Title: Trump takes on the Fed – but he has little power over central bank, economists say
+URL: https://www.theguardian.com/business/2025/jul/07/trump-federal-reserve-jerome-powell
+
