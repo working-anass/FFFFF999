@@ -5693,3 +5693,23 @@ Topic: Australia News
 Title: Erin Patterson’s hospital visit – and what the beef wellingtons really looked like: mushroom murder exhibits revealed
 URL: https://www.theguardian.com/australia-news/2025/jul/07/erin-patterson-hospital-visit-beef-wellingtons-mushroom-exhibits-revealed-ntwnfb
 
+Site: The Guardian
+Topic: World
+Title: Poland begins controls on borders with Germany and Lithuania
+URL: https://www.theguardian.com/world/2025/jul/07/poland-begins-controls-on-borders-with-germany-and-lithuania
+
+Site: The Guardian
+Topic: Environment
+Title: Millions of tonnes of toxic sewage sludge spread on UK farmland every year
+URL: https://www.theguardian.com/environment/2025/jul/07/millions-of-tonnes-of-toxic-sewage-sludge-spread-on-uk-farmland-every-year
+
+Site: The Guardian
+Topic: Environment
+Title: ‘A Trojan horse’: how toxic sewage sludge became a threat to the future of British farming
+URL: https://www.theguardian.com/environment/2025/jul/07/toxic-sewage-sludge-british-farming-pfas-chemicals
+
+Site: The Guardian
+Topic: Football
+Title: Crystal Palace agree deal to sign Croatia international Borna Sosa from Ajax
+URL: https://www.theguardian.com/football/2025/jul/07/transfer-latest-crystal-palace-borna-sosa-ajax
+
