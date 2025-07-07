@@ -5643,3 +5643,53 @@ Topic: Us News
 Title: ‘No warning at all’: Texas flood survivors question safety planning and officials’ response
 URL: https://www.theguardian.com/us-news/2025/jul/07/texas-flood-survivor-reactions
 
+Site: The Guardian
+Topic: World
+Title: ‘Shorts and flip-flops are not allowed’: La Scala enforces opera dress code ban
+URL: https://www.theguardian.com/world/2025/jul/07/shorts-and-flip-flops-are-not-allowed-la-scala-enforces-opera-dress-code-ban
+
+Site: The Guardian
+Topic: Us News
+Title: Texas’s Camp Mystic confirms 27 children and counsellors died in floods
+URL: https://www.theguardian.com/us-news/2025/jul/07/texas-floods-summer-camp-death-toll-victims
+
+Site: The Guardian
+Topic: Us News
+Title: Michigan utility aided sabotage of Covid lockdown policies, documents reveal
+URL: https://www.theguardian.com/us-news/2025/jul/07/michigan-covid-lockdown-dte-energy
+
+Site: The Guardian
+Topic: Uk News
+Title: 7/7 London terror attack victims remembered at 20th anniversary service
+URL: https://www.theguardian.com/uk-news/2025/jul/07/7-july-london-terror-attack-victims-remembered-20th-anniversary-service
+
+Site: The Guardian
+Topic: World
+Title: London’s low-traffic zones ‘cut deaths and injuries by more than a third’
+URL: https://www.theguardian.com/world/2025/jul/07/londons-low-traffic-zones-cut-deaths-and-injuries-by-more-than-a-third
+
+Site: The Guardian
+Topic: Environment
+Title: Floods are swallowing their village. Trump’s EPA cut a major lifeline for them and others
+URL: https://www.theguardian.com/environment/2025/jul/07/trump-administration-epa-grants-floods
+
+Site: The Guardian
+Topic: Environment
+Title: Brics summit in Brazil tries to reinvent collective approach to world’s problems
+URL: https://www.theguardian.com/environment/2025/jul/07/brics-summit-brazil-president-lula
+
+Site: The Guardian
+Topic: Football
+Title: ‘I want to put socks on without being in pain’: Millie Bright on missing Euro 2025
+URL: https://www.theguardian.com/football/2025/jul/07/millie-bright-rachel-daly-missing-euro-2025-england-lionesses
+
+Site: The Guardian
+Topic: Business
+Title: Low water levels push up shipping costs on Europe’s rivers amid heatwave
+URL: https://www.theguardian.com/business/2025/jul/07/low-water-levels-shipping-europe-rivers-heatwave-rhine
+
+Site: The Guardian
+Topic: Australia News
+Title: Erin Patterson’s hospital visit – and what the beef wellingtons really looked like: mushroom murder exhibits revealed
+URL: https://www.theguardian.com/australia-news/2025/jul/07/erin-patterson-hospital-visit-beef-wellingtons-mushroom-exhibits-revealed-ntwnfb
+

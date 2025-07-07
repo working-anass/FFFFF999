@@ -1,0 +1,33 @@
+Site: The Guardian
+Title: London’s low-traffic zones ‘cut deaths and injuries by more than a third’
+URL: https://www.theguardian.com/world/2025/jul/07/londons-low-traffic-zones-cut-deaths-and-injuries-by-more-than-a-third
+
+Low-traffic neighbourhoodscut road injuries and deaths by more than a third within their boundaries with no apparent negative safety effect on nearby roads, a study has shown .
+
+Based on comparisons of more than a decade of road casualty statistics between 113 London LTNs and other roads that did not have them, the report’s authors found that LTNs were associated with a 35% reduction in all injuries, rising to 37% for deaths and serious injuries.
+
+In absolute terms, the study concluded, this meant that creating the LTNs prevented more than 600 road injuries that would have otherwise taken place, including 100 involving death or serious injury.
+
+On boundary roads, those just outside the LTNs, there was no observable change in the number of casualties.
+
+LTNs aim to make smaller residential streets more friendly for walking, wheeling and cycling by using filters to stop through-traffic by motor vehicles. While they have been used in various forms in the UK for decades and are ubiquitous in many European cities, an expansion in their use from 2020 led to pushback from some politicians and parts of the media.
+
+A common criticism has been that LTNs simply displace traffic to boundary roads, which become more dangerous. However, studies have found a negligible impact on traffic levels and the new paper, published in Injury Prevention, a spin-off from the British Medical Journal, indicates this is the same for deaths and injuries.
+
+Of the 113 LTNs studied, 27 were subsequently taken out. According to analysis by the authors, from Westminster University and the London School of Hygiene & Tropical Medicine, if the LTNs had not been removed there would have been 116 fewer injuries overall, 16 of which involved death or serious injuries.
+
+Across the LTNs as a whole, the authors said, an estimated 613 injuries were prevented, including 100 deaths or serious injuries.
+
+The study involved analysing road casualties from 2012 to 2024 on all so-called road links – a sections of road between two junctions – in London, some of which became part of or a boundary to an LTN, while others did not were treated as a control group.
+
+This allowed the authors to observe changes within LTNs and also compare them with changes on other road links, to take account of separate, longer-term changes in injury rates, including lower traffic levels during Covid.
+
+One phenomenon that was apparent between schemes was that the safety benefits of being within an LTN in outer London seemed notably less than those in inner London. Some outer London schemes have been shown as less successful in reducing overall traffic.
+
+Even with such caveats, the results across a relatively large-scale study give supporters of LTNs the ability to argue that they provably prevent injuries and deaths, as has also been shown to be the case for 20mph speed limits in Wales.
+
+Although modal filters, the technical name for LTNs, have been repeatedly shown to be effective when implemented properly, negative media coverage of the wave of schemes introduced from 2020 prompted a political backlash, with Rishi Sunak’s government pledging to clamp down on LTNs.
+
+Sunak’s government even commissioned a report on LTNs in the apparent hope it would conclude they did not work. When the report found instead they were mainly popular and effective, it was initially buried. Dr Jamie Furlong from Westminster University’s Active Travel Academy, who led the new study, said its findings should reassure policymakers about the schemes.
+
+He said: “LTNs have led to considerable reductions in road traffic injuries inside their boundaries for all road users – from pedestrians and cyclists to drivers. At the same time, concerns about nearby main roads becoming more dangerous aren’t supported by the evidence.”
