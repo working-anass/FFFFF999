@@ -1,0 +1,29 @@
+Site: The Guardian
+Title: Apple appeals against ‘unprecedented’ €500m EU fine over app store
+URL: https://www.theguardian.com/technology/2025/jul/07/apple-appeals-eu-fine-app-store
+
+Apple has launched an appeal against an “unprecedented” €500m (£430m) fine imposed by the EU on the company, in the latest clash between US tech companies and Brussels.
+
+The iPhone maker accused the European Commission – the EU’s executive arm – of going “far beyond what the law requires” in a dispute over its app store.
+
+In April, the commission fined Apple €500m after finding the company had breached the Digital Markets Act by preventing app developers from steering users to cheaper deals outside the app store.
+
+Last month, Apple overhauled its app store rules to comply with the EU order to scrap its technical and commercial curbs on developers in order to avoid fines of 5% of its average daily worldwide revenue, or about €50m a day.
+
+As a result Apple introduced new fee structures for developers using its app store. On Monday, Apple accused Brussels of making it deploy “confusing” business terms in order to avoid the threat of fines.
+
+“Today we filed our appeal because we believe the European Commission’s decision – and their unprecedented fine – go far beyond what the law requires,” said Apple, announcing an appeal to the general court, the second highest court in the EU. “As our appeal will show, the EC is mandating how we run our store and forcing business terms which are confusing for developers and bad for users.”
+
+Apple also accused the commission of unlawfully expanding the definition of “steering” – or the language and methods the company allows developers to use when guiding consumers outside its app stores.
+
+The company said officials on Brussels had changed the definition by, for instance, not just focusing on whether app developers should be allowed to link to an external website, but also on whether developers should be permitted to promote offers inside an app.
+
+Donald Trump’s senior trade adviser, Peter Navarro, has accused the EU of using “lawfare” against big US tech companies, describing the use of regulations against American companies such as Apple and Meta as part of a barrage of “non-tariff weapons” used for by foreign states against the US.
+
+Henna Virkkunen, the European Commission vice-president responsible for tech sovereignty, said in April that the EU will not rip up its tech rules in an attempt to agree a trade deal with the US . In January, Mark Zuckerberg, the chief executive of the Facebook owner Meta, accused the EU of “institutionalising censorship” via its digital rules.
+
+Trump has set a 9 July deadline to seal a trade deal with the bloc – with the threat of imposing a 50% tariff on EU imports into the US if agreement is not reached.
+
+Tom Smith, a competition lawyer at Geradin Partners and a former legal director at the UK’s Competition and Markets Authority, said Apple “fundamentally hates” attempts to change its app store. “The blunt truth is that it is worth spending a few million on legal fees in order to disrupt and delay the development of a more open app ecosystem, which is a market that is worth many billions a year to Apple,” he said.
+
+The European Commission has been approached for comment.

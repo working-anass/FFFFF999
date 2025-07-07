@@ -5713,3 +5713,8 @@ Topic: Football
 Title: Crystal Palace agree deal to sign Croatia international Borna Sosa from Ajax
 URL: https://www.theguardian.com/football/2025/jul/07/transfer-latest-crystal-palace-borna-sosa-ajax
 
+Site: The Guardian
+Topic: Technology
+Title: Apple appeals against ‘unprecedented’ €500m EU fine over app store
+URL: https://www.theguardian.com/technology/2025/jul/07/apple-appeals-eu-fine-app-store
+
