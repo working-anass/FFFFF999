@@ -5553,3 +5553,8 @@ Topic: Environment
 Title: Country diary 1925: Shetland seals enjoy the beach
 URL: https://www.theguardian.com/environment/2025/jul/07/country-diary-1925-shetland-seals-enjoy-the-beach
 
+Site: The Guardian
+Topic: Environment
+Title: Weather tracker: supercharged storms hit Texas’s ‘Flash Flood Alley’
+URL: https://www.theguardian.com/environment/2025/jul/07/weather-tracker-texas-flash-floods-storm-barry
+
