@@ -5473,3 +5473,13 @@ Topic: Science
 Title: Death cap mushrooms: why are they so toxic and how can poisoning be treated?
 URL: https://www.theguardian.com/science/2023/aug/10/victoria-death-cap-mushroom-poisoning-what-are-death-caps-deadly-toxic-poisonous-australia
 
+Site: The Guardian
+Topic: World
+Title: Netanyahu returns to White House holding all the cards in Gaza talks
+URL: https://www.theguardian.com/world/2025/jul/07/netanyahu-israel-iran-gaza-white-house-analysis
+
+Site: The Guardian
+Topic: Australia News
+Title: Erin Patterson found guilty of murdering relatives with lunch laced with death cap mushrooms
+URL: https://www.theguardian.com/australia-news/2025/jul/07/erin-patterson-guilty-australia-mushroom-murder-trial-ntwnfb
+
