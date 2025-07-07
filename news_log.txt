@@ -5763,3 +5763,28 @@ Topic: Science
 Title: Did you solve it? The world’s most fascinating number – revealed!
 URL: https://www.theguardian.com/science/2025/jul/07/did-you-solve-it-the-worlds-most-fascinating-number-revealed
 
+Site: The Guardian
+Topic: World
+Title: France and UK expected to announce joint plan on small boat crossings
+URL: https://www.theguardian.com/world/2025/jul/07/france-uk-plan-small-boat-crossings-keir-starmer-emmanuel-macron
+
+Site: The Guardian
+Topic: Us News
+Title: Jeffrey Epstein died by suicide, justice department and FBI review confirms
+URL: https://www.theguardian.com/us-news/2025/jul/07/jeffrey-epstein-suicide-justice-department-fbi-review-confirms
+
+Site: The Guardian
+Topic: Football
+Title: The US national team lost regional superiority, but gained some World Cup hope
+URL: https://www.theguardian.com/football/2025/jul/07/usmnt-mexico-concacaf-gold-cup
+
+Site: The Guardian
+Topic: Australia News
+Title: Australian mushroom murders: Erin Patterson guilty verdict ends weeks of laborious detail and ghoulish fascination
+URL: https://www.theguardian.com/australia-news/2025/jul/07/erin-patterson-trial-australian-mushroom-murders-guilty-verdict-ghoulish-fascination-ntwnfb
+
+Site: The Guardian
+Topic: Culture
+Title: ‘The army were on the streets – and we were bored’: Stiff Little Fingers on making Alternative Ulster
+URL: https://www.theguardian.com/culture/2025/jul/07/army-streets-stiff-little-fingers-alternative-ulster-belfast
+
