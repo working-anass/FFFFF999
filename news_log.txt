@@ -5483,3 +5483,13 @@ Topic: Australia News
 Title: Erin Patterson found guilty of murdering relatives with lunch laced with death cap mushrooms
 URL: https://www.theguardian.com/australia-news/2025/jul/07/erin-patterson-guilty-australia-mushroom-murder-trial-ntwnfb
 
+Site: The Guardian
+Topic: World
+Title: Macron’s UK state visit underlines effort to move on from Brexit nightmare
+URL: https://www.theguardian.com/world/2025/jul/07/macron-uk-state-visit-move-on-brexit-nightmare
+
+Site: The Guardian
+Topic: Business
+Title: UK airport staff get bonuses for spotting easyJet oversize bags, email shows
+URL: https://www.theguardian.com/business/2025/jul/07/airport-staff-get-bonuses-for-spotting-easyjet-oversize-bags-email-shows
+
