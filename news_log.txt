@@ -5568,3 +5568,33 @@ Topic: Sport
 Title: Tension and tedium: welcome to the Wimbledon press conference room
 URL: https://www.theguardian.com/sport/2025/jul/07/tension-and-tedium-welcome-to-the-wimbledon-press-conference-room
 
+Site: The Guardian
+Topic: Film
+Title: Michael Douglas says he has ‘no real intentions’ of acting again: ‘I had to stop’
+URL: https://www.theguardian.com/film/2025/jul/07/michael-douglas-says-he-has-no-real-intentions-of-acting-again-i-had-to-stop
+
+Site: The Guardian
+Topic: Artanddesign
+Title: ‘As thrilling as driving a sports car’: the Tokyo capsule tower that gave pod-living penthouse chic
+URL: https://www.theguardian.com/artanddesign/2025/jul/07/pod-living-nakagin-capsule-tower-tokyo-architectural-marvel-penthouse
+
+Site: The Guardian
+Topic: Lifeandstyle
+Title: Anne Reid on fame, desire and ambition at 90: ‘The most wonderful things have happened since I was 68!’
+URL: https://www.theguardian.com/lifeandstyle/2025/jul/07/anne-reid-actor-interview-fame-desire-ambition-by-royal-appointment-theatre
+
+Site: The Guardian
+Topic: Football
+Title: ’There is no one like him’: what Martín Zubimendi will bring Arsenal
+URL: https://www.theguardian.com/football/2025/jul/07/martin-zubimendi-arsenal-what-he-will-bring-real-soceidad-spain-midfielder
+
+Site: The Guardian
+Topic: Business
+Title: London ‘super sewer’ boss awarded £600,000 pay rise despite £100m cost overrun
+URL: https://www.theguardian.com/business/2025/jul/07/london-super-sewer-boss-awarded-600000-pay-rise-despite-100m-cost-overrun
+
+Site: The Guardian
+Topic: Business
+Title: EasyJet boss denounces ‘illegal’ fines over hand luggage charges
+URL: https://www.theguardian.com/business/2024/nov/27/fining-budget-airlines-will-make-flying-more-expensive-says-easyjet-boss
+
