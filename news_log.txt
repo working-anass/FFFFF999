@@ -5608,3 +5608,13 @@ Topic: Technology
 Title: Tesla shares dive as investors fear new Elon Musk political party will damage brand
 URL: https://www.theguardian.com/technology/2025/jul/07/tesla-shares-dive-as-investors-fear-new-elon-musk-political-party-will-damage-brand
 
+Site: The Guardian
+Topic: Us News
+Title: US completes deportation of eight men to South Sudan after legal wrangling
+URL: https://www.theguardian.com/us-news/2025/jul/07/us-deportation-men-south-sudan
+
+Site: The Guardian
+Topic: Football
+Title: Football transfer rumours: Dominic Calvert-Lewin to Manchester United?
+URL: https://www.theguardian.com/football/2025/jul/07/football-transfer-rumours-dominic-calvert-lewin-to-manchester-united
+
