@@ -5788,3 +5788,18 @@ Topic: Culture
 Title: ‘The army were on the streets – and we were bored’: Stiff Little Fingers on making Alternative Ulster
 URL: https://www.theguardian.com/culture/2025/jul/07/army-streets-stiff-little-fingers-alternative-ulster-belfast
 
+Site: The Guardian
+Topic: World
+Title: Bee attack leaves dozens of people injured in French town
+URL: https://www.theguardian.com/world/2025/jul/07/bee-attack-dozens-people-injured-french-town-aurillac
+
+Site: The Guardian
+Topic: Uk News
+Title: Paramedic jailed for 10 years for secretly giving woman abortion drug during sex
+URL: https://www.theguardian.com/uk-news/2025/jul/07/paramedic-jailed-for-10-years-for-secretly-giving-woman-abortion-drug-during-sex
+
+Site: The Guardian
+Topic: Football
+Title: Two seasons in a day: the Champions League and Club World Cup overlap
+URL: https://www.theguardian.com/football/2025/jul/07/football-daily-newsletter-club-world-cup-champions-league
+
