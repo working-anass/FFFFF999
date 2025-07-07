@@ -5808,3 +5808,18 @@ Topic: Society
 Title: Teenager murdered in care home said social services ‘destroyed my life’, inquest told
 URL: https://www.theguardian.com/society/2025/jul/07/teenager-murdered-care-home-social-services-destroyed-life-inquest-melissa-mathieson
 
+Site: The Guardian
+Topic: World
+Title: Bolsonaro wanted to exterminate us, claims Indigenous leader Raoni Metuktire
+URL: https://www.theguardian.com/world/2025/jul/07/indigenous-leader-raoni-metuktire-bolsonaro-lula-brazil
+
+Site: The Guardian
+Topic: Us News
+Title: ‘Don’t forget’: mural brings attention to the January 6 rioters pardoned by Trump
+URL: https://www.theguardian.com/us-news/2025/jul/07/wall-of-shame-january-6-pardons
+
+Site: The Guardian
+Topic: Football
+Title: Playing loose with virtue leaves questions for Arsenal to answer over Thomas Partey
+URL: https://www.theguardian.com/football/2025/jul/07/arsenal-football-culture-thomas-partey
+
