@@ -5493,3 +5493,18 @@ Topic: Business
 Title: UK airport staff get bonuses for spotting easyJet oversize bags, email shows
 URL: https://www.theguardian.com/business/2025/jul/07/airport-staff-get-bonuses-for-spotting-easyjet-oversize-bags-email-shows
 
+Site: The Guardian
+Topic: Global Development
+Title: ‘Whipped in front of everyone’: three women on being flogged by the Taliban
+URL: https://www.theguardian.com/global-development/2025/may/06/afghanistan-taliban-sharia-law-mahram-women-flogging-public-moral-crimes-guardians
+
+Site: The Guardian
+Topic: Australia News
+Title: Five key moments in the murder trial of Australia’s mushroom lunch cook Erin Patterson
+URL: https://www.theguardian.com/australia-news/2025/jul/07/erin-patterson-mushroom-lunch-trial-australia-five-key-moments-ntwnfb
+
+Site: Al Jazeera
+Topic: Liveblog
+Title: Israeli forces pound Gaza, Yemen; Houthis fire more missiles towards Israel
+URL: https://www.aljazeera.com/news/liveblog/2025/7/7/live-israel-pounds-gaza-yemen-houthis-fire-more-missiles
+
