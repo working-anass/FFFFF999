@@ -5718,3 +5718,8 @@ Topic: Technology
 Title: Apple appeals against ‘unprecedented’ €500m EU fine over app store
 URL: https://www.theguardian.com/technology/2025/jul/07/apple-appeals-eu-fine-app-store
 
+Site: The Guardian
+Topic: Business
+Title: UK steel firms on edge as talks to cut Trump tariffs near deadline
+URL: https://www.theguardian.com/business/2025/jul/07/uk-steel-trump-tariffs-exports-us-deal
+
