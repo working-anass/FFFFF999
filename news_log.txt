@@ -5898,3 +5898,13 @@ Topic: Uk News
 Title: Jurors shown CCTV footage of brothers’ alleged assault of police officers at Manchester airport
 URL: https://www.theguardian.com/uk-news/2025/jul/07/jurors-shown-cctv-footage-of-brothers-alleged-assault-of-police-officers-at-manchester-airport
 
+Site: The Guardian
+Topic: Environment
+Title: Melting glaciers and ice caps could unleash wave of volcanic eruptions, study says
+URL: https://www.theguardian.com/environment/2025/jul/08/climate-crisis-melting-glaciers-ice-caps-volcanic-eruptions-chile-antartica-volcanoes
+
+Site: The Guardian
+Topic: Football
+Title: Diana Gomes rescues Portugal dream with late equaliser to deny Italy victory
+URL: https://www.theguardian.com/football/2025/jul/07/portugal-italy-womens-euro-2025-match-report
+
