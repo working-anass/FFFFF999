@@ -5463,3 +5463,13 @@ Topic: Global Development
 Title: ‘They threw us out like garbage’: Iran rushes deportation of 4 million Afghans before deadline
 URL: https://www.theguardian.com/global-development/2025/jul/07/iran-rushes-deportation-4-million-afghans-deadline-women-repression
 
+Site: The Guardian
+Topic: Uk News
+Title: Starmer, Cooper and King Charles mark 20th anniversary of 7/7 attacks
+URL: https://www.theguardian.com/uk-news/2025/jul/07/keir-starmer-king-charles-yvette-cooper-20th-anniversary-july-7-attacks
+
+Site: The Guardian
+Topic: Science
+Title: Death cap mushrooms: why are they so toxic and how can poisoning be treated?
+URL: https://www.theguardian.com/science/2023/aug/10/victoria-death-cap-mushroom-poisoning-what-are-death-caps-deadly-toxic-poisonous-australia
+
