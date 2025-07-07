@@ -5743,3 +5743,8 @@ Topic: World
 Title: Iranian president says Israel tried to assassinate him
 URL: https://www.theguardian.com/world/2025/jul/07/iranian-president-says-israel-tried-to-assassinate-him
 
+Site: The Guardian
+Topic: Uk
+Title: Musician found guilty of murder of teacher
+URL: https://www.theguardian.com/uk/2004/feb/04/ukcrime
+
