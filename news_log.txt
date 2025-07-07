@@ -5418,3 +5418,33 @@ Topic: Business
 Title: More than 23m Britons think they may be due compensation for mis-sold car loans, UK poll finds
 URL: https://www.theguardian.com/business/2025/jul/07/more-than-23m-britons-think-they-may-be-due-compensation-for-mis-sold-car-loans-uk-poll-finds
 
+Site: The Guardian
+Topic: World
+Title: Economists warn electing far-right Milei would spell ‘devastation’ for Argentina
+URL: https://www.theguardian.com/world/2023/nov/08/argentina-election-javier-milei-economists-warning
+
+Site: The Guardian
+Topic: World
+Title: Is Trump tariff deal really a win for Vietnam – or a way of punishing China?
+URL: https://www.theguardian.com/world/2025/jul/07/vietnam-trump-tariff-deal
+
+Site: The Guardian
+Topic: World
+Title: Building a nation: Papua New Guinea’s 50 years of independence
+URL: https://www.theguardian.com/world/2025/jul/07/png-independence-1975-50-years-anniversary-papua-new-guinea
+
+Site: The Guardian
+Topic: Us News
+Title: Trump and US commerce secretary say tariffs are delayed until 1 August
+URL: https://www.theguardian.com/us-news/2025/jul/06/trump-tariff-delay
+
+Site: The Guardian
+Topic: Football
+Title: Mexico tops USA in Gold Cup final as Pochettino decries ‘embrassing’ penalty no-call
+URL: https://www.theguardian.com/football/2025/jul/06/usa-mexico-gold-cup-final-edson-alvarez
+
+Site: The Guardian
+Topic: Sport
+Title: Lando Norris wins F1 British GP from angry Piastri in rain-soaked Silverstone thriller
+URL: https://www.theguardian.com/sport/2025/jul/06/lando-norris-wins-f1-british-grand-prix-after-rain-soaked-thriller-at-silverstone
+
