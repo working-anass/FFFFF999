@@ -5738,3 +5738,8 @@ Topic: Us News
 Title: Trump’s ‘Alligator Alcatraz’ reveals the ongoing cruelty towards migrants in US
 URL: https://www.theguardian.com/us-news/2025/jul/07/everglades-migrant-jail-florida-trump
 
+Site: The Guardian
+Topic: World
+Title: Iranian president says Israel tried to assassinate him
+URL: https://www.theguardian.com/world/2025/jul/07/iranian-president-says-israel-tried-to-assassinate-him
+
