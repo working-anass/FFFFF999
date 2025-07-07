@@ -5598,3 +5598,13 @@ Topic: Business
 Title: EasyJet boss denounces ‘illegal’ fines over hand luggage charges
 URL: https://www.theguardian.com/business/2024/nov/27/fining-budget-airlines-will-make-flying-more-expensive-says-easyjet-boss
 
+Site: The Guardian
+Topic: Global Development
+Title: ‘We thought we could be ourselves’: they fled Uganda’s harsh anti-gay laws only to face the same in Kenya
+URL: https://www.theguardian.com/global-development/2025/jul/07/refugees-fled-uganda-anti-gay-laws-nairobi-kenya
+
+Site: The Guardian
+Topic: Technology
+Title: Tesla shares dive as investors fear new Elon Musk political party will damage brand
+URL: https://www.theguardian.com/technology/2025/jul/07/tesla-shares-dive-as-investors-fear-new-elon-musk-political-party-will-damage-brand
+
