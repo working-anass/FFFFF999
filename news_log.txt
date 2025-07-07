@@ -5403,3 +5403,18 @@ Topic: Technology
 Title: ‘They went too far’: Musk says he regrets some of his posts about Trump
 URL: https://www.theguardian.com/technology/2025/jun/11/elon-musk-trump-regret-posts
 
+Site: The Guardian
+Topic: World
+Title: Ukraine war briefing: Zelenskyy says US, Europe deals will increase drone production
+URL: https://www.theguardian.com/world/2025/jul/07/ukraine-war-briefing-zelenskyy-says-us-europe-deals-will-increase-drone-production
+
+Site: The Guardian
+Topic: Science
+Title: Zombie pensioners: ageism never dies
+URL: https://www.theguardian.com/science/2019/aug/20/zombie-pensioners-ageism-never-dies
+
+Site: The Guardian
+Topic: Business
+Title: More than 23m Britons think they may be due compensation for mis-sold car loans, UK poll finds
+URL: https://www.theguardian.com/business/2025/jul/07/more-than-23m-britons-think-they-may-be-due-compensation-for-mis-sold-car-loans-uk-poll-finds
+
