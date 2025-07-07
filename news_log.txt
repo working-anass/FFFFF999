@@ -5823,3 +5823,8 @@ Topic: Football
 Title: Playing loose with virtue leaves questions for Arsenal to answer over Thomas Partey
 URL: https://www.theguardian.com/football/2025/jul/07/arsenal-football-culture-thomas-partey
 
+Site: The Guardian
+Topic: Football
+Title: Luka Modric joining Milan from Real Madrid after Club World Cup, Allegri confirms
+URL: https://www.theguardian.com/football/2025/jul/07/luka-modric-joining-milan-from-real-madrid-after-club-world-cup-allegri-confirms
+
