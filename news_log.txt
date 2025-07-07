@@ -5803,3 +5803,8 @@ Topic: Football
 Title: Two seasons in a day: the Champions League and Club World Cup overlap
 URL: https://www.theguardian.com/football/2025/jul/07/football-daily-newsletter-club-world-cup-champions-league
 
+Site: The Guardian
+Topic: Society
+Title: Teenager murdered in care home said social services ‘destroyed my life’, inquest told
+URL: https://www.theguardian.com/society/2025/jul/07/teenager-murdered-care-home-social-services-destroyed-life-inquest-melissa-mathieson
+
