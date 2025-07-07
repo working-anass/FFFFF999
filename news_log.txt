@@ -5853,3 +5853,13 @@ Topic: World
 Title: Israeli plan for forced transfer of Gaza’s population ‘a blueprint for crimes against humanity’
 URL: https://www.theguardian.com/world/2025/jul/07/israeli-minister-reveals-plan-to-force-population-of-gaza-into-camp-on-ruins-of-rafah
 
+Site: The Guardian
+Topic: Football
+Title: Lauren James’s genius offers England hope but also presents a tricky dilemma
+URL: https://www.theguardian.com/football/2025/jul/07/lauren-james-england-dilemma
+
+Site: The Guardian
+Topic: World
+Title: Trump says Bolsonaro ‘not guilty of anything’ amid Brazil coup trial
+URL: https://www.theguardian.com/world/2025/jul/07/trump-bolsonaro-brazil-lula
+
