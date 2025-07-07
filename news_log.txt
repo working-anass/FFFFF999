@@ -5848,3 +5848,8 @@ Topic: Us News
 Title: Trump delays tariff hikes again but announces new rates for some countries
 URL: https://www.theguardian.com/us-news/2025/jul/07/trump-tariffs-japan-south-korea
 
+Site: The Guardian
+Topic: World
+Title: Israeli plan for forced transfer of Gaza’s population ‘a blueprint for crimes against humanity’
+URL: https://www.theguardian.com/world/2025/jul/07/israeli-minister-reveals-plan-to-force-population-of-gaza-into-camp-on-ruins-of-rafah
+
