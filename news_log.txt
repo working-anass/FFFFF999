@@ -5638,3 +5638,8 @@ Topic: Lifeandstyle
 Title: The one change that worked: I stopped saying yes to everything – and found a phrase that made it easier
 URL: https://www.theguardian.com/lifeandstyle/2025/jul/07/one-change-worked-i-stopped-saying-yes-to-everything-found-phrase-that-made-it-easier
 
+Site: The Guardian
+Topic: Us News
+Title: ‘No warning at all’: Texas flood survivors question safety planning and officials’ response
+URL: https://www.theguardian.com/us-news/2025/jul/07/texas-flood-survivor-reactions
+
