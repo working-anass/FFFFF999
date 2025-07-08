@@ -6188,3 +6188,23 @@ Topic: Liveblog
 Title: Stocks mostly rise as UN warns Trump tariff delays deepen trade uncertainty
 URL: https://www.aljazeera.com/news/liveblog/2025/7/8/trump-live-un-warns-tariff-delays-deepen-uncertainty
 
+Site: The Guardian
+Topic: Uk News
+Title: Southport inquiry to examine ‘wholesale failure’ to prevent attack
+URL: https://www.theguardian.com/uk-news/2025/jul/08/southport-inquiry-to-examine-wholesale-failure-to-prevent-attack
+
+Site: The Guardian
+Topic: Uk News
+Title: ‘Serious risk to life’: scenic Isle of Wight road could fall into sea, warns council
+URL: https://www.theguardian.com/uk-news/2025/jul/08/isle-of-wight-military-road-cliff-erosion-collapse-risk-council
+
+Site: The Guardian
+Topic: Football
+Title: Spanish police believe Diogo Jota was speeding when he and his brother died
+URL: https://www.theguardian.com/football/2025/jul/08/diogo-jota-speeding-spanish-police-believe-died-brother
+
+Site: The Guardian
+Topic: Technology
+Title: Does Elon Musk’s new political party need its own Donald Trump?
+URL: https://www.theguardian.com/technology/2025/jul/07/elon-musk-donald-trump-america-party-ai-texts
+
