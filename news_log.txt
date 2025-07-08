@@ -6243,3 +6243,13 @@ Topic: Us News
 Title: Rightwing influencers indignant over FBI claim that Jeffrey Epstein’s client list doesn’t exist
 URL: https://www.theguardian.com/us-news/2025/jul/08/rightwing-jeffrey-epstein-client-list
 
+Site: The Guardian
+Topic: World
+Title: Qatar dashes hopes of rapid Gaza ceasefire, saying talks ‘will need time’
+URL: https://www.theguardian.com/world/2025/jul/08/qatar-talks-gaza-ceasefire-netanyahu-trump-washington-visit
+
+Site: The Guardian
+Topic: News
+Title: Madrid family win case against tourist flats after ‘illicit and unsanitary’ acts
+URL: https://www.theguardian.com/news/2025/jul/08/madrid-judge-shuts-down-10-tourist-rentals-for-illicit-and-unsanitary-activities
+
