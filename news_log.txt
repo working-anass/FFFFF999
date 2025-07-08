@@ -6143,3 +6143,28 @@ Topic: Uk News
 Title: Three men found guilty over London arson attack on Ukraine-linked firms
 URL: https://www.theguardian.com/uk-news/2025/jul/08/three-men-found-guilty-over-london-arson-attack-on-ukraine-linked-firms
 
+Site: The Guardian
+Topic: Lifeandstyle
+Title: My boyfriend is almost perfect – but he’s too vanilla in bed
+URL: https://www.theguardian.com/lifeandstyle/2025/jul/08/my-boyfriend-is-almost-perfect-but-hes-too-vanilla-in-bed
+
+Site: The Guardian
+Topic: Us News
+Title: Texas flooding: a visual guide to one of US state’s worst natural disasters
+URL: https://www.theguardian.com/us-news/2025/jul/08/texas-flooding-visual-guide-maps-footage
+
+Site: The Guardian
+Topic: Environment
+Title: ‘Like fly-tipping’: ministers ignoring pleas to cut sludge fertiliser use
+URL: https://www.theguardian.com/environment/2025/jul/08/like-fly-tipping-ministers-ignoring-pleas-to-cut-sludge-fertiliser-use
+
+Site: The Guardian
+Topic: Environment
+Title: ‘If you hear your town is scum all the time that sinks in’: the young people in Blackpool refusing to be written off
+URL: https://www.theguardian.com/environment/2025/jul/08/blackpool-deprived-coastal-town-young-people-good-things-are-happening-here
+
+Site: The Guardian
+Topic: Business
+Title: ‘Now Brexit is behind us’: what’s at stake as Macron makes state visit to the UK?
+URL: https://www.theguardian.com/business/2025/jul/08/brexit-macron-state-visit-uk-france-trade-trump-tariffs
+
