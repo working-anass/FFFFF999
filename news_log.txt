@@ -6223,3 +6223,18 @@ Topic: Business
 Title: M&S boss says two big UK firms hit by unreported cyber-attacks
 URL: https://www.theguardian.com/business/2025/jul/08/m-and-s-boss-cyber-attacks-archie-norman
 
+Site: The Guardian
+Topic: Environment
+Title: As the flood risk rises around the world, what can we do to adapt?
+URL: https://www.theguardian.com/environment/2025/jul/08/explainer-flood-risk-rising-around-the-world-what-can-we-do-to-adapt
+
+Site: The Guardian
+Topic: Football
+Title: Moyes contends with thin squad as Everton’s era of short-termism catches up with club
+URL: https://www.theguardian.com/football/2025/jul/08/david-moyes-thin-squad-everton-era-short-termism-catches-up-with-club
+
+Site: The Guardian
+Topic: Lifeandstyle
+Title: Don’t ‘power pee’ – but do grab a mirror: 13 easy, effective ways to protect your pelvic floor
+URL: https://www.theguardian.com/lifeandstyle/2025/jul/08/dont-power-pee-but-do-grab-mirror-13-easy-effective-ways-protect-pelvic-floor
+
