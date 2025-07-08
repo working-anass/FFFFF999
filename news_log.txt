@@ -6378,3 +6378,13 @@ Topic: Us News
 Title: Among the Texas flood victims: campers, staff, grandparents and teachers
 URL: https://www.theguardian.com/us-news/2025/jul/08/texas-flood-victims-death-toll
 
+Site: The Guardian
+Topic: World
+Title: ‘Nowhere for them to hide any more’: Zelda Perkins’ fight against NDAs after Harvey Weinstein
+URL: https://www.theguardian.com/world/2025/jul/08/theres-nowhere-for-them-to-hide-any-more-zelda-perkins-on-harvey-weinstein-and-ndas
+
+Site: The Guardian
+Topic: Business
+Title: Ed Miliband abandons plan to charge less for electricity in Scotland
+URL: https://www.theguardian.com/business/2025/jul/08/government-rules-out-zonal-pricing-and-starts-search-for-alternative-plan
+
