@@ -6013,3 +6013,18 @@ Topic: World
 Title: China’s human rights lawyers speak out, 10 years after crackdown
 URL: https://www.theguardian.com/world/2025/jul/07/chinas-human-rights-lawyers-speak-out-10-years-after-crackdown
 
+Site: The Guardian
+Topic: Us News
+Title: Trump news at a glance: tariff threats draw muted reaction from Asian allies amid hopes deals can be reached
+URL: https://www.theguardian.com/us-news/2025/jul/08/trump-administration-news-today-latest
+
+Site: The Guardian
+Topic: Uk News
+Title: Hardship on the streets of Liverpool: ‘The benefit cap put millions of children in poverty overnight’
+URL: https://www.theguardian.com/uk-news/article/2024/aug/07/liverpool-two-child-benefit-cap
+
+Site: The Guardian
+Topic: Business
+Title: Yorkshire Water announces hosepipe ban after driest spring in 132 years
+URL: https://www.theguardian.com/business/2025/jul/08/yorkshire-water-hosepipe-ban-friday
+
