@@ -5953,3 +5953,8 @@ Topic: Us News
 Title: Trump tariffs explained: what’s changed and why have Asian countries been hit so hard?
 URL: https://www.theguardian.com/us-news/2025/jul/08/trump-tariffs-explained-whats-changed-and-why-have-asian-countries-been-hit-so-hard
 
+Site: The Guardian
+Topic: Us News
+Title: Netanyahu nominates Trump for Nobel peace prize at White House meeting expected to focus on Gaza
+URL: https://www.theguardian.com/us-news/2025/jul/08/trump-nominated-nobel-peace-prize-netanyahu
+
