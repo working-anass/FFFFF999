@@ -6388,3 +6388,23 @@ Topic: Business
 Title: Ed Miliband abandons plan to charge less for electricity in Scotland
 URL: https://www.theguardian.com/business/2025/jul/08/government-rules-out-zonal-pricing-and-starts-search-for-alternative-plan
 
+Site: The Guardian
+Topic: World
+Title: Europe should reduce US and China ‘dual dependencies’, Macron warns
+URL: https://www.theguardian.com/world/2025/jul/08/europe-should-reduce-us-and-china-dual-dependencies-macron-warns
+
+Site: The Guardian
+Topic: Us News
+Title: Trump threatens to escalate trade war amid confusion over new tariff rates
+URL: https://www.theguardian.com/us-news/2025/jul/08/trump-tariffs-trade-war-confusion
+
+Site: The Guardian
+Topic: Us News
+Title: Texas floods: more than 100 people dead as questions intensify over handling of disaster
+URL: https://www.theguardian.com/us-news/2025/jul/08/texas-flood-death-toll-response
+
+Site: The Guardian
+Topic: Football
+Title: Miedema will do ‘everything’ she can to eliminate partner Mead and England
+URL: https://www.theguardian.com/football/2025/jul/08/miedema-will-do-everything-she-can-to-eliminate-partner-mead-and-england
+
