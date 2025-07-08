@@ -5988,3 +5988,18 @@ Topic: Environment
 Title: Tiny fungus farming beetle from WA could wreak havoc on Sydney’s heritage trees
 URL: https://www.theguardian.com/environment/2025/jul/08/polyphagous-shot-hole-borer-invasive-beetle-wa-perth-sydney-nsw-warning
 
+Site: The Guardian
+Topic: Uk News
+Title: More trials with no jury will disadvantage people of colour, campaigners warn
+URL: https://www.theguardian.com/uk-news/2025/jul/08/trials-with-no-jury-disadvantage-people-of-colour-campaigners-courts
+
+Site: The Guardian
+Topic: Football
+Title: Chelsea are favourites for final but they face a familiar foe in Thiago Silva
+URL: https://www.theguardian.com/football/2025/jul/08/thiago-silva-fluminense-chelsea-club-world-cup-brazil-
+
+Site: The Guardian
+Topic: World
+Title: Fitness tracking app Strava gives away location of secret US army bases
+URL: https://www.theguardian.com/world/2018/jan/28/fitness-tracking-app-gives-away-location-of-secret-us-army-bases
+
