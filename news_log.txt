@@ -6168,3 +6168,23 @@ Topic: Business
 Title: ‘Now Brexit is behind us’: what’s at stake as Macron makes state visit to the UK?
 URL: https://www.theguardian.com/business/2025/jul/08/brexit-macron-state-visit-uk-france-trade-trump-tariffs
 
+Site: The Guardian
+Topic: World
+Title: Tiny pet dog credited with helping to save hiker trapped in Swiss glacier
+URL: https://www.theguardian.com/world/2025/jul/08/tiny-dog-saves-hiker-swiss-glacier-saas-fee
+
+Site: The Guardian
+Topic: Us News
+Title: ‘Deep rooted’ camp tradition continues in Texas despite flood devastation
+URL: https://www.theguardian.com/us-news/2025/jul/08/texas-floods-campers-children-continue-camp
+
+Site: The Guardian
+Topic: Uk News
+Title: Sir Alan Bates given ‘take it or leave it’ offer of less than half his Post Office Horizon claim
+URL: https://www.theguardian.com/uk-news/2025/may/24/sir-alan-bates-given-take-it-or-leave-it-offer-of-less-than-half-his-post-office-horizon-claim
+
+Site: Al Jazeera
+Topic: Liveblog
+Title: Stocks mostly rise as UN warns Trump tariff delays deepen trade uncertainty
+URL: https://www.aljazeera.com/news/liveblog/2025/7/8/trump-live-un-warns-tariff-delays-deepen-uncertainty
+
