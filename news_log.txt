@@ -6308,3 +6308,13 @@ Topic: Football
 Title: Manchester United are back but the revolution will not be televised
 URL: https://www.theguardian.com/football/2025/jul/08/manchester-united-return-pre-season-football-daily-newsletter
 
+Site: The Guardian
+Topic: Us News
+Title: Ten charged with attempted murder after allegedly ambushing Texas Ice agents
+URL: https://www.theguardian.com/us-news/2025/jul/08/texas-ice-agents-ambush
+
+Site: The Guardian
+Topic: Uk News
+Title: Post Office Horizon IT scandal: five things we learned from the report
+URL: https://www.theguardian.com/uk-news/2025/jul/08/post-office-horizon-it-scandal-five-things-we-learned-from-the-report
+
