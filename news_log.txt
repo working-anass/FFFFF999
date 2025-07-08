@@ -6318,3 +6318,18 @@ Topic: Uk News
 Title: Post Office Horizon IT scandal: five things we learned from the report
 URL: https://www.theguardian.com/uk-news/2025/jul/08/post-office-horizon-it-scandal-five-things-we-learned-from-the-report
 
+Site: The Guardian
+Topic: Football
+Title: Wales players in shock after team bus involved in accident on way to Euro 2025 training
+URL: https://www.theguardian.com/football/2025/jul/08/wales-team-bus-accident-training-womens-euro-2025-france
+
+Site: The Guardian
+Topic: Business
+Title: EDF will invest £1.1bn in Sizewell C plant, France and UK announce
+URL: https://www.theguardian.com/business/2025/jul/08/edf-will-invest-11bn-in-sizewell-c-plant-france-and-uk-announce
+
+Site: The Guardian
+Topic: World
+Title: Five key takeaways from Macron’s speech to UK parliament
+URL: https://www.theguardian.com/world/2025/jul/08/five-key-takeaways-from-macron-speech-to-uk-parliament
+
