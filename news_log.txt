@@ -5948,3 +5948,8 @@ Topic: Sport
 Title: Sprint leader Jasper Philipsen crashes out of Tour as Tim Merlier wins chaotic stage three
 URL: https://www.theguardian.com/sport/2025/jul/07/points-leader-jasper-philipsen-crashes-out-of-tour-as-tim-merlier-wins-stage-three
 
+Site: The Guardian
+Topic: Us News
+Title: Trump tariffs explained: what’s changed and why have Asian countries been hit so hard?
+URL: https://www.theguardian.com/us-news/2025/jul/08/trump-tariffs-explained-whats-changed-and-why-have-asian-countries-been-hit-so-hard
+
