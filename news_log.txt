@@ -6463,3 +6463,8 @@ Topic: Lifeandstyle
 Title: Walkouts, feuds and broken friendships: when book clubs go bad
 URL: https://www.theguardian.com/lifeandstyle/2025/jul/09/walkouts-feuds-and-broken-friendships-when-book-clubs-go-bad
 
+Site: The Guardian
+Topic: Football
+Title: Blackstenius seals Sweden’s knockout place as victory eliminates Poland
+URL: https://www.theguardian.com/football/2025/jul/08/poland-sweden-womens-euro-2025-group-c-match-report
+
