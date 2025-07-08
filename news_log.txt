@@ -5983,3 +5983,8 @@ Topic: Football
 Title: Stanway urges England to go back to their roots for make-or-break Netherlands clash
 URL: https://www.theguardian.com/football/2025/jul/07/stanway-urges-england-to-go-back-to-their-roots-for-make-or-break-match-euros-2025
 
+Site: The Guardian
+Topic: Environment
+Title: Tiny fungus farming beetle from WA could wreak havoc on Sydney’s heritage trees
+URL: https://www.theguardian.com/environment/2025/jul/08/polyphagous-shot-hole-borer-invasive-beetle-wa-perth-sydney-nsw-warning
+
