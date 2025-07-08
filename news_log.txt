@@ -6288,3 +6288,23 @@ Topic: Environment
 Title: Why is the Earth spinning faster? Is time speeding up? Australia’s experts give us their second opinion
 URL: https://www.theguardian.com/environment/2025/jul/09/why-is-the-earth-spinning-faster-is-time-speeding-up-australias-experts-give-us-their-second-opinion
 
+Site: The Guardian
+Topic: Culture
+Title: Jon Stewart on Trump’s sweeping bill: ‘What is Ice going to do when they have real money?’
+URL: https://www.theguardian.com/culture/2025/jul/08/jon-stewart-trump-bill-ice
+
+Site: The Guardian
+Topic: Uk News
+Title: ‘We lost so many along the way’: Horizon scandal victims welcome inquiry report
+URL: https://www.theguardian.com/uk-news/2025/jul/08/victims-post-office-horizon-scandal-welcome-inquiry-findings
+
+Site: The Guardian
+Topic: Global Development
+Title: ICC issues warrant for Taliban’s supreme leader for persecution of women
+URL: https://www.theguardian.com/global-development/2025/jul/08/international-criminal-court-icc-arrest-warrants-taliban-supreme-leader-persecution-women
+
+Site: The Guardian
+Topic: Football
+Title: Manchester United are back but the revolution will not be televised
+URL: https://www.theguardian.com/football/2025/jul/08/manchester-united-return-pre-season-football-daily-newsletter
+
