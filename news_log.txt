@@ -6048,3 +6048,8 @@ Topic: Australia News
 Title: Queensland zoo reopens after owner’s sister-in-law loses arm to lion attack
 URL: https://www.theguardian.com/australia-news/2025/jul/08/lion-attack-woman-loses-arm-darling-downs-zoo-reopens-queensland-ntwnfb
 
+Site: The Guardian
+Topic: Global Development
+Title: Saudi Arabia executing ‘horrifying’ number of foreigners for drug crimes
+URL: https://www.theguardian.com/global-development/2025/jul/08/saudi-arabia-capital-punishment-executions-foreigners-drug-offences-crime-600-people-amnesty-international
+
