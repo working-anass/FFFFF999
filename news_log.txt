@@ -6368,3 +6368,13 @@ Topic: Business
 Title: Deutsche Bank agrees to pay $75m to settle Jeffrey Epstein lawsuit
 URL: https://www.theguardian.com/business/2023/may/18/deutsche-bank-agrees-to-pay-75m-to-settle-jeffrey-epstein-lawsuit
 
+Site: The Guardian
+Topic: Football
+Title: Schüller completes Germany comeback after Denmark left dazed by decisions
+URL: https://www.theguardian.com/football/2025/jul/08/germany-denmark-women-euro-2025-group-c-match-report
+
+Site: The Guardian
+Topic: Us News
+Title: Among the Texas flood victims: campers, staff, grandparents and teachers
+URL: https://www.theguardian.com/us-news/2025/jul/08/texas-flood-victims-death-toll
+
