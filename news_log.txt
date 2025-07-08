@@ -6263,3 +6263,8 @@ Topic: Football
 Title: Fifa opens office in Trump Tower, deepening ties with US president
 URL: https://www.theguardian.com/football/2025/jul/08/fifa-trump-tower-office-new-york-city-world-cup
 
+Site: The Guardian
+Topic: World
+Title: Marseille airport cancels all flights as wildfire encroaches on city
+URL: https://www.theguardian.com/world/2025/jul/08/marseille-airport-cancels-all-flights-as-wildfire-encroaches-on-city
+
