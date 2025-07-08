@@ -6413,3 +6413,13 @@ Topic: World
 Title: Canadian police seize largest ever weapons cache in terrorism inquiry
 URL: https://www.theguardian.com/world/2025/jul/08/canada-quebec-rcmp-terrorism-arrests
 
+Site: The Guardian
+Topic: Us News
+Title: US court strikes down ‘click-to-cancel’ rule designed to make unsubscribing easier
+URL: https://www.theguardian.com/us-news/2025/jul/08/court-click-to-cancel-ruling
+
+Site: The Guardian
+Topic: Politics
+Title: MPs and peers make awkward small talk during wait for box-office hit Macron
+URL: https://www.theguardian.com/politics/2025/jul/08/mps-and-peers-make-awkward-small-talk-during-wait-for-box-office-hit-macron
+

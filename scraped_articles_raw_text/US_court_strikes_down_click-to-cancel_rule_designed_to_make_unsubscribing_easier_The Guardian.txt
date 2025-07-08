@@ -1,0 +1,25 @@
+Site: The Guardian
+Title: US court strikes down ‘click-to-cancel’ rule designed to make unsubscribing easier
+URL: https://www.theguardian.com/us-news/2025/jul/08/court-click-to-cancel-ruling
+
+A federal rule designed to make canceling subscriptions as easy as signing up for them has been struck down by a US federal appeals court just days before it was scheduled to take effect.
+
+The US court of appeals for the eighth circuit vacated the Federal Trade Commission’s “click-to-cancel” rule, which would have required companies to allow consumers to cancel subscriptions using the same method they used to sign up, after finding that the commission behind it failed to follow required procedures under the FTC Act during the rule-making process.
+
+“While we certainly do not endorse the use of unfair and deceptive practices in negative option marketing, the procedural deficiencies of the Commission’s rulemaking process are fatal here,” the court wrote, adding that “vacatur of the entire Rule is appropriate in this case because of the prejudice suffered by Petitioners as a result of the Commission’s procedural error”.
+
+The vacated rule meant to go into effect on 14 July would have covered all forms of negative option marketing – programs that allow sellers to interpret customer inaction as acceptance of subscriptions, often leading to unintended charges. The FTC’s original 1973 rule only covered limited forms of these practices.
+
+It would have also stopped businesses from forcing customers through lengthy chat sessions with agents or creating other barriers to cancellation.
+
+The decision represents a major victory for businesses that challenged the FTC’s authority to modernize consumer protections without following what they argued were mandatory procedural requirements.
+
+Meanwhile, Letitia James had been encouraging consumers to prepare for the rule’s implementation, writing in a Tuesday press release that “New Yorkers should never have to jump through hoops just to cancel an unwanted subscription”.
+
+The New York attorney general’s office told the Guardian that the office is reviewing the decision.
+
+The commission has faced mounting complaints about subscription practices, receiving nearly 70 consumer complaints per day in 2024, up from 42 daily complaints in 2021. The rule applies to almost all negative option programs across any media platform.
+
+Similar state rules had yielded results in New York, where James says she’s secured $600,000 in penalties from Equinox for making cancellations difficult and won a lawsuit against SiriusXM for trapping customers in unwanted subscriptions.
+
+The decision may now force the FTC to restart its rule-making process and could influence how the agency approaches future consumer protection regulations.
