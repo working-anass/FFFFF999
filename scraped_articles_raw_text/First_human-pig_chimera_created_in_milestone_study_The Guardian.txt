@@ -1,0 +1,47 @@
+Site: The Guardian
+Title: First human-pig 'chimera' created in milestone study
+URL: https://www.theguardian.com/science/2017/jan/26/first-human-pig-chimera-created-in-milestone-study
+
+Scientists have created a human-pig hybrid in a milestone study that raises the prospect of being able to grow human organs inside animals for use in transplants.
+
+It marks the first time that embryos combining two large, distantly-related species have been produced. The creation of this so-called chimera – named after the cross-species beast of Greek mythology – has been hailed as a significant first step towards generating human hearts, livers and kidneys from scratch.
+
+Juan Carlos Izpisua Belmonte, who led the work on the part-pig, part-human embryos at the Salk Institute for Biological Studies in La Jolla, California, said: “The ultimate goal is to grow functional and transplantable tissue or organs, but we are far away from that. This is an important first step.”
+
+The study has reignited ethical concerns that have threatened to overshadow the field’s clinical promise. The work inevitably raises the spectre of intelligent animals with humanised brains and also the potential for bizarre hybrid creatures to be accidentally released into the wild. The US National Institutes of Health (NIH) placed a moratorium on funding for the controversial experiments last year while these risks were considered.
+
+Izpisua Belmonte said that fears around chimeras were inspired largely by mythology rather than the realities of meticulously controlled experiments. But he acknowledged: “The idea of having an animal being born composing of human cells creates some feelings that need to be addressed.”
+
+The paper, published in the journal Cell , outlines how human stem cells were injected into early-stage pig embryos, resulting in more than 2,000 hybrids that were transferred to surrogate sows. More than 150 of the embryos developed into chimeras that were mostly pig, but with a tiny human contribution of around one in 10,000 cells.
+
+The pig-human embryos were allowed to develop to 28 days (the first trimester of a pig pregnancy) before being removed.
+
+“This is long enough for us to try to understand how the human and pig cells mix together early on without raising ethical concerns about mature chimeric animals,” said Izpisua Belmonte.
+
+The team believe that in future the approach could pave the way for incubating human organs, genetically matched to a patient, for use in transplants or for testing new medicines more safely and effectively.
+
+Professor Daniel Garry, a cardiologist and head of a different chimera project at the University of Minnesota, said: “This is a significant advance that raises opportunities and ethical questions as well.”
+
+Garry said that the rapid progress in chimera research had prompted a range of troubling questions, including whether the progeny would look more human or more pig, what would happen if a chimera had a human thought and whether it was possible for the human cells to cannibalise the pig embryo, resulting in a mostly-human, slightly-pig offspring.
+
+“These more fantastical possibilities are not a problem in reality,” he said, adding that Izpisua Belmonte’s group had taken a “responsible approach”.
+
+Scientists created the first rat-mouse chimeras a decade ago, but until now have struggled to combine human cells with those of a large mammal.
+
+Professor Bruce Whitelaw, interim director of the Roslin Institute at the University of Edinburgh, where Dolly the sheep was created, said: “The 10 years between these two studies is a testament of how difficult it has been to achieve the human-pig result.”
+
+One challenge is that the pig pregnancy lasts about 112 days, compared to nine months in humans, meaning that the embryonic cells are developing at completely different rates. Izpisua Belmonte’s team found that the human stem cells need to be injected at exactly the right stage in their own development for them to survive and become part of the growing animal – although even then, the efficiency was low.
+
+Jun Wu, the paper’s lead author and a scientist at Salk, said: “It’s like if you’re going onto a highway where the cars are travelling three times faster than you are, you need to choose the right timing, otherwise you cause an accident.”
+
+The team is hoping to boost the human contribution by switching off specific genes in the pig embryos that would prevent the pig cells from contributing to target organs, such as the heart, potentially giving the human cells a competitive advantage.
+
+Similarly, the human cells could be engineered to prevent them contributing to the chimera brain. This safeguard was not in place in the current study, since the embryos were only allowed to reach an early stage of development and the human contribution was minimal.
+
+“We didn’t see any human cells in the brain region, but we cannot exclude the possibility that they may have gone to the brain,” said Izpisua Belmonte.
+
+In a separate experiment, the team also created a host of mouse-rat chimeras and showed that rat cells could develop into a gall bladder – even though rats stopped developing this organ themselves at some point in the 18 million years since rats and mice separated evolutionarily.
+
+This reveals that our genetic code retains the instructions to turn our cells into ancestral forms that have been lost over the course of evolution, raising the intriguing question of which ancient traits might be unlocked from human DNA.
+
+“Many animals have this extraordinary ability to regenerate,” said Izpisua Belmonte. “Humans don’t have that. [This field of work] could provide a platform for human cells to do that.”

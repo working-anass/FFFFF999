@@ -6453,3 +6453,13 @@ Topic: Uk News
 Title: Jury trials must be limited to save criminal justice system from collapse, inquiry finds
 URL: https://www.theguardian.com/uk-news/2025/jul/09/jury-trials-must-be-limited-to-save-criminal-justice-system-from-collapse-inquiry-finds
 
+Site: The Guardian
+Topic: Science
+Title: First human-pig 'chimera' created in milestone study
+URL: https://www.theguardian.com/science/2017/jan/26/first-human-pig-chimera-created-in-milestone-study
+
+Site: The Guardian
+Topic: Lifeandstyle
+Title: Walkouts, feuds and broken friendships: when book clubs go bad
+URL: https://www.theguardian.com/lifeandstyle/2025/jul/09/walkouts-feuds-and-broken-friendships-when-book-clubs-go-bad
+
