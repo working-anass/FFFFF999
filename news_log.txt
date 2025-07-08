@@ -5973,3 +5973,8 @@ Topic: Sport
 Title: Player faith in technology shaken by storm around AI line-calling at Wimbledon
 URL: https://www.theguardian.com/sport/2025/jul/07/player-faith-in-technology-shaken-by-storm-around-ai-line-calling-at-wimbledon
 
+Site: The Guardian
+Topic: World
+Title: Farmers turned soldiers, fields full of mines and a rural exodus: how Russia is punishing Ukraine’s countryside
+URL: https://www.theguardian.com/world/2025/jul/08/russia-war-ukraine-rural-agriculture-ukrainian-culture
+
