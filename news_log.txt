@@ -6408,3 +6408,8 @@ Topic: Football
 Title: Miedema will do ‘everything’ she can to eliminate partner Mead and England
 URL: https://www.theguardian.com/football/2025/jul/08/miedema-will-do-everything-she-can-to-eliminate-partner-mead-and-england
 
+Site: The Guardian
+Topic: World
+Title: Canadian police seize largest ever weapons cache in terrorism inquiry
+URL: https://www.theguardian.com/world/2025/jul/08/canada-quebec-rcmp-terrorism-arrests
+
