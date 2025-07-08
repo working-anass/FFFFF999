@@ -6273,3 +6273,8 @@ Topic: Business
 Title: Time for some straight talking on the cost of clean energy. It isn’t a free lunch
 URL: https://www.theguardian.com/business/nils-pratley-on-finance/2025/jul/08/cost-of-clean-energy-uk-bills
 
+Site: The Guardian
+Topic: Tv And Radio
+Title: ‘A sheer delight to watch’: the 20 most lovable people on British television
+URL: https://www.theguardian.com/tv-and-radio/2025/jul/08/a-sheer-delight-to-watch-the-20-most-lovable-people-on-british-television
+
