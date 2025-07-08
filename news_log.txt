@@ -6003,3 +6003,8 @@ Topic: World
 Title: Fitness tracking app Strava gives away location of secret US army bases
 URL: https://www.theguardian.com/world/2018/jan/28/fitness-tracking-app-gives-away-location-of-secret-us-army-bases
 
+Site: The Guardian
+Topic: Uk News
+Title: Liverpool mobile greengrocer to reach ‘food deserts’ with aid of mapping tool
+URL: https://www.theguardian.com/uk-news/2025/jul/08/liverpool-mobile-greengrocer-to-reach-food-deserts-with-aid-of-mapping-tool
+
