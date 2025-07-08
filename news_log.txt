@@ -6348,3 +6348,23 @@ Topic: Us News
 Title: Pentagon provided $2.4tn to private arms firms to ‘fund war and weapons’, report finds
 URL: https://www.theguardian.com/us-news/2025/jul/08/pentagon-military-spending
 
+Site: The Guardian
+Topic: Us News
+Title: Teen counselors and rookie rescue swimmer save dozens in Texas camp flood
+URL: https://www.theguardian.com/us-news/2025/jul/08/teen-counselor-rescuer-texas-flood-camp-mystic
+
+Site: The Guardian
+Topic: Uk News
+Title: Watchdog to investigate police shooting of man with chainsaw in Kent
+URL: https://www.theguardian.com/uk-news/2025/jul/08/investigation-iopc-police-shooting-man-chainsaw-kent
+
+Site: The Guardian
+Topic: Technology
+Title: Musk’s Grok AI bot generates expletive-laden rants to questions on Polish politics
+URL: https://www.theguardian.com/technology/2025/jul/08/musks-grok-ai-bot-generates-expletive-laden-rants-to-questions-on-polish-politics
+
+Site: The Guardian
+Topic: Business
+Title: Deutsche Bank agrees to pay $75m to settle Jeffrey Epstein lawsuit
+URL: https://www.theguardian.com/business/2023/may/18/deutsche-bank-agrees-to-pay-75m-to-settle-jeffrey-epstein-lawsuit
+
