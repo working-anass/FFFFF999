@@ -5923,3 +5923,28 @@ Topic: Us News
 Title: ‘Reality TV spectacle’: outrage as federal agents raid LA neighborhood with horses and armored cars
 URL: https://www.theguardian.com/us-news/2025/jul/07/los-angeles-park-federal-officers-national-guard
 
+Site: The Guardian
+Topic: World
+Title: Ukraine war briefing: Sanctions over Russian chemical weapons on battlefield
+URL: https://www.theguardian.com/world/2025/jul/08/ukraine-war-briefing-sanctions-over-russian-chemical-weapons-on-battlefield
+
+Site: The Guardian
+Topic: World
+Title: Red Sea cargo ships face new attacks as Houthis claim to have sunk vessel
+URL: https://www.theguardian.com/world/2025/jul/08/red-sea-cargo-ships-yemen-houthi-attacks-bulk-carrier-sinking
+
+Site: The Guardian
+Topic: Global Development
+Title: ‘Last chance for humanity’: the cold reality of monitoring global heating on a glacier
+URL: https://www.theguardian.com/global-development/2025/apr/29/global-heating-union-glacier-tipping-point
+
+Site: The Guardian
+Topic: Technology
+Title: Amazon asks corporate workers to ‘volunteer’ help with grocery deliveries as Prime Day frenzy approaches
+URL: https://www.theguardian.com/technology/2025/jul/07/amazon-grocery-deliveries-prime-day
+
+Site: The Guardian
+Topic: Sport
+Title: Sprint leader Jasper Philipsen crashes out of Tour as Tim Merlier wins chaotic stage three
+URL: https://www.theguardian.com/sport/2025/jul/07/points-leader-jasper-philipsen-crashes-out-of-tour-as-tim-merlier-wins-stage-three
+
