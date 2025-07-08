@@ -6028,3 +6028,23 @@ Topic: Business
 Title: Yorkshire Water announces hosepipe ban after driest spring in 132 years
 URL: https://www.theguardian.com/business/2025/jul/08/yorkshire-water-hosepipe-ban-friday
 
+Site: The Guardian
+Topic: World
+Title: Inside Kondengui prison: ground zero of Cameroon’s war on dissent
+URL: https://www.theguardian.com/world/2025/jul/08/inside-kondengui-prison-ground-zero-cameroon-war-dissent-paul-biya
+
+Site: The Guardian
+Topic: Uk News
+Title: UK government backs French police immobilising small boats, minister says
+URL: https://www.theguardian.com/uk-news/2025/jul/08/uk-government-support-france-police-small-boats-channel-crossings
+
+Site: The Guardian
+Topic: Football
+Title: Carlisle to Bosnia: Tyler Burey on an unlikely path to the Champions League
+URL: https://www.theguardian.com/football/2025/jul/08/carlisle-to-bosnia-tyler-burey-on-an-unlikely-path-to-the-champions-league
+
+Site: The Guardian
+Topic: Australia News
+Title: Queensland zoo reopens after owner’s sister-in-law loses arm to lion attack
+URL: https://www.theguardian.com/australia-news/2025/jul/08/lion-attack-woman-loses-arm-darling-downs-zoo-reopens-queensland-ntwnfb
+
