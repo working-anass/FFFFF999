@@ -6098,3 +6098,8 @@ Topic: Uk News
 Title: Post Office scandal may have led to more than 13 suicides, inquiry finds
 URL: https://www.theguardian.com/uk-news/2025/jul/08/post-office-scandal-inquiry-horizon-it-scandal
 
+Site: The Guardian
+Topic: Football
+Title: Transfer latest: Leeds close on Newcastle’s Longstaff, Spurs land defender Takai
+URL: https://www.theguardian.com/football/2025/jul/08/transfer-latest-leeds-sean-longstaff-newcastle-spurs-sign-kota-takai-defender
+
