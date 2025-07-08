@@ -5963,3 +5963,13 @@ Topic: Liveblog
 Title: Israel pounds Gaza; Trump, Netanyahu tout plan to displace Palestinians
 URL: https://www.aljazeera.com/news/liveblog/2025/7/8/live-israel-pounds-gaza-trump-netanyahu-hold-talks-on-ceasefire
 
+Site: The Guardian
+Topic: Society
+Title: The life swap dream – or a marketing gimmick? The Italian towns selling houses for €1
+URL: https://www.theguardian.com/society/2025/jul/08/the-life-swap-dream-or-a-marketing-gimmick-the-italian-towns-selling-houses-for-1
+
+Site: The Guardian
+Topic: Sport
+Title: Player faith in technology shaken by storm around AI line-calling at Wimbledon
+URL: https://www.theguardian.com/sport/2025/jul/07/player-faith-in-technology-shaken-by-storm-around-ai-line-calling-at-wimbledon
+
