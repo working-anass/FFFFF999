@@ -6448,3 +6448,8 @@ Topic: Us News
 Title: Netanyahu vows to combat what he calls ‘vilification against Israel’ online
 URL: https://www.theguardian.com/us-news/2025/jul/08/benjamin-netanyahu-israel-gaza
 
+Site: The Guardian
+Topic: Uk News
+Title: Jury trials must be limited to save criminal justice system from collapse, inquiry finds
+URL: https://www.theguardian.com/uk-news/2025/jul/09/jury-trials-must-be-limited-to-save-criminal-justice-system-from-collapse-inquiry-finds
+
