@@ -6253,3 +6253,13 @@ Topic: News
 Title: Madrid family win case against tourist flats after ‘illicit and unsanitary’ acts
 URL: https://www.theguardian.com/news/2025/jul/08/madrid-judge-shuts-down-10-tourist-rentals-for-illicit-and-unsanitary-activities
 
+Site: The Guardian
+Topic: World
+Title: Haiti’s renowned Hotel Oloffson is burned down by gangs
+URL: https://www.theguardian.com/world/2025/jul/08/haiti-hotel-oloffson-burned-down-by-gangs
+
+Site: The Guardian
+Topic: Football
+Title: Fifa opens office in Trump Tower, deepening ties with US president
+URL: https://www.theguardian.com/football/2025/jul/08/fifa-trump-tower-office-new-york-city-world-cup
+
