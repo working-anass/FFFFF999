@@ -6438,3 +6438,13 @@ Topic: Us News
 Title: US supreme court clears way for Trump officials to resume mass government firings
 URL: https://www.theguardian.com/us-news/2025/jul/08/supreme-court-trump-federal-layoffs
 
+Site: The Guardian
+Topic: World
+Title: Israeli defence minister’s Gaza proposal marks escalation from incitement of war crimes to official planning for mass forced displacement
+URL: https://www.theguardian.com/world/2025/jul/08/israeli-plans-for-forced-transfer-of-gazas-population-faces-challenge-by-army-reservists
+
+Site: The Guardian
+Topic: Us News
+Title: Netanyahu vows to combat what he calls ‘vilification against Israel’ online
+URL: https://www.theguardian.com/us-news/2025/jul/08/benjamin-netanyahu-israel-gaza
+
