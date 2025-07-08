@@ -5978,3 +5978,8 @@ Topic: World
 Title: Farmers turned soldiers, fields full of mines and a rural exodus: how Russia is punishing Ukraine’s countryside
 URL: https://www.theguardian.com/world/2025/jul/08/russia-war-ukraine-rural-agriculture-ukrainian-culture
 
+Site: The Guardian
+Topic: Football
+Title: Stanway urges England to go back to their roots for make-or-break Netherlands clash
+URL: https://www.theguardian.com/football/2025/jul/07/stanway-urges-england-to-go-back-to-their-roots-for-make-or-break-match-euros-2025
+
