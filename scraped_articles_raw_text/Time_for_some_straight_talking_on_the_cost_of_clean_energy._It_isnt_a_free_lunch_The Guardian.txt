@@ -1,0 +1,35 @@
+Site: The Guardian
+Title: Time for some straight talking on the cost of clean energy. It isn’t a free lunch
+URL: https://www.theguardian.com/business/nils-pratley-on-finance/2025/jul/08/cost-of-clean-energy-uk-bills
+
+T he government’s decision on zonal pricing for electricity – the issue that divides the energy industry like no other – is due any day. Whichever way ministers jump, it would be a good moment to update consumers on the outlook for their bills in the “sprint” to decarbonise the UK’s electricity system by 2030. Does the government still think cleaner energy means cheaper energy? If so, when and how?
+
+It deserves an answer for two reasons. First, because the costs of turning down gas-fired generation in favour of renewables are clearer than a year ago – and current trends, sadly, are not encouraging. Second, because promising consumers “up to £300” off their bills by 2030 via clean energy, as Keir Starmer and the energy secretary, Ed Miliband, have done , risks handing a political gift to anti-net zero opponents if the savings do not materialise.
+
+That is not to dispute the need to decarbonise the grid. More wind, solar, batteries and interconnectors are the only way to reduce emissions across the whole economy. For the government, there is an extra incentive to protect itself against the risk of a 2022-style rise in the price of gas after Russia’s invasion of Ukraine. The Treasury could ill afford to subsidise household bills again, given the fragile public finances.
+
+But the government’s claims about clean energy tend to go further. The promise, as conveyed by the £300 pledge, is that we can also save money on the way to 2030. Really? The gas price is back at its 10-year average in real terms, while renewables have lost the financing whoosh they enjoyed from ultra-low interest rates. It becomes harder to see how a £200bn five-year transition from dirty but reliable fossil fuels to a cleaner but more complex intermittent system can be costless for consumers.
+
+“I fully support the move to a cleaner energy system,” wrote Chris O’Shea, the chief executive of British Gas-owning Centrica, on LinkedIn a few weeks ago , before tackling the “confusion” over whether renewables will bring down energy prices from where they are now: “The build out of renewables will not materially reduce UK electricity prices from current levels. They may give price stability, and avoid future price spikes based on the international gas market, but they will definitely not reduce the price.”
+
+His point is that there is now little difference between the average wholesale price of electricity, which is usually set by gas-fired plants, and the prices to be paid to offshore wind developers whose projects won contracts-for-difference (CfDs) in last year’s auction.
+
+CfDs are the price-guarantee mechanism, funded by bill payers, that encourages developers to build. Projects get the “strike” price for their electricity regardless of the wholesale price. Last year’s CfDs for fixed offshore wind, viewed as “the bedrock” of a cleaned-up system, were priced at £76-£82 in 2024 money, which at the top end is the same as the average wholesale price of electricity over the past year.
+
+O’Shea could have added the qualification that CfDs only last for 15 years, so there could be gains when the subsidies eventually fall away. In terms of 2030, however, that moment is over the horizon. Today’s outlook is not the happy world of 2022 when CfDs for offshore wind arrived at £53.50 (in today’s money) and the turbines could legitimately be said to be outcompeting gas.
+
+Thus the outcome of the next auctions for renewables projects is critical. Vallorii, an Oxford-based financial risk-modelling company, estimates that CfDs for offshore wind will be up again to £90-£111 a megawatt hour (in today’s money) in this year’s auction – well above current wholesale prices. That is even if the government doesn’t adopt zonal pricing – the proposal that Great Britain’s electricity market should be split into regions with prices set by local supply and demand – which could inflate numbers further.
+
+We’ll see what the auction produces, but Vallorii’s projection is credible for the reasons it gives. There are bottlenecks in supply chains, as evidenced by the Danish company Ørsted stopping work on its giant Hornsea 4 windfarm because it couldn’t make the numbers add up even with a 2024-vintage CfD.
+
+Windfarms are also capital-intensive schemes where borrowing costs make a huge difference: we are not in the 2022 era of ultra-cheap money. That may be why the energy department is flirting with the idea of extending this year’s CfD contracts to 20 years in the hope of reducing the headline rate, albeit at the cost of locking it up for longer.
+
+Meanwhile, the cost of rewiring the grid is adding up. Ofgem last week backed £24bn of spending on gas and electricity networks as the first part of a package that, for electricity alone, will reach £80bn over five years. That will add £104 to annual network charges on bills, the regulator said, although it also offered a net figure of £24 that includes the savings from keeping a lid on “balancing costs”, meaning costs associated with paying windfarms (usually in Scotland) not to generate when the system is overloaded.
+
+Even with the investment in new transmission capacity, however, such balancing costs are still projected to increase from £2.7bn last year to £4bn in 2030 – and that assumes the new high-voltage infrastructure arrives on time.
+
+Such a system-wide perspective – counting all the costs and levies, rather than focusing narrowly on renewables’ undoubted ability to reduce wholesale prices – is how energy analysts tend to look at transformation.
+
+Three conclusions from Aurora Energy Research’s modelling earlier this year stand out. First, CfD clearing prices are key. Second, the high upfront cost of renewables means building a clean power system is always sensitive to changes in the cost of capital. Third – and critically – “due to the long lead times on energy infrastructure, a clean power system would only start saving bill payers from 2044”.
+
+That assessment sounds uncomfortably like the reality. Overhauling a system that was largely built and designed in the 1950s and 1960s is a huge undertaking. It should not be surprising if the benefits in bills take ages to emerge. To repeat, that is not an argument against rolling out renewables. But it is a reason to be honest about costs, uncertainties, the effect of interest rates and bond yields and the inevitable trade-offs that come with tight deadlines . Clean power is not a free lunch.

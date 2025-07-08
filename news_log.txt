@@ -6268,3 +6268,8 @@ Topic: World
 Title: Marseille airport cancels all flights as wildfire encroaches on city
 URL: https://www.theguardian.com/world/2025/jul/08/marseille-airport-cancels-all-flights-as-wildfire-encroaches-on-city
 
+Site: The Guardian
+Topic: Business
+Title: Time for some straight talking on the cost of clean energy. It isn’t a free lunch
+URL: https://www.theguardian.com/business/nils-pratley-on-finance/2025/jul/08/cost-of-clean-energy-uk-bills
+
