@@ -6278,3 +6278,13 @@ Topic: Tv And Radio
 Title: ‘A sheer delight to watch’: the 20 most lovable people on British television
 URL: https://www.theguardian.com/tv-and-radio/2025/jul/08/a-sheer-delight-to-watch-the-20-most-lovable-people-on-british-television
 
+Site: The Guardian
+Topic: Us News
+Title: Top House Democrats demand release of Epstein files that mention Trump
+URL: https://www.theguardian.com/us-news/2025/jul/08/house-democrats-epstein-files-trump
+
+Site: The Guardian
+Topic: Environment
+Title: Why is the Earth spinning faster? Is time speeding up? Australia’s experts give us their second opinion
+URL: https://www.theguardian.com/environment/2025/jul/09/why-is-the-earth-spinning-faster-is-time-speeding-up-australias-experts-give-us-their-second-opinion
+
