@@ -6128,3 +6128,18 @@ Topic: Football
 Title: Revenge in the air as Kylian Mbappé and PSG clash in Club World Cup semi-final
 URL: https://www.theguardian.com/football/2025/jul/08/kylian-mbappe-real-madrid-psg-revenge-club-world-cup-semi-final
 
+Site: The Guardian
+Topic: World
+Title: Ukraine seeks more details on US weapons U-turn days after Pentagon halts delivery
+URL: https://www.theguardian.com/world/2025/jul/08/ukraine-russia-us-military-weapons-pentagon
+
+Site: The Guardian
+Topic: Us News
+Title: Republicans toe Trump line even in aftermath of deadly Texas floods
+URL: https://www.theguardian.com/us-news/2025/jul/08/texas-floods-republicans-response-trump
+
+Site: The Guardian
+Topic: Uk News
+Title: Three men found guilty over London arson attack on Ukraine-linked firms
+URL: https://www.theguardian.com/uk-news/2025/jul/08/three-men-found-guilty-over-london-arson-attack-on-ukraine-linked-firms
+
