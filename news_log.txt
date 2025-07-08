@@ -5913,3 +5913,13 @@ Topic: Us News
 Title: Ted Cruz ensured Trump spending bill slashed weather forecasting funding
 URL: https://www.theguardian.com/us-news/2025/jul/07/ted-cruz-trump-weather-forecasting-cuts
 
+Site: The Guardian
+Topic: Books
+Title: Author of bestselling memoir The Salt Path accused of lying
+URL: https://www.theguardian.com/books/2025/jul/07/author-of-bestselling-memoir-the-salt-path-accused-of-lying-and-stealing-observer-investigation-raynor-winn
+
+Site: The Guardian
+Topic: Us News
+Title: ‘Reality TV spectacle’: outrage as federal agents raid LA neighborhood with horses and armored cars
+URL: https://www.theguardian.com/us-news/2025/jul/07/los-angeles-park-federal-officers-national-guard
+
