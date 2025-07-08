@@ -1,0 +1,53 @@
+Site: The Guardian
+Title: M&S boss says two big UK firms hit by unreported cyber-attacks
+URL: https://www.theguardian.com/business/2025/jul/08/m-and-s-boss-cyber-attacks-archie-norman
+
+UK businesses should be legally required to report major cyber-attacks, the boss of Marks & Spencer has suggested as he claimed two hacks involving “large British companies” had gone unreported in recent months.
+
+In evidence to MPs about the impact of the massive cyber-attack on M&S that forced it to close down its online store for almost seven weeks , the retailer’s chair, Archie Norman, said the business was still in “rebuild mode”.
+
+He said its key online clothing distribution centre in Castle Donington in Leicestershire was still offline, adding: “It would not be an overstatement to describe [the attack] as traumatic” and “like an out of body experience”.
+
+Norman told parliament’s business and trade subcommittee on economic security, arms and export controls that M&S had been quick to report the hack to the UK’s cyber watchdog – the National Cyber Security Centre (NCSC) – which had helped others businesses protect themselves from hackers.
+
+Norman said making reporting to the NCSC mandatory was “a very interesting idea” as “it is apparent to us quite a large number of serious cyber-attacks never get reported”.
+
+He said: “We have reason to believe there have been two major cyber-attacks on large British companies in the last four months that have gone unreported.”
+
+His claim comes after the MP David Davis said in parliament that an unnamed British company “had paid a very large sum to its blackmailer recently”.
+
+Norman would not comment on whether M&S had paid a ransom, saying it was “a matter of law enforcement” and the business was “not discussing any of the details of interaction with the threat actor”.
+
+However, he said any business paying a ransom might have to ask themselves what they would get in return. “In our case, substantially the damage had been done,” he said.
+
+The attack on M&S, which began on 17 April and was spotted by M&S two days later, involved the deployment of ransomware. Norman confirmed that the ransomware specialists DragonForce had been involved in the attack, which has also been linked to a hacking collective known as Scattered Spider.
+
+Norman said the retailer had not had direct contact with its attackers, adding: “They never send you a letter signed Scattered Spider.”
+
+However, he said the hack had been sophisticated, involving impersonation and a third-party contractor.
+
+“There have been media reports [of] M&S leaving the back door open. We didn’t,” Norman said.
+
+He said the group had spent hundreds of millions of pounds on improving its cybersecurity in the year before the attack and increased its prevention team to 80 staff.
+
+Norman suggested it was almost impossible for an organisation with so many workers and contractors to keep out a determined “threat actor”.
+
+Norman revealed that M&S had been in touch with the US’s FBI intelligence and security service as well as the UK’s National Crime Agency and the Metropolitan police after the hack.
+
+All organisations must already report significant breaches of personal data to the Information Commissioner’s Office, the UK’s data protection watchdog, within 72 hours.
+
+The M&S general counsel, Nick Folland, told MPs that M&S would advise other businesses to “make sure you can run your business on pen and paper because that is what you need to do” when a serious attack hits.
+
+However, Rob Elsey, the chief digital information officer for the Co-op Group, disagreed, as he also gave evidence to MPs about the mutual’s hack, which occurred only days after the breach of M&S.
+
+He said the Co-op was looking at setting up segregated “alternative provided systems” that could be brought online in emergencies – “kind of break glass for critical processes” – so that it could keep operating digitally after any future successful attacks.
+
+“The concept of relying on paper and pen in today’s modern society is unsustainable,” he said.
+
+The Co-op was forced to return to using some paper-based systems in its funeral homes and food distribution depots after it closed down sections of its systems to fend off hackers.
+
+Unlike M&S, many Co-op systems were unaffected because they could be segregated and the hack was spotted quickly.
+
+The Co-op also invested in detection systems that picked up the security breach within hours rather than days. It chose to invest in such systems rather than cyber insurance, and the company told MPs it was not expecting to make “any significant recovery” of the costs of the hack from insurers.
+
+M&S is expected to claim more than £100m in insurance to offset some of the £300m in gross lost profits . It expects its online business to be running “fully” by the end of the month.

@@ -6208,3 +6208,18 @@ Topic: Technology
 Title: Does Elon Musk’s new political party need its own Donald Trump?
 URL: https://www.theguardian.com/technology/2025/jul/07/elon-musk-donald-trump-america-party-ai-texts
 
+Site: The Guardian
+Topic: World
+Title: Swedish PM’s private address revealed by Strava data shared by bodyguards
+URL: https://www.theguardian.com/world/2025/jul/08/swedish-pm-safety-strava-data-bodyguards-ulf-kristersson-running-cycling-routes
+
+Site: The Guardian
+Topic: Technology
+Title: Palantir accuses UK doctors of choosing ‘ideology over patient interest’ in NHS data row
+URL: https://www.theguardian.com/technology/2025/jul/08/palantir-technology-uk-doctors-patient-nhs-data
+
+Site: The Guardian
+Topic: Business
+Title: M&S boss says two big UK firms hit by unreported cyber-attacks
+URL: https://www.theguardian.com/business/2025/jul/08/m-and-s-boss-cyber-attacks-archie-norman
+
