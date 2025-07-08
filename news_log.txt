@@ -6433,3 +6433,8 @@ Topic: Football
 Title: João Pedro sends Chelsea to Club World Cup final as stunners sink Fluminense
 URL: https://www.theguardian.com/football/2025/jul/08/fluminense-chelsea-club-world-cup-semi-final-match-report
 
+Site: The Guardian
+Topic: Us News
+Title: US supreme court clears way for Trump officials to resume mass government firings
+URL: https://www.theguardian.com/us-news/2025/jul/08/supreme-court-trump-federal-layoffs
+
