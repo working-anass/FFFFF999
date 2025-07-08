@@ -6103,3 +6103,28 @@ Topic: Football
 Title: Transfer latest: Leeds close on Newcastle’s Longstaff, Spurs land defender Takai
 URL: https://www.theguardian.com/football/2025/jul/08/transfer-latest-leeds-sean-longstaff-newcastle-spurs-sign-kota-takai-defender
 
+Site: The Guardian
+Topic: World
+Title: Germany summons Chinese envoy over laser-targeting of surveillance plane
+URL: https://www.theguardian.com/world/2025/jul/08/germany-summons-chinese-envoy-over-laser-targeting-of-surveillance-plane
+
+Site: The Guardian
+Topic: World
+Title: How terrorist groups are leveraging AI to recruit and finance their operations
+URL: https://www.theguardian.com/world/2025/jul/08/terrorist-groups-artificial-intelligence
+
+Site: The Guardian
+Topic: Us News
+Title: US only has 25% of all Patriot missile interceptors needed for Pentagon’s military plans
+URL: https://www.theguardian.com/us-news/2025/jul/08/us-pentagon-military-plans-patriot-missile-interceptor
+
+Site: The Guardian
+Topic: Uk News
+Title: Government did not want to ‘harass’ Post Office victims by chasing up claims
+URL: https://www.theguardian.com/uk-news/2025/jun/25/government-did-not-want-harass-post-office-victims-chasing-claims-horizon-scandal
+
+Site: The Guardian
+Topic: Football
+Title: Revenge in the air as Kylian Mbappé and PSG clash in Club World Cup semi-final
+URL: https://www.theguardian.com/football/2025/jul/08/kylian-mbappe-real-madrid-psg-revenge-club-world-cup-semi-final
+
