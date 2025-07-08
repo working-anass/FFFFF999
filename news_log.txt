@@ -6343,3 +6343,8 @@ Topic: Business
 Title: Pret a Manger launches salad revamp – and one starts at £12.95
 URL: https://www.theguardian.com/business/2025/jul/08/pret-a-manger-launches-salad-revamp
 
+Site: The Guardian
+Topic: Us News
+Title: Pentagon provided $2.4tn to private arms firms to ‘fund war and weapons’, report finds
+URL: https://www.theguardian.com/us-news/2025/jul/08/pentagon-military-spending
+
