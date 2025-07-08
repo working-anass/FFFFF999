@@ -6083,3 +6083,13 @@ Topic: Football
 Title: David Squires on … Euro 2025 and a reminder that football is just a game
 URL: https://www.theguardian.com/football/picture/2025/jul/08/david-squires-on-euro-2025-and-a-reminder-that-football-is-just-a-game
 
+Site: The Guardian
+Topic: Us News
+Title: Deadly floods could be new normal as Trump guts federal agencies, experts warn
+URL: https://www.theguardian.com/us-news/2025/jul/08/texas-deadly-floods-could-be-new-normal
+
+Site: The Guardian
+Topic: Australia News
+Title: ‘Fungi fatale’ and ‘death cap stare’: how the world’s media reported Erin Patterson’s guilty verdict
+URL: https://www.theguardian.com/australia-news/2025/jul/08/mushroom-murders-australian-world-media-front-pages-erin-patterson-guilty-verdict-ntwnfb
+
