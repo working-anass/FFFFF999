@@ -6053,3 +6053,8 @@ Topic: Global Development
 Title: Saudi Arabia executing ‘horrifying’ number of foreigners for drug crimes
 URL: https://www.theguardian.com/global-development/2025/jul/08/saudi-arabia-capital-punishment-executions-foreigners-drug-offences-crime-600-people-amnesty-international
 
+Site: The Guardian
+Topic: Football
+Title: Football transfer rumours: Spurs, Newcastle and Napoli to tussle over Jack Grealish?
+URL: https://www.theguardian.com/football/2025/jul/08/football-transfer-rumours-spurs-newcastle-and-napoli-to-tussle-over-jack-grealish
+
