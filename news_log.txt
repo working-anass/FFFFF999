@@ -6238,3 +6238,8 @@ Topic: Lifeandstyle
 Title: Don’t ‘power pee’ – but do grab a mirror: 13 easy, effective ways to protect your pelvic floor
 URL: https://www.theguardian.com/lifeandstyle/2025/jul/08/dont-power-pee-but-do-grab-mirror-13-easy-effective-ways-protect-pelvic-floor
 
+Site: The Guardian
+Topic: Us News
+Title: Rightwing influencers indignant over FBI claim that Jeffrey Epstein’s client list doesn’t exist
+URL: https://www.theguardian.com/us-news/2025/jul/08/rightwing-jeffrey-epstein-client-list
+
