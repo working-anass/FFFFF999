@@ -6008,3 +6008,8 @@ Topic: Uk News
 Title: Liverpool mobile greengrocer to reach ‘food deserts’ with aid of mapping tool
 URL: https://www.theguardian.com/uk-news/2025/jul/08/liverpool-mobile-greengrocer-to-reach-food-deserts-with-aid-of-mapping-tool
 
+Site: The Guardian
+Topic: World
+Title: China’s human rights lawyers speak out, 10 years after crackdown
+URL: https://www.theguardian.com/world/2025/jul/07/chinas-human-rights-lawyers-speak-out-10-years-after-crackdown
+
