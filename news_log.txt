@@ -6423,3 +6423,13 @@ Topic: Politics
 Title: MPs and peers make awkward small talk during wait for box-office hit Macron
 URL: https://www.theguardian.com/politics/2025/jul/08/mps-and-peers-make-awkward-small-talk-during-wait-for-box-office-hit-macron
 
+Site: The Guardian
+Topic: World
+Title: Family of UK couple held in Iran did not know pair’s whereabouts for month
+URL: https://www.theguardian.com/world/2025/jul/08/family-of-uk-couple-held-in-iran-did-not-know-pairs-whereabouts-for-month
+
+Site: The Guardian
+Topic: Football
+Title: João Pedro sends Chelsea to Club World Cup final as stunners sink Fluminense
+URL: https://www.theguardian.com/football/2025/jul/08/fluminense-chelsea-club-world-cup-semi-final-match-report
+
