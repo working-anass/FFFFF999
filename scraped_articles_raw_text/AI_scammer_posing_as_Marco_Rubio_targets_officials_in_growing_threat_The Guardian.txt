@@ -1,0 +1,19 @@
+Site: The Guardian
+Title: AI scammer posing as Marco Rubio targets officials in growing threat
+URL: https://www.theguardian.com/us-news/2025/jul/08/marco-rubio-ai-impostor
+
+An unknown fraudster has used artificial intelligence to impersonate the US secretary of state, Marco Rubio , contacting at least five senior officials.
+
+According to a state department cable first seen by the Washington Post and confirmed by the Guardian, the impostor sent fake voice messages and texts that mimicked Rubio’s voice and writing style to those targets including three foreign ministers, a US governor and a member of Congress.
+
+The cable, dated 3 July, said the impostor “left voicemails on Signal for at least two targeted individuals” and sent text messages inviting others to communicate on the platform.
+
+It’s still a mystery who is behind the Rubio scam, but the cable reads that the goal had been “gaining access to information or accounts” of powerful government officials.
+
+“The State Department is aware of this incident and is currently investigating the matter,” said a senior state department official. “The Department takes seriously its responsibility to safeguard its information and continuously takes steps to improve the department’s cybersecurity posture to prevent future incidents. For security reasons, and due to our ongoing investigation, we are not in a position to offer further details at this time.”
+
+The threat of AI impersonators has become increasingly common across government agencies. The state department cable included details that the actor impersonating Rubio created the account in mid-June and was similar to other activity in May when someone impersonated other senior US government officials. That is likely a reference to the impersonator who pretended to be White House chief of staff Susie Wiles and reached out to her personal contacts and one lawmaker.
+
+David Axelrod, who served as senior adviser to Barack Obama, said the AI scam using Rubio was “only a matter of time” and urged urgent action to defend against such attacks.
+
+“A Marco Rubio impostor is using AI voice to call high-level officials,” Axelrod wrote on X. “This is the new world in which we live and we’d better figure out how to defend against it because of its implications for our democracy and the world.”

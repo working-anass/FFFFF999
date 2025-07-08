@@ -6333,3 +6333,13 @@ Topic: World
 Title: Five key takeaways from Macron’s speech to UK parliament
 URL: https://www.theguardian.com/world/2025/jul/08/five-key-takeaways-from-macron-speech-to-uk-parliament
 
+Site: The Guardian
+Topic: Us News
+Title: AI scammer posing as Marco Rubio targets officials in growing threat
+URL: https://www.theguardian.com/us-news/2025/jul/08/marco-rubio-ai-impostor
+
+Site: The Guardian
+Topic: Business
+Title: Pret a Manger launches salad revamp – and one starts at £12.95
+URL: https://www.theguardian.com/business/2025/jul/08/pret-a-manger-launches-salad-revamp
+
