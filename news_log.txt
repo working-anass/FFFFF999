@@ -6063,3 +6063,23 @@ Topic: Technology
 Title: iPhone 16e review: Apple’s cheapest new phone
 URL: https://www.theguardian.com/technology/2025/mar/11/iphone-16e-review-apple-cheapest-new-phone
 
+Site: The Guardian
+Topic: Us News
+Title: Texas pediatrician ‘no longer employed’ after post about pro-Trump flood victims
+URL: https://www.theguardian.com/us-news/2025/jul/08/texas-floods-pediatrician-maga
+
+Site: The Guardian
+Topic: Environment
+Title: Inside RFK Jr’s conflicted attempt to rid America of junk food
+URL: https://www.theguardian.com/environment/2025/jul/08/rfk-jr-junk-food
+
+Site: The Guardian
+Topic: Environment
+Title: ‘Could become a death spiral’: scientists discover what’s driving record die-offs of US honeybees
+URL: https://www.theguardian.com/environment/2025/jul/08/record-us-bee-colony-dieoffs-climate-stress-pesticides-silent-spring-aoe
+
+Site: The Guardian
+Topic: Football
+Title: David Squires on … Euro 2025 and a reminder that football is just a game
+URL: https://www.theguardian.com/football/picture/2025/jul/08/david-squires-on-euro-2025-and-a-reminder-that-football-is-just-a-game
+

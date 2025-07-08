@@ -1,0 +1,79 @@
+Site: The Guardian
+Title: Inside RFK Jr’s conflicted attempt to rid America of junk food
+URL: https://www.theguardian.com/environment/2025/jul/08/rfk-jr-junk-food
+
+Over the space of the last year, Robert F Kennedy Jr . has made the term “ultra-processed foods” something of a household phrase.
+
+Once a term only used by nutritionists and food policy researchers to describe the most processed foods in the supply chain (think: chips and sodas, packaged bread, microwave dinners and even some yogurts), ultra-processing has become a calling card of the “Make America Healthy Again” (“Maha”) movement.
+
+The movement, which is focused on addressing “America’s escalating health crisis” by investigating food, pharmaceuticals, vaccines and environmental contaminants (and has frequently platformed pseudoscience), found a home in Donald Trump’s administration after Kennedy endorsed the president. Indeed, during his confirmation hearings to become head of the Department of Health and Human Services, Kennedy called ultra-processed foods “poison” and the main culprit of the United States’s “chronic disease epidemic”.
+
+Many food experts were surprised, and grateful, to find an ally in Trump’s administration. Today, ultra-processed foods make up 73% of the US food supply and are linked to a range of health conditions including diabetes, obesity, depression and certain cancers.
+
+Despite this rhetoric, experts are skeptical that ultra-processed foods will go anywhere. Rather than reining in ultra-processing, the Trump administration’s food policy has mostly undermined Maha’s stated goals.
+
+Calling out the ‘root cause of all this sickness and death’
+
+The first report of the Maha commission made headlines in May when it raised concerns about a “chronic disease crisis” in children.
+
+Echoing language that Kennedy campaigned on, the report argued that “the American diet has shifted dramatically toward ultra-processed foods” and that “nearly 70% of children’s calories now come from UPFs, contributing to obesity, diabetes, and other chronic conditions”. (The report also received criticism for including fake citations , though those in the food policy sections appeared accurate.)
+
+Those are concerns that food policy experts share – and the report listed many expert-backed solutions to rein in ultra-processing.
+
+“The greatest step the United States can take to reverse childhood chronic disease is to put whole foods produced by American farmers and ranchers at the center of healthcare,” the report found. It went on to describe the dismal state of nutrition research in the United States: “Government funding for nutrition research through the NIH is only 4-5% of its total budget and in some cases is subject to influence by food industry-aligned researchers.”
+
+It is “extraordinary” how quickly Kennedy’s Maha commission has “made chronic disease, specifically big food” a political priority, said Jerold Mande, a nutrition professor at the Harvard TH Chan School of Public Health and a former food policymaker who served under Bill Clinton, George W Bush and Barack Obama. “It’s a bit breathtaking and refreshing to see this administration put out a report where they just clearly say a root cause of all of this sickness and death is the industry.”
+
+As head of the Maha commission, Kennedy has also promised to introduce regulatory reforms, including phasing out synthetic food dyes , ending a loophole for untested food additives , introducing a new regulatory program and restricting how supplemental food funding is spent.
+
+Under Kennedy’s direction, the Food and Drug Administration has begun asking companies to voluntarily stop using six common food dyes, and outright banned two others. Food policy advocates have long called for greater regulations on synthetic dyes, and some states, most notably California , have already begun banning certain dyes.
+
+Kennedy has ordered the FDA to explore how to eliminate a policy that allows food companies to decide themselves whether food additives are safe, called the Generally Recognized as Safe (Gras) loophole. “That’s a really, really big deal,” says Dariush Mozaffarian, a cardiologist and director of the Food is Medicine Institute at the Friedman School of Nutrition Science and Policy at Tufts University. “Ninety-nine per cent of compounds in food were added through this loophole.”
+
+In May, the FDA and National Institutes of Health also announced a new joint Nutrition Regulatory Science Program (plans to form such a program were finalized under the Biden administration). In recent weeks, the program issued requests for research proposals specifically tied to two themes: contaminants in school meals and exercise (food companies have emphasized the individual responsibility to exercise as a distraction from reformulating food).
+
+Meanwhile, at Kennedy’s encouragement, several states are also pursuing policies that would limit spending from the Supplemental Nutrition Assistance Program (Snap) on “junk food”. To date, the federal government has approved waivers for six states to ban such purchases. Mande thinks that’s an effective strategy to motivate food companies to reformulate their products. “Snap is just by far the biggest lever the government has that the food companies are going to do what Snap policy requires of them,” he said.
+
+How Trump ‘hijacked the food movement’
+
+Despite the Maha report and other recent moves by Kennedy to call out ultra-processed food and its role in the chronic disease crisis, some food policy experts warn that the administration’s actions are undermining that goal. That came into focus earlier this year when Trump appointed several nominees who favored deregulatory policies, or had outright ties to the food industry, to his cabinet.
+
+One of the key ways to rein in ultra-processing is to make sure that youth have access to fresh produce, says Mande. Yet the administration has slashed the very programs that do that.
+
+In March, Trump’s agriculture department cut a host of previously approved grants, including the Patrick Leahy Farm to School Grant and Local Food for Schools and Childcare program , which paid farmers and ranchers to supply schools with local foods and build gardens. Those cuts don’t only harm schools, but farmers as well , says Marion Nestle, a professor emerita at New York University and author of the book “Food Politics”.
+
+Mozaffarian called the choice to cut the Farm to School Grant “a bizarre decision that goes completely against the goals to make America healthy again”.
+
+Nestle believes that misalignment between promise and practice is purposeful. The Trump administration and Maha movement have “hijacked the food movement in order to use it as publicity for the kind of cuts that are being made”, she said. It’s also being used to “forward an agenda which is exactly the opposite of what you would hope” – one that’s focused more on cutting programs than reforming industry.
+
+Nestle says the administration’s calls to end subsidies for “junk food” with Snap are disingenuous, and just a guise for cutting the program altogether. “The business about taking sodas out of Snap is a cover for cutting Snap benefits,” she said. The current Republican budget bill, which Trump signed into law last week, proposes a 20% cut to the program.
+
+In addition to increasing access to fresh produce, the other most effective way to tackle ultra-processed foods, Mande says, is robust industry regulation – which also hasn’t happened.
+
+“It’s become a pattern that they announce ambitious plans, they say a lot of the right things about what the problem is and what we broadly need to do about it, but the specifics are either missing or really not properly aligned to the task,” said Mande. “It’s still early, but it’s happened repeatedly enough to be concerning.”
+
+The Trump administration’s announcements about combatting food dyes and additives, for instance, have not been paired with specific plans or funding details or regulations.
+
+“Historically, Republican administrations have been reluctant to use some levers of government, particularly funding and regulation to advance policy, but there is no way to tackle this issue successfully and effectively without funding and regulations,” said Mande. “At each juncture, when one would expect or hope to see funding or regulation as a step to achieving a policy that they played out, they haven’t done that.”
+
+Even with funding, Nestle wonders how effective those reforms will be “when the FDA’s workforce has been decimated”.
+
+In April, the dDepartment of Health and Human Services laid off 10,000 workers , about an eighth of its workforce. More than a third of those fired were at the Food and Drug Administration.
+
+In the wake of those layoffs, the National Institutes of Health’s leading nutrition researcher, Kevin Hall, opted to take an early retirement offer. Hall has conducted one of the most cited studies on ultra-processed foods, which found that people who ate an ultra-processed diet consumed nearly 500 calories more a day than those who did not, and had other projects in the pipeline.
+
+“Unfortunately, recent events have made me question whether NIH continues to be a place where I can freely conduct unbiased science,” Hall wrote in a social media post announcing his decision.
+
+In an interview with the New York Times, Hall described multiple incidents where NIH officials censored his work, including altering his responses to journalists and asking him to remove language about “health equity” from his research (he opted to remove his name from the paper instead). In May, he told Stat News that he’s unlikely to return to the scientific agency.
+
+What’s ahead
+
+That said, Mozaffarian believes there are still powerful ways the Trump administration could regulate ultra-processed foods with minimal staff or funding.
+
+Funding and a plan are key to making that work successful, he said, but if that’s not possible, the agency could take other actions. He suggests three such alternatives for ending the Gras loophole: requiring “public notice and public disclosure of all the safety data that would then be put on a searchable public database” that other groups, like academics and consumer watchdogs, could review themselves; implement stricter standards for which foods are allowed to call themselves “generally recognized as safe”; or adopt the food regulations of other countries, such as Europe, Australia, New Zealand or Canada which have already banned “many substances that are allowed in the US”.
+
+Nestle is more skeptical that incremental change could tackle ultra-processing and chemicals in the food supply.
+
+Addressing color additives, for example, she says is a “no brainer” because companies are already “using alternatives in Australia and New Zealand.” What could be more difficult is getting other chemicals out of food, like the mercury, arsenic and other heavy metals emitted by coal-burning power plants that also contaminate soil and waterways.
+
+“Nobody has ever been able to get coal burning power plants to clean up their emissions” and in fact the Trump administration has directed the Environmental Protection Agency to relax controls on those emissions, she adds. “There’s no policy here.”
