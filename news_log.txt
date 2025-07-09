@@ -6538,3 +6538,8 @@ Topic: Sport
 Title: Tour de France: Pogacar takes 100th win in thrilling stage four finish but denied yellow jersey
 URL: https://www.theguardian.com/sport/2025/jul/08/tour-de-france-pogacar-takes-100th-win-in-thrilling-stage-four-finish-but-denied-yellow-jersey-cycling
 
+Site: The Guardian
+Topic: Environment
+Title: Climate breakdown tripled death toll in Europe’s June heatwave, study finds
+URL: https://www.theguardian.com/environment/2025/jul/09/europe-june-heatwave-study-climate-breakdown-tripled-death-toll
+
