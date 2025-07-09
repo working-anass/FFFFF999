@@ -6858,3 +6858,8 @@ Topic: Australia News
 Title: Fears grow for 26-year-old German backpacker missing in rural Western Australia
 URL: https://www.theguardian.com/australia-news/2025/jul/09/carolina-wilga-german-backpacker-missing-in-rural-western-australia
 
+Site: The Guardian
+Topic: Technology
+Title: Linda Yaccarino stepping down as CEO of Elon Musk’s X
+URL: https://www.theguardian.com/technology/2025/jul/09/x-ceo-steps-down-linda-yaccarino
+
