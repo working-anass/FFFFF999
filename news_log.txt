@@ -6653,3 +6653,8 @@ Topic: Football
 Title: Football transfer rumours: Ferran Torres to swap Barcelona for Aston Villa?
 URL: https://www.theguardian.com/football/2025/jul/09/football-transfer-rumours-ferran-torres-to-swap-barcelona-for-aston-villa
 
+Site: The Guardian
+Topic: Uk News
+Title: Too late to stop small boats once people arrive in Calais, says UN migration chief
+URL: https://www.theguardian.com/uk-news/2025/jul/09/too-late-stop-small-boats-once-people-arrive-calais-un-migration-chief-amy-pope
+
