@@ -6563,3 +6563,23 @@ Topic: Liveblog
 Title: Israel bombs Gaza refugee camp; Trump, Netanyahu meet for second time
 URL: https://www.aljazeera.com/news/liveblog/2025/7/9/live-israel-bombs-gaza-refugee-camp-trump-netanyahu-meet-for-second-time
 
+Site: The Guardian
+Topic: World
+Title: Gaza aid workers overwhelmed by ‘mass casualty incidents’ at food distribution sites
+URL: https://www.theguardian.com/world/2025/jul/09/gaza-aid-workers-overwhelmed-by-mass-casualty-incidents-at-food-distribution-sites
+
+Site: The Guardian
+Topic: Technology
+Title: Sony WH-1000XM6 review: raising the bar for noise-cancelling headphones
+URL: https://www.theguardian.com/technology/2025/jul/09/sony-wh-1000xm6-review-raising-the-bar-for-noise-cancelling-headphones
+
+Site: The Guardian
+Topic: Technology
+Title: ‘A fork in the road’: laundry-sorting robot spurs AI hopes and fears at Europe’s biggest tech event
+URL: https://www.theguardian.com/technology/2024/nov/15/laundry-sorting-robot-digit-web-summit-ai-future
+
+Site: The Guardian
+Topic: Business
+Title: Looser bonus rules and tax breaks needed to save London stock market, says CBI
+URL: https://www.theguardian.com/business/2025/jul/09/looser-bonus-rules-and-tax-breaks-needed-to-save-london-stock-market-says-cbi
+
