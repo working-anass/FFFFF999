@@ -7018,3 +7018,18 @@ Topic: Football
 Title: Jess Fishlock makes Wales history before France take control at Euro 2025
 URL: https://www.theguardian.com/football/2025/jul/09/france-wales-womens-euro-2025-group-d-match-report
 
+Site: The Guardian
+Topic: Us News
+Title: US issues sanctions against UN official investigating abuses in Gaza
+URL: https://www.theguardian.com/us-news/2025/jul/09/israel-gaza-war-un-sanctions
+
+Site: The Guardian
+Topic: Football
+Title: PSG cruise to Club World Cup final after Ruiz and Dembélé stun Real Madrid
+URL: https://www.theguardian.com/football/2025/jul/09/paris-saint-germain-real-madrid-club-world-cup-semi-final-match-report
+
+Site: The Guardian
+Topic: World
+Title: Landmark ruling finds Russia shot down MH17 with 38 Australians on board
+URL: https://www.theguardian.com/world/2025/jul/10/european-court-human-rights-russia-mh17-38-australians-ntwnfb
+
