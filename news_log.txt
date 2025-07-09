@@ -6963,3 +6963,13 @@ Topic: Artanddesign
 Title: Sir Brian Clarke obituary
 URL: https://www.theguardian.com/artanddesign/2025/jul/09/brian-clarke-obituary
 
+Site: The Guardian
+Topic: Us News
+Title: Trump targets Brunei, Libya and Moldova with latest threat of US tariffs
+URL: https://www.theguardian.com/us-news/2025/jul/09/trump-tariffs-brunei-libya-moldova
+
+Site: The Guardian
+Topic: Environment
+Title: We must count the real costs of nuclear power
+URL: https://www.theguardian.com/environment/2025/jul/09/we-must-count-the-real-costs-of-nuclear-power
+
