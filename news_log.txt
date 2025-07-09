@@ -6598,3 +6598,8 @@ Topic: Technology
 Title: Bose QuietComfort Ultra headphones review: supreme comfort and noise cancelling
 URL: https://www.theguardian.com/technology/2023/nov/06/bose-quietcomfort-ultra-headphones-review-supreme-comfort-and-noise-cancelling
 
+Site: The Guardian
+Topic: Sport
+Title: Stamina, skills, hunger: how do England solve a problem like Shubman Gill?
+URL: https://www.theguardian.com/sport/2025/jul/08/england-india-shubman-gill-test-cricket
+
