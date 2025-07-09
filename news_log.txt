@@ -6618,3 +6618,23 @@ Topic: Uk News
 Title: Far-right Chelsea fan jailed for attack on Guardian's Owen Jones
 URL: https://www.theguardian.com/uk-news/2020/jul/24/chelsea-fan-jailed-for-attack-on-guardian-journalist-owen-jones
 
+Site: The Guardian
+Topic: Australia News
+Title: NSW woman on emotional ‘rollercoaster’ after losing arm in zoo lion attack, family says
+URL: https://www.theguardian.com/australia-news/2025/jul/09/nsw-woman-struggling-after-losing-arm-in-zoo-lion-attack-family-queensland-ntwnfb
+
+Site: The Guardian
+Topic: Football
+Title: Head of football in Republic of the Congo accused of embezzling $1.3m of Fifa funds
+URL: https://www.theguardian.com/football/2025/jul/09/head-of-football-in-republic-of-the-congo-accused-of-embezzling-13m-of-fifa-funds
+
+Site: The Guardian
+Topic: Technology
+Title: Sennheiser Momentum 4 review: tremendous noise-cancelling headphones
+URL: https://www.theguardian.com/technology/2022/aug/22/sennheiser-momentum-4-review-tremendous-noise-cancelling-headphones-bluetooth-battery
+
+Site: The Guardian
+Topic: Business
+Title: Seven UK housebuilders to pay £100m to fund affordable homes after CMA investigation
+URL: https://www.theguardian.com/business/2025/jul/09/seven-uk-housebuilders-to-pay-100m-to-fund-affordable-homes-after-cma-investigation
+
