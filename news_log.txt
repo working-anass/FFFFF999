@@ -6543,3 +6543,23 @@ Topic: Environment
 Title: Climate breakdown tripled death toll in Europe’s June heatwave, study finds
 URL: https://www.theguardian.com/environment/2025/jul/09/europe-june-heatwave-study-climate-breakdown-tripled-death-toll
 
+Site: The Guardian
+Topic: Environment
+Title: Thousands meet their MPs to show huge demand for climate action
+URL: https://www.theguardian.com/environment/2025/jul/09/thousands-meet-their-mps-to-show-huge-demand-for-climate-action
+
+Site: The Guardian
+Topic: Global Development
+Title: Diverse, communal, gender-fluid: African families’ true history is being whitewashed
+URL: https://www.theguardian.com/global-development/2025/jul/09/african-families-diversity-communal-genderfluid-queer-history-rightwing-gender-nuclear
+
+Site: The Guardian
+Topic: Lifeandstyle
+Title: The new rules of small talk: how to nail every conversation, from first dates to weddings, parties and funerals
+URL: https://www.theguardian.com/lifeandstyle/2025/jul/09/new-rules-small-talk-nail-every-conversation-first-dates-weddings-parties-funerals
+
+Site: Al Jazeera
+Topic: Liveblog
+Title: Israel bombs Gaza refugee camp; Trump, Netanyahu meet for second time
+URL: https://www.aljazeera.com/news/liveblog/2025/7/9/live-israel-bombs-gaza-refugee-camp-trump-netanyahu-meet-for-second-time
+
