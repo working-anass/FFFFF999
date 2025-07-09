@@ -6993,3 +6993,13 @@ Topic: Politics
 Title: Rachel Reeves is the only one grinning wildly at Keir and Kemi’s dreary display
 URL: https://www.theguardian.com/politics/2025/jul/09/another-mediocre-stalemate-at-pmqs-as-neither-kemi-nor-keir-bother-to-engage
 
+Site: The Guardian
+Topic: Us News
+Title: Teen suspected of setting off fireworks that sparked California wildfire
+URL: https://www.theguardian.com/us-news/2025/jul/09/california-rancho-fire-teenager-fireworks
+
+Site: The Guardian
+Topic: Football
+Title: England 4-0 Netherlands: Women’s Euro 2025 Group D ratings
+URL: https://www.theguardian.com/football/2025/jul/09/england-netherlands-womens-euro-2025-group-d-ratings
+
