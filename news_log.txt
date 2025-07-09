@@ -6938,3 +6938,18 @@ Topic: Uk News
 Title: Palestinian family ask UK court to force officials to help them leave Gaza
 URL: https://www.theguardian.com/uk-news/2025/jul/09/palestinian-family-uk-court-force-officials-help-leave-gaza
 
+Site: The Guardian
+Topic: World
+Title: Russia has committed flagrant human rights abuses in Ukraine since 2014, rules ECHR
+URL: https://www.theguardian.com/world/2025/jul/09/russia-has-committed-flagrant-human-rights-abuses-in-ukraine-since-2014-rules-echr
+
+Site: The Guardian
+Topic: Football
+Title: Lauren James double ignites England’s Euro campaign in thrashing of Netherlands
+URL: https://www.theguardian.com/football/2025/jul/09/england-netherlands-womens-euro-2025-group-d-match-report
+
+Site: The Guardian
+Topic: Football
+Title: Spurs agree £54.5m deal to buy Mohammed Kudus from West Ham
+URL: https://www.theguardian.com/football/2025/jul/09/spurs-agree-deal-buy-mohammed-kudus-west-ham
+
