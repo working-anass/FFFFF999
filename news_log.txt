@@ -6638,3 +6638,13 @@ Topic: Business
 Title: Seven UK housebuilders to pay £100m to fund affordable homes after CMA investigation
 URL: https://www.theguardian.com/business/2025/jul/09/seven-uk-housebuilders-to-pay-100m-to-fund-affordable-homes-after-cma-investigation
 
+Site: The Guardian
+Topic: Uk News
+Title: Parents rejoice as Home Office reverses decision to send children back to Brazil
+URL: https://www.theguardian.com/uk-news/2025/jul/09/home-office-reverses-decision-send-children-brazil
+
+Site: The Guardian
+Topic: Lifeandstyle
+Title: My father, the fake: was anything he told me actually true?
+URL: https://www.theguardian.com/lifeandstyle/2025/jul/09/my-father-the-fake-was-anything-he-told-me-actually-true
+
