@@ -6873,3 +6873,13 @@ Topic: Music
 Title: ‘The best song to have sex to? Kraftwerk has good beats’: Mel Giedroyc’s honest playlist
 URL: https://www.theguardian.com/music/2025/jul/09/mel-giedroyc-honest-playlist-bohemian-rhapsody-safety-dance-abba-chemical-brothers
 
+Site: The Guardian
+Topic: Us News
+Title: Kennedy touts ultra-processed meals he once called ‘poison’
+URL: https://www.theguardian.com/us-news/2025/jul/09/rfk-ultra-processed-food-medicaid
+
+Site: The Guardian
+Topic: Football
+Title: Transfer latest: Arsenal open Madueke talks with Chelsea, Everton sign £27m striker Barry
+URL: https://www.theguardian.com/football/2025/jul/09/arsenal-open-talks-chelsea-signing-noni-madueke
+
