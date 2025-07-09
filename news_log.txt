@@ -6973,3 +6973,8 @@ Topic: Environment
 Title: We must count the real costs of nuclear power
 URL: https://www.theguardian.com/environment/2025/jul/09/we-must-count-the-real-costs-of-nuclear-power
 
+Site: The Guardian
+Topic: Uk News
+Title: Anglo-French talks over migration deal hanging in balance
+URL: https://www.theguardian.com/uk-news/2025/jul/09/anglo-french-talks-over-migration-deal-hanging-in-balance
+
