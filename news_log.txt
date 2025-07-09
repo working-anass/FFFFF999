@@ -6678,3 +6678,13 @@ Topic: Business
 Title: Threat of Trump tariffs ‘puts businesses at risk of going bust’
 URL: https://www.theguardian.com/business/2025/jul/09/threat-of-trump-tariffs-puts-uk-businesses-at-risk-of-going-bust
 
+Site: The Guardian
+Topic: World
+Title: China’s coal heartland fighting for a greener future
+URL: https://www.theguardian.com/world/2025/jul/09/chinas-coal-heartland-fighting-for-a-greener-future
+
+Site: The Guardian
+Topic: Us News
+Title: Eric Adams accused of corruption by four former high-ranking NYPD officers
+URL: https://www.theguardian.com/us-news/2025/jul/08/eric-adams-nypd-officers-lawsuit
+
