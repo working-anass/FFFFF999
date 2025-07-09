@@ -6583,3 +6583,8 @@ Topic: Business
 Title: Looser bonus rules and tax breaks needed to save London stock market, says CBI
 URL: https://www.theguardian.com/business/2025/jul/09/looser-bonus-rules-and-tax-breaks-needed-to-save-london-stock-market-says-cbi
 
+Site: The Guardian
+Topic: Business
+Title: London’s stock exchange needs a shot in the arm from the Treasury
+URL: https://www.theguardian.com/business/nils-pratley-on-finance/2025/jul/09/london-stock-exchange-needs-a-shot-in-the-arm-from-the-treasury
+
