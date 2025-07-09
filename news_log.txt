@@ -6923,3 +6923,13 @@ Topic: Us News
 Title: Police in Scotland braced for large-scale protests if Trump visits new golf course
 URL: https://www.theguardian.com/us-news/2025/jul/09/police-scotland-braced-protests-donald-trump-visits-new-golf-course
 
+Site: The Guardian
+Topic: Us News
+Title: US agriculture secretary says Medicaid recipients can replace deported farm workers
+URL: https://www.theguardian.com/us-news/2025/jul/09/trump-agriculture-medicaid-migrant-farm-workers
+
+Site: The Guardian
+Topic: Uk News
+Title: Give asylum seekers the right to work in Britain
+URL: https://www.theguardian.com/uk-news/2025/jul/09/give-asylum-seekers-the-right-to-work-in-britain
+
