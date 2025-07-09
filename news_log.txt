@@ -6688,3 +6688,8 @@ Topic: Us News
 Title: Eric Adams accused of corruption by four former high-ranking NYPD officers
 URL: https://www.theguardian.com/us-news/2025/jul/08/eric-adams-nypd-officers-lawsuit
 
+Site: The Guardian
+Topic: Uk News
+Title: Infected blood victims ‘not listened to’ by ministers, says UK inquiry chair
+URL: https://www.theguardian.com/uk-news/2025/jul/09/infected-blood-victims-not-listened-to-by-ministers-says-uk-inquiry-chair
+
