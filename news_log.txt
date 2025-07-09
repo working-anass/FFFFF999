@@ -6613,3 +6613,8 @@ Topic: Football
 Title: How early has a defending champion exited an international tournament?
 URL: https://www.theguardian.com/football/2025/jul/09/the-knowleedge-how-early-has-a-defending-champion-exited-an-international-football-tournament
 
+Site: The Guardian
+Topic: Uk News
+Title: Far-right Chelsea fan jailed for attack on Guardian's Owen Jones
+URL: https://www.theguardian.com/uk-news/2020/jul/24/chelsea-fan-jailed-for-attack-on-guardian-journalist-owen-jones
+
