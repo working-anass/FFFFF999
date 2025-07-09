@@ -6693,3 +6693,13 @@ Topic: Uk News
 Title: Infected blood victims ‘not listened to’ by ministers, says UK inquiry chair
 URL: https://www.theguardian.com/uk-news/2025/jul/09/infected-blood-victims-not-listened-to-by-ministers-says-uk-inquiry-chair
 
+Site: The Guardian
+Topic: Us News
+Title: Sauce Boss the rodeo bull becomes latest US animal escape artist
+URL: https://www.theguardian.com/us-news/2025/jul/09/sauce-boss-rodeo-bull-escape-colorado
+
+Site: The Guardian
+Topic: Football
+Title: The most aggressive set-piece team in the world plays in Minnesota
+URL: https://www.theguardian.com/football/2025/jul/09/minnesota-united-set-pieces-throw-ins-free-kicks-tactics
+
