@@ -7003,3 +7003,8 @@ Topic: Football
 Title: England 4-0 Netherlands: Women’s Euro 2025 Group D ratings
 URL: https://www.theguardian.com/football/2025/jul/09/england-netherlands-womens-euro-2025-group-d-ratings
 
+Site: The Guardian
+Topic: Us News
+Title: US supreme court blocks Florida from enforcing anti-immigration law
+URL: https://www.theguardian.com/us-news/2025/jul/09/supreme-court-florida-law-immigration
+
