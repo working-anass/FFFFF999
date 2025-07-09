@@ -7033,3 +7033,13 @@ Topic: World
 Title: Landmark ruling finds Russia shot down MH17 with 38 Australians on board
 URL: https://www.theguardian.com/world/2025/jul/10/european-court-human-rights-russia-mh17-38-australians-ntwnfb
 
+Site: The Guardian
+Topic: Us News
+Title: Trump praises English of the leader of Liberia – where English is the official language
+URL: https://www.theguardian.com/us-news/2025/jul/09/trump-liberian-president-english
+
+Site: The Guardian
+Topic: Football
+Title: ‘That’s our DNA’: Russo praises ‘proper England’ performance against Netherlands
+URL: https://www.theguardian.com/football/2025/jul/09/england-netherlands-euro-2025-russo-wiegman-bronze
+
