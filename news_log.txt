@@ -6933,3 +6933,8 @@ Topic: Uk News
 Title: Give asylum seekers the right to work in Britain
 URL: https://www.theguardian.com/uk-news/2025/jul/09/give-asylum-seekers-the-right-to-work-in-britain
 
+Site: The Guardian
+Topic: Uk News
+Title: Palestinian family ask UK court to force officials to help them leave Gaza
+URL: https://www.theguardian.com/uk-news/2025/jul/09/palestinian-family-uk-court-force-officials-help-leave-gaza
+
