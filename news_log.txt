@@ -6673,3 +6673,8 @@ Topic: Environment
 Title: Environment Agency insider alleges ‘cover-up’ over sewage sludge on farmland
 URL: https://www.theguardian.com/environment/2025/jul/09/environment-agency-insider-alleges-cover-up-sewage-sludge-farmland
 
+Site: The Guardian
+Topic: Business
+Title: Threat of Trump tariffs ‘puts businesses at risk of going bust’
+URL: https://www.theguardian.com/business/2025/jul/09/threat-of-trump-tariffs-puts-uk-businesses-at-risk-of-going-bust
+
