@@ -6978,3 +6978,8 @@ Topic: Uk News
 Title: Anglo-French talks over migration deal hanging in balance
 URL: https://www.theguardian.com/uk-news/2025/jul/09/anglo-french-talks-over-migration-deal-hanging-in-balance
 
+Site: The Guardian
+Topic: Us News
+Title: Texas flooding death toll climbs to 119 as search for more people continues
+URL: https://www.theguardian.com/us-news/2025/jul/09/texas-floods-victims-death-toll
+
