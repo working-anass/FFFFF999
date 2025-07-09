@@ -6588,3 +6588,13 @@ Topic: Business
 Title: London’s stock exchange needs a shot in the arm from the Treasury
 URL: https://www.theguardian.com/business/nils-pratley-on-finance/2025/jul/09/london-stock-exchange-needs-a-shot-in-the-arm-from-the-treasury
 
+Site: The Guardian
+Topic: World
+Title: ‘Creating inequality’: Hong Kong’s same-sex marriage registration proposal criticised
+URL: https://www.theguardian.com/world/2025/jul/09/hong-kong-same-sex-lgbtq-marriage-equality-registration
+
+Site: The Guardian
+Topic: Technology
+Title: Bose QuietComfort Ultra headphones review: supreme comfort and noise cancelling
+URL: https://www.theguardian.com/technology/2023/nov/06/bose-quietcomfort-ultra-headphones-review-supreme-comfort-and-noise-cancelling
+
