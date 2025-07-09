@@ -6893,3 +6893,8 @@ Topic: Education
 Title: Letter: Roger Harcourt obituary
 URL: https://www.theguardian.com/education/2025/jul/09/letter-roger-harcourt-obituary
 
+Site: The Guardian
+Topic: Stage
+Title: Valery Panov obituary
+URL: https://www.theguardian.com/stage/2025/jul/09/valery-panov-obituary
+
