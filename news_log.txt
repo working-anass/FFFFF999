@@ -6703,3 +6703,23 @@ Topic: Football
 Title: The most aggressive set-piece team in the world plays in Minnesota
 URL: https://www.theguardian.com/football/2025/jul/09/minnesota-united-set-pieces-throw-ins-free-kicks-tactics
 
+Site: The Guardian
+Topic: World
+Title: Rescuers search for crew of cargo ship that sank after being attacked in Red Sea
+URL: https://www.theguardian.com/world/2025/jul/09/rescuers-search-for-crew-of-cargo-ship-eternity-c-that-sank-after-being-attacked-in-red-sea
+
+Site: The Guardian
+Topic: Uk News
+Title: Girl, seven, ‘fought like hell’ and shielded others, parents tell Southport inquiry
+URL: https://www.theguardian.com/uk-news/2025/jul/09/girl-seven-fought-like-hell-shielded-others-parents-southport-inquiry
+
+Site: The Guardian
+Topic: Uk News
+Title: HS2 already billions over budget with work ‘just over halfway done’, says rail boss
+URL: https://www.theguardian.com/uk-news/2025/jul/09/hs2-already-billions-over-budget-with-work-just-over-halfway-done-says-rail-boss
+
+Site: The Guardian
+Topic: Business
+Title: Thames Water paid out bonuses using £3bn emergency loan, documents reveal
+URL: https://www.theguardian.com/business/2025/jul/09/thames-water-paid-out-millions-in-bonuses-using-3bn-emergency-loan-documents-reveal
+
