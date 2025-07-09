@@ -6658,3 +6658,18 @@ Topic: Uk News
 Title: Too late to stop small boats once people arrive in Calais, says UN migration chief
 URL: https://www.theguardian.com/uk-news/2025/jul/09/too-late-stop-small-boats-once-people-arrive-calais-un-migration-chief-amy-pope
 
+Site: The Guardian
+Topic: Us News
+Title: Copper prices in US hit record high after Trump announces 50% tariff
+URL: https://www.theguardian.com/us-news/2025/jul/09/copper-prices-in-us-hit-record-high-trump-tariff-trade-war
+
+Site: The Guardian
+Topic: Us News
+Title: Far-right conspiracy theories spread online in aftermath of the Texas floods
+URL: https://www.theguardian.com/us-news/2025/jul/09/texas-floods-conspiracy-theories
+
+Site: The Guardian
+Topic: Environment
+Title: Environment Agency insider alleges ‘cover-up’ over sewage sludge on farmland
+URL: https://www.theguardian.com/environment/2025/jul/09/environment-agency-insider-alleges-cover-up-sewage-sludge-farmland
+
