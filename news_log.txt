@@ -6523,3 +6523,18 @@ Topic: Technology
 Title: Musk’s AI firm forced to delete posts praising Hitler from Grok chatbot
 URL: https://www.theguardian.com/technology/2025/jul/09/grok-ai-praised-hitler-antisemitism-x-ntwnfb
 
+Site: The Guardian
+Topic: Us News
+Title: Trump news at a glance: president complains about Putin’s ‘bullshit’
+URL: https://www.theguardian.com/us-news/2025/jul/09/trump-administration-news-today
+
+Site: The Guardian
+Topic: Technology
+Title: Futurist Adam Dorr on how robots will take our jobs: ‘We don’t have long to get ready – it’s going to be tumultuous’
+URL: https://www.theguardian.com/technology/2025/jul/09/futurist-adam-dorr-robots-ai-jobs-replace-human-labour
+
+Site: The Guardian
+Topic: Sport
+Title: Tour de France: Pogacar takes 100th win in thrilling stage four finish but denied yellow jersey
+URL: https://www.theguardian.com/sport/2025/jul/08/tour-de-france-pogacar-takes-100th-win-in-thrilling-stage-four-finish-but-denied-yellow-jersey-cycling
+
