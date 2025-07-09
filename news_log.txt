@@ -6863,3 +6863,13 @@ Topic: Technology
 Title: Linda Yaccarino stepping down as CEO of Elon Musk’s X
 URL: https://www.theguardian.com/technology/2025/jul/09/x-ceo-steps-down-linda-yaccarino
 
+Site: The Guardian
+Topic: World
+Title: French warned of high-risk summer for wildfires as Marseille blaze contained
+URL: https://www.theguardian.com/world/2025/jul/09/french-warned-of-high-risk-summer-for-wildfires-as-marseille-blaze-contained
+
+Site: The Guardian
+Topic: Music
+Title: ‘The best song to have sex to? Kraftwerk has good beats’: Mel Giedroyc’s honest playlist
+URL: https://www.theguardian.com/music/2025/jul/09/mel-giedroyc-honest-playlist-bohemian-rhapsody-safety-dance-abba-chemical-brothers
+
