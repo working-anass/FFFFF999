@@ -6758,3 +6758,13 @@ Topic: Us News
 Title: Three dead as flash flooding hits mountain town in New Mexico, officials say
 URL: https://www.theguardian.com/us-news/2025/jul/09/ruidoso-new-mexico-flooding
 
+Site: The Guardian
+Topic: World
+Title: EU urged to build stockpiles to prepare for pandemic, natural disaster or invasion
+URL: https://www.theguardian.com/world/2025/jul/09/eu-stockpiles-prepare-for-pandemic-natural-disaster-or-invasion
+
+Site: The Guardian
+Topic: Technology
+Title: UK government’s deal with Google ‘dangerously naive’, say campaigners
+URL: https://www.theguardian.com/technology/2025/jul/09/uk-governments-deal-with-google-dangerously-naive-say-campaigners
+
