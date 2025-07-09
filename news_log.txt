@@ -6648,3 +6648,8 @@ Topic: Lifeandstyle
 Title: My father, the fake: was anything he told me actually true?
 URL: https://www.theguardian.com/lifeandstyle/2025/jul/09/my-father-the-fake-was-anything-he-told-me-actually-true
 
+Site: The Guardian
+Topic: Football
+Title: Football transfer rumours: Ferran Torres to swap Barcelona for Aston Villa?
+URL: https://www.theguardian.com/football/2025/jul/09/football-transfer-rumours-ferran-torres-to-swap-barcelona-for-aston-villa
+
