@@ -6898,3 +6898,18 @@ Topic: Stage
 Title: Valery Panov obituary
 URL: https://www.theguardian.com/stage/2025/jul/09/valery-panov-obituary
 
+Site: The Guardian
+Topic: Science
+Title: Robot surgery on humans could be trialled within decade after success on pig organs
+URL: https://www.theguardian.com/science/2025/jul/09/robot-surgery-on-humans-could-be-trialled-within-decade-after-success-on-pig-organs
+
+Site: The Guardian
+Topic: Football
+Title: Carlo Ancelotti fined €386,000 and given one-year prison sentence over tax fraud
+URL: https://www.theguardian.com/football/2025/jul/09/carlo-ancelotti-fined-386000-and-given-one-year-prison-sentence-over-tax
+
+Site: The Guardian
+Topic: Sport
+Title: Horner’s Red Bull exit: the end of an era that will be felt across Formula One grid
+URL: https://www.theguardian.com/sport/2025/jul/09/christian-horner-red-bull-exit-end-of-era-formula-one
+

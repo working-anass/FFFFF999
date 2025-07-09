@@ -1,0 +1,33 @@
+Site: The Guardian
+Title: Robot surgery on humans could be trialled within decade after success on pig organs
+URL: https://www.theguardian.com/science/2025/jul/09/robot-surgery-on-humans-could-be-trialled-within-decade-after-success-on-pig-organs
+
+Automated surgery could be trialled on humans within a decade, say researchers, after an AI-trained robot armed with tools to cut, clip and grab soft tissue successfully removed gall bladders without human help.
+
+The robot surgeons were schooled on video footage of human medics conducting operations using organs taken from dead pigs. In an apparent research breakthrough, eight operations were conducted on pig organs with a 100% success rate by a team led by experts at Johns Hopkins University in Baltimore in the US.
+
+The Royal College of Surgeons in the UK called it “an exciting development that shows great promise”, while John McGrath, a leading expert on robotic surgery in the UK, called the results “impressive” and “novel” and said it “takes us further into the world of autonomy”.
+
+It opens up the possibility of replicating, en masse, the skills of the best surgeons in the world.
+
+The technology allowing robots to handle complex soft tissues such as gallbladders, which release bile to aid digestion, is rooted in the same type of computerised neural networks that underpin widely used artificial intelligence tools such as Chat GPT or Google Gemini.
+
+The surgical robots were slightly slower than human doctors but they were less jerky and plotted shorter trajectories between tasks. The robots were also able to repeatedly correct mistakes as they went along, asked for different tools and adapted to anatomical variation, according to a peer-reviewed paper published in the journal Science Robotics.
+
+The authors from Johns Hopkins, Stanford and Columbia universities called it “a milestone toward clinical deployment of autonomous surgical systems”.
+
+Almost all the 70,000 robotic procedures carried out annually in the NHS in England were fully controlled under human instruction, with only bone-cutting for hip and knee operations semi-autonomous, McGrath said. Last month the health secretary, Wes Streeting, said increasing robotic surgery was at the heart of a 10-year plan to reform the NHS and cut waiting lists. Within a decade, the NHS has said, nine in 10 of all keyhole surgeries will be carried out with robot assistance, up from one in five today.
+
+In the Johns Hopkins trial, the robots took just over five minutes to carry out the operation, which required 17 steps including cutting the gallbladder away from its connection to the liver, applying six clips in a specific order and removing the organ. The robots on average corrected course without any human help six times in each operation.
+
+“We were able to perform a surgical procedure with a really high level of autonomy,” said Axel Krieger, assistant professor of mechanical engineering at Johns Hopkins. “In prior work, we were able to do some surgical tasks like suturing. What we’ve done here is really a full procedure. We have done this on eight gallbladders, where the robot was able to perform precisely the clipping and cutting step of gallbladder removal without any human intervention.
+
+“So I think it’s a really big landmark study that such a difficult soft tissue surgery is possible to do autonomously.”
+
+McGrath, who chairs NHS England’s robotics steering committee, said autonomous surgery, while still years away, could one day lead to a human surgeon overseeing several autonomous robotic operations at the same time, carrying out simple procedures such as hernia operations or gall bladder removals more rapidly, with greater precision than humans and with less damage to surrounding bodily structures.
+
+But he cautioned that autonomous surgery remained a long way from being clinically deployable, because tests on dead pig organs do not test the robots’ capacity to react to a patient moving and breathing, blood running in the field of operation, an inadvertent injury, smoke from cauterisation or fluid on the camera lens.
+
+Nuha Yassin, who leads on robotic surgery at the Royal College of Surgeons of England, said: “The next step must involve a careful exploration of the nuances within this rapidly evolving field to assess how these findings can be safely and effectively translated into a human pilot. Only then can this approach move toward, becoming a sustainable model for the future.”
+
+She said training, education and patient safety must remain at the forefront.
