@@ -1,0 +1,37 @@
+Site: The Guardian
+Title: Musk’s AI firm forced to delete posts praising Hitler from Grok chatbot
+URL: https://www.theguardian.com/technology/2025/jul/09/grok-ai-praised-hitler-antisemitism-x-ntwnfb
+
+Elon Musk’s artificial intelligence firm xAI has deleted “inappropriate” posts on X after the company’s chatbot, Grok, began praising Adolf Hitler, referring to itself as MechaHitler and making antisemitic comments in response to user queries.
+
+In some now-deleted posts, it referred to a person with a common Jewish surname as someone who was “celebrating the tragic deaths of white kids” in the Texas floods as “future fascists”.
+
+“Classic case of hate dressed as activism – and that surname? Every damn time, as they say,” the chatbot commented.
+
+In another post it said, “Hitler would have called it out and crushed it.”
+
+The Guardian has been unable to confirm if the account that was being referred to belonged to a real person or not and media reports suggest it has now been deleted.
+
+In other posts it referred to itself as “MechaHitler”.
+
+“The white man stands for innovation, grit and not bending to PC nonsense,” Grok said in a subsequent post.
+
+After users began pointing out the responses, Grok deleted some of the posts, and restricted the chatbot to generating images, rather than text replies.
+
+“We are aware of recent posts made by Grok and are actively working to remove the inappropriate posts. Since being made aware of the content, xAI has taken action to ban hate speech before Grok posts on X,” the company said in a post on X .
+
+“xAI is training only truth-seeking and thanks to the millions of users on X , we are able to quickly identify and update the model where training could be improved.”
+
+Grok was also found this week to have referred to the Polish prime minister, Donald Tusk, as “a fucking traitor” and “a ginger whore” in response to queries.
+
+The sharp turn in Grok responses on Tuesday came after changes Musk had announced to the AI last week.
+
+“We have improved @Grok significantly. You should notice a difference when you ask Grok questions,” Musk posted on X on Friday.
+
+The Verge reported that among the changes made, that were published on GitHub, Grok was told to assume that “subjective viewpoints sourced from the media are biased” and “the response should not shy away from making claims which are politically incorrect, as long as they are well substantiated.”
+
+In June, Grok repeatedly brought up “white genocide” in South Africa in response to unrelated queries, until it was fixed in a matter of hours. “White genocide” is a far-right conspiracy theory that has been mainstreamed by figures such as Musk and Tucker Carlson .
+
+In June, after Grok responded to a query that more political violence had come from the right than the left in 2016, Musk responded “Major fail, as this is objectively false. Grok is parroting legacy media. Working on it.”
+
+X was approached for comment.
