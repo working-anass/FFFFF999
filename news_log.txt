@@ -6953,3 +6953,13 @@ Topic: Football
 Title: Spurs agree £54.5m deal to buy Mohammed Kudus from West Ham
 URL: https://www.theguardian.com/football/2025/jul/09/spurs-agree-deal-buy-mohammed-kudus-west-ham
 
+Site: The Guardian
+Topic: Business
+Title: US prices continued to rise in May amid Trump tariffs
+URL: https://www.theguardian.com/business/2025/jun/11/may-inflation-trump-tariffs
+
+Site: The Guardian
+Topic: Artanddesign
+Title: Sir Brian Clarke obituary
+URL: https://www.theguardian.com/artanddesign/2025/jul/09/brian-clarke-obituary
+
