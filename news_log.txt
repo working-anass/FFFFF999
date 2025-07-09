@@ -6723,3 +6723,33 @@ Topic: Business
 Title: Thames Water paid out bonuses using £3bn emergency loan, documents reveal
 URL: https://www.theguardian.com/business/2025/jul/09/thames-water-paid-out-millions-in-bonuses-using-3bn-emergency-loan-documents-reveal
 
+Site: The Guardian
+Topic: World
+Title: Canadian couple’s message in a bottle found 13 years later in Irish bay
+URL: https://www.theguardian.com/world/2025/jul/09/canadian-couple-message-in-a-bottle-found-13-years-later-ireland
+
+Site: The Guardian
+Topic: Lifeandstyle
+Title: The dead hang delight: how this quick, surprisingly simple exercise can change your life
+URL: https://www.theguardian.com/lifeandstyle/article/2024/aug/04/the-dead-hang-delight-how-this-quick-surprisingly-simple-exercise-can-change-your-life
+
+Site: The Guardian
+Topic: Us News
+Title: Has the Trump-Putin bromance finally run its course?
+URL: https://www.theguardian.com/us-news/2025/jul/09/has-the-trump-putin-bromance-finally-run-its-course
+
+Site: The Guardian
+Topic: Uk News
+Title: ‘Every time I took a shower I thought: is he watching me?’ – the terrifying rise of secret cameras
+URL: https://www.theguardian.com/uk-news/2025/may/27/secret-spy-cameras-voyeurism-uk
+
+Site: The Guardian
+Topic: Football
+Title: Gareth Taylor in talks with Liverpool to take over as manager of WSL club
+URL: https://www.theguardian.com/football/2025/jul/09/gareth-taylor-in-talks-with-liverpool-wsl-to-take-over-as-new-manager
+
+Site: The Guardian
+Topic: Business
+Title: Prax Lindsey oil refinery owners urged to ‘do decent thing’ for workers
+URL: https://www.theguardian.com/business/2025/jul/09/prax-lindsey-oil-refinery-owners-urged-to-do-decent-thing-for-workers
+
