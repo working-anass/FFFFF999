@@ -6603,3 +6603,8 @@ Topic: Sport
 Title: Stamina, skills, hunger: how do England solve a problem like Shubman Gill?
 URL: https://www.theguardian.com/sport/2025/jul/08/england-india-shubman-gill-test-cricket
 
+Site: The Guardian
+Topic: Lifeandstyle
+Title: A moment that changed me: I was told my home was haunted – and it made me a tidier, happier person
+URL: https://www.theguardian.com/lifeandstyle/2025/jul/09/a-moment-that-changed-me-i-was-told-my-home-was-haunted-it-made-me-tidier-happier
+
