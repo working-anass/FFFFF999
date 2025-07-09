@@ -1,0 +1,51 @@
+Site: The Guardian
+Title: First human-monkey chimera raises concern among scientists
+URL: https://www.theguardian.com/science/2019/aug/03/first-human-monkey-chimera-raises-concern-among-scientists
+
+Efforts to create human-animal chimeras have rebooted an ethical debate after reports emerged that scientists have produced monkey embryos containing human cells.
+
+A chimera is an organism whose cells come from two or more “individuals” , with recent work looking at combinations from different species. The word comes from a beast from Greek mythology which was said to be part lion, part goat and part snake.
+
+The latest report, published in the Spanish newspaper El País , claims a team of researchers led by Prof Juan Carlos Izpisúa Belmonte from the Salk Institute in the US have produced monkey-human chimeras. The research was conducted in China “to avoid legal issues”, according to the report.
+
+Chimeras are seen as a potential way to address the lack of organs for transplantation, as well as problems of organ rejection. Scientists believe organs genetically matched to a particular human recipient could one day be grown inside animals. The approach is based on taking cells from an adult human and reprogramming them to become stem cells, which can give rise to any type of cell in the body. They are then introduced into the embryo of another species.
+
+Izpisúa Belmonte and other scientists have previously managed to produce both pig embryos and sheep embryos which contain human cells, although the proportions are tiny: in the latter case, researchers estimate that only one cell in 10,000 was human. Pig-human and sheep-human chimeras are attractive in part because pigs and sheep have organs about the right size for transplantation into humans.
+
+Details of the work reported this week are scarce: Izpisúa Belmonte and colleagues did not respond to requests for comment.
+
+However Alejandro De Los Angeles , from the department of psychiatry at Yale University, said it was likely monkey-human chimeras were being developed to explore how to improve the proportion of human cells in such organisms. “Making human-monkey chimeras could teach us how to make human-pig chimeras with the hope of making organs for transplantation,” he said. “It could teach us which types of stem cells we should be using, or other ways of enhancing what’s called ‘human chimerism levels’ inside pigs.”
+
+De Los Angeles pointed out that, as with previous work in pigs and sheep, the human-monkey chimeras have reportedly only been allowed to develop for a few weeks – ie before organs actually form.
+
+Prof Robin Lovell-Badge, a developmental biologist from London’s Francis Crick Institute, agreed. “I don’t think it is particularly concerning in terms of the ethics, because you are not taking them far enough to have a nervous system or develop in any way – it’s just really a ball of cells,” he said.
+
+But Lovell-Badge added that if chimeras were allowed to develop further, it could raise concerns. “How do you restrict the contribution of the human cells just to the organ that you want to make?” he said. “If that is a pancreas or a heart or something, or kidney, then that is fine if you manage to do that. [But] if you allow these animals to go all the way through and be born, if you have a big contribution to the central nervous system from the human cells, then that obviously becomes a concern.”
+
+The news of the monkey-human chimeras comes shortly after it was reported Japanese researchers such as Prof Hiromitsu Nakauchi received government support to create mouse-human chimeras.
+
+In March Japan lifted a ban on allowing such embryos to develop beyond 14 days and being implanted in a uterus, meaning these chimeras can, if permission for an experiment is granted, be brought to term. Nakauchi has said he does not plan to bring the human-mouse chimeras to term yet.
+
+Lovell-Badge said it is very unlikely the animals, if brought to term, would take on human-like behaviour, but said the animals might not behave like “normal” rodents.
+
+“So there are some animal welfare issues as well as the ‘yuck-factor’ ethical issues from making something more human,” he said. “Clearly if any animal born had aspects of human appearance, their faces, their hands, their skin, then I suspect, while scientifically very interesting, people might get a little upset with that.”
+
+De Los Angeles and colleagues have suggested monkey-human chimeras could, in theory, provide new ways to study neurological and psychiatric diseases in humans.
+
+“In theory, for diseases where primate models are not good enough, making human-monkey chimeras could provide a better model of brain diseases,” he told the Guardian, adding that in the case of Alzheimer’s more than 150 trials have failed in 20 years, possibly because of a lack of a good disease model.
+
+One possible approach for brain research is that a monkey embryo could be genetically altered and then injected with human stem cells so that part of the brain, for example the hippocampus, is composed only of human cells. A similar approach has previously been used by Izpisúa Belmonte and colleagues to grow a rat pancreas inside a mouse.
+
+“If you just swap the hippocampus, it doesn’t mean you are now going to have a human-functioning brain,” said Lovell-Badge. “It might have perhaps slightly better memories or slightly different memories … but they are not going to have a human cortex, which is what actually makes us human.”
+
+But such proposals walk straight into the ethical arena others have been at pains to dodge: the possibility of human cells ending up in monkey brains, a development some fear could result in the creatures being human-like. Researchers have previously said they are able to prevent human cells ending up in chimeras’ brains or sex organs.
+
+De Los Angeles said there is still a long way to go before human-monkey chimeras are brought to term.
+
+“The evolutionary distance between humans and monkeys spans 30-40 million years, so it is unclear if this is even possible,” he said. “This difference is greater than 10 million years between mice and rats, and even the efficiency of making mouse-rat chimeras is already quite low.”
+
+While making monkey brains more human is a red line for some, in some ways it has already been crossed. In April scientists in China published a study in which they claimed to have introduced a human brain gene into monkeys, with the animals showing features including better short-term memory and shorter reaction times. These animals are not chimeras, but it is clear that new boundaries are being pushed.
+
+Lovell-Badge said he thought it possible that the development of human-monkey chimeras to study a part of the central nervous system could gain approval, but that it would take a while.
+
+“In the UK, any proposal to make human-monkey chimeras would have to be very well justified, and it would have to get through a very tough review process,” he said. “I am sure that any proposal to go straight to live born chimeras would not get approval in the UK and probably not also in Japan.”

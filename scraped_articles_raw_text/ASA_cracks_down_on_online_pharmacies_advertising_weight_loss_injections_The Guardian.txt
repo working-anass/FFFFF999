@@ -1,0 +1,65 @@
+Site: The Guardian
+Title: ASA cracks down on online pharmacies advertising weight loss injections
+URL: https://www.theguardian.com/business/2025/jul/09/asa-cracks-down-on-online-pharmacies-advertising-weight-loss-injections
+
+Online pharmacies are no longer allowed to run adverts for weight loss injections, the advertising watchdog has ruled, as part of a crackdown on what has been described as a “wild west” culture of online selling.
+
+In the UK, advertising prescription-only medications (POMs) – which includes all weight loss jabs such as Wegovy and Mounjaro – to the public is illegal. However, a Guardian investigation previously found some online pharmacies either breaking these rules outright, or exploiting grey areas to peddle the medications to the public.
+
+Now the Advertising Standards Authority (ASA) has released nine new rulings that, it says, will set clear precedents for advertisers.
+
+The ASA said the new rulings meant that while pharmacies could continue to mention weight loss injections on their websites, provided they were not shown on homepages or landing pages from other links, adverts were banned from using the phrases “weight loss injections” and “weight loss pen”, and the treatments must instead be marketed as part of a wider service, including a consultation and prescription.
+
+In addition, the ASA said that in the context of ads for weight loss treatments, ads could not feature images of medical injection pens, whether or not unbranded, images of a vial of liquid on the front, or contain links to landing pages where named POMs were promoted, or were the only available option.
+
+Experts say the ban on the advertising of POMs protects the public by preventing people from being exposed to undue commercial pressure, ensuring safe prescribing, and avoiding over-medicalisation of everyday concerns.
+
+“Part of our overall strategy is protecting vulnerable people from harm, and nothing’s so harmful as powerful prescription-only medicines,” said Nicky Morgan , chair of the ASA.
+
+The ASA had been investigating 13 advertisements relating to prescription-only weight loss medications, with the results from nine of these released today.
+
+They largely relate to ads flagged in a monitoring sweep during August and September 2024 by the ASA’s active ad monitoring system, an AI-based approach that proactively searches for online ads that may break the rules.
+
+The ASA said its AI monitoring resulted in it processing 28m ads across all sectors in 2024, with 94% of those that were amended or withdrawn coming from the AI system.
+
+The regulator said its AI system would continue to search for problem ads, helping the body identify repeat offenders. It has already identified more than 20,000 ads from 35 high priority pharmacies between February and June this year, 10,000 of which were for weight loss treatments.
+
+While 80 of these ads were found to directly use or mention a weight loss drug name, most used imagery of weight loss pens, or strongly implied the use of weight loss POMs without naming the drug.
+
+The ASA said while there were many more potentially problematic ads for weight loss treatments in the public domain, those chosen for the recent investigations were representative of the issues at play in advertising.
+
+Among the adverts to fall foul of the ASA in the latest rulings were those promoting “weight loss treatments” that directly linked to webpages where the only treatment options were POMs.
+
+“Previously, you know, it was a bit of a grey area, they could essentially get away with putting a lot of things on a landing page, which just wouldn’t be acceptable on a homepage. So I think that these rulings have plugged quite a significant gap there,” said Jess Tye, lead of the weight loss POM project at the ASA.
+
+The rulings also close the loophole by which pharmacies advertise a weight loss consultation – a permitted promotion – but link to landing pages for such services that only feature weight loss injections as possible treatments.
+
+“It has to be that there is a genuine option, or options, which a professional would be working through with their patient, as opposed to some sort of token consultation, where both sides know what they’re actually doing is ending up with a jab that is going to be mailed to them so that they can use,” Morgan said.
+
+Influencers have also been caught up in the new rulings: one upheld complaint was against an Instagram post by the TV personality Gemma Collins, who promoted the weight loss service Yazen.
+
+The ad was found to have promoted POMs because Collins referred to using a weight loss medication that is prescribed on the NHS, and because Yazen’s website also featured links to three newspaper articles, with thumbnails that described how Collins had lost weight using Yazen’s “GLP-1 weight loss injections”.
+
+Morgan said the new rulings would set precedents and offer guidance to pharmacies, with further rulings expected to clarify the landscape further.
+
+The boom in weight loss jabs, and their promise not only to help people shed pounds but also to tackle a myriad other health conditions , has resulted in an explosion in online selling. The credibility of the drugs has been further enhanced by political approval.
+
+This week the health secretary, Wes Streeting, told LBC radio: “Weight loss jabs are the talk of the House of Commons; half my colleagues are on them and are judging the rest of us, saying: ‘You lot should be on them.’”
+
+But while Streeting plans to widen public access to the jabs, making them more broadly available on the NHS, many buy the medications through private prescriptions with online pharmacies, making their promotion a lucrative business.
+
+A key question remains whether the new rulings will correct much of the illegal selling, or whether advertisers will continue to break the rules – as some pharmacies have been doing.
+
+The ASA said pharmacies found to have breached advertising rules would be contacted and instructed to remove or edit their ad. Should a company fail to engage, the watchdog could take further action, such as working with platforms to have problem paid-ads taken down.
+
+The breaches can also be flagged to the Medicines and Healthcare products Regulatory Agency (MHRA) and General Pharmaceutical Council (GPhC), which have the power to apply sanctions such as fines and court proceedings, in the case of the MHRA, or take action against the pharmacy, the pharmacy owner, the superintendent pharmacist, or all three in the case of the GPhC.
+
+However, while Morgan said compliance had been good, the rulings show that some of the online pharmacies did not respond to the ASA when their adverts were challenged.
+
+Dr Piotr Ozieranski, from the University of Bath, welcomed the new rulings, but said regulators must adopt a more adversarial attitude towards advertisers found breaking the rules, including graduated financial penalties that could be linked to company turnover or the scale or severity of patient risk.
+
+“This would bring regulation more in line with the seriousness of the harms at stake – not just misleading advertising as such, but its possible consequences for patient safety, overmedicalisation, and mental health,” he said.
+
+Oksana Pyzik, an associate professor of pharmacy practice and policy at UCL School of Pharmacy, also called for stronger action.
+
+“These rulings represent the bare minimum in addressing how weight loss POMs are being promoted in ways that blur the line between advertising health care services versus POMs,” she said, noting that companies continued to break the rules, with some even glamorising weight loss jabs through celebrity endorsements on social media.

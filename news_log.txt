@@ -6468,3 +6468,28 @@ Topic: Football
 Title: Blackstenius seals Sweden’s knockout place as victory eliminates Poland
 URL: https://www.theguardian.com/football/2025/jul/08/poland-sweden-womens-euro-2025-group-c-match-report
 
+Site: The Guardian
+Topic: Us News
+Title: US immigration officials release Iranian woman nabbed from her home’s yard
+URL: https://www.theguardian.com/us-news/2025/jul/08/ice-iran-mandonna-kashanian-released-detention
+
+Site: The Guardian
+Topic: Science
+Title: First human-monkey chimera raises concern among scientists
+URL: https://www.theguardian.com/science/2019/aug/03/first-human-monkey-chimera-raises-concern-among-scientists
+
+Site: The Guardian
+Topic: Football
+Title: Charli Grant strikes in stoppage time as Matildas come from behind to beat Panama
+URL: https://www.theguardian.com/football/2025/jul/08/matildas-australia-panama-football-friendly-match-report
+
+Site: The Guardian
+Topic: Business
+Title: Australian government ‘urgently seeking more detail’ after Trump flags 200% tariffs on foreign pharmaceuticals
+URL: https://www.theguardian.com/business/2025/jul/09/australian-government-urgently-seeking-more-detail-after-trump-flags-200-tariffs-on-foreign-pharmaceuticals
+
+Site: The Guardian
+Topic: Business
+Title: ASA cracks down on online pharmacies advertising weight loss injections
+URL: https://www.theguardian.com/business/2025/jul/09/asa-cracks-down-on-online-pharmacies-advertising-weight-loss-injections
+
