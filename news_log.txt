@@ -6768,3 +6768,68 @@ Topic: Technology
 Title: UK government’s deal with Google ‘dangerously naive’, say campaigners
 URL: https://www.theguardian.com/technology/2025/jul/09/uk-governments-deal-with-google-dangerously-naive-say-campaigners
 
+Site: The Guardian
+Topic: Us News
+Title: Texas’s Camp Mystic was ‘a place of joy’. Floods turned it into a site of great loss
+URL: https://www.theguardian.com/us-news/2025/jul/09/texas-floods-camp-mystic-loss
+
+Site: The Guardian
+Topic: Uk News
+Title: Northern Ireland politicians condemn migrants effigy on loyalist bonfire
+URL: https://www.theguardian.com/uk-news/2025/jul/09/northern-ireland-politicians-condemn-migrants-effigy-loyalist-bonfire-moygashel
+
+Site: The Guardian
+Topic: Football
+Title: Crystal Palace’s Europa League hopes dealt blow after Lyon win relegation appeal
+URL: https://www.theguardian.com/football/2025/jul/09/crystal-palace-europa-league-hopes-dealt-blow-after-lyon-win-relegation-appeal
+
+Site: The Guardian
+Topic: Football
+Title: Ryan Bowman banned from football for three and a half years for placing 6,397 bets
+URL: https://www.theguardian.com/football/2025/jul/09/ryan-bowman-banned-from-football-for-three-and-a-half-years-for-placing-6397-bets-fa
+
+Site: The Guardian
+Topic: Media
+Title: Letter: Peter Goodchild obituary
+URL: https://www.theguardian.com/media/2025/jul/08/letter-peter-goodchild-obituary
+
+Site: The Guardian
+Topic: Politics
+Title: Lord Tebbit obituary
+URL: https://www.theguardian.com/politics/2025/jul/08/lord-tebbit-norman-tebbit-obituary
+
+Site: The Guardian
+Topic: Environment
+Title: Tony McNally obituary
+URL: https://www.theguardian.com/environment/2025/jul/07/tony-mcnally-obituary
+
+Site: The Guardian
+Topic: Film
+Title: Letter: Billy Williams obituary
+URL: https://www.theguardian.com/film/2025/jul/07/letter-billy-williams-obituary
+
+Site: The Guardian
+Topic: Politics
+Title: Lord Lipsey obituary
+URL: https://www.theguardian.com/politics/2025/jul/06/lord-lipsey-obituary
+
+Site: The Guardian
+Topic: World
+Title: Peter Everington obituary
+URL: https://www.theguardian.com/world/2025/jul/06/peter-everington-obituary
+
+Site: The Guardian
+Topic: Film
+Title: Michael Madsen obituary
+URL: https://www.theguardian.com/film/2025/jul/06/michael-madsen-obituary
+
+Site: The Guardian
+Topic: Society
+Title: Trevor Hendy obituary
+URL: https://www.theguardian.com/society/2025/jul/04/trevor-hendy-obituary
+
+Site: The Guardian
+Topic: Culture
+Title: Rodney Wilson obituary
+URL: https://www.theguardian.com/culture/2025/jul/04/rodney-wilson-obituary
+
