@@ -6608,3 +6608,8 @@ Topic: Lifeandstyle
 Title: A moment that changed me: I was told my home was haunted – and it made me a tidier, happier person
 URL: https://www.theguardian.com/lifeandstyle/2025/jul/09/a-moment-that-changed-me-i-was-told-my-home-was-haunted-it-made-me-tidier-happier
 
+Site: The Guardian
+Topic: Football
+Title: How early has a defending champion exited an international tournament?
+URL: https://www.theguardian.com/football/2025/jul/09/the-knowleedge-how-early-has-a-defending-champion-exited-an-international-football-tournament
+
