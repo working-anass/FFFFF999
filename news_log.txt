@@ -6913,3 +6913,13 @@ Topic: Sport
 Title: Horner’s Red Bull exit: the end of an era that will be felt across Formula One grid
 URL: https://www.theguardian.com/sport/2025/jul/09/christian-horner-red-bull-exit-end-of-era-formula-one
 
+Site: The Guardian
+Topic: World
+Title: Zelenskyy to replace Ukraine’s envoy to US in diplomatic shuffle
+URL: https://www.theguardian.com/world/2025/jul/09/zelenskyy-replace-ukraine-envoy-us-diplomatic-shuffle-trump-markarova
+
+Site: The Guardian
+Topic: Us News
+Title: Police in Scotland braced for large-scale protests if Trump visits new golf course
+URL: https://www.theguardian.com/us-news/2025/jul/09/police-scotland-braced-protests-donald-trump-visits-new-golf-course
+
