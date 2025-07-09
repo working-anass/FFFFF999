@@ -7013,3 +7013,8 @@ Topic: Business
 Title: BMW bosses unfairly dismissed disabled worker after spying on him
 URL: https://www.theguardian.com/business/2025/jul/09/bmw-bosses-unfairly-dismissed-disabled-worker-after-spying-on-him
 
+Site: The Guardian
+Topic: Football
+Title: Jess Fishlock makes Wales history before France take control at Euro 2025
+URL: https://www.theguardian.com/football/2025/jul/09/france-wales-womens-euro-2025-group-d-match-report
+
