@@ -6493,3 +6493,28 @@ Topic: Business
 Title: ASA cracks down on online pharmacies advertising weight loss injections
 URL: https://www.theguardian.com/business/2025/jul/09/asa-cracks-down-on-online-pharmacies-advertising-weight-loss-injections
 
+Site: The Guardian
+Topic: World
+Title: Ukraine war briefing: US weapons supply pause ‘caught Trump off guard’
+URL: https://www.theguardian.com/world/2025/jul/09/ukraine-war-briefing-us-weapons-supply-pause-caught-trump-off-guard
+
+Site: The Guardian
+Topic: World
+Title: ‘Punishing workers for getting old’: how South Korea’s wage system impoverishes the elderly
+URL: https://www.theguardian.com/world/2025/jul/09/south-korea-peak-wage-system-raise-retirement-age-elderly-workers-poverty
+
+Site: The Guardian
+Topic: Football
+Title: João Pedro leaves it to Chelsea fans to celebrate after double against old side
+URL: https://www.theguardian.com/football/2025/jul/08/joao-pedro-leaves-it-to-chelsea-fans-to-celebrate-after-double-against-old-side
+
+Site: The Guardian
+Topic: Football
+Title: ‘Something to be proud of’: Maresca delighted as Chelsea reach Club World Cup final
+URL: https://www.theguardian.com/football/2025/jul/09/enzo-maresca-delighted-chelsea-reach-club-world-cup-final
+
+Site: The Guardian
+Topic: Technology
+Title: ‘It’s destroyed me completely’: Kenyan moderators decry toll of training of AI models
+URL: https://www.theguardian.com/technology/2023/aug/02/ai-chatbot-training-human-toll-content-moderator-meta-openai
+
