@@ -6833,3 +6833,28 @@ Topic: Culture
 Title: Rodney Wilson obituary
 URL: https://www.theguardian.com/culture/2025/jul/04/rodney-wilson-obituary
 
+Site: The Guardian
+Topic: World
+Title: Police raid headquarters of French far-right National Rally party
+URL: https://www.theguardian.com/world/2025/jul/09/police-raid-headquarters-of-french-far-right-national-rally-party
+
+Site: The Guardian
+Topic: Uk News
+Title: Man passed details on minister to police posing as Russian spies, UK court told
+URL: https://www.theguardian.com/uk-news/2025/jul/09/man-passed-details-on-grant-shapps-to-police-posing-as-russian-spies-court-told
+
+Site: The Guardian
+Topic: Technology
+Title: Nvidia becomes first company to reach $4tn in market value
+URL: https://www.theguardian.com/technology/2025/jul/09/nvidia-first-company-4-trillion
+
+Site: The Guardian
+Topic: Business
+Title: People in the US: are you delaying major life decisions?
+URL: https://www.theguardian.com/business/2025/jul/09/life-decisions-trump-reader-callout
+
+Site: The Guardian
+Topic: Australia News
+Title: Fears grow for 26-year-old German backpacker missing in rural Western Australia
+URL: https://www.theguardian.com/australia-news/2025/jul/09/carolina-wilga-german-backpacker-missing-in-rural-western-australia
+
