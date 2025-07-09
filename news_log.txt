@@ -6753,3 +6753,8 @@ Topic: Business
 Title: Prax Lindsey oil refinery owners urged to ‘do decent thing’ for workers
 URL: https://www.theguardian.com/business/2025/jul/09/prax-lindsey-oil-refinery-owners-urged-to-do-decent-thing-for-workers
 
+Site: The Guardian
+Topic: Us News
+Title: Three dead as flash flooding hits mountain town in New Mexico, officials say
+URL: https://www.theguardian.com/us-news/2025/jul/09/ruidoso-new-mexico-flooding
+
