@@ -6883,3 +6883,13 @@ Topic: Football
 Title: Transfer latest: Arsenal open Madueke talks with Chelsea, Everton sign £27m striker Barry
 URL: https://www.theguardian.com/football/2025/jul/09/arsenal-open-talks-chelsea-signing-noni-madueke
 
+Site: The Guardian
+Topic: World
+Title: South Sudan says eight deportees from the US are under government care
+URL: https://www.theguardian.com/world/2025/jul/09/south-sudan-us-deported-men
+
+Site: The Guardian
+Topic: Education
+Title: Letter: Roger Harcourt obituary
+URL: https://www.theguardian.com/education/2025/jul/09/letter-roger-harcourt-obituary
+
