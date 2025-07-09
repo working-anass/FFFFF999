@@ -7043,3 +7043,13 @@ Topic: Football
 Title: ‘That’s our DNA’: Russo praises ‘proper England’ performance against Netherlands
 URL: https://www.theguardian.com/football/2025/jul/09/england-netherlands-euro-2025-russo-wiegman-bronze
 
+Site: The Guardian
+Topic: Science
+Title: Discovery of ancient riverbeds suggests Mars once wetter than thought
+URL: https://www.theguardian.com/science/2025/jul/10/mars-once-wetter-than-thought-surprise-discovery-10000-miles-ancient-riverbeds
+
+Site: The Guardian
+Topic: World
+Title: Caribbean leaders pledge to join forces to fight gang violence and support Haiti
+URL: https://www.theguardian.com/world/2025/jul/09/haiti-violence-caribbean-community
+
