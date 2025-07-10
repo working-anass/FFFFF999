@@ -7053,3 +7053,18 @@ Topic: World
 Title: Caribbean leaders pledge to join forces to fight gang violence and support Haiti
 URL: https://www.theguardian.com/world/2025/jul/09/haiti-violence-caribbean-community
 
+Site: The Guardian
+Topic: World
+Title: Ex-South Korean president Yoon Suk Yeol returned to prison over martial law bid
+URL: https://www.theguardian.com/world/2025/jul/09/ex-south-korean-president-yoon-suk-yeol-returns-to-prison-over-martial-law-bid
+
+Site: The Guardian
+Topic: Football
+Title: Mbappé gets stuck in Dembélé’s shadow in Real Madrid’s shapeless shambles
+URL: https://www.theguardian.com/football/2025/jul/09/paris-saint-germain-psg-real-madrid-club-world-cup
+
+Site: The Guardian
+Topic: Business
+Title: As much as £5bn needed to revive UK’s struggling high streets, study finds
+URL: https://www.theguardian.com/business/2025/jul/10/as-much-as-5bn-needed-to-revive-uks-struggling-high-streets-study-finds
+
