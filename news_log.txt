@@ -7268,3 +7268,28 @@ Topic: Football
 Title: Arsenal complete £9m Christian Nørgaard signing and step up Eze chase
 URL: https://www.theguardian.com/football/2025/jul/10/arsenal-complete-9m-christian-norgaard-signing-and-step-up-eberechi-eze-chase
 
+Site: The Guardian
+Topic: Us News
+Title: Democrats and climate groups ‘too polite’ in fight against ‘malevolent’ fossil fuel giants, says key senator
+URL: https://www.theguardian.com/us-news/2025/jul/10/sheldon-whitehouse-fossil-fuels
+
+Site: The Guardian
+Topic: Environment
+Title: ‘It was filthy and it stank terribly’: how Europe’s dirtiest river was brought back to life
+URL: https://www.theguardian.com/environment/2025/jul/10/emscher-europe-dirtiest-river-nature-sewer-of-ruher
+
+Site: The Guardian
+Topic: Business
+Title: WPP names senior Microsoft boss Cindy Rose as new CEO
+URL: https://www.theguardian.com/business/2025/jul/10/wpp-names-senior-microsoft-boss-cindy-rose-as-new-ceo
+
+Site: The Guardian
+Topic: Science
+Title: Steven Rose obituary
+URL: https://www.theguardian.com/science/2025/jul/10/steven-rose-obituary
+
+Site: The Guardian
+Topic: Lifeandstyle
+Title: You be the judge: my mum says our family should share towels, but I think it’s gross. Am I right to protest?
+URL: https://www.theguardian.com/lifeandstyle/2025/jul/10/you-be-the-judge-my-mum-says-our-family-should-share-towels-but-i-think-its-gross-am-i-right-to-protest
+
