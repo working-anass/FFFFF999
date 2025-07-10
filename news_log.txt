@@ -7353,3 +7353,13 @@ Topic: Books
 Title: Inside the Salt Path controversy: ‘Scandal has stalked memoir since the genre was invented’
 URL: https://www.theguardian.com/books/2025/jul/10/inside-the-salt-path-controversy-scandal-has-stalked-memoir-since-the-genre-was-invented
 
+Site: The Guardian
+Topic: Us News
+Title: US neo-fascist group claims it is part of Texas floods relief efforts
+URL: https://www.theguardian.com/us-news/2025/jul/10/texas-floods-patriot-front
+
+Site: The Guardian
+Topic: Tv And Radio
+Title: Too Much review – Lena Dunham’s cliche-ridden new romcom is a total disappointment
+URL: https://www.theguardian.com/tv-and-radio/2025/jul/10/too-much-review-lena-dunham-netflix
+
