@@ -7393,3 +7393,18 @@ Topic: Uk News
 Title: Man told fake Russian spies he had ‘useful’ information on Grant Shapps, jury hears
 URL: https://www.theguardian.com/uk-news/2025/jul/10/howard-phillips-fake-russian-spies-grant-shapps-court
 
+Site: The Guardian
+Topic: Stage
+Title: No President review – surreal Trump satire with ballet shoes and boners
+URL: https://www.theguardian.com/stage/2025/jul/10/nature-theater-of-oklahoma-no-president-review-queen-elizabeth-hall-london
+
+Site: The Guardian
+Topic: Us News
+Title: Brazil draws up plans to retaliate against Trump’s 50% tariff threat
+URL: https://www.theguardian.com/us-news/2025/jul/10/brazil-trump-tariff-threat
+
+Site: The Guardian
+Topic: Culture
+Title: Everybody’s favourite manic pixie dream aunt: Celia Imrie’s 20 best films – ranked!
+URL: https://www.theguardian.com/culture/2025/jul/10/everybodys-favourite-manic-pixie-dream-aunt-celia-imries-20-best-films-ranked
+
