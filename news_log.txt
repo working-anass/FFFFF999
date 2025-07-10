@@ -7568,3 +7568,8 @@ Topic: Business
 Title: Zonal pricing is dead. Now Miliband should be less absolutist on his 2030 goals
 URL: https://www.theguardian.com/business/nils-pratley-on-finance/2025/jul/10/zonal-pricing-energy-ed-miliband-2030-targets
 
+Site: The Guardian
+Topic: World
+Title: Fate of Aukus nuclear submarine deal may be delayed months as UK and Australia wait on Trump review
+URL: https://www.theguardian.com/world/2025/jul/11/aukus-agreement-nuclear-submarines-uk-austrailia-us-trump
+
