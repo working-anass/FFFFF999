@@ -7578,3 +7578,23 @@ Topic: Football
 Title: Real Madrid’s PSG thrashing shows Xabi Alonso true size of rebuilding job
 URL: https://www.theguardian.com/football/2025/jul/10/real-madrids-psg-thrashing-shows-xabi-alonso-true-size-of-rebuilding-job
 
+Site: The Guardian
+Topic: Us News
+Title: US state department announces plan to lay off nearly 15% of its domestic staff
+URL: https://www.theguardian.com/us-news/2025/jul/10/state-department-layoffs-rif-trump
+
+Site: The Guardian
+Topic: Us News
+Title: Trump v Lula: what to know about the tariffs spat between the US and Brazil
+URL: https://www.theguardian.com/us-news/2025/jul/10/trump-lula-tariffs-brazil-explainer
+
+Site: The Guardian
+Topic: Science
+Title: ‘I do what I like’: British woman, 115, claims world’s oldest living person title
+URL: https://www.theguardian.com/science/2025/may/01/british-woman-115-claims-worlds-oldest-living-person-title
+
+Site: The Guardian
+Topic: Football
+Title: Xhemaili’s late leveller floors Finland and sends Switzerland into quarter-final
+URL: https://www.theguardian.com/football/2025/jul/10/finland-switzerland-euro-2025-match-report
+
