@@ -7438,3 +7438,13 @@ Topic: Football
 Title: Sunderland on verge of signing Simon Adingra from Brighton in £21m deal
 URL: https://www.theguardian.com/football/2025/jul/10/sunderland-simon-adingra-from-brighton-deal
 
+Site: The Guardian
+Topic: Uk News
+Title: Starmer says ‘one in, one out’ deal will allow UK to return small-boat migrants to France
+URL: https://www.theguardian.com/uk-news/2025/jul/10/starmer-one-in-one-out-deal-allow-uk-return-small-boat-migrants-france
+
+Site: The Guardian
+Topic: Football
+Title: Paris mismatch at Club World Cup as Real Madrid fail to turn up again
+URL: https://www.theguardian.com/football/2025/jul/10/club-world-cup-psg-real-madrid-football-daily
+
