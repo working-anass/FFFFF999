@@ -7223,3 +7223,8 @@ Topic: Books
 Title: The Salt Path author defends memoir against fabrication allegations
 URL: https://www.theguardian.com/books/2025/jul/09/the-salt-path-author-defends-memoir-against-fabrication-allegations
 
+Site: The Guardian
+Topic: Global Development
+Title: High-risk HIV groups facing record levels of criminalisation as countries bring in draconian laws
+URL: https://www.theguardian.com/global-development/2025/jul/10/unaids-high-risk-hiv-groups-lgbtq-record-criminalisation-usaid-funding
+
