@@ -7258,3 +7258,8 @@ Topic: Environment
 Title: Weaker building regulations could destroy 215,000 hectares of nature in England, analysis shows
 URL: https://www.theguardian.com/environment/2025/jul/10/building-regulations-nature-biodiversity-analysis-england
 
+Site: The Guardian
+Topic: Uk News
+Title: Four arrested over cyber-attacks on M&S, Co-op and Harrods
+URL: https://www.theguardian.com/uk-news/2025/jul/10/four-arrested-over-cyber-attacks-marks-and-spencer-co-op-harrods
+
