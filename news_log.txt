@@ -7263,3 +7263,8 @@ Topic: Uk News
 Title: Four arrested over cyber-attacks on M&S, Co-op and Harrods
 URL: https://www.theguardian.com/uk-news/2025/jul/10/four-arrested-over-cyber-attacks-marks-and-spencer-co-op-harrods
 
+Site: The Guardian
+Topic: Football
+Title: Arsenal complete £9m Christian Nørgaard signing and step up Eze chase
+URL: https://www.theguardian.com/football/2025/jul/10/arsenal-complete-9m-christian-norgaard-signing-and-step-up-eberechi-eze-chase
+
