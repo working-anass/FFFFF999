@@ -7408,3 +7408,18 @@ Topic: Culture
 Title: Everybody’s favourite manic pixie dream aunt: Celia Imrie’s 20 best films – ranked!
 URL: https://www.theguardian.com/culture/2025/jul/10/everybodys-favourite-manic-pixie-dream-aunt-celia-imries-20-best-films-ranked
 
+Site: The Guardian
+Topic: Us News
+Title: Planned Parenthood offices begin rejecting Medicaid after Trump signs bill to defund healthcare organization
+URL: https://www.theguardian.com/us-news/2025/jul/10/planned-parenthood-medicaid
+
+Site: The Guardian
+Topic: Football
+Title: Arsenal to break world-record fee by signing Liverpool’s Olivia Smith for £1m
+URL: https://www.theguardian.com/football/2025/jul/10/olivia-smith-world-record-transfer-1m-signing-arsenal-liverpool
+
+Site: The Guardian
+Topic: Artanddesign
+Title: Glenn Hellman obituary
+URL: https://www.theguardian.com/artanddesign/2025/jul/10/glenn-hellman-obituary
+
