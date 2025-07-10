@@ -7203,3 +7203,8 @@ Topic: Environment
 Title: Birdwatch: a newish arrival to England’s southern shore means gulls galore
 URL: https://www.theguardian.com/environment/2025/jul/09/birdwatch-a-newish-arrival-to-englands-southern-shore-means-gulls-galore
 
+Site: The Guardian
+Topic: Football
+Title: Arda Turan: ‘When Real and Barça went on tours Atlético ran in the mountains’
+URL: https://www.theguardian.com/football/2025/jul/10/arda-turan-when-real-and-barca-went-on-tours-atletico-ran-in-the-mountains
+
