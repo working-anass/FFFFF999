@@ -7363,3 +7363,18 @@ Topic: Tv And Radio
 Title: Too Much review – Lena Dunham’s cliche-ridden new romcom is a total disappointment
 URL: https://www.theguardian.com/tv-and-radio/2025/jul/10/too-much-review-lena-dunham-netflix
 
+Site: The Guardian
+Topic: Football
+Title: Spain have looked unstoppable at Euros but there are ways to beat them
+URL: https://www.theguardian.com/football/2025/jul/10/spain-have-looked-unstoppable-at-euros-but-there-are-ways-to-beat-them
+
+Site: The Guardian
+Topic: Business
+Title: FTSE 100 hits record high as investors shrug off trade war concerns
+URL: https://www.theguardian.com/business/2025/jul/10/ftse-100-hits-record-high-as-investors-shrug-off-trade-war-concerns
+
+Site: The Guardian
+Topic: Sport
+Title: ‘The decision came as a shock’: Christian Horner’s tearful speech at Red Bull HQ
+URL: https://www.theguardian.com/sport/2025/jul/10/christian-horner-red-bull-f1-sacking-farewell-speech
+
