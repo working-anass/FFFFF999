@@ -7068,3 +7068,23 @@ Topic: Business
 Title: As much as £5bn needed to revive UK’s struggling high streets, study finds
 URL: https://www.theguardian.com/business/2025/jul/10/as-much-as-5bn-needed-to-revive-uks-struggling-high-streets-study-finds
 
+Site: The Guardian
+Topic: World
+Title: Ukraine war briefing: Two Chinese nationals arrested in Neptune missile espionage case
+URL: https://www.theguardian.com/world/2025/jul/10/ukraine-war-briefing-two-chinese-under-arrest-in-neptune-missile-espionage-case
+
+Site: The Guardian
+Topic: Us News
+Title: Trump administration reportedly planning to fire 2,145 Nasa employees
+URL: https://www.theguardian.com/us-news/2025/jul/09/nasa-workforce-cuts
+
+Site: The Guardian
+Topic: Football
+Title: ‘We didn’t put the brakes on’: Luis Enrique denies PSG spared Real Madrid
+URL: https://www.theguardian.com/football/2025/jul/10/we-didnt-put-the-brakes-on-luis-enrique-denies-psg-spared-real-madrid
+
+Site: The Guardian
+Topic: Sport
+Title: Tour de France 2025: Evenepoel wins time trial as Pogacar powers into yellow
+URL: https://www.theguardian.com/sport/2025/jul/09/tour-de-france-2025-evenepoel-wins-time-trial-as-pogacar-powers-into-yellow
+
