@@ -7598,3 +7598,8 @@ Topic: Football
 Title: Xhemaili’s late leveller floors Finland and sends Switzerland into quarter-final
 URL: https://www.theguardian.com/football/2025/jul/10/finland-switzerland-euro-2025-match-report
 
+Site: The Guardian
+Topic: Football
+Title: Arsenal line up £52m transfer of 23-year-old Chelsea winger Noni Madueke
+URL: https://www.theguardian.com/football/2025/jul/10/arsenal-line-up-52m-transfer-of-23-year-old-chelsea-winger-noni-madueke
+
