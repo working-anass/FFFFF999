@@ -7323,3 +7323,23 @@ Topic: Books
 Title: The Mission by Tim Weiner review – unmasking the CIA
 URL: https://www.theguardian.com/books/2025/jul/10/the-mission-by-tim-weiner-review-unmasking-the-cia
 
+Site: The Guardian
+Topic: World
+Title: Sweden’s migration minister ‘shocked’ by teenage son’s far-right activism
+URL: https://www.theguardian.com/world/2025/jul/10/sweden-migration-minister-teenage-son-far-right
+
+Site: The Guardian
+Topic: Us News
+Title: ‘We feared the worst’: 31 construction workers rescued after LA tunnel collapse
+URL: https://www.theguardian.com/us-news/2025/jul/10/la-tunnel-clllapse
+
+Site: The Guardian
+Topic: Football
+Title: Textor insists Palace influence ‘not decisive’ as club fear Europa League ban
+URL: https://www.theguardian.com/football/2025/jul/10/john-textor-insists-crystal-palace-influence-not-decisive-as-club-fear-europa-league-ban
+
+Site: The Guardian
+Topic: Business
+Title: Ferrero Rocher owner to buy cereal giant WK Kellogg in $3.1bn deal
+URL: https://www.theguardian.com/business/2025/jul/10/ferrero-rocher-kellogg-cereal-deal
+
