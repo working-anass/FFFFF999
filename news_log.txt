@@ -7088,3 +7088,8 @@ Topic: Sport
 Title: Tour de France 2025: Evenepoel wins time trial as Pogacar powers into yellow
 URL: https://www.theguardian.com/sport/2025/jul/09/tour-de-france-2025-evenepoel-wins-time-trial-as-pogacar-powers-into-yellow
 
+Site: The Guardian
+Topic: Science
+Title: Nasa rover discovery hints at ancient microbial life on Mars
+URL: https://www.theguardian.com/science/article/2024/jul/26/nasa-rover-discovery-hints-at-ancient-microbial-life-on-mars
+
