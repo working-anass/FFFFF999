@@ -7378,3 +7378,18 @@ Topic: Sport
 Title: ‘The decision came as a shock’: Christian Horner’s tearful speech at Red Bull HQ
 URL: https://www.theguardian.com/sport/2025/jul/10/christian-horner-red-bull-f1-sacking-farewell-speech
 
+Site: The Guardian
+Topic: World
+Title: Concern that Ukraine will be split up casts shadow over reconstruction talks
+URL: https://www.theguardian.com/world/2025/jul/10/concern-ukraine-will-be-split-up-reconstruction-talks
+
+Site: The Guardian
+Topic: Us News
+Title: Trump officials axed an online portal for its key climate report. Read it in full here
+URL: https://www.theguardian.com/us-news/2025/jul/10/national-climate-assessment-published
+
+Site: The Guardian
+Topic: Uk News
+Title: Man told fake Russian spies he had ‘useful’ information on Grant Shapps, jury hears
+URL: https://www.theguardian.com/uk-news/2025/jul/10/howard-phillips-fake-russian-spies-grant-shapps-court
+

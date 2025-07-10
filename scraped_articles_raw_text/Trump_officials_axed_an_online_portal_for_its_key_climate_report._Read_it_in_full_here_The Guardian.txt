@@ -1,0 +1,37 @@
+Site: The Guardian
+Title: Trump officials axed an online portal for its key climate report. Read it in full here
+URL: https://www.theguardian.com/us-news/2025/jul/10/national-climate-assessment-published
+
+The future of the US government’s premier climate crisis report is perilously uncertain after the Trump administration deleted the website that housed the periodic, legally mandated assessments that have been produced by scientists over the past two decades.
+
+Five national climate assessments have been compiled since 2000 by researchers across a dozen US government agencies and outside scientists, providing a gold standard report to city and state officials, as well as the general public, of global heating and its impacts upon human health, agriculture, water supplies, air pollution and other aspects of American life.
+
+But although the assessments are mandated to occur every four years under legislation passed by Congress in 1990 , the Trump administration has axed the online portal holding the reports, which went dark last week. A contract to support this work has also been torn up and researchers who were working on the next report, due around 2027, have been dismissed.
+
+A copy of the latest assessment, conducted in 2023, can be found deep on the National Oceanic and Atmospheric Administration’s website. The Guardian is replicating the report here in full in a more visible way for the public to access.
+
+The 2023 assessment, which is more than 1,800 pages long, warns that the “effects of human-caused climate change are already far-reaching and worsening across every region of the United States”. It adds that “without rapid and deep reductions in global greenhouse gas emissions from human activities, the risks of accelerating sea level rise, intensifying extreme weather and other harmful climate impacts will continue to grow.”
+
+Read in full the fifth national climate assessment here (it can take a few seconds for the document to load)
+
+Nasa said it is in the process of uploading the voluminous reports on to its servers, although the administration did not respond to questions over how, or in what form, future climate assessments will be conducted after the shuttering of the research effort.
+
+“The USCGRP website is no longer active,” a Nasa spokesperson said, in reference to the US Global Change Research Program, a federally funded program to coordinate climate research. “All preexisting reports will be hosted on the Nasa website, ensuring continuity of reporting.”
+
+Researchers who have worked, for free, to produce the reports expressed concern about the future direction of the assessments under Trump, who has called the climate crisis “a giant scam” and “bullshit” in the past.
+
+As president, Trump has removed mentions of climate from federal websites , scrapped research work on environmental issues, and cut staff and funding for weather forecasting and climate agencies, and has just signed a major Republican spending bill that stymies clean energy while providing greater support for the fossil fuels that are causing dangerous global heating.
+
+“This was a labor of love from scientists to the people; these assessments were written for the public and policymakers to make decisions to keep people safe and ensure the food and water and infrastructure we need,” said Katharine Hayhoe, a climate scientist at the Nature Conservancy and Texas Tech University.
+
+“I felt very sad to see the website was taken down, because so many people rely on this information. I’m also worried that what will come next might meet the letter of the law without its spirit. It could be something full of misinformation, it could ask a large language AI model why Americans shouldn’t worry about climate change. We just don’t know.”
+
+The synthesis of information in the national climate assessments is only rivaled in its authoritative and comprehensive nature by the UN’s own Intergovernmental Panel on Climate Change reports, Hayhoe said, and its loss may compound the impact of removing other sources of climate information and the forecasting of worsening extreme weather events, such as the deadly flood that hit Texas last week.
+
+“It’s alarmed me to see this gradual attrition of ability as climate change is happening faster than any time in human history,” said Hayhoe, who has been an author or lead author on assessments stretching back to the George W Bush administration.
+
+“We are getting supersized extreme weather and that means we need more information, not less – we need more expertise, more data collection. Unfortunately we are seeing resources being pulled back just as our vulnerability increases.”
+
+Environmental groups have vowed to launch legal action to fully resurrect the climate assessments while Trump’s political opponents have also attacked the removal.
+
+“Burying the legally mandated climate assessment won’t change the fact that climate change is already destroying lives and livelihoods, but Trump’s war against the truth will impede state and local governments’ ability to prepare for and protect families from climate change-fueled disasters,” said Sheldon Whitehouse, a Democratic senator.
