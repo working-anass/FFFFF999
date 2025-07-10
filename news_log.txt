@@ -7253,3 +7253,8 @@ Topic: Australia News
 Title: Abandoned van found in search for missing German backpacker Carolina Wilga in remote WA
 URL: https://www.theguardian.com/australia-news/2025/jul/10/carolina-wilga-missing-german-backpacker-search-western-australia
 
+Site: The Guardian
+Topic: Environment
+Title: Weaker building regulations could destroy 215,000 hectares of nature in England, analysis shows
+URL: https://www.theguardian.com/environment/2025/jul/10/building-regulations-nature-biodiversity-analysis-england
+
