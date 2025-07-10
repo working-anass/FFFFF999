@@ -7538,3 +7538,8 @@ Topic: Uk News
 Title: Robert Jenrick’s migrant returns advice is finally heeded – by a Labour PM
 URL: https://www.theguardian.com/uk-news/2025/jul/10/robert-jenrick-migrant-returns-advice-finally-heeded-labour-pm
 
+Site: The Guardian
+Topic: Us News
+Title: Six Secret Service agents suspended over 2024 Trump assassination attempt
+URL: https://www.theguardian.com/us-news/2025/jul/10/trump-assassination-attempt-secret-service
+
