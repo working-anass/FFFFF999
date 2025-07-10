@@ -7208,3 +7208,8 @@ Topic: Football
 Title: Arda Turan: ‘When Real and Barça went on tours Atlético ran in the mountains’
 URL: https://www.theguardian.com/football/2025/jul/10/arda-turan-when-real-and-barca-went-on-tours-atletico-ran-in-the-mountains
 
+Site: The Guardian
+Topic: Business
+Title: US shoppers feel the heat of Trump’s trade war: ‘the prices are going up’
+URL: https://www.theguardian.com/business/2025/jul/10/trump-tariffs-price-increase-shoppers
+
