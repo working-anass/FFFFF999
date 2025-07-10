@@ -7193,3 +7193,8 @@ Topic: Business
 Title: Royal Mail gets go ahead to axe second-class post on Saturdays
 URL: https://www.theguardian.com/business/2025/jul/10/royal-mail-gets-go-ahead-to-axe-second-class-post-on-saturdays
 
+Site: The Guardian
+Topic: Football
+Title: England turn up the volume and drown out doubts against Netherlands
+URL: https://www.theguardian.com/football/2025/jul/09/england-turn-up-the-volume-and-drown-out-doubts-against-netherlands
+
