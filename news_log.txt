@@ -7238,3 +7238,18 @@ Topic: Uk News
 Title: Iran’s threat to UK on a par with Russia’s, security report finds
 URL: https://www.theguardian.com/uk-news/2025/jul/10/iran-threat-to-uk-on-a-par-with-russia-security-report-finds
 
+Site: The Guardian
+Topic: Us News
+Title: Undocumented builders face unchecked exploitation amid Trump raids: ‘It’s more work, less pay’
+URL: https://www.theguardian.com/us-news/2025/jul/09/construction-workers-builders-immigration-trump
+
+Site: The Guardian
+Topic: Football
+Title: Football transfer rumours: Premier League return for Jordan Henderson?
+URL: https://www.theguardian.com/football/2025/jul/10/football-transfer-rumours-jordan-henderson-garnacho-napoli-sunderland-brighton
+
+Site: The Guardian
+Topic: Australia News
+Title: Abandoned van found in search for missing German backpacker Carolina Wilga in remote WA
+URL: https://www.theguardian.com/australia-news/2025/jul/10/carolina-wilga-missing-german-backpacker-search-western-australia
+
