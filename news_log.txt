@@ -7563,3 +7563,8 @@ Topic: Sport
 Title: Djokovic’s dilemma: can he really beat Sinner and Alcaraz in same grand slam?
 URL: https://www.theguardian.com/sport/2025/jul/10/djokovics-dilemma-can-he-really-beat-sinner-and-alcaraz-in-same-grand-slam
 
+Site: The Guardian
+Topic: Business
+Title: Zonal pricing is dead. Now Miliband should be less absolutist on his 2030 goals
+URL: https://www.theguardian.com/business/nils-pratley-on-finance/2025/jul/10/zonal-pricing-energy-ed-miliband-2030-targets
+
