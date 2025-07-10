@@ -7343,3 +7343,13 @@ Topic: Business
 Title: Ferrero Rocher owner to buy cereal giant WK Kellogg in $3.1bn deal
 URL: https://www.theguardian.com/business/2025/jul/10/ferrero-rocher-kellogg-cereal-deal
 
+Site: The Guardian
+Topic: Tv And Radio
+Title: Julian McMahon obituary
+URL: https://www.theguardian.com/tv-and-radio/2025/jul/10/julian-mcmahon-obituary
+
+Site: The Guardian
+Topic: Books
+Title: Inside the Salt Path controversy: ‘Scandal has stalked memoir since the genre was invented’
+URL: https://www.theguardian.com/books/2025/jul/10/inside-the-salt-path-controversy-scandal-has-stalked-memoir-since-the-genre-was-invented
+
