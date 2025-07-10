@@ -7448,3 +7448,13 @@ Topic: Football
 Title: Paris mismatch at Club World Cup as Real Madrid fail to turn up again
 URL: https://www.theguardian.com/football/2025/jul/10/club-world-cup-psg-real-madrid-football-daily
 
+Site: The Guardian
+Topic: Football
+Title: Milan’s Serie A home fixture against Como could be played in Perth, Australia
+URL: https://www.theguardian.com/football/2025/jul/10/milan-serie-a-home-fixture-como-relocated-perth-australia
+
+Site: The Guardian
+Topic: Politics
+Title: Tory defections to Reform are disaster for Badenoch – but Farage needs to tread carefully
+URL: https://www.theguardian.com/politics/2025/jul/10/tory-defections-to-reform-are-disaster-for-badenoch-but-farage-needs-to-tread-carefully
+
