@@ -7293,3 +7293,18 @@ Topic: Lifeandstyle
 Title: You be the judge: my mum says our family should share towels, but I think it’s gross. Am I right to protest?
 URL: https://www.theguardian.com/lifeandstyle/2025/jul/10/you-be-the-judge-my-mum-says-our-family-should-share-towels-but-i-think-its-gross-am-i-right-to-protest
 
+Site: The Guardian
+Topic: Us News
+Title: Doctor who lost job over Texas flood post says sorry for ‘regrettable comment’
+URL: https://www.theguardian.com/us-news/2025/jul/10/doctor-texas-flood-post-apology
+
+Site: The Guardian
+Topic: Uk News
+Title: Failure to tear down Belfast bonfire will be victory for mob rule, warns Sinn Féin
+URL: https://www.theguardian.com/uk-news/2025/jul/10/failure-tear-down-belfast-bonfire-victory-mob-rule-sinn-fein
+
+Site: The Guardian
+Topic: Football
+Title: In the stands with my son, the Club World Cup was as human as it could possibly be
+URL: https://www.theguardian.com/football/2025/jul/10/club-world-cup-attending-chelsea-fluminense-metlife-stadium-neurodivergent-son
+
