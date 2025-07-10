@@ -7213,3 +7213,13 @@ Topic: Business
 Title: US shoppers feel the heat of Trump’s trade war: ‘the prices are going up’
 URL: https://www.theguardian.com/business/2025/jul/10/trump-tariffs-price-increase-shoppers
 
+Site: The Guardian
+Topic: Technology
+Title: The CEO who never was: how Linda Yaccarino was set up to fail at Elon Musk’s X
+URL: https://www.theguardian.com/technology/2025/jul/10/linda-yaccarino-resigns-x-elon-musk
+
+Site: The Guardian
+Topic: Books
+Title: The Salt Path author defends memoir against fabrication allegations
+URL: https://www.theguardian.com/books/2025/jul/09/the-salt-path-author-defends-memoir-against-fabrication-allegations
+
