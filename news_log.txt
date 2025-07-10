@@ -7463,3 +7463,23 @@ Topic: Football
 Title: England at Euro 2025: Wiegman gets key decisions right to give Lionesses hope
 URL: https://www.theguardian.com/football/2025/jul/10/england-at-euro-2025-wiegman-gets-key-decisions-right-to-give-lionesses-hope
 
+Site: The Guardian
+Topic: Uk News
+Title: Dinghies at dawn and a determination to arrive: on the French coast waiting to cross to UK
+URL: https://www.theguardian.com/uk-news/2025/jul/10/dinghies-at-dawn-determination-french-coast-channel-crossing
+
+Site: The Guardian
+Topic: Uk News
+Title: Self-serving Post Office bosses deserve nothing short of prison
+URL: https://www.theguardian.com/uk-news/2025/jul/10/self-serving-post-office-bosses-deserve-nothing-short-of-prison
+
+Site: The Guardian
+Topic: Environment
+Title: Extreme heat could lead to 30,000 deaths a year in England and Wales by 2070s, say scientists
+URL: https://www.theguardian.com/environment/2025/jul/10/extreme-heat-death-rate-england-wales-by-2070-climate-change
+
+Site: The Guardian
+Topic: Lifeandstyle
+Title: I’ve been in a sexless marriage for 35 years. What can I do?
+URL: https://www.theguardian.com/lifeandstyle/2025/jul/11/advice-for-a-marriage-without-sex
+
