@@ -7423,3 +7423,18 @@ Topic: Artanddesign
 Title: Glenn Hellman obituary
 URL: https://www.theguardian.com/artanddesign/2025/jul/10/glenn-hellman-obituary
 
+Site: The Guardian
+Topic: Us News
+Title: New Hampshire judge blocks Trump’s birthright citizenship order
+URL: https://www.theguardian.com/us-news/2025/jul/10/birthright-citizenship-trump-order-paused
+
+Site: The Guardian
+Topic: Us News
+Title: Greg Abbott accused of trying to ‘fix’ midterms for Republicans by redrawing congressional maps
+URL: https://www.theguardian.com/us-news/2025/jul/10/greg-abbott-midterms-republicans
+
+Site: The Guardian
+Topic: Football
+Title: Sunderland on verge of signing Simon Adingra from Brighton in £21m deal
+URL: https://www.theguardian.com/football/2025/jul/10/sunderland-simon-adingra-from-brighton-deal
+
