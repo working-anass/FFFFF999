@@ -7498,3 +7498,13 @@ Topic: Uk News
 Title: Ministers accused of betrayal after pausing Grenfell contract investigations
 URL: https://www.theguardian.com/uk-news/2025/jul/10/ministers-accused-of-betrayal-after-pausing-grenfell-contractor-investigations
 
+Site: The Guardian
+Topic: World
+Title: Caribbean leaders back Jamaica petition to King Charles for slavery reparations
+URL: https://www.theguardian.com/world/2025/jul/10/caribbean-leaders-back-jamaica-petition-to-king-for-slavery-reparations
+
+Site: The Guardian
+Topic: Sport
+Title: No guarantees for Red Bull that Horner’s sacking will keep Verstappen
+URL: https://www.theguardian.com/sport/2025/jul/10/no-guarantees-for-red-bull-that-horners-sacking-will-keep-verstappen
+
