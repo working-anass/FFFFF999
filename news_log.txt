@@ -7188,3 +7188,8 @@ Topic: Uk News
 Title: Starmer and Macron to announce ‘one in, one out’ migration deal
 URL: https://www.theguardian.com/uk-news/2025/jul/10/starmer-and-macron-to-announce-one-in-one-out-migration-deal
 
+Site: The Guardian
+Topic: Business
+Title: Royal Mail gets go ahead to axe second-class post on Saturdays
+URL: https://www.theguardian.com/business/2025/jul/10/royal-mail-gets-go-ahead-to-axe-second-class-post-on-saturdays
+
