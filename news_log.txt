@@ -7173,3 +7173,13 @@ Topic: Environment
 Title: Why are some of Britain’s ancient woodlands failing to regenerate?
 URL: https://www.theguardian.com/environment/2025/jul/10/britain-ancient-woodlands-failing-regenerate-forests-climate-drought-heat-disease-deer-hope-aoe
 
+Site: The Guardian
+Topic: World
+Title: ‘One too many’: rapper’s arrest sparks protests against Togo’s ruling dynasty
+URL: https://www.theguardian.com/world/2025/jul/10/rapper-aamron-arrest-protests-togo-ruling-dynasty
+
+Site: The Guardian
+Topic: Environment
+Title: Country diary: An urban habitat that is good for birds works for humans too
+URL: https://www.theguardian.com/environment/2025/jul/10/country-diary-an-urban-habitat-that-is-good-for-birds-works-for-humans-too
+
