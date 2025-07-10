@@ -7458,3 +7458,8 @@ Topic: Politics
 Title: Tory defections to Reform are disaster for Badenoch – but Farage needs to tread carefully
 URL: https://www.theguardian.com/politics/2025/jul/10/tory-defections-to-reform-are-disaster-for-badenoch-but-farage-needs-to-tread-carefully
 
+Site: The Guardian
+Topic: Football
+Title: England at Euro 2025: Wiegman gets key decisions right to give Lionesses hope
+URL: https://www.theguardian.com/football/2025/jul/10/england-at-euro-2025-wiegman-gets-key-decisions-right-to-give-lionesses-hope
+
