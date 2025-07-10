@@ -7118,3 +7118,28 @@ Topic: Technology
 Title: Children limiting own smartphone use to manage mental health, survey finds
 URL: https://www.theguardian.com/technology/2025/jul/10/children-limiting-own-smartphone-use-manage-mental-health-survey
 
+Site: The Guardian
+Topic: World
+Title: Russian attack on Kyiv leaves two dead a day after largest assault of war
+URL: https://www.theguardian.com/world/2025/jul/10/russia-largest-missile-drone-attack-kyiv-ukraine-war
+
+Site: The Guardian
+Topic: World
+Title: ‘The voices of our dead have not faded away’: the fight for the memory of genocide in Srebrenica
+URL: https://www.theguardian.com/world/2025/jul/10/srebrenica-bosnia-genocide-remembered
+
+Site: The Guardian
+Topic: Us News
+Title: Trump news at a glance: president demands Bolsonaro trial be stopped as he hits Brazil with 50% tariff
+URL: https://www.theguardian.com/us-news/2025/jul/10/trump-administration-news-today-latest
+
+Site: The Guardian
+Topic: Books
+Title: ‘You are living with a difficult person who is waiting to die’: my harrowing time as Patricia Highsmith’s assistant
+URL: https://www.theguardian.com/books/2025/jul/10/my-harrowing-time-as-patricia-highsmith-assistant
+
+Site: The Guardian
+Topic: Sport
+Title: Teen surfer found on remote island 14km off NSW coast after going missing from Wooli beach
+URL: https://www.theguardian.com/sport/2025/jul/10/missing-teen-surfer-found-on-remote-island-after-going-missing-from-nsw-beach
+
