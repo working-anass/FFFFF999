@@ -7533,3 +7533,8 @@ Topic: Sport
 Title: Aryna Sabalenka admits to ‘hate relationship’ with Wimbledon after semi-final loss
 URL: https://www.theguardian.com/sport/2025/jul/10/aryna-sabalenka-admits-to-hate-relationship-with-wimbledon-after-semi-final-loss
 
+Site: The Guardian
+Topic: Uk News
+Title: Robert Jenrick’s migrant returns advice is finally heeded – by a Labour PM
+URL: https://www.theguardian.com/uk-news/2025/jul/10/robert-jenrick-migrant-returns-advice-finally-heeded-labour-pm
+
