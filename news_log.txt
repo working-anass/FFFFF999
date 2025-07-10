@@ -7163,3 +7163,13 @@ Topic: Liveblog
 Title: Israeli forces kill 13 in central Gaza as ‘difficult’ truce talks continue
 URL: https://www.aljazeera.com/news/liveblog/2025/7/10/live-israel-kills-dozens-in-gaza-as-trump-says-very-good-chance-of-truce
 
+Site: The Guardian
+Topic: World
+Title: Thirty years after the genocide, the peace of Srebrenica hides deep scars
+URL: https://www.theguardian.com/world/2025/jul/10/thirty-years-after-genocide-peace-srebrenica-hides-deep-scars
+
+Site: The Guardian
+Topic: Environment
+Title: Why are some of Britain’s ancient woodlands failing to regenerate?
+URL: https://www.theguardian.com/environment/2025/jul/10/britain-ancient-woodlands-failing-regenerate-forests-climate-drought-heat-disease-deer-hope-aoe
+
