@@ -7573,3 +7573,8 @@ Topic: World
 Title: Fate of Aukus nuclear submarine deal may be delayed months as UK and Australia wait on Trump review
 URL: https://www.theguardian.com/world/2025/jul/11/aukus-agreement-nuclear-submarines-uk-austrailia-us-trump
 
+Site: The Guardian
+Topic: Football
+Title: Real Madrid’s PSG thrashing shows Xabi Alonso true size of rebuilding job
+URL: https://www.theguardian.com/football/2025/jul/10/real-madrids-psg-thrashing-shows-xabi-alonso-true-size-of-rebuilding-job
+
