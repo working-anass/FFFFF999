@@ -7143,3 +7143,18 @@ Topic: Sport
 Title: Teen surfer found on remote island 14km off NSW coast after going missing from Wooli beach
 URL: https://www.theguardian.com/sport/2025/jul/10/missing-teen-surfer-found-on-remote-island-after-going-missing-from-nsw-beach
 
+Site: The Guardian
+Topic: Global Development
+Title: Lobbyists linked to Donald Trump paid millions by world’s poorest countries
+URL: https://www.theguardian.com/global-development/2025/jul/10/lobbyists-linked-donald-trump-poorest-countries-mineral-resources-trade-deals-for-us-aid-military-support
+
+Site: The Guardian
+Topic: Technology
+Title: AI-generated child sexual abuse videos surging online, watchdog says
+URL: https://www.theguardian.com/technology/2025/jul/10/ai-generated-child-sexual-abuse-videos-surging-online-iwf
+
+Site: The Guardian
+Topic: Business
+Title: Last orders: Pubs in Britain will close at rate of one a day in 2025, trade body warns
+URL: https://www.theguardian.com/business/2025/jul/10/last-orders-pubs-in-britain-will-close-at-rate-of-one-a-day-in-2025-trade-body-warns
+
