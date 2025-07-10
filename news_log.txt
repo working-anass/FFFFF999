@@ -7228,3 +7228,13 @@ Topic: Global Development
 Title: High-risk HIV groups facing record levels of criminalisation as countries bring in draconian laws
 URL: https://www.theguardian.com/global-development/2025/jul/10/unaids-high-risk-hiv-groups-lgbtq-record-criminalisation-usaid-funding
 
+Site: The Guardian
+Topic: World
+Title: Ukraine arrests Chinese father and son on suspicion of spying
+URL: https://www.theguardian.com/world/2025/jul/10/ukraine-arrests-chinese-father-and-son-suspicion-of-spying-neptune-missile-russia
+
+Site: The Guardian
+Topic: Uk News
+Title: Iran’s threat to UK on a par with Russia’s, security report finds
+URL: https://www.theguardian.com/uk-news/2025/jul/10/iran-threat-to-uk-on-a-par-with-russia-security-report-finds
+
