@@ -7198,3 +7198,8 @@ Topic: Football
 Title: England turn up the volume and drown out doubts against Netherlands
 URL: https://www.theguardian.com/football/2025/jul/09/england-turn-up-the-volume-and-drown-out-doubts-against-netherlands
 
+Site: The Guardian
+Topic: Environment
+Title: Birdwatch: a newish arrival to England’s southern shore means gulls galore
+URL: https://www.theguardian.com/environment/2025/jul/09/birdwatch-a-newish-arrival-to-englands-southern-shore-means-gulls-galore
+
