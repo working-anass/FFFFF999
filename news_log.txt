@@ -7093,3 +7093,28 @@ Topic: Science
 Title: Nasa rover discovery hints at ancient microbial life on Mars
 URL: https://www.theguardian.com/science/article/2024/jul/26/nasa-rover-discovery-hints-at-ancient-microbial-life-on-mars
 
+Site: The Guardian
+Topic: World
+Title: Ursula von der Leyen faces rare censure vote in European parliament
+URL: https://www.theguardian.com/world/2025/jul/10/ursula-von-der-leyen-censure-vote-european-parliament
+
+Site: The Guardian
+Topic: World
+Title: Haze of confusion in Thailand as government flips on cannabis law
+URL: https://www.theguardian.com/world/2025/jul/10/thailand-recreational-cannabis-ban-new-laws
+
+Site: The Guardian
+Topic: Environment
+Title: Lead ammunition to be banned for hunting and shooting in England, Scotland and Wales
+URL: https://www.theguardian.com/environment/2025/jul/10/lead-ammunition-ban-hunting-shooting-england-scotland-wales
+
+Site: The Guardian
+Topic: Global Development
+Title: ‘We live on bread and tea. I’ve wished for death’: Yemen’s forgotten refugees
+URL: https://www.theguardian.com/global-development/2025/jul/10/yemen-refugee-families-war-poverty-hunger-aid-cut-millions-camps
+
+Site: The Guardian
+Topic: Technology
+Title: Children limiting own smartphone use to manage mental health, survey finds
+URL: https://www.theguardian.com/technology/2025/jul/10/children-limiting-own-smartphone-use-manage-mental-health-survey
+
