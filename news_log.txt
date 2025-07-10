@@ -7543,3 +7543,23 @@ Topic: Us News
 Title: Six Secret Service agents suspended over 2024 Trump assassination attempt
 URL: https://www.theguardian.com/us-news/2025/jul/10/trump-assassination-attempt-secret-service
 
+Site: The Guardian
+Topic: Us News
+Title: Delta flight with roughly 300 passengers diverted to island in Atlantic Ocean
+URL: https://www.theguardian.com/us-news/2025/jul/10/delta-flight-atlantic-island
+
+Site: The Guardian
+Topic: Uk News
+Title: ‘Serious blunder’ over Islamic State murder of Rochdale imam
+URL: https://www.theguardian.com/uk-news/2025/jul/10/police-serious-blunder-rochdale-isis-murder-jalal-uddin-public-inquiry
+
+Site: The Guardian
+Topic: Football
+Title: Moisés Caicedo back in training gives Chelsea major boost before Club World Cup final
+URL: https://www.theguardian.com/football/2025/jul/10/moises-caicedo-return-to-training-gives-chelsea-major-boost-ahead-of-club-world-cup-final
+
+Site: The Guardian
+Topic: Sport
+Title: Djokovic’s dilemma: can he really beat Sinner and Alcaraz in same grand slam?
+URL: https://www.theguardian.com/sport/2025/jul/10/djokovics-dilemma-can-he-really-beat-sinner-and-alcaraz-in-same-grand-slam
+
