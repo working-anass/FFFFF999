@@ -7308,3 +7308,18 @@ Topic: Football
 Title: In the stands with my son, the Club World Cup was as human as it could possibly be
 URL: https://www.theguardian.com/football/2025/jul/10/club-world-cup-attending-chelsea-fluminense-metlife-stadium-neurodivergent-son
 
+Site: The Guardian
+Topic: World
+Title: Seafarers from cargo ship attacked by Houthis rescued after 48 hours in water
+URL: https://www.theguardian.com/world/2025/jul/10/another-four-people-rescued-in-red-sea-after-houthi-attack-on-greek-cargo-ship-eternity-c
+
+Site: The Guardian
+Topic: Environment
+Title: Scottish households urged to cut water use as climate crisis limits supplies
+URL: https://www.theguardian.com/environment/2025/jul/10/scottish-households-urged-to-cut-water-use-as-climate-crisis-limits-supplies
+
+Site: The Guardian
+Topic: Books
+Title: The Mission by Tim Weiner review – unmasking the CIA
+URL: https://www.theguardian.com/books/2025/jul/10/the-mission-by-tim-weiner-review-unmasking-the-cia
+
