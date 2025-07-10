@@ -7158,3 +7158,8 @@ Topic: Business
 Title: Last orders: Pubs in Britain will close at rate of one a day in 2025, trade body warns
 URL: https://www.theguardian.com/business/2025/jul/10/last-orders-pubs-in-britain-will-close-at-rate-of-one-a-day-in-2025-trade-body-warns
 
+Site: Al Jazeera
+Topic: Liveblog
+Title: Israeli forces kill 13 in central Gaza as ‘difficult’ truce talks continue
+URL: https://www.aljazeera.com/news/liveblog/2025/7/10/live-israel-kills-dozens-in-gaza-as-trump-says-very-good-chance-of-truce
+
