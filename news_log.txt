@@ -7768,3 +7768,13 @@ Topic: Environment
 Title: Detection of fire ants in Queensland 800km from closest infestation sparks fury over gaps in eradication funding
 URL: https://www.theguardian.com/environment/2025/jul/11/detection-of-fire-ants-in-queensland-800km-from-closest-infestation-sparks-fury-over-gaps-in-eradication-funding
 
+Site: The Guardian
+Topic: Uk News
+Title: National Trust to cut at least 550 jobs after £10m rise in costs from Reeves’s budget
+URL: https://www.theguardian.com/uk-news/2025/jul/11/national-trust-to-cut-at-least-550-jobs-after-10m-rise-in-costs-from-reevess-budget
+
+Site: The Guardian
+Topic: Sport
+Title: Andy Farrell’s five key selection posers for first British & Irish Lions Test
+URL: https://www.theguardian.com/sport/2025/jul/10/andy-farrell-five-key-selection-posers-first-british-irish-lions-test-rugby-union
+
