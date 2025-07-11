@@ -7708,3 +7708,8 @@ Topic: Business
 Title: UK economy shrinks unexpectedly by 0.1% in blow to Rachel Reeves
 URL: https://www.theguardian.com/business/2025/jul/11/uk-economy-rachel-reeves-gdp-taxes-trump-tariffs
 
+Site: The Guardian
+Topic: Australia News
+Title: Carolina Wilga: police rule out foul play in search for missing German backpacker in remote Western Australia
+URL: https://www.theguardian.com/australia-news/2025/jul/11/carolina-wilga-missing-german-backpacker-search-western-australia
+
