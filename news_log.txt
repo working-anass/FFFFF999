@@ -7693,3 +7693,18 @@ Topic: Us News
 Title: Denver museum known for dinosaur displays finds fossil under its parking lot
 URL: https://www.theguardian.com/us-news/2025/jul/10/denver-museum-fossil-parking-lot
 
+Site: The Guardian
+Topic: Us News
+Title: Threats, delays and confusion: 10 key points to understand another week of Trump tariff turmoil
+URL: https://www.theguardian.com/us-news/2025/jul/11/threats-delays-and-confusion-10-key-points-to-understand-another-week-of-trump-tariff-turmoil-in-10-points
+
+Site: The Guardian
+Topic: Environment
+Title: Country diary: The utter shock of seeing wildfire devastation up close
+URL: https://www.theguardian.com/environment/2025/jul/11/country-diary-the-utter-shock-of-seeing-wildfire-devastation-up-close
+
+Site: The Guardian
+Topic: Business
+Title: UK economy shrinks unexpectedly by 0.1% in blow to Rachel Reeves
+URL: https://www.theguardian.com/business/2025/jul/11/uk-economy-rachel-reeves-gdp-taxes-trump-tariffs
+
