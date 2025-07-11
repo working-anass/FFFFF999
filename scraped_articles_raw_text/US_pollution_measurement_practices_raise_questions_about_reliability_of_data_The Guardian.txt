@@ -1,0 +1,119 @@
+Site: The Guardian
+Title: US pollution measurement practices raise questions about reliability of data
+URL: https://www.theguardian.com/environment/2025/jul/11/air-pollution-data-accuracy
+
+A Guardian analysis has raised fresh questions over the way regulators and corporations measure the air quality impact of planned factories that risk emitting dangerous levels of pollution.
+
+Between 2014 and 2024, air pollution permit applications in Michigan – designed to gauge if proposed industrial projects would cause regions to violate federal pollution limits – did not meet data collection rules or best practices over 90% of the time. Some measurements were taken more than a hundred miles away from sites.
+
+The findings are likely to heighten concerns around whether the air around many large factories is, or will be, safe to breathe. Public health advocates and environmental attorneys have long claimed readings are manipulated in a bid to push through planned sites – and warned that practices uncovered in Michigan were not unique. The safety of air around many of the nation’s factories is similarly unclear.
+
+Among the facilities is a Stellantis auto plant in Sterling Heights, Michigan, a large Detroit suburb. In 2016, Michigan environmental regulators approved a permit application allowing then-FCA Chrysler to increase particulate matter emissions.
+
+The projected level of new particulate matter combined with current levels around the plant would not violate federal limits, FCA claimed: the air would remain safe.
+
+But the air monitor FCA used to arrive at that conclusion was 17 miles to the north in New Haven, a largely rural community with cleaner air than Sterling Heights. FCA and regulators ignored two closer monitors in urban areas with dirtier airsheds that more closely matched that of Sterling Heights. Per Clean Air Act best practices, FCA should have installed an air monitor at its plant to determine the levels.
+
+It did not. No one knows how much dangerous particulate matter hangs in the region around the Sterling Heights plant. Stellantis did not respond to a request for comment.
+
+“It’s an abuse to say ‘Oh yeah, that’s good enough,’ because you didn’t look,” said Seth Johnson, an attorney with the Earthjustice non-profit who has litigated on permitting issues. “If you don’t care about what people in an area are breathing then you don’t want to look.”
+
+In some cases, air quality data is used from monitors hundreds of miles away. In other instances, no data is collected when the law requires it to be. Sometimes companies ignore nearby monitors and use data from a monitor further away, where the air is cleaner, as FCA did.
+
+The types of facilities that apply for permits include major polluters like power plants, auto factories and other heavy industry sites. When the Swedish paper giant Billerud wanted to expand its Escanaba, Michigan, mill in 2023, it used readings for nitrogen dioxide from a monitor about 150 miles south-east, in Houghton Lake, Michigan. Its particulate matter readings came from monitors about 130 miles west in Potawatomi, Wisconsin.
+
+The Lansing Board of Water and Light, meanwhile, relied on carbon monoxide data from a monitor in Grand Rapids, about 68 miles away, when it wanted to expand a power plant.
+
+Neither monitored onsite for the pollutants. Billerud and Lansing Board of Water did not respond to requests for comment.
+
+The Michigan department of environment, Great Lakes and energy (EGLE) said the agency “does not deliberately choose a monitor” that makes it appear as if pollution levels are lower than they are. Using the Billerud example, a spokesperson said the airsheds in Houghton and Potawatomi were similar enough to Escanaba to draw conclusions about the safety of the air in Escanaba.
+
+“In this case and many others like it, using monitors farther away is a better and more conservative way to evaluate an applicant’s request,” an EGLE spokesperson, Josef Greenberg, said in a statement.
+
+However, Potawatomi is in a state forest, and Houghton is similarly more rural in character than Escanaba. That prompts questions about the accuracy of EGLE’s claim, said Nick Leonard, a lawyer with the Great Lakes Environmental Law Center, which has sued Michigan regulators over some permit approvals. Such scenarios should trigger onsite monitoring, he said.
+
+“You’d think it’s a technocratic process, but it’s not,” Leonard said. “Companies seeking a permit more or less tell EGLE what data they want to use , and EGLE rubber-stamps it every time. They never do a meaningful assessment of the data, and they never require permit applicants to do onsite monitoring even though that is an option under the Clean Air Act and encouraged by EPA [the Environmental Protection Agency].”
+
+‘Real impacts on real people’
+
+The Guardian obtained major Michigan air pollution permit applications for 2014 to 2024 via Freedom of Information Act (Foia) requests. The permit applications were submitted during the administrations of the former Republican governor Rick Snyder and the current Democratic governor, Gretchen Whitmer.
+
+The Clean Air Act states companies must obtain a permit to emit air pollutants covered by National Ambient Air Quality Standards (NAAQS), such as particulate matter, carbon monoxide, and sulfur dioxide.
+
+The EPA sets limits for the pollutants, which are linked to lung disease, cancer and a range of other health problems. The Clean Air Act also states that permit applicants must demonstrate that “emissions from construction or operation of such a facility will not cause, or contribute to, air pollution in excess of any” NAAQS limit.
+
+Best practices state that applicants should demonstrate their projects will not violate limits by adding local air monitors’ ambient pollution levels to their projected emissions. State environmental regulators most often handle the permit requests.
+
+EPA rules and best practices around air monitors call for state agencies to require companies to use data from a monitor within about six miles. If a monitor is not available, a “regional” monitor further away can be used, but conditions in the two locations’ airsheds should be similar.
+
+That option should be used sparingly, the best practices state. If no comparable air monitors are available, then a company should install a monitor onsite and check the air for a year.
+
+That virtually never happens in Michigan or elsewhere, said Michael Koerber, a retired deputy director of the EPA’s Office of Air Quality Planning and Standards, which worked with EGLE and other states on air permitting. “Do projects generally do that? I can’t think of too many that really did,” he added.
+
+EGLE said in a statement it rarely required onsite monitoring, but noted that it regularly consulted with the EPA on the decisions, and the EPA also has not felt that onsite monitoring was required.
+
+If a company’s projected emissions violate the NAAQS limits, they could be required to take any number of steps, like putting in better pollution controls, or reducing pollution at a different facility. But that rarely happens, public health advocates say.
+
+“It’s easy to get lost in the arcane details of all of this , but at the end of the day we’re talking about pollution that is really bad for people. And it has real impacts on real people,” Johnson said.
+
+‘Business as usual’
+
+The air in south-west Detroit near Zug Island is among the dirtiest in the nation, filled with pollutants from steelmakers, automakers and others who operate factories in the dense industrial zone.
+
+By 2023, the level of toxic particulate matter there was on the brink of violating federal air quality limits, and the concrete producer Edward C Levy Co applied to add more from a proposed slag grinding facility.
+
+The problem: the particulate matter that Levy’s facility would emit would cause the region to be in violation of federal limits for the pollutant, data from the application and a state air quality monitor positioned about 0.65 miles from the site showed.
+
+Still, the state approved the permit in late 2023. It and Levy ignored data from the nearby monitor, instead using readings from a monitor six miles away in Allen Park, where the air is cleaner. That made it appear as if Levy would not cause a violation.
+
+EGLE’s decision was “business as usual” , said Theresa Landrum, who lives in south-west Detroit. The firm’s founder, Edward Levy, is politically connected and a prolific campaign donor, and EGLE, “doesn’t seem that EGLE is working on behalf of the people”, Landrum said. Levy did not respond to a request for comment.
+
+EGLE at the time defended its decision, claiming it used modeling to show there would not be a violation. Leonard’s law firm has sued, and the case is currently in a state appeals court after a lower court judge ruled there was no violation.
+
+Leonard said he had never seen the EPA or EGLE show data to support its decisions, and their approach varies from permit to permit.
+
+“Sometimes they use the closest monitor, sometimes not,” he said. “Sometimes they use a monitor from an area that typically has high levels of air pollution, sometimes not. Sometimes they use a monitor upwind of the facility, sometimes they use one that is downwind.
+
+“The lack of criteria and variability from permit to permit makes this fertile ground for manipulation.”
+
+Leonard pointed to a 2018 application to increase sulfur dioxide emissions at the Arbor Hills landfill in Northville Township, a suburb at the western edge of Detroit’s metro area. It pulled air quality data from Allen Park, about 22 miles away. EGLE approved the permit.
+
+Leonard said EGLE in part justified the use of the Allen Park monitor because it classified the new project as a “single source” of pollution, or in effect the only major source of air emissions in the area. But EPA records show 164 other companies in a 10-mile radius have such high emission levels that they must report to the EPA.
+
+Currently, no one knows if the pollution from Arbor Hills’ expansion combined with the pollution from the other major sources has made Northville Township’s air unsafe.
+
+Leonard said he had pushed EGLE to do more onsite monitoring. “They look at me like I’m crazy if I even suggest it,” he claimed.
+
+Arbor Hills Energy LLC, the landfill’s former owner, and Opal Fuels its current owner, did not respond to requests for comment.
+
+The EPA
+
+The blame lies with the EPA and state regulators, advocates say. The EPA “doesn’t like” the pre-construction monitoring and data requirements, and “has fought against it for 40 years”, Johnson of Earthjustice, said.
+
+The EPA did not respond to a request for comment.
+
+The agency in the late 1970s issued a rule under the Clean Air Act that did not require companies to provide air quality monitoring data to show their project would not violate federal limits. Earthjustice and Sierra Club sued , arguing the law explicitly called for data, and in 2013 a federal court agreed.
+
+But the EPA did not begin requiring meaningful data, Johnson added. Instead, it started “doing this run around” in which it allowed existing data to be pulled from monitors up to hundreds of miles away that often does not provide a clear picture of air pollution around the proposed facilities.
+
+The law, however, is less clear about how companies must demonstrate compliance with the limits. State agencies, with EPA approval, are essentially exploiting those gray areas or non-enforceable best practices, Johnson said.
+
+Michigan could do more, too, Leonard said. Whitmer has promoted herself as an environmental justice (EJ) leader, taking steps such as creating state panels that advise on such issues. But when it comes to decisions that will truly protect communities, like permitting, she typically puts the industry’s needs first, according to Leonard.
+
+That hasn’t gone unnoticed in south-west Detroit, Landrum said: “Whitmer hasn’t stepped out on EJ issues. She puts corporate profits over people.”
+
+Whitmer’s office did not respond to a request for comment.
+
+‘ A matter of priorities’
+
+In Monroe, Michigan, the Gerdau Steel plant is spitting high levels of nitrogen dioxide into the air. In an apparent direct violation of the Clean Air Act, no data was provided to determine if it violated the NAAQS.
+
+Gerdau Steel did not respond to a request for comment.
+
+Public health advocates say it doesn’t need to be this way. Part of the problem is the low number of air quality monitors. Michigan has in place just 30 PM2.5 monitors to cover its approximately 97,000 sq miles, making it rare for a monitor to be within six miles of a proposed project.
+
+Though the 2021 Inflation Reduction Act provided funding for air quality monitors, Michigan didn’t expand its network. Johnson said advances in satellite and mobile air monitoring could make it easier to gather data around a facility.
+
+EGLE in its statement said onsite monitoring was costly and time intensive. But former EPA official Koerber noted the projects often take years to plan, so monitoring onsite for a year is a relatively inexpensive and easy step for companies to take. He also said firms could do post-construction monitoring, so the public knows for sure whether there is a problem.
+
+The fixes aren’t that difficult, according to Johnson. It’s “just a matter of priorities”, he said. “People have the right to know what they’re breathing and what they’re going to breathe in the future. To deprive people of that right is anti-democratic.”
