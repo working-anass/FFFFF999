@@ -7858,3 +7858,8 @@ Topic: Music
 Title: Stuart Burrows obituary
 URL: https://www.theguardian.com/music/2025/jul/11/stuart-burrows-obituary
 
+Site: The Guardian
+Topic: Uk News
+Title: PSNI investigating loyalist bonfire refugee effigies as hate incident
+URL: https://www.theguardian.com/uk-news/2025/jul/11/psni-investigating-loyalist-bonfire-refugee-effigies-as-hate-incident-northern-ireland
+
