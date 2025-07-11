@@ -8013,3 +8013,8 @@ Topic: Sport
 Title: The kindness of Carlos: fans and former coaches hail ‘always humble’ Alcaraz
 URL: https://www.theguardian.com/sport/2025/jul/11/the-kindness-of-carlos-fans-and-former-coaches-hail-always-humble-alcaraz
 
+Site: The Guardian
+Topic: Us News
+Title: US state department issues first of 1,350 termination orders after court lifted ban
+URL: https://www.theguardian.com/us-news/2025/jul/11/state-department-layoffs-rif
+
