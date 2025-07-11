@@ -7723,3 +7723,18 @@ Topic: Global Development
 Title: ‘I feel dizzy but I can’t stop’: global heating is already making kiln workers’ lives unbearable. And it will only get worse
 URL: https://www.theguardian.com/global-development/2024/dec/09/global-heating-indian-kiln-workers-bricks-heat-stress-extreme
 
+Site: The Guardian
+Topic: World
+Title: Friday briefing: The myth of the fleeing super-rich – and the real tax debate
+URL: https://www.theguardian.com/world/2025/jul/10/friday-briefing-the-myth-of-the-fleeing-super-rich-and-the-real-tax-debate
+
+Site: The Guardian
+Topic: Uk News
+Title: Fears Heathrow’s move to raise airport fees by ‘excessive’ 17% will push up fares
+URL: https://www.theguardian.com/uk-news/2025/jul/11/fears-heathrow-move-raise-airport-fees-excessive-push-up-fares
+
+Site: The Guardian
+Topic: Uk News
+Title: Body of teenage boy recovered from lake in Sutton Coldfield after search
+URL: https://www.theguardian.com/uk-news/2025/jul/11/body-of-teenage-boy-recovered-lake-sutton-coldfield-search-west-midlands-police
+
