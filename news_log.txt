@@ -7743,3 +7743,8 @@ Topic: Uk News
 Title: Britain expects EU to approve migration deal with France, says Yvette Cooper
 URL: https://www.theguardian.com/uk-news/2025/jul/11/uk-expects-eu-approve-migrants-return-deal-france-yvette-cooper
 
+Site: The Guardian
+Topic: Football
+Title: Football transfer rumours: Bayern to sign Luis Díaz after new bid?
+URL: https://www.theguardian.com/football/2025/jul/11/football-transfer-rumours-bayern-munich-liverpool-newcastle-nottingham-forest
+
