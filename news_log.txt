@@ -7918,3 +7918,8 @@ Topic: Us News
 Title: Trans youth fight for care as California clinics cave to Trump: ‘How can this happen here?’
 URL: https://www.theguardian.com/us-news/2025/jul/11/trans-youth-california-care-trump
 
+Site: The Guardian
+Topic: Us News
+Title: Trump expected to resume weapons deliveries to Ukraine through Nato allies
+URL: https://www.theguardian.com/us-news/2025/jul/11/trump-russia-ukraine-weapons
+
