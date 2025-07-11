@@ -7783,3 +7783,8 @@ Topic: Music
 Title: Bless Me Father by Kevin Rowland review – the Dexys Midnight Runners frontman tells all
 URL: https://www.theguardian.com/music/2025/jul/11/bless-me-father-by-kevin-rowland-review-the-dexys-midnight-runners-frontman-tells-all
 
+Site: The Guardian
+Topic: Football
+Title: Athletic Bilbao’s Álvarez blames hair loss medicine for provisional doping suspension
+URL: https://www.theguardian.com/football/2025/jul/11/athletic-bilbao-yeray-alvarez-blames-hair-loss-medicine-doping-test-suspension
+
