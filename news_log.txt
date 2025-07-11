@@ -7833,3 +7833,28 @@ Topic: World
 Title: Liverpool black history researchers discover slaver ship advert from 1805
 URL: https://www.theguardian.com/world/2025/jul/11/liverpool-black-history-researchers-unearth-slaver-ship-advert-1805
 
+Site: The Guardian
+Topic: World
+Title: Colombia identifies new threat in drug war: the autonomous narco drone sub
+URL: https://www.theguardian.com/world/2025/jul/11/colombia-narco-submarine-cocaine
+
+Site: The Guardian
+Topic: Uk News
+Title: Chris Brown denies further charges over alleged bottle attack at London club
+URL: https://www.theguardian.com/uk-news/2025/jul/11/chris-brown-denies-further-charges-alleged-bottle-attack-london-club
+
+Site: The Guardian
+Topic: Science
+Title: Panting, gular fluttering and sploots: how Britain’s animals try to keep cool
+URL: https://www.theguardian.com/science/2025/jul/11/panting-gular-fluttering-sploots-how-britain-animals-try-keep-cool-heatwaves
+
+Site: The Guardian
+Topic: Football
+Title: Morgan Gibbs-White move to Spurs on hold as Nottingham Forest consider legal action
+URL: https://www.theguardian.com/football/2025/jul/11/morgan-gibbs-white-spurs-move-on-hold-nottingham-forest-consider-legal-action-alleged-illegal-approach
+
+Site: The Guardian
+Topic: Music
+Title: Stuart Burrows obituary
+URL: https://www.theguardian.com/music/2025/jul/11/stuart-burrows-obituary
+
