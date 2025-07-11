@@ -7678,3 +7678,13 @@ Topic: Liveblog
 Title: Israel pounds Gaza as Netanyahu says deal could be struck in a ‘few days’
 URL: https://www.aljazeera.com/news/liveblog/2025/7/11/live-israel-pounds-gaza-netanyahu-says-deal-could-be-few-days-away
 
+Site: The Guardian
+Topic: Science
+Title: Scientists aiming to bring back woolly mammoth create woolly mice
+URL: https://www.theguardian.com/science/2025/mar/04/genetically-modified-woolly-mice-mammoth
+
+Site: The Guardian
+Topic: Lifeandstyle
+Title: Experience: a postcard delivered 121 years late led me to my long-lost family
+URL: https://www.theguardian.com/lifeandstyle/2025/jul/11/experience-postcard-delivered-121-years-late-long-lost-family
+
