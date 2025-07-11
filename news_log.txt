@@ -7748,3 +7748,18 @@ Topic: Football
 Title: Football transfer rumours: Bayern to sign Luis Díaz after new bid?
 URL: https://www.theguardian.com/football/2025/jul/11/football-transfer-rumours-bayern-munich-liverpool-newcastle-nottingham-forest
 
+Site: The Guardian
+Topic: Environment
+Title: Toxic Pfas above proposed safety limits in almost all English waters tested
+URL: https://www.theguardian.com/environment/2025/jul/11/toxic-pfas-above-proposed-safety-limits-in-almost-all-english-waters-tested
+
+Site: The Guardian
+Topic: Global Development
+Title: One wrong move could be fatal: the divers risking their lives to save whales from ‘ghost nets’
+URL: https://www.theguardian.com/global-development/2025/jul/11/ghost-nets-colombian-divers-old-fishing-gear-commercial-fishing-equipment
+
+Site: The Guardian
+Topic: Business
+Title: Fall in UK GDP puts focus back on expectations of tax rises in autumn budget
+URL: https://www.theguardian.com/business/2025/jul/11/fall-in-uk-gdp-puts-focus-back-on-expectations-of-tax-rises-in-autumn-budget
+
