@@ -7863,3 +7863,8 @@ Topic: Uk News
 Title: PSNI investigating loyalist bonfire refugee effigies as hate incident
 URL: https://www.theguardian.com/uk-news/2025/jul/11/psni-investigating-loyalist-bonfire-refugee-effigies-as-hate-incident-northern-ireland
 
+Site: The Guardian
+Topic: Football
+Title: Coffees, cabin fever and social media: the dos and don’ts of a tournament bubble
+URL: https://www.theguardian.com/football/2025/jul/11/euro-2025-tournament-social-media-sarina-wiegman-lionesses
+
