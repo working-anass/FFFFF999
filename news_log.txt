@@ -7938,3 +7938,13 @@ Topic: Environment
 Title: US pollution measurement practices raise questions about reliability of data
 URL: https://www.theguardian.com/environment/2025/jul/11/air-pollution-data-accuracy
 
+Site: The Guardian
+Topic: Us News
+Title: Trump to tour Texas flood damage as disaster tests vow to shutter Fema
+URL: https://www.theguardian.com/us-news/2025/jul/11/trump-texas-flood-damage-fema
+
+Site: The Guardian
+Topic: Football
+Title: Arsène Wenger loves the Club World Cup, but does anyone agree with him?
+URL: https://www.theguardian.com/football/2025/jul/11/arsene-wenger-club-world-cup-chelsea-psg-football-daily-newsletter
+
