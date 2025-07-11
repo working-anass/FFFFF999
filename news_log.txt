@@ -8078,3 +8078,8 @@ Topic: Football
 Title: Spain overcome early Italy scare to win and set up tie against hosts Switzerland
 URL: https://www.theguardian.com/football/2025/jul/11/italy-spain-womens-euro-2025-group-b-match-report
 
+Site: The Guardian
+Topic: Us News
+Title: Farm worker dies a day after chaotic immigration raid at California farm
+URL: https://www.theguardian.com/us-news/2025/jul/11/california-farm-immigration-raid
+
