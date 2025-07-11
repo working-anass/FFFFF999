@@ -7893,3 +7893,13 @@ Topic: Tv And Radio
 Title: ‘Am I minging?’ It’s Big Brother’s greatest moments – 25 years on
 URL: https://www.theguardian.com/tv-and-radio/2025/jul/11/am-i-minging-its-big-brothers-greatest-moments-25-years-on
 
+Site: The Guardian
+Topic: Science
+Title: Arthur Callaghan obituary
+URL: https://www.theguardian.com/science/2025/jul/11/arthur-callaghan-obituary
+
+Site: The Guardian
+Topic: World
+Title: Paris rejoices as Moulin Rouge windmill sails turn again year after collapse
+URL: https://www.theguardian.com/world/2025/jul/11/paris-moulin-rouge-windmill-sails-turn-again-year-after-collapse
+
