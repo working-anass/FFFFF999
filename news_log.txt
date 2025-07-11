@@ -8038,3 +8038,18 @@ Topic: Sport
 Title: My age makes it very difficult to win grand slams, admits beaten Djokovic
 URL: https://www.theguardian.com/sport/2025/jul/11/reality-is-im-getting-too-old-to-win-grand-slams-admits-beaten-djokovic
 
+Site: The Guardian
+Topic: World
+Title: Engine fuel switches cut off before Air India crash that killed 260, preliminary report finds
+URL: https://www.theguardian.com/world/2025/jul/11/engine-fuel-switches-cut-off-before-air-india-crash-that-killed-260-report-finds
+
+Site: The Guardian
+Topic: Sport
+Title: Sinner dismantles ailing Djokovic to set up Wimbledon final against Alcaraz
+URL: https://www.theguardian.com/sport/2025/jul/11/jannik-sinner-dismantles-ailing-novak-djokovic-wimbledon-final-alcaraz
+
+Site: The Guardian
+Topic: Business
+Title: ‘It’s an illogical job’: Why driving a train isn’t as cushy as it might seem
+URL: https://www.theguardian.com/business/2025/may/11/its-an-illogical-job-why-driving-a-train-isnt-as-cushy-as-it-might-seem
+
