@@ -7808,3 +7808,18 @@ Topic: Uk News
 Title: Digested week: Reeves’s tears and standing room only for Macron’s Westminster speech
 URL: https://www.theguardian.com/uk-news/2025/jul/11/rachel-reevess-tears-at-pmqs-and-standing-room-only-for-macrons-westminster-speech
 
+Site: The Guardian
+Topic: Us News
+Title: Trump administration yanks $15m in research into Pfas on US farms: ‘not just stupid, it’s evil’
+URL: https://www.theguardian.com/us-news/2025/jul/11/trump-pfas-research-funding-farms
+
+Site: The Guardian
+Topic: Uk News
+Title: Heat health alerts and hosepipe bans across England as third heatwave takes hold
+URL: https://www.theguardian.com/uk-news/2025/jul/11/heat-health-alerts-hosepipe-ban-england-third-heatwave
+
+Site: The Guardian
+Topic: Football
+Title: Lauren Hemp hails first £1m transfer fee as ‘proof women’s footballers are great’
+URL: https://www.theguardian.com/football/2025/jul/11/lauren-hemp-first-1m-transfer-fee-olivia-smith-arsenal-womens-football-england-euro-2025
+
