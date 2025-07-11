@@ -7738,3 +7738,8 @@ Topic: Uk News
 Title: Body of teenage boy recovered from lake in Sutton Coldfield after search
 URL: https://www.theguardian.com/uk-news/2025/jul/11/body-of-teenage-boy-recovered-lake-sutton-coldfield-search-west-midlands-police
 
+Site: The Guardian
+Topic: Uk News
+Title: Britain expects EU to approve migration deal with France, says Yvette Cooper
+URL: https://www.theguardian.com/uk-news/2025/jul/11/uk-expects-eu-approve-migrants-return-deal-france-yvette-cooper
+
