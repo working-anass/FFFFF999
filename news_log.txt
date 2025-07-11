@@ -7648,3 +7648,8 @@ Topic: Us News
 Title: US will impose 35% tariffs on Canadian imports, Trump says in letter
 URL: https://www.theguardian.com/us-news/2025/jul/10/us-canada-tariffs-trump
 
+Site: The Guardian
+Topic: Environment
+Title: It’s 12ft tall, covered in feathers and has been extinct for 600 years – can the giant moa bird really be resurrected?
+URL: https://www.theguardian.com/environment/2025/jul/11/de-extinction-extinct-giant-moa-bird-colossal-bioscience-aoe
+
