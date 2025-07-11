@@ -7803,3 +7803,8 @@ Topic: Football
 Title: Jordan Henderson poised to bolster Brentford midfield after Ajax exit
 URL: https://www.theguardian.com/football/2025/jul/11/jordan-henderson-poised-to-bolster-brentford-midfield-after-ajax-exit
 
+Site: The Guardian
+Topic: Uk News
+Title: Digested week: Reeves’s tears and standing room only for Macron’s Westminster speech
+URL: https://www.theguardian.com/uk-news/2025/jul/11/rachel-reevess-tears-at-pmqs-and-standing-room-only-for-macrons-westminster-speech
+
