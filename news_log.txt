@@ -7903,3 +7903,13 @@ Topic: World
 Title: Paris rejoices as Moulin Rouge windmill sails turn again year after collapse
 URL: https://www.theguardian.com/world/2025/jul/11/paris-moulin-rouge-windmill-sails-turn-again-year-after-collapse
 
+Site: The Guardian
+Topic: Uk News
+Title: Two residents die after car in police chase crashes into Sunderland care home
+URL: https://www.theguardian.com/uk-news/2025/jul/11/two-residents-die-after-car-in-police-chase-crashes-into-sunderland-care-home
+
+Site: The Guardian
+Topic: Football
+Title: Crystal Palace banned from Europa League and relegated to Conference League
+URL: https://www.theguardian.com/football/2025/jul/11/crystal-palace-banned-from-europa-league-and-relegated-to-conference-league
+
