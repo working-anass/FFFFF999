@@ -8053,3 +8053,13 @@ Topic: Business
 Title: ‘It’s an illogical job’: Why driving a train isn’t as cushy as it might seem
 URL: https://www.theguardian.com/business/2025/may/11/its-an-illogical-job-why-driving-a-train-isnt-as-cushy-as-it-might-seem
 
+Site: The Guardian
+Topic: World
+Title: Son of El Chapo pleads guilty in US drug trafficking case
+URL: https://www.theguardian.com/world/2025/jul/11/el-chapo-son-pleads-guilty-drug-trafficking
+
+Site: The Guardian
+Topic: Us News
+Title: Arkansas prison guards fired over escape of killer dubbed ‘Devil in the Ozarks’
+URL: https://www.theguardian.com/us-news/2025/jul/11/devil-in-ozarks-escape-arkansas-guards-fired
+
