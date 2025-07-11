@@ -7663,3 +7663,18 @@ Topic: Film
 Title: ‘I’d be proud to be thrown out of America!’ Eric Idle on Trump, life after Python and not talking before lunch
 URL: https://www.theguardian.com/film/2025/jul/11/id-be-proud-to-be-thrown-out-of-america-eric-idle-on-trump-life-after-python-and-not-talking-before-lunch
 
+Site: The Guardian
+Topic: Environment
+Title: The Beatles to Virginia Woolf: UK tree of the year shortlist is rooted in culture
+URL: https://www.theguardian.com/environment/2025/jul/11/beatles-virginia-woolf-uk-tree-of-the-year-shortlist-culture
+
+Site: The Guardian
+Topic: Business
+Title: UK government considers rescue package for second major steel plant
+URL: https://www.theguardian.com/business/2025/jul/11/uk-government-considers-rescue-package-for-second-major-steel-plant
+
+Site: Al Jazeera
+Topic: Liveblog
+Title: Israel pounds Gaza as Netanyahu says deal could be struck in a ‘few days’
+URL: https://www.aljazeera.com/news/liveblog/2025/7/11/live-israel-pounds-gaza-netanyahu-says-deal-could-be-few-days-away
+
