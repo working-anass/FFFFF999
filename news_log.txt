@@ -7868,3 +7868,28 @@ Topic: Football
 Title: Coffees, cabin fever and social media: the dos and don’ts of a tournament bubble
 URL: https://www.theguardian.com/football/2025/jul/11/euro-2025-tournament-social-media-sarina-wiegman-lionesses
 
+Site: The Guardian
+Topic: World
+Title: Shunned Myanmar leader thrilled at US contact after Trump tariff letter
+URL: https://www.theguardian.com/world/2025/jul/11/myanmar-military-leader-min-aung-hlaing-praises-donald-trump
+
+Site: The Guardian
+Topic: Uk News
+Title: ‘The posh areas get cleared’: bin strikes illustrate Birmingham’s wealth gap
+URL: https://www.theguardian.com/uk-news/2025/apr/18/bin-strikes-illustrate-birmingham-wealth-gap
+
+Site: The Guardian
+Topic: Technology
+Title: Louis Vuitton says UK customer data stolen in cyber-attack
+URL: https://www.theguardian.com/technology/2025/jul/11/louis-vuitton-uk-customer-data-stolen-cyber-attack
+
+Site: The Guardian
+Topic: Stage
+Title: Peter James obituary
+URL: https://www.theguardian.com/stage/2025/jul/11/peter-james-obituary
+
+Site: The Guardian
+Topic: Tv And Radio
+Title: ‘Am I minging?’ It’s Big Brother’s greatest moments – 25 years on
+URL: https://www.theguardian.com/tv-and-radio/2025/jul/11/am-i-minging-its-big-brothers-greatest-moments-25-years-on
+

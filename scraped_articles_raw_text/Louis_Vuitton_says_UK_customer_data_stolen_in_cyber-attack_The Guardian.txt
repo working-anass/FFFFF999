@@ -1,0 +1,29 @@
+Site: The Guardian
+Title: Louis Vuitton says UK customer data stolen in cyber-attack
+URL: https://www.theguardian.com/technology/2025/jul/11/louis-vuitton-uk-customer-data-stolen-cyber-attack
+
+Louis Vuitton has said the data of some UK customers has been stolen, as it became the latest retailer targeted by cyber hackers.
+
+The retailer, the leading brand of the French luxury group LVMH, said an unauthorised third party had accessed its UK operation’s systems and obtained information such as names, contact details and purchase history.
+
+The brand, which last week said its Korean operation had suffered a similar cyber-attack, told customers that no financial data such as bank details had been compromised.
+
+“While we have no evidence that your data has been misused to date, phishing attempts, fraud attempts, or unauthorised use of your information may occur,” the email said.
+
+The company said it had notified the relevant authorities, including the Information Commissioner’s Office.
+
+The hack took place on 2 July, according to Bloomberg, which first reported the breach. It is the third breach of LVMH’s systems in the last three months.
+
+As well as the two attacks on Louis Vuitton , LVMH’s second-largest fashion label, Christian Dior Couture, said in May that hackers had accessed some customer data.
+
+On Thursday, four people were arrested as part of an investigation into cyber-attacks on Marks & Spencer, the Co-op and Harrods.
+
+Those arrested were a 17-year-old British boy from the West Midlands, a 19-year-old Latvian man from the West Midlands, a 19-year-old British man from London and a 20-year-old British woman from Staffordshire.
+
+M&S was the first retailer to be attacked, in April , in an incident that forced the closure of its online store for nearly seven weeks. The Co-op was attacked in the same month and forced to shut down parts of its IT system.
+
+Harrods said on 1 May it had been targeted, and restricted internet access across its websites after attempts to gain unauthorised access to its systems.
+
+The arrests came days after the M&S chair, Archie Norman, told MPs that two other large British companies had been affected by unreported cyber-attacks in recent months, as he gave details of the “traumatic” attack on the retailer.
+
+Louis Vuitton has been approached for comment.
