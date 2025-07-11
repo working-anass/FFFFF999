@@ -7608,3 +7608,33 @@ Topic: Australia News
 Title: Trump picks former Sydney councillor and self-described ‘alpha male’ Nick Adams as US ambassador for Malaysia
 URL: https://www.theguardian.com/australia-news/2025/jul/11/former-sydney-councillor-and-self-described-alpha-male-nick-adams-picked-by-trump-for-us-ambassador-for-malaysia-ntwnfb
 
+Site: The Guardian
+Topic: World
+Title: Ukraine war briefing: Trump poised to send weapons under Biden-style drawdown, say sources
+URL: https://www.theguardian.com/world/2025/jul/11/ukraine-war-briefing-trump-poised-to-send-weapons-under-biden-style-drawdown-say-sources
+
+Site: The Guardian
+Topic: World
+Title: North Korean defector to sue Kim Jong-un alleging torture and sexual violence in regime’s detention facilities
+URL: https://www.theguardian.com/world/2025/jul/11/north-korea-defector-to-sue-kim-jong-un
+
+Site: The Guardian
+Topic: World
+Title: UN Gaza investigator Francesca Albanese says US sanctions against her a sign of ‘guilt’
+URL: https://www.theguardian.com/world/2025/jul/11/francesca-albanese-un-gaza-investigator-us-sanctions-guilt
+
+Site: The Guardian
+Topic: Science
+Title: Scientists find fossil of dinosaur ‘killed on day of asteroid strike’
+URL: https://www.theguardian.com/science/2022/apr/07/fossil-dinosaur-killed-asteroid-strike-thescelosaurus-north-dakota-extinction
+
+Site: The Guardian
+Topic: Business
+Title: Rubio in bind as he seeks to reassure Asia, even as region faces punishing Trump tariffs
+URL: https://www.theguardian.com/business/2025/jul/11/marco-rubio-asia-visit-trump-tariffs
+
+Site: The Guardian
+Topic: Sport
+Title: Tour de France 2025: Van der Poel wrestles back yellow as Healy wins stage six
+URL: https://www.theguardian.com/sport/2025/jul/10/tour-de-france-2025-van-der-poel-wrestles-back-yellow-as-healy-wins-stage-six
+
