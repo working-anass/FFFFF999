@@ -8018,3 +8018,8 @@ Topic: Us News
 Title: US state department issues first of 1,350 termination orders after court lifted ban
 URL: https://www.theguardian.com/us-news/2025/jul/11/state-department-layoffs-rif
 
+Site: The Guardian
+Topic: Football
+Title: Liverpool retire No 20 shirt in honour of Diogo Jota after forward’s death
+URL: https://www.theguardian.com/football/2025/jul/11/liverpool-retire-no-20-shirt-in-honour-of-diogo-jota-after-forwards-tragic-death
+
