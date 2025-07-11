@@ -7823,3 +7823,13 @@ Topic: Football
 Title: Lauren Hemp hails first £1m transfer fee as ‘proof women’s footballers are great’
 URL: https://www.theguardian.com/football/2025/jul/11/lauren-hemp-first-1m-transfer-fee-olivia-smith-arsenal-womens-football-england-euro-2025
 
+Site: The Guardian
+Topic: Environment
+Title: ‘It can’t withstand the heat’: fears ‘stable’ Patagonia glacier in irreversible decline
+URL: https://www.theguardian.com/environment/2025/jul/11/glacier-patagonia-perito-moreno-decline
+
+Site: The Guardian
+Topic: World
+Title: Liverpool black history researchers discover slaver ship advert from 1805
+URL: https://www.theguardian.com/world/2025/jul/11/liverpool-black-history-researchers-unearth-slaver-ship-advert-1805
+
