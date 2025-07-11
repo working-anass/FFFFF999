@@ -7973,3 +7973,13 @@ Topic: Environment
 Title: Wildfires force evacuations at two national parks in the US west
 URL: https://www.theguardian.com/environment/2025/jul/11/wildfires-evacuations-grand-canyon
 
+Site: The Guardian
+Topic: Film
+Title: Stellan Skarsgård on Ingmar Bergman: ‘The only person I know who cried when Hitler died’
+URL: https://www.theguardian.com/film/2025/jul/11/stellan-skarsgard-ingmar-bergman-hitler
+
+Site: The Guardian
+Topic: Business
+Title: HSBC becomes first UK bank to quit industry’s net zero alliance
+URL: https://www.theguardian.com/business/2025/jul/11/hsbc-leaves-net-zero-banking-alliance-climate-crisis
+
