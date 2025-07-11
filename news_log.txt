@@ -7713,3 +7713,13 @@ Topic: Australia News
 Title: Carolina Wilga: police rule out foul play in search for missing German backpacker in remote Western Australia
 URL: https://www.theguardian.com/australia-news/2025/jul/11/carolina-wilga-missing-german-backpacker-search-western-australia
 
+Site: The Guardian
+Topic: Environment
+Title: Air pollution controls weaker for larger emitters, research finds
+URL: https://www.theguardian.com/environment/2025/jul/11/air-pollution-controls-weaker-for-larger-emitters-research-finds
+
+Site: The Guardian
+Topic: Global Development
+Title: ‘I feel dizzy but I can’t stop’: global heating is already making kiln workers’ lives unbearable. And it will only get worse
+URL: https://www.theguardian.com/global-development/2024/dec/09/global-heating-indian-kiln-workers-bricks-heat-stress-extreme
+

@@ -1,0 +1,25 @@
+Site: The Guardian
+Title: Air pollution controls weaker for larger emitters, research finds
+URL: https://www.theguardian.com/environment/2025/jul/11/air-pollution-controls-weaker-for-larger-emitters-research-finds
+
+Air pollution controls in some sectors are much weaker than others, researchers have found.
+
+A recent study looked at legal requirements for nitrogen oxides. These come from engine exhausts, flues and chimneys and include health-harming nitrogen dioxide. This is a pollutant that many UK cities struggle to control.
+
+By calculating pollution per unit of energy, the researchers were able to compare the different types of engines, turbines and boilers – from handheld leaf-blowers to cars, ships, aircraft and power stations.
+
+Dr Sarah Moller of the University of York , who led the study , said: “We expected that larger emitters, such as power stations, would have stricter limits than smaller appliances like the gas boiler that you have in your home. But this wasn’t the case. Per unit of energy produced, power stations can emit 10 times more nitrogen oxides than the gas boiler in your home, and a digger working on your road could emit 100 times more.”
+
+Shipping, aviation, construction and agricultural machinery were among those sectors with the loosest legal controls on the air pollution that they emit. This was often owing to lax regulations and not technology. For example, a large diesel engine in a ship can legally emit about five times more nitrogen oxides than the same engine if it is used to power a generator.
+
+A medium sized diesel generator on a construction site is allowed to emit 48 times more nitrogen oxides than a fossil-gas boiler used to heat a home, even though they produce the same amount of energy.
+
+Other areas where limits could be tightened included biomass burning in large power stations, such as Drax, and in medium-sized boilers. These biomass plants, and any that still burn coal, are legally able to produce more nitrogen oxides than those fuelled with fossil gas.
+
+Many engines and boilers made today will be operating for many years to come. The researchers found that the average age of a merchant ship is 22 years and that 38% of UK diesel trains operating in 2018 had been made before any pollution limits existed. Stricter limits now would therefore be a long-lasting investment in cleaner air for the future.
+
+As part of the path towards net zero emissions , road transport and home heating will increasingly be converted to electricity. This will bring about large reductions in air pollution and the ill health that it creates .
+
+But other sectors are planning to convert to lower-carbon fuels instead. These will still include an air pollution penalty. Burning biofuels, hydrogen in engines and boilers , ammonia in shipping and so-called sustainable aviation fuels can all produce nitrogen oxides.
+
+Between 2022 and 2050, global shipping is forecast to double, and aviation is expected to triple. These sectors have the weakest legal controls.
