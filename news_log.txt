@@ -8023,3 +8023,8 @@ Topic: Football
 Title: Liverpool retire No 20 shirt in honour of Diogo Jota after forward’s death
 URL: https://www.theguardian.com/football/2025/jul/11/liverpool-retire-no-20-shirt-in-honour-of-diogo-jota-after-forwards-tragic-death
 
+Site: The Guardian
+Topic: Football
+Title: ‘I was really dizzy’: Enzo Fernández reveals scare in heat of Club World Cup
+URL: https://www.theguardian.com/football/2025/jul/11/i-was-really-dizzy-enzo-fernandez-reveals-scare-in-heat-of-club-world-cup
+
