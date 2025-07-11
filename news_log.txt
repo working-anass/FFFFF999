@@ -8063,3 +8063,13 @@ Topic: Us News
 Title: Arkansas prison guards fired over escape of killer dubbed ‘Devil in the Ozarks’
 URL: https://www.theguardian.com/us-news/2025/jul/11/devil-in-ozarks-escape-arkansas-guards-fired
 
+Site: The Guardian
+Topic: Us News
+Title: Georgia Republican’s Ponzi scheme defrauded people of $140m, say officials
+URL: https://www.theguardian.com/us-news/2025/jul/11/georgia-republican-ponzi-scheme
+
+Site: The Guardian
+Topic: Sport
+Title: No one ever got rich writing off Novak Djokovic, but even he can’t stretch time for ever
+URL: https://www.theguardian.com/sport/2025/jul/11/no-one-ever-got-rich-writing-off-novak-djokovic-but-even-he-cant-stretch-time-for-ever
+
