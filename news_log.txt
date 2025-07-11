@@ -7983,3 +7983,18 @@ Topic: Business
 Title: HSBC becomes first UK bank to quit industry’s net zero alliance
 URL: https://www.theguardian.com/business/2025/jul/11/hsbc-leaves-net-zero-banking-alliance-climate-crisis
 
+Site: The Guardian
+Topic: World
+Title: Netanyahu flies home without a Gaza peace deal but still keeps Trump onside
+URL: https://www.theguardian.com/world/2025/jul/11/benjamin-netanyahu-washington-us-visit-donald-trump-israel-gaza-ceasefire
+
+Site: The Guardian
+Topic: Uk News
+Title: Mixed reaction to Starmer’s migrant deal as charities add to calls for clarity
+URL: https://www.theguardian.com/uk-news/2025/jul/11/mixed-reaction-to-starmers-migrant-deal-as-charities-add-to-calls-for-clarity
+
+Site: The Guardian
+Topic: Lifeandstyle
+Title: Bigger is always better – and nine other sex myths busted
+URL: https://www.theguardian.com/lifeandstyle/2025/jul/11/bigger-is-always-better-10-sex-myths-busted
+
