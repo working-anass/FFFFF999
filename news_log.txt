@@ -8073,3 +8073,8 @@ Topic: Sport
 Title: No one ever got rich writing off Novak Djokovic, but even he can’t stretch time for ever
 URL: https://www.theguardian.com/sport/2025/jul/11/no-one-ever-got-rich-writing-off-novak-djokovic-but-even-he-cant-stretch-time-for-ever
 
+Site: The Guardian
+Topic: Football
+Title: Spain overcome early Italy scare to win and set up tie against hosts Switzerland
+URL: https://www.theguardian.com/football/2025/jul/11/italy-spain-womens-euro-2025-group-b-match-report
+
