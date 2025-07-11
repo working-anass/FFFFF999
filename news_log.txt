@@ -7653,3 +7653,13 @@ Topic: Environment
 Title: It’s 12ft tall, covered in feathers and has been extinct for 600 years – can the giant moa bird really be resurrected?
 URL: https://www.theguardian.com/environment/2025/jul/11/de-extinction-extinct-giant-moa-bird-colossal-bioscience-aoe
 
+Site: The Guardian
+Topic: World
+Title: ‘Momentous occasion’: how Bayeux Museum finally said yes to tapestry loan
+URL: https://www.theguardian.com/world/2025/jul/11/how-bayeux-museum-said-yes-to-tapestry-loan-uk
+
+Site: The Guardian
+Topic: Film
+Title: ‘I’d be proud to be thrown out of America!’ Eric Idle on Trump, life after Python and not talking before lunch
+URL: https://www.theguardian.com/film/2025/jul/11/id-be-proud-to-be-thrown-out-of-america-eric-idle-on-trump-life-after-python-and-not-talking-before-lunch
+
