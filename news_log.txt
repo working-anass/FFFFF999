@@ -7688,3 +7688,8 @@ Topic: Lifeandstyle
 Title: Experience: a postcard delivered 121 years late led me to my long-lost family
 URL: https://www.theguardian.com/lifeandstyle/2025/jul/11/experience-postcard-delivered-121-years-late-long-lost-family
 
+Site: The Guardian
+Topic: Us News
+Title: Denver museum known for dinosaur displays finds fossil under its parking lot
+URL: https://www.theguardian.com/us-news/2025/jul/10/denver-museum-fossil-parking-lot
+
