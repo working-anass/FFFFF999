@@ -7788,3 +7788,18 @@ Topic: Football
 Title: Athletic Bilbao’s Álvarez blames hair loss medicine for provisional doping suspension
 URL: https://www.theguardian.com/football/2025/jul/11/athletic-bilbao-yeray-alvarez-blames-hair-loss-medicine-doping-test-suspension
 
+Site: The Guardian
+Topic: World
+Title: ‘An impossible job’: the daunting task of finding a new archbishop of Canterbury
+URL: https://www.theguardian.com/world/2025/jul/11/impossible-job-daunting-task-finding-new-archbishop-canterbury
+
+Site: The Guardian
+Topic: Us News
+Title: Florida records more than 700,000 people as victims of human trafficking in 2024
+URL: https://www.theguardian.com/us-news/2025/jul/11/florida-human-trafficking-data
+
+Site: The Guardian
+Topic: Football
+Title: Jordan Henderson poised to bolster Brentford midfield after Ajax exit
+URL: https://www.theguardian.com/football/2025/jul/11/jordan-henderson-poised-to-bolster-brentford-midfield-after-ajax-exit
+
