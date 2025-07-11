@@ -7763,3 +7763,8 @@ Topic: Business
 Title: Fall in UK GDP puts focus back on expectations of tax rises in autumn budget
 URL: https://www.theguardian.com/business/2025/jul/11/fall-in-uk-gdp-puts-focus-back-on-expectations-of-tax-rises-in-autumn-budget
 
+Site: The Guardian
+Topic: Environment
+Title: Detection of fire ants in Queensland 800km from closest infestation sparks fury over gaps in eradication funding
+URL: https://www.theguardian.com/environment/2025/jul/11/detection-of-fire-ants-in-queensland-800km-from-closest-infestation-sparks-fury-over-gaps-in-eradication-funding
+
