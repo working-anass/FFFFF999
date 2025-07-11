@@ -7963,3 +7963,13 @@ Topic: Business
 Title: Australian miners fired for 'Harlem Shake'
 URL: https://www.theguardian.com/business/2013/mar/04/harlem-shake-australian-miners
 
+Site: The Guardian
+Topic: Us News
+Title: US border czar says he doesn’t know fate of eight men deported to South Sudan
+URL: https://www.theguardian.com/us-news/2025/jul/11/trump-immigration-tom-homan-south-sudan-deportees
+
+Site: The Guardian
+Topic: Environment
+Title: Wildfires force evacuations at two national parks in the US west
+URL: https://www.theguardian.com/environment/2025/jul/11/wildfires-evacuations-grand-canyon
+
