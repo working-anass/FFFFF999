@@ -7603,3 +7603,8 @@ Topic: Football
 Title: Arsenal line up £52m transfer of 23-year-old Chelsea winger Noni Madueke
 URL: https://www.theguardian.com/football/2025/jul/10/arsenal-line-up-52m-transfer-of-23-year-old-chelsea-winger-noni-madueke
 
+Site: The Guardian
+Topic: Australia News
+Title: Trump picks former Sydney councillor and self-described ‘alpha male’ Nick Adams as US ambassador for Malaysia
+URL: https://www.theguardian.com/australia-news/2025/jul/11/former-sydney-councillor-and-self-described-alpha-male-nick-adams-picked-by-trump-for-us-ambassador-for-malaysia-ntwnfb
+
