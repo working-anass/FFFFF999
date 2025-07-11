@@ -7638,3 +7638,13 @@ Topic: Sport
 Title: Tour de France 2025: Van der Poel wrestles back yellow as Healy wins stage six
 URL: https://www.theguardian.com/sport/2025/jul/10/tour-de-france-2025-van-der-poel-wrestles-back-yellow-as-healy-wins-stage-six
 
+Site: The Guardian
+Topic: Us News
+Title: Federal agents use force during immigration raid at two California farms
+URL: https://www.theguardian.com/us-news/2025/jul/10/federal-agents-raid-farms-california
+
+Site: The Guardian
+Topic: Us News
+Title: US will impose 35% tariffs on Canadian imports, Trump says in letter
+URL: https://www.theguardian.com/us-news/2025/jul/10/us-canada-tariffs-trump
+
