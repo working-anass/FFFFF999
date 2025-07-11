@@ -7923,3 +7923,13 @@ Topic: Us News
 Title: Trump expected to resume weapons deliveries to Ukraine through Nato allies
 URL: https://www.theguardian.com/us-news/2025/jul/11/trump-russia-ukraine-weapons
 
+Site: The Guardian
+Topic: Politics
+Title: The diplomacy of art: Bayeux tapestry loan shows cultural gifts still matter
+URL: https://www.theguardian.com/politics/2025/jul/11/diplomacy-art-bayeux-tapestry-loan-cultural-gifts
+
+Site: The Guardian
+Topic: Business
+Title: Supersize me: recreating Pret’s £13 miso salmon super plate at home
+URL: https://www.theguardian.com/business/2025/jul/11/recreate-pret-miso-salmon-super-plate-at-home
+
