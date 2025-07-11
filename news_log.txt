@@ -7948,3 +7948,18 @@ Topic: Football
 Title: Arsène Wenger loves the Club World Cup, but does anyone agree with him?
 URL: https://www.theguardian.com/football/2025/jul/11/arsene-wenger-club-world-cup-chelsea-psg-football-daily-newsletter
 
+Site: The Guardian
+Topic: World
+Title: Nearly 800 killed at Gaza food hubs and aid convoy routes since end of May, UN says
+URL: https://www.theguardian.com/world/2025/jul/11/killed-gaza-food-hubs-aid-convoy-routes-since-end-may-un
+
+Site: The Guardian
+Topic: Uk News
+Title: Former Met police commissioner Ian Blair dies
+URL: https://www.theguardian.com/uk-news/2025/jul/11/former-met-police-commissioner-ian-blair-dies
+
+Site: The Guardian
+Topic: Business
+Title: Australian miners fired for 'Harlem Shake'
+URL: https://www.theguardian.com/business/2013/mar/04/harlem-shake-australian-miners
+
