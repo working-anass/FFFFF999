@@ -7778,3 +7778,8 @@ Topic: Sport
 Title: Andy Farrell’s five key selection posers for first British & Irish Lions Test
 URL: https://www.theguardian.com/sport/2025/jul/10/andy-farrell-five-key-selection-posers-first-british-irish-lions-test-rugby-union
 
+Site: The Guardian
+Topic: Music
+Title: Bless Me Father by Kevin Rowland review – the Dexys Midnight Runners frontman tells all
+URL: https://www.theguardian.com/music/2025/jul/11/bless-me-father-by-kevin-rowland-review-the-dexys-midnight-runners-frontman-tells-all
+
