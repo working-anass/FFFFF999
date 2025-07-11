@@ -8028,3 +8028,8 @@ Topic: Football
 Title: ‘I was really dizzy’: Enzo Fernández reveals scare in heat of Club World Cup
 URL: https://www.theguardian.com/football/2025/jul/11/i-was-really-dizzy-enzo-fernandez-reveals-scare-in-heat-of-club-world-cup
 
+Site: The Guardian
+Topic: Us News
+Title: Missouri’s governor signs repeal of state’s guaranteed paid sick leave law
+URL: https://www.theguardian.com/us-news/2025/jul/11/missouri-repeal-paid-sick-leave-law
+
