@@ -8253,3 +8253,18 @@ Topic: World
 Title: EU risks breaking international law over Israel gas deal, say campaigners
 URL: https://www.theguardian.com/world/2025/jul/12/eu-risks-breaking-international-law-over-israel-gas-deal-say-campaigners
 
+Site: The Guardian
+Topic: World
+Title: New research centre to explore how AI can help humans ‘speak’ with pets
+URL: https://www.theguardian.com/world/2025/jul/12/new-research-centre-to-explore-how-ai-can-help-humans-speak-with-pets
+
+Site: The Guardian
+Topic: Us News
+Title: As Texas cleans up, ex-staffers say Fema has ‘eroded capacity’ for multiple disasters
+URL: https://www.theguardian.com/us-news/2025/jul/12/fema-natural-disasters-eroded-capacity
+
+Site: The Guardian
+Topic: Football
+Title: Alessia Russo rises above insults to prove she’s worth her England place
+URL: https://www.theguardian.com/football/2025/jul/12/alessia-russo-rises-above-insults-to-prove-shes-worth-her-england-place
+

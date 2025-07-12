@@ -1,0 +1,55 @@
+Site: The Guardian
+Title: New research centre to explore how AI can help humans ‘speak’ with pets
+URL: https://www.theguardian.com/world/2025/jul/12/new-research-centre-to-explore-how-ai-can-help-humans-speak-with-pets
+
+If your cat’s sulking, your dog’s whining or your rabbit’s doing that strange thing with its paws again, you will recognise that familiar pang of guilt shared by most other pet owners.
+
+But for those who wish they knew just what was going on in the minds of their loyal companions, help may soon be at hand – thanks to the establishment of first scientific institution dedicated to empirically investigating the consciousness of animals .
+
+The Jeremy Coller Centre for Animal Sentience, based at the London School of Economics and Political Science (LSE), will begin its work on 30 September, researching non-human animals, including those as evolutionarily distant from us as insects, crabs and cuttlefish.
+
+Harnessing a wide range of interdisciplinary global expertise, the £4m centre’s work will span neuroscience, philosophy, veterinary science, law, evolutionary biology, comparative psychology, behavioural science, computer science, economics and artificial intelligence.
+
+One of its most eye-catching projects will be to explore how AI can help humans “speak” with their pets, the dangers of it going wrong – and what we need to do to prevent that happening.
+
+“We like our pets to display human characteristics and with the advent of AI, the ways in which your pet will be able to speak to you is going to be taken to a whole new level,” said Prof Jonathan Birch, the inaugural director of the centre.
+
+“But AI often generates made-up responses that please the user rather than being anchored in objective reality. This could be a disaster if applied to pets’ welfare,” said Birch, whose input to the Animal Welfare (Sentience) Act led to it being expanded to include cephalopod mollusks and decapod crustaceans .
+
+Birch points to separation anxiety: dog owners often want reassurance that their pet is not suffering when left alone for long periods. Futuristic “translation” apps based on large language models could promise to provide that reassurance, but end up causing harm by telling owners what they want to hear rather than what the animal actually needs.
+
+“We urgently need frameworks governing responsible, ethical AI use in relation to animals,” said Birch. “At the moment, there’s a total lack of regulation in this sphere. The centre wants to develop ethical guidelines that will be recognised globally.”
+
+Image: https://i.guim.co.uk/img/media/c37e009b53ae05a45bab10a0d731772a6b86e477/0_0_3264_2175/master/3264.jpg?width=445&dpr=1&s=none&crop=none
+
+Caption: The research will consider ‘how to close the gap between what people believe about animals and how they actually behave towards them’.Photograph: zpagistock/Getty Images
+
+Birch also points to the lack of regulation around animals and driverless cars: “We have a lot of debate around them not hitting people but we don’t talk about them also avoiding cats and dogs.”
+
+AI and farming was another urgent issue for the centre. “Farming is already embracing automation in a huge way and that’s going to increase at pace,” Birch said. “But it is happening without much scrutiny or discussion, which raises huge ethical questions about what the limits are: should farming involve caring relationships with animals? If so, the current direction is not the way in which we want farming to go.”
+
+The centre will work with non-governmental organisations to develop guidance, research and codes of practice that can be lobbied for around the world.
+
+Jeff Sebo, the director of the Center for Environmental and Animal Protection, at New York University, said issues of animal sentience and welfare, the effects of AI on animals, and public attitudes towards animals were “among the most important, difficult and neglected issues that we face as a society”.
+
+“Humans share the world with millions of species and quintillions of individual animals, and we affect animals all over the world whether we like it or not,” he said.
+
+Prof Kristin Andrews, one of the new centre’s trustees, said she believed it could answer what she regards as the biggest question in science: what is human consciousness – and how can it be switched back “on” in cases of stroke and other medical emergencies?
+
+“We still don’t understand what makes humans conscious, or why anyone starts or stops being conscious,” she said. “But we do know that the way to get answers is to study simple systems first: science has made great strides in genomics and in medicine by studying simple organisms.”
+
+Image: https://i.guim.co.uk/img/media/f2a2f73565ff4580106255b8de56ee23e74941f3/695_366_3784_2898/master/3784.jpg?width=445&dpr=1&s=none&crop=none
+
+Caption: ‘Only when we better understand how other animals feel and communicate will we be able to acknowledge our own shortcomings in how we treat them,’ says Birch.Photograph: Robert Reader/Getty Images
+
+Dr Kristof Dhont, another trustee, said he was fascinated by human attitudes towards animal sentience.
+
+“One of the most pressing behavioural challenges of our time is how to close the gap between what people believe about animals and how they actually behave towards them,” he said.
+
+“Most people care deeply about animals but there are all these systems, habits, norms and economic profits that get in the way of translating that into the way we treat animals.
+
+“I want to use behavioural science to understand, for example, why there’s resistance to eating cultivated meat even though we all agree that it would save creatures who feel pain from being killed.”
+
+Jeremy Coller, whose foundation made the multiyear commitment to the centre, said his aim was to change attitudes in our “speciesist species”.
+
+“Only when we have a better understanding of how other animals feel and communicate will we be able to acknowledge our own shortcomings in how we treat them,” he said. “Just as the Rosetta Stone unlocked the secrets of hieroglyphics, I am convinced the power of AI can help us unlock our understanding of how other animals experience their interactions with humans.”
