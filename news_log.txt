@@ -8168,3 +8168,8 @@ Topic: Lifeandstyle
 Title: Tim Dowling: the tennis has reached boiling point – and so have we
 URL: https://www.theguardian.com/lifeandstyle/2025/jul/12/tim-dowling-the-tennis-has-reached-boiling-point-and-so-have-we
 
+Site: The Guardian
+Topic: Business
+Title: Car finance: Drivers using claims firms could face 36% add-on charge on compensation payouts
+URL: https://www.theguardian.com/business/2025/jul/12/car-finance-fees-claiming-compensation-charges-fca-claims-firms
+
