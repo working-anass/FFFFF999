@@ -8153,3 +8153,13 @@ Topic: Food
 Title: From tiger-nut milk to strawberry pasta: what Europeans eat to beat the heat
 URL: https://www.theguardian.com/food/2025/jul/12/from-tiger-nut-milk-to-strawberry-pasta-what-europeans-eat-to-beat-the-heat
 
+Site: The Guardian
+Topic: World
+Title: ‘It’s blitz, blitz, blitz’: Kyiv’s shelters fill up as Russia intensifies aerial attacks
+URL: https://www.theguardian.com/world/2025/jul/12/people-kyiv-ukraine-shelter-russia-aerial-attacks-drones
+
+Site: The Guardian
+Topic: Tv And Radio
+Title: ‘I felt pure, unconditional love’: the people who marry their AI chatbots
+URL: https://www.theguardian.com/tv-and-radio/2025/jul/12/i-felt-pure-unconditional-love-the-people-who-marry-their-ai-chatbots
+
