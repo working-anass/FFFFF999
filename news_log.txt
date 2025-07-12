@@ -8233,3 +8233,13 @@ Topic: Business
 Title: Thames Water spent £136m on securing emergency funding, leaked document suggests
 URL: https://www.theguardian.com/business/2025/jul/12/thames-water-spent-136m-on-securing-emergency-funding-leaked-document-suggests
 
+Site: The Guardian
+Topic: World
+Title: Depleted Hamas focuses on desperate new aim: capturing an Israeli soldier
+URL: https://www.theguardian.com/world/2025/jul/12/depleted-hamas-focuses-on-desperate-new-aim-capturing-an-israeli-soldier
+
+Site: The Guardian
+Topic: Business
+Title: ‘The Co-op won’t defeat me’: Brighton shop owners fight against eviction
+URL: https://www.theguardian.com/business/2025/jul/12/co-op-brighton-shop-owners-fight-against-eviction
+
