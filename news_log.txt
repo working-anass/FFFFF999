@@ -8343,3 +8343,8 @@ Topic: Football
 Title: Louis van Gaal ‘no longer bothered by cancer’ and could be tempted to coach again
 URL: https://www.theguardian.com/football/2025/jul/12/louis-van-gaal-cancer-coach-again-national-team-manchester-united-netherlands
 
+Site: The Guardian
+Topic: Culture
+Title: ‘History’s most devastating document of war’: the simple yet graphic details of the Bayeux tapestry
+URL: https://www.theguardian.com/culture/2025/jul/12/historys-most-devastating-document-of-war-the-simple-yet-graphic-details-of-the-bayeux-tapestry
+
