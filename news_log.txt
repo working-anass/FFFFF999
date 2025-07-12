@@ -8288,3 +8288,13 @@ Topic: Science
 Title: ‘Money pervades everything’: the psychotherapist delving into our deep anxiety about finances
 URL: https://www.theguardian.com/science/article/2024/may/12/money-pervades-everything-the-psychotherapist-delving-into-our-deep-anxiety-about-finances
 
+Site: The Guardian
+Topic: World
+Title: Israeli settlers kill American-Palestinian visiting relatives in West Bank, says family
+URL: https://www.theguardian.com/world/2025/jul/12/israeli-settlers-kill-american-palestinian-visiting-relatives-in-west-bank-says-family
+
+Site: The Guardian
+Topic: Us News
+Title: Donald Trump announces 30% tariffs on goods from the EU and Mexico
+URL: https://www.theguardian.com/us-news/2025/jul/12/trump-tariffs-eu-mexico
+
