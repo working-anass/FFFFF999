@@ -8208,3 +8208,8 @@ Topic: Football
 Title: Ambitious Chelsea will not park bus despite challenge of full-throttle PSG
 URL: https://www.theguardian.com/football/2025/jul/12/ambitious-chelsea-will-not-park-bus-despite-challenge-of-full-throttle-psg
 
+Site: The Guardian
+Topic: Film
+Title: How being crushed by a 14,000lb snowplough made Jeremy Renner a nicer person: ‘I’ve never been more vulnerable, open and loving’
+URL: https://www.theguardian.com/film/2025/jul/12/jeremy-renner-snowplough-avengers-hawkeye
+
