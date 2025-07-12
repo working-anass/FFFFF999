@@ -8388,3 +8388,8 @@ Topic: Us News
 Title: More than $113,000 of rare Pokémon cards stolen in Massachusetts break-in
 URL: https://www.theguardian.com/us-news/2025/jul/12/rare-pokemon-cards-stolen-massachusetts
 
+Site: The Guardian
+Topic: Society
+Title: Crunching the data: are resident doctors in England badly paid?
+URL: https://www.theguardian.com/society/2025/jul/12/crunching-the-data-are-resident-doctors-in-england-badly-paid
+

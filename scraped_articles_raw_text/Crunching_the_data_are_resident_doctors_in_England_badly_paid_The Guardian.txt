@@ -1,0 +1,37 @@
+Site: The Guardian
+Title: Crunching the data: are resident doctors in England badly paid?
+URL: https://www.theguardian.com/society/2025/jul/12/crunching-the-data-are-resident-doctors-in-england-badly-paid
+
+Resident doctors in England have voted to strike for five days from 25 July, reigniting one of the NHS’s most bitter industrial disputes.
+
+At the heart of the row is pay: the British Medical Association (BMA) says resident (formerly known as junior) doctors have seen their real earnings fall by more than a quarter since 2008. The government says the union’s demands are unaffordable, and they’ve already received generous rises in recent years.
+
+So are strikes an “unnecessary and unreasonable” move, in the words of the health secretary, Wes Streeting? Or a necessary step on the path to restore doctor’s pay?
+
+Resident doctor pay is still below 2010 levels
+
+After the global financial crisis of 2007-08, pay stagnated across the board in Britain. But resident doctors have had it worse than most. The average private sector worker now earns 7.5% more than they did in August 2010, when taking into account inflation (including housing costs and council tax rises). However, resident doctors’ pay was still down 10.2% as of March this year.
+
+An average pay rise of 5.4% was awarded for this year, which will start appearing in wage slips next month. But even with that uplift, pay will still be below 2010 levels.
+
+Resident doctors are fully qualified in medicine but still undergoing postgraduate training. Their pathway starts with foundation training, before moving on to core training in a broad area, and then into training in a specific specialty of medicine, for example surgery.
+
+They aren’t the only NHS workers who have seen their pay cut in real terms. Recent pay rises for residents means that consultants and nurses have seen proportionally larger cuts than some training levels – though different training levels have seen different cuts in their real-terms pay over the years.
+
+Two measures of inflation, two realities
+
+The BMA has said that real-terms pay for resident doctors has fallen by nearly 21% in the past 17 years – but their calculations use a measure of inflation called RPI. RPI is considered an outdated measure of inflation, and statisticians avoid using it. The government prefers a newer measure called CPI (the charts above use a similar measure – CPIH – which takes into account rising prices, as well as housing and council tax costs).
+
+RPI is generally higher than CPI – giving the unions a larger pay cut figure than government estimates. However, the government can’t take the moral high ground here – it still uses RPI for several official calculations, including when calculating interest on the student loans that most resident doctors will be paying back each month.
+
+The chart below shows how using different measures of inflation, as well as different dates of comparison, can benefit either side in negotiations.
+
+How does doctors’ pay compare internationally?
+
+It’s impossible to compare the salary of resident doctors to other countries because different healthcare systems involve different training programmes. Pensions and other work benefits also differ between countries. There is some limited data comparing the pay of medical specialists – which includes consultants – but some countries such as the US and Australia are missing data for salaried professionals.
+
+The Organisation for Economic Co-operation and Development had a go at comparing specialist doctor pay across countries – with the year 2020 being the latest estimates that included England. The figure shows that England is near the top of the pack (after taking into account how much things cost in different countries), but several countries including Germany and Ireland paid more.
+
+The figures line up with separate OECD data showing that the NHS has a relatively high rate of doctors moving abroad, with at least one in 10 UK-trained doctors practising abroad in the last five years. The BMA chair, Tom Dolphin, has said pay rises would help keep this figure down.
+
+Which countries are these UK-trained doctors going to? Figures from the General Medical Council found Australia was the most common destination for doctors leaving to practise outside the UK in 2023, followed by New Zealand, Ireland and Canada. However, the NHS is good at recruiting from overseas to replace leavers – 42% of doctors in the English NHS had a primary medical qualification from another country in 2023.
