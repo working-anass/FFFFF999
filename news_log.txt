@@ -8118,3 +8118,13 @@ Topic: Football
 Title: Luis Enrique shrugs off praise for PSG’s season with Club World Cup final to come
 URL: https://www.theguardian.com/football/2025/jul/12/luis-enrique-shrugs-off-praise-for-psgs-season-with-club-world-cup-final-to-come
 
+Site: The Guardian
+Topic: Environment
+Title: Risotto rice under threat from flamingoes in north-eastern Italy
+URL: https://www.theguardian.com/environment/2025/jul/12/risotto-rice-paddies-flamingoes-ferrara-italy
+
+Site: The Guardian
+Topic: Environment
+Title: England’s reservoirs at lowest level for a decade as experts call for hosepipe bans
+URL: https://www.theguardian.com/environment/2025/jul/12/england-reservoirs-lowest-level-for-decade-hosepipe-bans
+
