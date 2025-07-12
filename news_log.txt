@@ -8348,3 +8348,8 @@ Topic: Culture
 Title: ‘History’s most devastating document of war’: the simple yet graphic details of the Bayeux tapestry
 URL: https://www.theguardian.com/culture/2025/jul/12/historys-most-devastating-document-of-war-the-simple-yet-graphic-details-of-the-bayeux-tapestry
 
+Site: The Guardian
+Topic: Us News
+Title: Alabama paid a law firm millions to defend its prisons. It used AI and turned in fake citations
+URL: https://www.theguardian.com/us-news/2025/may/24/alabama-prison-lawyers-chatgpt-butler-snow
+
