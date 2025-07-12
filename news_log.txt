@@ -8148,3 +8148,8 @@ Topic: Lifeandstyle
 Title: Blind date: ‘I took a bathroom break and when I returned she had already asked for the bill’
 URL: https://www.theguardian.com/lifeandstyle/2025/jul/12/blind-date-rebecca-michael
 
+Site: The Guardian
+Topic: Food
+Title: From tiger-nut milk to strawberry pasta: what Europeans eat to beat the heat
+URL: https://www.theguardian.com/food/2025/jul/12/from-tiger-nut-milk-to-strawberry-pasta-what-europeans-eat-to-beat-the-heat
+
