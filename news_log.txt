@@ -8373,3 +8373,8 @@ Topic: Football
 Title: Viktor Gyökeres fails to report for Sporting training as he targets Arsenal move
 URL: https://www.theguardian.com/football/2025/jul/12/viktor-gyokeres-fails-report-sporting-training-arsenal
 
+Site: The Guardian
+Topic: Science
+Title: ‘You dream about such things’: Brit who discovered missing pharaoh’s tomb may have unearthed another
+URL: https://www.theguardian.com/science/2025/feb/22/you-dream-about-such-things-brit-who-discovered-missing-pharaohs-tomb-may-have-unearthed-another
+
