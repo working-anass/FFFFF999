@@ -8323,3 +8323,23 @@ Topic: Us News
 Title: Elon Musk claims his America party will change US politics. Experts disagree
 URL: https://www.theguardian.com/us-news/2025/jul/12/america-party-elon-musk
 
+Site: The Guardian
+Topic: Us News
+Title: Trump authorizes Ice agents to protect themselves using ‘whatever means’ necessary
+URL: https://www.theguardian.com/us-news/2025/jul/12/trump-authorization-immigration-enforcement
+
+Site: The Guardian
+Topic: Uk News
+Title: Public support for resident doctors’ strikes collapses ahead of fresh industrial action
+URL: https://www.theguardian.com/uk-news/2025/jul/12/public-support-for-resident-doctors-strikes-collapses-ahead-of-fresh-industrial-action
+
+Site: The Guardian
+Topic: World
+Title: Arrests for second week running at London event that references Palestine Action
+URL: https://www.theguardian.com/world/2025/jul/12/arrests-for-second-week-running-at-london-event-that-references-palestine-action
+
+Site: The Guardian
+Topic: Football
+Title: Louis van Gaal ‘no longer bothered by cancer’ and could be tempted to coach again
+URL: https://www.theguardian.com/football/2025/jul/12/louis-van-gaal-cancer-coach-again-national-team-manchester-united-netherlands
+
