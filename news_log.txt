@@ -8383,3 +8383,8 @@ Topic: Sport
 Title: Iga Swiatek races to first Wimbledon title with 6-0, 6-0 thrashing of Anisimova
 URL: https://www.theguardian.com/sport/2025/jul/12/iga-swiatek-races-to-first-wimbledon-title-with-6-0-6-0-thrashing-of-anisimova
 
+Site: The Guardian
+Topic: Us News
+Title: More than $113,000 of rare Pokémon cards stolen in Massachusetts break-in
+URL: https://www.theguardian.com/us-news/2025/jul/12/rare-pokemon-cards-stolen-massachusetts
+
