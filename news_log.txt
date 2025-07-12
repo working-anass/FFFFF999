@@ -8103,3 +8103,18 @@ Topic: Sport
 Title: Jasprit Bumrah marvels for India with next level showing to dismantle top order
 URL: https://www.theguardian.com/sport/2025/jul/11/jasprit-bumrah-india-england-test-cricket-lords
 
+Site: The Guardian
+Topic: World
+Title: Ukraine war briefing: US resumes military supplies to Ukraine, Zelenskyy announces
+URL: https://www.theguardian.com/world/2025/jul/12/ukraine-war-briefing-us-resumes-military-supplies-to-ukraine-zelenskyy-announces
+
+Site: The Guardian
+Topic: Us News
+Title: Trump news at a glance: Trump tours Texas disaster zone as administration dodges questions over future of Fema
+URL: https://www.theguardian.com/us-news/2025/jul/12/president-trump-administration-news-today
+
+Site: The Guardian
+Topic: Football
+Title: Luis Enrique shrugs off praise for PSG’s season with Club World Cup final to come
+URL: https://www.theguardian.com/football/2025/jul/12/luis-enrique-shrugs-off-praise-for-psgs-season-with-club-world-cup-final-to-come
+
