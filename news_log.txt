@@ -8298,3 +8298,8 @@ Topic: Us News
 Title: Donald Trump announces 30% tariffs on goods from the EU and Mexico
 URL: https://www.theguardian.com/us-news/2025/jul/12/trump-tariffs-eu-mexico
 
+Site: The Guardian
+Topic: Uk News
+Title: Birmingham council faces legal action over decision to close adult day centres
+URL: https://www.theguardian.com/uk-news/2025/jul/12/birmingham-council-faces-legal-action-adult-day-centres
+
