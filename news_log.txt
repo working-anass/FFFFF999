@@ -8368,3 +8368,8 @@ Topic: World
 Title: EU will be reeling over how to tackle trade talks after Trump’s 30% tariff threat
 URL: https://www.theguardian.com/world/2025/jul/12/eu-will-be-reeling-over-how-to-tackle-trade-talks-after-trumps-30-tariff-threat
 
+Site: The Guardian
+Topic: Football
+Title: Viktor Gyökeres fails to report for Sporting training as he targets Arsenal move
+URL: https://www.theguardian.com/football/2025/jul/12/viktor-gyokeres-fails-report-sporting-training-arsenal
+
