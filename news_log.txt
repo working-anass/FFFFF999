@@ -8313,3 +8313,13 @@ Topic: Us News
 Title: 2024 book review: Trump, Biden, Harris and a turbulent election full of what-ifs
 URL: https://www.theguardian.com/us-news/2025/jul/12/2024-book-review-trump-biden-harris-election
 
+Site: The Guardian
+Topic: News
+Title: Death of man in Indiana jail highlights cruelty of solitary confinement: ‘A national disgrace’
+URL: https://www.theguardian.com/news/2025/jul/12/solitary-confinement-jail-reform
+
+Site: The Guardian
+Topic: Us News
+Title: Elon Musk claims his America party will change US politics. Experts disagree
+URL: https://www.theguardian.com/us-news/2025/jul/12/america-party-elon-musk
+
