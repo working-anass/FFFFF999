@@ -8088,3 +8088,18 @@ Topic: Football
 Title: Cayman ends Portugal hopes of Euro 2025 knockout place with victory for Belgium
 URL: https://www.theguardian.com/football/2025/jul/11/portugal-belgium-womens-euro-2025-group-b-match-report
 
+Site: The Guardian
+Topic: Environment
+Title: The mane attraction: How many lions are in Australia and how well are they regulated?
+URL: https://www.theguardian.com/environment/2025/jul/12/the-mane-attraction-how-many-lions-are-in-australia-and-how-well-are-they-regulated
+
+Site: The Guardian
+Topic: Global Development
+Title: ‘I didn’t give much thought to the universe’: India’s first astronaut in 40 years inspires next generation of stargazers
+URL: https://www.theguardian.com/global-development/2025/jul/12/india-first-astronaut-in-40-years-international-space-station
+
+Site: The Guardian
+Topic: Sport
+Title: Jasprit Bumrah marvels for India with next level showing to dismantle top order
+URL: https://www.theguardian.com/sport/2025/jul/11/jasprit-bumrah-india-england-test-cricket-lords
+
