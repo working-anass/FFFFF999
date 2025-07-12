@@ -8223,3 +8223,8 @@ Topic: Football
 Title: Wales’s pioneers are making dizzying progress but Euro 2025 must be a launchpad
 URL: https://www.theguardian.com/football/2025/jul/12/waless-pioneers-are-making-dizzying-progress-but-euro-2025-must-be-a-launchpad
 
+Site: The Guardian
+Topic: Football
+Title: Beever-Jones relishing chance to put herself in the picture with Lionesses
+URL: https://www.theguardian.com/football/2025/jul/12/beever-jones-relishing-chance-to-put-herself-in-the-picture-with-lionesses
+
