@@ -8308,3 +8308,8 @@ Topic: Lifeandstyle
 Title: Naga Munchetty: ‘When did I last cry? Watching Crystal Palace win the FA Cup final’
 URL: https://www.theguardian.com/lifeandstyle/2025/jul/12/naga-munchetty-bbc-breakfast-presenter-interview
 
+Site: The Guardian
+Topic: Us News
+Title: 2024 book review: Trump, Biden, Harris and a turbulent election full of what-ifs
+URL: https://www.theguardian.com/us-news/2025/jul/12/2024-book-review-trump-biden-harris-election
+
