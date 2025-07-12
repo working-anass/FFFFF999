@@ -8128,3 +8128,13 @@ Topic: Environment
 Title: England’s reservoirs at lowest level for a decade as experts call for hosepipe bans
 URL: https://www.theguardian.com/environment/2025/jul/12/england-reservoirs-lowest-level-for-decade-hosepipe-bans
 
+Site: The Guardian
+Topic: Us News
+Title: Trump administration ordered to halt indiscriminate immigration stops in California over racial profiling concerns
+URL: https://www.theguardian.com/us-news/2025/jul/12/trump-administration-ordered-to-halt-indiscriminate-immigration-stops-in-california-over-racial-profiling-concerns
+
+Site: The Guardian
+Topic: Australia News
+Title: ‘Sheer luck’: how German backpacker Carolina Wilga was found after 11 nights lost in dense Australian outback
+URL: https://www.theguardian.com/australia-news/2025/jul/12/carolina-wilga-missing-german-backpacker-found-after-11-nights-dense-australian-outback
+
