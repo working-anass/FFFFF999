@@ -8353,3 +8353,8 @@ Topic: Us News
 Title: Alabama paid a law firm millions to defend its prisons. It used AI and turned in fake citations
 URL: https://www.theguardian.com/us-news/2025/may/24/alabama-prison-lawyers-chatgpt-butler-snow
 
+Site: The Guardian
+Topic: Football
+Title: Parish plots Crystal Palace response after demotion with Uefa braced for fight
+URL: https://www.theguardian.com/football/2025/jul/12/steve-parish-crystal-palace-uefa-john-textor-football-politics
+
