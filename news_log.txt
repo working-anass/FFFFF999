@@ -8363,3 +8363,8 @@ Topic: Business
 Title: World must be more wary than ever of China’s growing economic power
 URL: https://www.theguardian.com/business/2025/jul/12/world-more-wary-china-growing-economic-powe
 
+Site: The Guardian
+Topic: World
+Title: EU will be reeling over how to tackle trade talks after Trump’s 30% tariff threat
+URL: https://www.theguardian.com/world/2025/jul/12/eu-will-be-reeling-over-how-to-tackle-trade-talks-after-trumps-30-tariff-threat
+
