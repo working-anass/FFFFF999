@@ -8378,3 +8378,8 @@ Topic: Science
 Title: ‘You dream about such things’: Brit who discovered missing pharaoh’s tomb may have unearthed another
 URL: https://www.theguardian.com/science/2025/feb/22/you-dream-about-such-things-brit-who-discovered-missing-pharaohs-tomb-may-have-unearthed-another
 
+Site: The Guardian
+Topic: Sport
+Title: Iga Swiatek races to first Wimbledon title with 6-0, 6-0 thrashing of Anisimova
+URL: https://www.theguardian.com/sport/2025/jul/12/iga-swiatek-races-to-first-wimbledon-title-with-6-0-6-0-thrashing-of-anisimova
+
