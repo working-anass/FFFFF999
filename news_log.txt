@@ -8143,3 +8143,8 @@ Topic: Liveblog
 Title: UN says Israeli forces recently killed hundreds seeking aid in Gaza
 URL: https://www.aljazeera.com/news/liveblog/2025/7/12/live-un-says-israeli-forces-killed-hundreds-seeking-aid-in-gaza
 
+Site: The Guardian
+Topic: Lifeandstyle
+Title: Blind date: ‘I took a bathroom break and when I returned she had already asked for the bill’
+URL: https://www.theguardian.com/lifeandstyle/2025/jul/12/blind-date-rebecca-michael
+
