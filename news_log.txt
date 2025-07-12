@@ -8083,3 +8083,8 @@ Topic: Us News
 Title: Farm worker dies a day after chaotic immigration raid at California farm
 URL: https://www.theguardian.com/us-news/2025/jul/11/california-farm-immigration-raid
 
+Site: The Guardian
+Topic: Football
+Title: Cayman ends Portugal hopes of Euro 2025 knockout place with victory for Belgium
+URL: https://www.theguardian.com/football/2025/jul/11/portugal-belgium-womens-euro-2025-group-b-match-report
+
