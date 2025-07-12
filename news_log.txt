@@ -8218,3 +8218,8 @@ Topic: Culture
 Title: My cultural awakening: I joined Danny Wallace’s accidental positivity cult – and found the love of my life
 URL: https://www.theguardian.com/culture/2025/jul/12/my-cultural-awakening-danny-wallace-join-me-book
 
+Site: The Guardian
+Topic: Football
+Title: Wales’s pioneers are making dizzying progress but Euro 2025 must be a launchpad
+URL: https://www.theguardian.com/football/2025/jul/12/waless-pioneers-are-making-dizzying-progress-but-euro-2025-must-be-a-launchpad
+
