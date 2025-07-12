@@ -8173,3 +8173,23 @@ Topic: Business
 Title: Car finance: Drivers using claims firms could face 36% add-on charge on compensation payouts
 URL: https://www.theguardian.com/business/2025/jul/12/car-finance-fees-claiming-compensation-charges-fca-claims-firms
 
+Site: The Guardian
+Topic: World
+Title: The Killing Fields execution site and two former Khmer Rouge prisons added to Unesco heritage list
+URL: https://www.theguardian.com/world/2025/jul/12/the-killing-fields-execution-site-and-two-former-khmer-rouge-prisons-added-to-unesco-heritage-list
+
+Site: The Guardian
+Topic: Travel
+Title: Provence laid bare: ‘I shed my clothes and found freedom on a beautiful French island’
+URL: https://www.theguardian.com/travel/2025/jul/12/provence-france-island-holiday-naturism-ile-du-levant
+
+Site: The Guardian
+Topic: Football
+Title: Liverpool’s mourning players prepare to honour Diogo Jota back on the pitch
+URL: https://www.theguardian.com/football/2025/jul/12/liverpools-mourning-players-prepare-to-honour-diogo-jota-back-on-the-pitch
+
+Site: The Guardian
+Topic: Business
+Title: Rachel Reeves expected to review pensions auto-enrolment
+URL: https://www.theguardian.com/business/2025/jul/12/rachel-reeves-review-pensions-auto-enrolment
+
