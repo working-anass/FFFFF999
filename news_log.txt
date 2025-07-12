@@ -8138,3 +8138,8 @@ Topic: Australia News
 Title: ‘Sheer luck’: how German backpacker Carolina Wilga was found after 11 nights lost in dense Australian outback
 URL: https://www.theguardian.com/australia-news/2025/jul/12/carolina-wilga-missing-german-backpacker-found-after-11-nights-dense-australian-outback
 
+Site: Al Jazeera
+Topic: Liveblog
+Title: UN says Israeli forces recently killed hundreds seeking aid in Gaza
+URL: https://www.aljazeera.com/news/liveblog/2025/7/12/live-un-says-israeli-forces-killed-hundreds-seeking-aid-in-gaza
+
