@@ -8228,3 +8228,8 @@ Topic: Football
 Title: Beever-Jones relishing chance to put herself in the picture with Lionesses
 URL: https://www.theguardian.com/football/2025/jul/12/beever-jones-relishing-chance-to-put-herself-in-the-picture-with-lionesses
 
+Site: The Guardian
+Topic: Business
+Title: Thames Water spent £136m on securing emergency funding, leaked document suggests
+URL: https://www.theguardian.com/business/2025/jul/12/thames-water-spent-136m-on-securing-emergency-funding-leaked-document-suggests
+
