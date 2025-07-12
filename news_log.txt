@@ -8243,3 +8243,8 @@ Topic: Business
 Title: ‘The Co-op won’t defeat me’: Brighton shop owners fight against eviction
 URL: https://www.theguardian.com/business/2025/jul/12/co-op-brighton-shop-owners-fight-against-eviction
 
+Site: The Guardian
+Topic: Business
+Title: Microdosing: how ‘off-label’ use of weight loss jabs is spreading from US to UK
+URL: https://www.theguardian.com/business/2025/jul/12/microdosing-weight-loss-jabs-off-label-glp-1-mountjaro
+
