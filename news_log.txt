@@ -8358,3 +8358,8 @@ Topic: Football
 Title: Parish plots Crystal Palace response after demotion with Uefa braced for fight
 URL: https://www.theguardian.com/football/2025/jul/12/steve-parish-crystal-palace-uefa-john-textor-football-politics
 
+Site: The Guardian
+Topic: Business
+Title: World must be more wary than ever of China’s growing economic power
+URL: https://www.theguardian.com/business/2025/jul/12/world-more-wary-china-growing-economic-powe
+
