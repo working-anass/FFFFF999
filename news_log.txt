@@ -8303,3 +8303,8 @@ Topic: Uk News
 Title: Birmingham council faces legal action over decision to close adult day centres
 URL: https://www.theguardian.com/uk-news/2025/jul/12/birmingham-council-faces-legal-action-adult-day-centres
 
+Site: The Guardian
+Topic: Lifeandstyle
+Title: Naga Munchetty: ‘When did I last cry? Watching Crystal Palace win the FA Cup final’
+URL: https://www.theguardian.com/lifeandstyle/2025/jul/12/naga-munchetty-bbc-breakfast-presenter-interview
+
