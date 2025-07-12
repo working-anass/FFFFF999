@@ -8163,3 +8163,8 @@ Topic: Tv And Radio
 Title: ‘I felt pure, unconditional love’: the people who marry their AI chatbots
 URL: https://www.theguardian.com/tv-and-radio/2025/jul/12/i-felt-pure-unconditional-love-the-people-who-marry-their-ai-chatbots
 
+Site: The Guardian
+Topic: Lifeandstyle
+Title: Tim Dowling: the tennis has reached boiling point – and so have we
+URL: https://www.theguardian.com/lifeandstyle/2025/jul/12/tim-dowling-the-tennis-has-reached-boiling-point-and-so-have-we
+
