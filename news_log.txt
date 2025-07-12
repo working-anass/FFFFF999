@@ -8268,3 +8268,23 @@ Topic: Football
 Title: Alessia Russo rises above insults to prove she’s worth her England place
 URL: https://www.theguardian.com/football/2025/jul/12/alessia-russo-rises-above-insults-to-prove-shes-worth-her-england-place
 
+Site: The Guardian
+Topic: World
+Title: ‘Why did he cut off?’: What the report on Air India Flight 171 found
+URL: https://www.theguardian.com/world/2025/jul/12/why-did-he-cut-off-what-has-the-report-on-air-india-flight-171-found
+
+Site: The Guardian
+Topic: Us News
+Title: Obama’s former press secretary recalls ‘emotional’ mood in White House after Trump win
+URL: https://www.theguardian.com/us-news/2025/jul/12/josh-earnest-obama-trump-win-nahj
+
+Site: The Guardian
+Topic: Us News
+Title: ‘Tremendous uncertainty’ for cancer research as US officials target mRNA vaccines
+URL: https://www.theguardian.com/us-news/2025/jul/12/mrna-vaccine-cancer-research-trump-administration
+
+Site: The Guardian
+Topic: Science
+Title: ‘Money pervades everything’: the psychotherapist delving into our deep anxiety about finances
+URL: https://www.theguardian.com/science/article/2024/may/12/money-pervades-everything-the-psychotherapist-delving-into-our-deep-anxiety-about-finances
+
