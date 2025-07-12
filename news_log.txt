@@ -8193,3 +8193,18 @@ Topic: Business
 Title: Rachel Reeves expected to review pensions auto-enrolment
 URL: https://www.theguardian.com/business/2025/jul/12/rachel-reeves-review-pensions-auto-enrolment
 
+Site: The Guardian
+Topic: World
+Title: Sweden set to rent cells in Estonian jails as it runs out of room for its prisoners
+URL: https://www.theguardian.com/world/2025/jul/12/sweden-set-to-rent-cells-in-estonian-jails-as-it-runs-out-of-room-for-its-prisoners
+
+Site: The Guardian
+Topic: Football
+Title: Taking flight: how Premier League clubs are racking up 175,000 summer air miles
+URL: https://www.theguardian.com/football/2025/jul/12/taking-flight-how-premier-league-clubs-are-racking-up-175000-summer-air-miles
+
+Site: The Guardian
+Topic: Football
+Title: Ambitious Chelsea will not park bus despite challenge of full-throttle PSG
+URL: https://www.theguardian.com/football/2025/jul/12/ambitious-chelsea-will-not-park-bus-despite-challenge-of-full-throttle-psg
+
