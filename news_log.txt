@@ -8213,3 +8213,8 @@ Topic: Film
 Title: How being crushed by a 14,000lb snowplough made Jeremy Renner a nicer person: ‘I’ve never been more vulnerable, open and loving’
 URL: https://www.theguardian.com/film/2025/jul/12/jeremy-renner-snowplough-avengers-hawkeye
 
+Site: The Guardian
+Topic: Culture
+Title: My cultural awakening: I joined Danny Wallace’s accidental positivity cult – and found the love of my life
+URL: https://www.theguardian.com/culture/2025/jul/12/my-cultural-awakening-danny-wallace-join-me-book
+
